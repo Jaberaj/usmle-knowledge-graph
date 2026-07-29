@@ -3,104 +3,6 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
-      "presentation_id": "PRS-001",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0001"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-002",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0002"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-003",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0003"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-004",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0004"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-005",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0005"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-006",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0006"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-007",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0007"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-008",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0008"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-009",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0009"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-010",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0010"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-011",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0011"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-012",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0012"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-013",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0013"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-014",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-C-0014"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
       "presentation_id": "PRS-015",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-C-0015"
@@ -902,136 +804,717 @@
       "presentation_id": "PRS-009",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-ST-0129"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-001"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0001"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0003"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-035",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0004"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-035",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0005"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0006"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0007"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0008"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0009"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0010"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0011"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-012"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0012"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0013"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0002"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-015"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-016"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-017"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-018"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-019"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-046",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-020"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-021"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-046",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-022"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-023"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-024"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-035",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-025"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-044",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-026"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-027"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-028"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-046",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-029"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-047",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-030"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-043",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-031"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-032"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-033"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-034"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-049",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-035"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-036"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-037"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-038"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-039"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-040"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-041"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-042"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-044",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-043"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-043",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-044"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-045"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-046"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-047"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-044",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-048"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-049",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-049"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-044",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-050"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-051"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-052"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-053"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-054"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-055"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-056"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-057"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-058"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-059"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-035",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-060"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-061"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-041",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-062"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-041",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-063"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-041",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-064"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-041",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-065"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-066"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-067"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-068"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-069"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-C-0014"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-004",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-071"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-049",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-072"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-049",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-073"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-074"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-075"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-076"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-077"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-078"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-008",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-079"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-080"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-081"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-082"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-083"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-084"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-085"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-045",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-086"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-042",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-087"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-042",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-088"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-042",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-089"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-042",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-090"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-042",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-091"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-042",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-092"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-042",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-093"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-048",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-094"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-035",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-095"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-096"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-097"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-098"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-099"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-CARD-100"
     }
   ],
   "next_best_step": [],
   "treatment_selection": [
-    {
-      "correct_treatment_ids": [
-        "TRT-001",
-        "TRT-002",
-        "TRT-003"
-      ],
-      "disease_id": "DIS-C-0001",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-002",
-        "TRT-003",
-        "TRT-004"
-      ],
-      "disease_id": "DIS-C-0002",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-003",
-        "TRT-004",
-        "TRT-005"
-      ],
-      "disease_id": "DIS-C-0003",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-004",
-        "TRT-005",
-        "TRT-006"
-      ],
-      "disease_id": "DIS-C-0004",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-005",
-        "TRT-006",
-        "TRT-007"
-      ],
-      "disease_id": "DIS-C-0005",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-006",
-        "TRT-007",
-        "TRT-008"
-      ],
-      "disease_id": "DIS-C-0006",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-007",
-        "TRT-008",
-        "TRT-009"
-      ],
-      "disease_id": "DIS-C-0007",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-008",
-        "TRT-009",
-        "TRT-010"
-      ],
-      "disease_id": "DIS-C-0008",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-009",
-        "TRT-010",
-        "TRT-011"
-      ],
-      "disease_id": "DIS-C-0009",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-010",
-        "TRT-011",
-        "TRT-012"
-      ],
-      "disease_id": "DIS-C-0010",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-011",
-        "TRT-012",
-        "TRT-013"
-      ],
-      "disease_id": "DIS-C-0011",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-012",
-        "TRT-013",
-        "TRT-014"
-      ],
-      "disease_id": "DIS-C-0012",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-013",
-        "TRT-014",
-        "TRT-015"
-      ],
-      "disease_id": "DIS-C-0013",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-014",
-        "TRT-015",
-        "TRT-016"
-      ],
-      "disease_id": "DIS-C-0014",
-      "review_status": "draft_ai_generated"
-    },
     {
       "correct_treatment_ids": [
         "TRT-015",
@@ -2065,6 +2548,713 @@
         "TRT-052"
       ],
       "disease_id": "DIS-ST-0129",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-001"
+      ],
+      "disease_id": "DIS-CARD-001",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-C-0001",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-C-0003",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-C-0004",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-C-0005",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-C-0006",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-C-0007",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-C-0008",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-C-0009",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-C-0010",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-C-0011",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-CARD-012",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-C-0012",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-C-0013",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-C-0002",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-CARD-015",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-CARD-016",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-CARD-017",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-CARD-018",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-CARD-019",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-CARD-020",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-CARD-021",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-CARD-022",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-024"
+      ],
+      "disease_id": "DIS-CARD-023",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-CARD-024",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-026"
+      ],
+      "disease_id": "DIS-CARD-025",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-CARD-026",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-028"
+      ],
+      "disease_id": "DIS-CARD-027",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-CARD-028",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-CARD-029",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-031"
+      ],
+      "disease_id": "DIS-CARD-030",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-CARD-031",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-033"
+      ],
+      "disease_id": "DIS-CARD-032",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-CARD-033",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-035"
+      ],
+      "disease_id": "DIS-CARD-034",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-CARD-035",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-CARD-036",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-038"
+      ],
+      "disease_id": "DIS-CARD-037",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-CARD-038",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-040"
+      ],
+      "disease_id": "DIS-CARD-039",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-CARD-040",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-042"
+      ],
+      "disease_id": "DIS-CARD-041",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-CARD-042",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-CARD-043",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-045"
+      ],
+      "disease_id": "DIS-CARD-044",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-CARD-045",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-047"
+      ],
+      "disease_id": "DIS-CARD-046",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-CARD-047",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-049"
+      ],
+      "disease_id": "DIS-CARD-048",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-050"
+      ],
+      "disease_id": "DIS-CARD-049",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-CARD-050",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-052"
+      ],
+      "disease_id": "DIS-CARD-051",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-CARD-052",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-054"
+      ],
+      "disease_id": "DIS-CARD-053",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-055"
+      ],
+      "disease_id": "DIS-CARD-054",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-056"
+      ],
+      "disease_id": "DIS-CARD-055",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-CARD-056",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-CARD-057",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-059"
+      ],
+      "disease_id": "DIS-CARD-058",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-060"
+      ],
+      "disease_id": "DIS-CARD-059",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-061"
+      ],
+      "disease_id": "DIS-CARD-060",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-CARD-061",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-063"
+      ],
+      "disease_id": "DIS-CARD-062",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-CARD-063",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-065"
+      ],
+      "disease_id": "DIS-CARD-064",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-066"
+      ],
+      "disease_id": "DIS-CARD-065",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-CARD-066",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-068"
+      ],
+      "disease_id": "DIS-CARD-067",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-CARD-068",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-070"
+      ],
+      "disease_id": "DIS-CARD-069",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-C-0014",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-072"
+      ],
+      "disease_id": "DIS-CARD-071",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-073"
+      ],
+      "disease_id": "DIS-CARD-072",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-CARD-073",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-075"
+      ],
+      "disease_id": "DIS-CARD-074",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-CARD-075",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-077"
+      ],
+      "disease_id": "DIS-CARD-076",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-CARD-077",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-079"
+      ],
+      "disease_id": "DIS-CARD-078",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-001"
+      ],
+      "disease_id": "DIS-CARD-079",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-CARD-080",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-CARD-081",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-CARD-082",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-CARD-083",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-CARD-084",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-CARD-085",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-CARD-086",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-CARD-087",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-CARD-088",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-CARD-089",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-CARD-090",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-CARD-091",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-CARD-092",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-CARD-093",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-CARD-094",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-CARD-095",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-CARD-096",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-CARD-097",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-CARD-098",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-CARD-099",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-CARD-100",
       "review_status": "draft_ai_generated"
     }
   ]

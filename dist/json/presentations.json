@@ -3,6 +3,19 @@
     {
       "common_differential_disease_ids": [
         "DIS-C-0001",
+        "DIS-C-0002",
+        "DIS-C-0003",
+        "DIS-CARD-001",
+        "DIS-CARD-015",
+        "DIS-CARD-016",
+        "DIS-CARD-017",
+        "DIS-CARD-018",
+        "DIS-CARD-019",
+        "DIS-CARD-021",
+        "DIS-CARD-027",
+        "DIS-CARD-037",
+        "DIS-CARD-038",
+        "DIS-CARD-046",
         "DIS-HO-0081",
         "DIS-N-0041",
         "DIS-OG-0121"
@@ -22,7 +35,13 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0002",
+        "DIS-C-0010",
+        "DIS-CARD-036",
+        "DIS-CARD-039",
+        "DIS-CARD-040",
+        "DIS-CARD-041",
+        "DIS-CARD-042",
+        "DIS-CARD-047",
         "DIS-HO-0082",
         "DIS-N-0042",
         "DIS-ST-0122"
@@ -42,7 +61,16 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0003",
+        "DIS-C-0011",
+        "DIS-CARD-059",
+        "DIS-CARD-061",
+        "DIS-CARD-066",
+        "DIS-CARD-067",
+        "DIS-CARD-096",
+        "DIS-CARD-097",
+        "DIS-CARD-098",
+        "DIS-CARD-099",
+        "DIS-CARD-100",
         "DIS-HO-0083",
         "DIS-N-0043",
         "DIS-ST-0123"
@@ -62,7 +90,20 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0004",
+        "DIS-C-0006",
+        "DIS-C-0007",
+        "DIS-C-0008",
+        "DIS-C-0009",
+        "DIS-CARD-045",
+        "DIS-CARD-051",
+        "DIS-CARD-052",
+        "DIS-CARD-053",
+        "DIS-CARD-054",
+        "DIS-CARD-055",
+        "DIS-CARD-056",
+        "DIS-CARD-057",
+        "DIS-CARD-058",
+        "DIS-CARD-071",
         "DIS-HO-0084",
         "DIS-N-0044",
         "DIS-ST-0124"
@@ -82,7 +123,12 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0005",
+        "DIS-C-0012",
+        "DIS-CARD-012",
+        "DIS-CARD-076",
+        "DIS-CARD-077",
+        "DIS-CARD-078",
+        "DIS-CARD-081",
         "DIS-HO-0085",
         "DIS-N-0045",
         "DIS-ST-0125"
@@ -102,7 +148,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0006",
         "DIS-HO-0086",
         "DIS-N-0046",
         "DIS-ST-0126"
@@ -122,7 +167,8 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0007",
+        "DIS-CARD-033",
+        "DIS-CARD-034",
         "DIS-HO-0087",
         "DIS-N-0047",
         "DIS-ST-0127"
@@ -142,7 +188,7 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0008",
+        "DIS-CARD-079",
         "DIS-E-0048",
         "DIS-HO-0088",
         "DIS-ST-0128"
@@ -162,7 +208,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0009",
         "DIS-E-0049",
         "DIS-HO-0089",
         "DIS-ST-0129"
@@ -182,7 +227,7 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0010",
+        "DIS-CARD-028",
         "DIS-E-0050",
         "DIS-R-0090"
       ],
@@ -201,7 +246,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0011",
         "DIS-E-0051",
         "DIS-R-0091"
       ],
@@ -220,7 +264,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0012",
         "DIS-E-0052",
         "DIS-R-0092"
       ],
@@ -239,7 +282,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0013",
         "DIS-E-0053",
         "DIS-R-0093"
       ],
@@ -258,7 +300,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-C-0014",
         "DIS-E-0054",
         "DIS-R-0094"
       ],
@@ -315,6 +356,7 @@
     },
     {
       "common_differential_disease_ids": [
+        "DIS-CARD-032",
         "DIS-E-0057",
         "DIS-P-0017",
         "DIS-R-0097"
@@ -657,6 +699,11 @@
     },
     {
       "common_differential_disease_ids": [
+        "DIS-C-0004",
+        "DIS-C-0005",
+        "DIS-CARD-025",
+        "DIS-CARD-060",
+        "DIS-CARD-095",
         "DIS-G-0035",
         "DIS-ID-0075",
         "DIS-OG-0115"
@@ -768,6 +815,190 @@
       "notes": "Requires source and physician review.",
       "presentation_id": "PRS-040",
       "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-062",
+        "DIS-CARD-063",
+        "DIS-CARD-064",
+        "DIS-CARD-065"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on bradycardia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Bradycardia",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-041",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-087",
+        "DIS-CARD-088",
+        "DIS-CARD-089",
+        "DIS-CARD-090",
+        "DIS-CARD-091",
+        "DIS-CARD-092",
+        "DIS-CARD-093"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on cyanosis.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Cyanosis",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-042",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-031",
+        "DIS-CARD-044"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on exertional intolerance.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Exertional intolerance",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-043",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-026",
+        "DIS-CARD-043",
+        "DIS-CARD-048",
+        "DIS-CARD-050"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on heart failure.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Heart failure",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-044",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-086"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on hypertension.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Hypertension",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-045",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-020",
+        "DIS-CARD-022",
+        "DIS-CARD-029"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on hypotension.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Hypotension",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-046",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-030"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on limb pain.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Limb pain",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-047",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0013",
+        "DIS-C-0014",
+        "DIS-CARD-023",
+        "DIS-CARD-024",
+        "DIS-CARD-068",
+        "DIS-CARD-069",
+        "DIS-CARD-074",
+        "DIS-CARD-075",
+        "DIS-CARD-080",
+        "DIS-CARD-082",
+        "DIS-CARD-083",
+        "DIS-CARD-084",
+        "DIS-CARD-085",
+        "DIS-CARD-094"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on new murmur.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "New murmur",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-048",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-CARD-035",
+        "DIS-CARD-049",
+        "DIS-CARD-072",
+        "DIS-CARD-073"
+      ],
+      "concise_definition": "Cardiovascular presentation centered on peripheral edema.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
+      "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
+      "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
+      "key_history_questions": "Clarify onset, exertional relation, associated dyspnea, syncope, vascular risk, medications, and pregnancy context.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Peripheral edema",
+      "notes": "Original educational presentation record.",
+      "presentation_id": "PRS-CARD-049",
+      "source_review_status": "source_checked"
     }
   ],
   "schema_version": "1.0.0"

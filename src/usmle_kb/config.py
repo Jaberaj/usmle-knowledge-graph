@@ -8,7 +8,12 @@ DATABASE = ROOT / "database"
 DATABASE_GENERATED = DATABASE / "generated"
 DIST = ROOT / "dist"
 REPORTS = ROOT / "reports"
-REVIEW_STATUSES = {"draft_ai_generated", "source_reviewed", "medically_reviewed"}
+REVIEW_STATUSES = {
+    "draft_ai_generated",
+    "source_checked",
+    "needs_medical_review",
+    "medically_reviewed",
+}
 REQUIRED_TABLES = {
     "diseases": [
         "disease_id",
@@ -68,4 +73,5 @@ RELATIONSHIP_TABLES = [
     "disease_differentials",
     "disease_diagnostics",
     "algorithm_steps",
+    "entity_references",
 ]

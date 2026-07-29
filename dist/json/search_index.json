@@ -2,193 +2,11 @@
   "records": [
     {
       "aliases": [],
-      "canonical_name": "Acute coronary syndrome",
-      "entity_id": "DIS-C-0001",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "acute coronary syndrome"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Aortic dissection",
-      "entity_id": "DIS-C-0002",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "aortic dissection"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Acute pericarditis",
-      "entity_id": "DIS-C-0003",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "acute pericarditis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Cardiac tamponade",
-      "entity_id": "DIS-C-0004",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "cardiac tamponade"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Cardiogenic shock",
-      "entity_id": "DIS-C-0005",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "cardiogenic shock"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Atrial fibrillation",
-      "entity_id": "DIS-C-0006",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "atrial fibrillation"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Atrial flutter",
-      "entity_id": "DIS-C-0007",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "atrial flutter"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Supraventricular tachycardia",
-      "entity_id": "DIS-C-0008",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "supraventricular tachycardia"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Ventricular tachycardia",
-      "entity_id": "DIS-C-0009",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "ventricular tachycardia"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Heart failure",
-      "entity_id": "DIS-C-0010",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "heart failure"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Hypertrophic cardiomyopathy",
-      "entity_id": "DIS-C-0011",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "hypertrophic cardiomyopathy"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Infective endocarditis",
-      "entity_id": "DIS-C-0012",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "infective endocarditis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Aortic stenosis",
-      "entity_id": "DIS-C-0013",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "aortic stenosis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Mitral regurgitation",
-      "entity_id": "DIS-C-0014",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "mitral regurgitation"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Pulmonary embolism",
       "entity_id": "DIS-C-0015",
       "entity_type": "disease",
       "organ_systems": [
-        "Cardiology"
+        "Pulmonology"
       ],
       "priority": 1,
       "search_keywords": [
@@ -1675,6 +1493,1319 @@
       "priority": 5,
       "search_keywords": [
         "burn injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Stable angina",
+      "entity_id": "DIS-CARD-001",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "stable angina"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute coronary syndrome",
+      "entity_id": "DIS-C-0001",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute coronary syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute pericarditis",
+      "entity_id": "DIS-C-0003",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute pericarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardiac tamponade",
+      "entity_id": "DIS-C-0004",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cardiac tamponade"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardiogenic shock",
+      "entity_id": "DIS-C-0005",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cardiogenic shock"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Atrial fibrillation",
+      "entity_id": "DIS-C-0006",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "atrial fibrillation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Atrial flutter",
+      "entity_id": "DIS-C-0007",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "atrial flutter"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Supraventricular tachycardia",
+      "entity_id": "DIS-C-0008",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "supraventricular tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ventricular tachycardia",
+      "entity_id": "DIS-C-0009",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "ventricular tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Heart failure",
+      "entity_id": "DIS-C-0010",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "heart failure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypertrophic cardiomyopathy",
+      "entity_id": "DIS-C-0011",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hypertrophic cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Native-valve infective endocarditis",
+      "entity_id": "DIS-CARD-012",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "native-valve infective endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Infective endocarditis",
+      "entity_id": "DIS-C-0012",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "infective endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Aortic stenosis",
+      "entity_id": "DIS-C-0013",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "aortic stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Aortic dissection",
+      "entity_id": "DIS-C-0002",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "aortic dissection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Unstable angina",
+      "entity_id": "DIS-CARD-015",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "unstable angina"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "NSTEMI",
+      "entity_id": "DIS-CARD-016",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "nstemi"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "STEMI",
+      "entity_id": "DIS-CARD-017",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "stemi"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Prinzmetal angina",
+      "entity_id": "DIS-CARD-018",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "prinzmetal angina"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cocaine-associated chest pain",
+      "entity_id": "DIS-CARD-019",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cocaine-associated chest pain"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Post-MI mechanical complication",
+      "entity_id": "DIS-CARD-020",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "post-mi mechanical complication"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dressler syndrome",
+      "entity_id": "DIS-CARD-021",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "dressler syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Right ventricular infarction",
+      "entity_id": "DIS-CARD-022",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "right ventricular infarction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Papillary muscle rupture",
+      "entity_id": "DIS-CARD-023",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "papillary muscle rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ventricular septal rupture",
+      "entity_id": "DIS-CARD-024",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ventricular septal rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Free-wall rupture",
+      "entity_id": "DIS-CARD-025",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "free-wall rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Left ventricular aneurysm",
+      "entity_id": "DIS-CARD-026",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "left ventricular aneurysm"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Thoracic aortic aneurysm",
+      "entity_id": "DIS-CARD-027",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "thoracic aortic aneurysm"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Abdominal aortic aneurysm",
+      "entity_id": "DIS-CARD-028",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "abdominal aortic aneurysm"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Aortic rupture",
+      "entity_id": "DIS-CARD-029",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "aortic rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute limb ischemia",
+      "entity_id": "DIS-CARD-030",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute limb ischemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Peripheral arterial disease",
+      "entity_id": "DIS-CARD-031",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "peripheral arterial disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cholesterol embolization",
+      "entity_id": "DIS-CARD-032",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cholesterol embolization"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypertensive emergency",
+      "entity_id": "DIS-CARD-033",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypertensive emergency"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypertensive urgency",
+      "entity_id": "DIS-CARD-034",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypertensive urgency"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Constrictive pericarditis",
+      "entity_id": "DIS-CARD-035",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "constrictive pericarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pericardial effusion",
+      "entity_id": "DIS-CARD-036",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pericardial effusion"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Uremic pericarditis",
+      "entity_id": "DIS-CARD-037",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "uremic pericarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Post-MI pericarditis",
+      "entity_id": "DIS-CARD-038",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "post-mi pericarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "HFrEF",
+      "entity_id": "DIS-CARD-039",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hfref"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "HFpEF",
+      "entity_id": "DIS-CARD-040",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hfpef"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute decompensated heart failure",
+      "entity_id": "DIS-CARD-041",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute decompensated heart failure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardiogenic pulmonary edema",
+      "entity_id": "DIS-CARD-042",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cardiogenic pulmonary edema"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dilated cardiomyopathy",
+      "entity_id": "DIS-CARD-043",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "dilated cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Restrictive cardiomyopathy",
+      "entity_id": "DIS-CARD-044",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "restrictive cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Arrhythmogenic right ventricular cardiomyopathy",
+      "entity_id": "DIS-CARD-045",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "arrhythmogenic right ventricular cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Takotsubo cardiomyopathy",
+      "entity_id": "DIS-CARD-046",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "takotsubo cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Peripartum cardiomyopathy",
+      "entity_id": "DIS-CARD-047",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "peripartum cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Alcohol-related cardiomyopathy",
+      "entity_id": "DIS-CARD-048",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "alcohol-related cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardiac amyloidosis",
+      "entity_id": "DIS-CARD-049",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cardiac amyloidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hemochromatosis-associated cardiomyopathy",
+      "entity_id": "DIS-CARD-050",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hemochromatosis-associated cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "AV nodal reentrant tachycardia",
+      "entity_id": "DIS-CARD-051",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "av nodal reentrant tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "AV reentrant tachycardia",
+      "entity_id": "DIS-CARD-052",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "av reentrant tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Wolff-Parkinson-White syndrome",
+      "entity_id": "DIS-CARD-053",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "wolff-parkinson-white syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Multifocal atrial tachycardia",
+      "entity_id": "DIS-CARD-054",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "multifocal atrial tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Sinus tachycardia",
+      "entity_id": "DIS-CARD-055",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "sinus tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Premature ventricular contractions",
+      "entity_id": "DIS-CARD-056",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "premature ventricular contractions"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Monomorphic ventricular tachycardia",
+      "entity_id": "DIS-CARD-057",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "monomorphic ventricular tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Polymorphic ventricular tachycardia",
+      "entity_id": "DIS-CARD-058",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "polymorphic ventricular tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Torsades de pointes",
+      "entity_id": "DIS-CARD-059",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "torsades de pointes"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ventricular fibrillation",
+      "entity_id": "DIS-CARD-060",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "ventricular fibrillation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Sick sinus syndrome",
+      "entity_id": "DIS-CARD-061",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "sick sinus syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "First-degree AV block",
+      "entity_id": "DIS-CARD-062",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "first-degree av block"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mobitz I block",
+      "entity_id": "DIS-CARD-063",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "mobitz i block"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mobitz II block",
+      "entity_id": "DIS-CARD-064",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "mobitz ii block"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Complete heart block",
+      "entity_id": "DIS-CARD-065",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "complete heart block"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Long-QT syndrome",
+      "entity_id": "DIS-CARD-066",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "long-qt syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Brugada syndrome",
+      "entity_id": "DIS-CARD-067",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "brugada syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Aortic regurgitation",
+      "entity_id": "DIS-CARD-068",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "aortic regurgitation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mitral stenosis",
+      "entity_id": "DIS-CARD-069",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mitral stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mitral regurgitation",
+      "entity_id": "DIS-C-0014",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mitral regurgitation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mitral valve prolapse",
+      "entity_id": "DIS-CARD-071",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mitral valve prolapse"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tricuspid regurgitation",
+      "entity_id": "DIS-CARD-072",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tricuspid regurgitation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tricuspid stenosis",
+      "entity_id": "DIS-CARD-073",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tricuspid stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pulmonic stenosis",
+      "entity_id": "DIS-CARD-074",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "pulmonic stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Prosthetic valve complication",
+      "entity_id": "DIS-CARD-075",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "prosthetic valve complication"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Prosthetic-valve endocarditis",
+      "entity_id": "DIS-CARD-076",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "prosthetic-valve endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Right-sided endocarditis",
+      "entity_id": "DIS-CARD-077",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "right-sided endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Culture-negative endocarditis",
+      "entity_id": "DIS-CARD-078",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "culture-negative endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nonbacterial thrombotic endocarditis",
+      "entity_id": "DIS-CARD-079",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nonbacterial thrombotic endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Libman-Sacks endocarditis",
+      "entity_id": "DIS-CARD-080",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "libman-sacks endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rheumatic fever",
+      "entity_id": "DIS-CARD-081",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rheumatic fever"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rheumatic heart disease",
+      "entity_id": "DIS-CARD-082",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rheumatic heart disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ventricular septal defect",
+      "entity_id": "DIS-CARD-083",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ventricular septal defect"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Atrial septal defect",
+      "entity_id": "DIS-CARD-084",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "atrial septal defect"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Patent ductus arteriosus",
+      "entity_id": "DIS-CARD-085",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "patent ductus arteriosus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Coarctation of the aorta",
+      "entity_id": "DIS-CARD-086",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "coarctation of the aorta"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tetralogy of Fallot",
+      "entity_id": "DIS-CARD-087",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tetralogy of fallot"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Transposition of the great arteries",
+      "entity_id": "DIS-CARD-088",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "transposition of the great arteries"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Truncus arteriosus",
+      "entity_id": "DIS-CARD-089",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "truncus arteriosus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tricuspid atresia",
+      "entity_id": "DIS-CARD-090",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tricuspid atresia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Total anomalous pulmonary venous return",
+      "entity_id": "DIS-CARD-091",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "total anomalous pulmonary venous return"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ebstein anomaly",
+      "entity_id": "DIS-CARD-092",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ebstein anomaly"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Eisenmenger syndrome",
+      "entity_id": "DIS-CARD-093",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "eisenmenger syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bicuspid aortic valve",
+      "entity_id": "DIS-CARD-094",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "bicuspid aortic valve"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Obstructive shock",
+      "entity_id": "DIS-CARD-095",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "obstructive shock"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Arrhythmic syncope",
+      "entity_id": "DIS-CARD-096",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "arrhythmic syncope"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vasovagal syncope",
+      "entity_id": "DIS-CARD-097",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "vasovagal syncope"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Orthostatic syncope",
+      "entity_id": "DIS-CARD-098",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "orthostatic syncope"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Aortic stenosis-associated syncope",
+      "entity_id": "DIS-CARD-099",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "aortic stenosis-associated syncope"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypertrophic cardiomyopathy-associated syncope",
+      "entity_id": "DIS-CARD-100",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypertrophic cardiomyopathy-associated syncope"
       ]
     }
   ],
