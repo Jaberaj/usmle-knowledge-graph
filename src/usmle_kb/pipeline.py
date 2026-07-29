@@ -106,19 +106,57 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
         }
         if algorithm["starting_node_id"] not in nodes:
             errors.append("algorithms: broken starting node")
-    cardiology = [row for row in tables["diseases"] if row.get("organ_system_primary") == "Cardiology"]
-    blocked = ("draft content pending review", "placeholder pending human review", "review required", "tbd", "todo", "lorem ipsum")
-    required = ("concise_definition", "epidemiology_summary", "risk_factors_summary", "pathophysiology_summary", "classic_presentation_summary", "key_distinguishing_features", "emergency_red_flags", "disposition_summary", "prognosis_summary")
-    for row in cardiology:
+    completed_system_records = [
+        row
+        for row in tables["diseases"]
+        if row.get("organ_system_primary") in {"Cardiology", "Neurology"}
+    ]
+    blocked = (
+        "draft content pending review",
+        "placeholder pending human review",
+        "review required",
+        "tbd",
+        "todo",
+        "lorem ipsum",
+    )
+    required = (
+        "concise_definition",
+        "epidemiology_summary",
+        "risk_factors_summary",
+        "pathophysiology_summary",
+        "classic_presentation_summary",
+        "key_distinguishing_features",
+        "emergency_red_flags",
+        "disposition_summary",
+        "prognosis_summary",
+    )
+    for row in completed_system_records:
         for field in required:
             value = row.get(field, "").lower()
             if not value or any(term in value for term in blocked):
                 errors.append(f"{row['disease_id']}: placeholder {field}")
-        if not any(link["disease_id"] == row["disease_id"] for link in tables["disease_presentations"]): errors.append(f"{row['disease_id']}: no presentation")
-        if not any(link["disease_id"] == row["disease_id"] for link in tables["disease_treatments"]): errors.append(f"{row['disease_id']}: no treatment")
-        if not any(link["disease_id"] == row["disease_id"] for link in tables["disease_diagnostics"]): errors.append(f"{row['disease_id']}: no diagnostic")
-        if not any(link["source_disease_id"] == row["disease_id"] for link in tables["disease_differentials"]): errors.append(f"{row['disease_id']}: no differential")
-        if not any(link["entity_type"] == "disease" and link["entity_id"] == row["disease_id"] for link in tables["entity_references"]): errors.append(f"{row['disease_id']}: no source link")
+        if not any(
+            link["disease_id"] == row["disease_id"] for link in tables["disease_presentations"]
+        ):
+            errors.append(f"{row['disease_id']}: no presentation")
+        if not any(
+            link["disease_id"] == row["disease_id"] for link in tables["disease_treatments"]
+        ):
+            errors.append(f"{row['disease_id']}: no treatment")
+        if not any(
+            link["disease_id"] == row["disease_id"] for link in tables["disease_diagnostics"]
+        ):
+            errors.append(f"{row['disease_id']}: no diagnostic")
+        if not any(
+            link["source_disease_id"] == row["disease_id"]
+            for link in tables["disease_differentials"]
+        ):
+            errors.append(f"{row['disease_id']}: no differential")
+        if not any(
+            link["entity_type"] == "disease" and link["entity_id"] == row["disease_id"]
+            for link in tables["entity_references"]
+        ):
+            errors.append(f"{row['disease_id']}: no source link")
     return sorted(set(errors))
 
 

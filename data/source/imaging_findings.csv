@@ -1,1 +1,9 @@
 entity_id,name,source_review_status,medical_review_status,deprecated
+NEUR-IMA-001,Diffusion restriction suggesting acute ischemic injury,source_checked,needs_medical_review,false
+NEUR-IMA-002,Hyperdense middle cerebral artery sign,source_checked,needs_medical_review,false
+NEUR-IMA-003,Subarachnoid blood in basal cisterns,source_checked,needs_medical_review,false
+NEUR-IMA-004,Biconvex epidural collection,source_checked,needs_medical_review,false
+NEUR-IMA-005,Crescentic subdural collection,source_checked,needs_medical_review,false
+NEUR-IMA-006,Temporal-lobe signal abnormality in HSV encephalitis context,source_checked,needs_medical_review,false
+NEUR-IMA-007,Periventricular demyelinating plaques,source_checked,needs_medical_review,false
+NEUR-IMA-008,Dawson-finger pattern in MS context,source_checked,needs_medical_review,false

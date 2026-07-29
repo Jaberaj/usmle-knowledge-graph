@@ -1,1 +1,9 @@
 entity_id,name,source_review_status,medical_review_status,deprecated
+NEUR-SYM-001,Aphasia with impaired language output,source_checked,needs_medical_review,false
+NEUR-SYM-002,Thunderclap headache signaling abrupt vascular concern,source_checked,needs_medical_review,false
+NEUR-SYM-003,Ascending symmetric weakness,source_checked,needs_medical_review,false
+NEUR-SYM-004,Fatigable ocular weakness,source_checked,needs_medical_review,false
+NEUR-SYM-005,Saddle anesthesia,source_checked,needs_medical_review,false
+NEUR-SYM-006,Fluctuating inattention,source_checked,needs_medical_review,false
+NEUR-SYM-007,Sensory level,source_checked,needs_medical_review,false
+NEUR-SYM-008,Unilateral facial weakness,source_checked,needs_medical_review,false

@@ -150,6 +150,24 @@
       "common_differential_disease_ids": [
         "DIS-HO-0086",
         "DIS-N-0046",
+        "DIS-N-0064",
+        "DIS-N-0069",
+        "DIS-NEUR-015",
+        "DIS-NEUR-016",
+        "DIS-NEUR-029",
+        "DIS-NEUR-032",
+        "DIS-NEUR-045",
+        "DIS-NEUR-067",
+        "DIS-NEUR-070",
+        "DIS-NEUR-076",
+        "DIS-NEUR-081",
+        "DIS-NEUR-094",
+        "DIS-NEUR-095",
+        "DIS-NEUR-101",
+        "DIS-NEUR-112",
+        "DIS-NEUR-135",
+        "DIS-NEUR-155",
+        "DIS-NEUR-156",
         "DIS-ST-0126"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -171,6 +189,30 @@
         "DIS-CARD-034",
         "DIS-HO-0087",
         "DIS-N-0047",
+        "DIS-N-0063",
+        "DIS-NEUR-011",
+        "DIS-NEUR-019",
+        "DIS-NEUR-024",
+        "DIS-NEUR-053",
+        "DIS-NEUR-054",
+        "DIS-NEUR-055",
+        "DIS-NEUR-056",
+        "DIS-NEUR-058",
+        "DIS-NEUR-059",
+        "DIS-NEUR-061",
+        "DIS-NEUR-062",
+        "DIS-NEUR-063",
+        "DIS-NEUR-064",
+        "DIS-NEUR-065",
+        "DIS-NEUR-068",
+        "DIS-NEUR-129",
+        "DIS-NEUR-131",
+        "DIS-NEUR-134",
+        "DIS-NEUR-136",
+        "DIS-NEUR-137",
+        "DIS-NEUR-138",
+        "DIS-NEUR-157",
+        "DIS-R-0096",
         "DIS-ST-0127"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -210,6 +252,25 @@
       "common_differential_disease_ids": [
         "DIS-E-0049",
         "DIS-HO-0089",
+        "DIS-N-0061",
+        "DIS-NEUR-035",
+        "DIS-NEUR-036",
+        "DIS-NEUR-037",
+        "DIS-NEUR-038",
+        "DIS-NEUR-039",
+        "DIS-NEUR-040",
+        "DIS-NEUR-041",
+        "DIS-NEUR-042",
+        "DIS-NEUR-046",
+        "DIS-NEUR-047",
+        "DIS-NEUR-048",
+        "DIS-NEUR-049",
+        "DIS-NEUR-050",
+        "DIS-NEUR-051",
+        "DIS-NEUR-052",
+        "DIS-NEUR-130",
+        "DIS-NEUR-152",
+        "DIS-P-0113",
         "DIS-ST-0129"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -338,8 +399,7 @@
     {
       "common_differential_disease_ids": [
         "DIS-E-0056",
-        "DIS-P-0016",
-        "DIS-R-0096"
+        "DIS-P-0016"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -376,7 +436,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0058",
         "DIS-P-0018",
         "DIS-P-0098"
       ],
@@ -395,7 +454,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0059",
         "DIS-P-0019",
         "DIS-P-0099"
       ],
@@ -414,7 +472,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0060",
         "DIS-P-0020",
         "DIS-P-0100"
       ],
@@ -433,7 +490,27 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0061",
+        "DIS-NEUR-007",
+        "DIS-NEUR-027",
+        "DIS-NEUR-031",
+        "DIS-NEUR-033",
+        "DIS-NEUR-071",
+        "DIS-NEUR-074",
+        "DIS-NEUR-077",
+        "DIS-NEUR-080",
+        "DIS-NEUR-105",
+        "DIS-NEUR-106",
+        "DIS-NEUR-107",
+        "DIS-NEUR-108",
+        "DIS-NEUR-109",
+        "DIS-NEUR-110",
+        "DIS-NEUR-111",
+        "DIS-NEUR-117",
+        "DIS-NEUR-122",
+        "DIS-NEUR-125",
+        "DIS-NEUR-126",
+        "DIS-NEUR-128",
+        "DIS-NEUR-158",
         "DIS-P-0021",
         "DIS-P-0101"
       ],
@@ -452,8 +529,9 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0062",
+        "DIS-NEUR-162",
         "DIS-P-0022",
+        "DIS-P-0023",
         "DIS-P-0102"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -471,8 +549,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0063",
-        "DIS-P-0023",
         "DIS-P-0103"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -490,7 +566,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0064",
         "DIS-P-0024",
         "DIS-P-0104"
       ],
@@ -509,7 +584,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-N-0065",
         "DIS-P-0025",
         "DIS-P-0105"
       ],
@@ -529,7 +603,6 @@
     {
       "common_differential_disease_ids": [
         "DIS-G-0026",
-        "DIS-N-0066",
         "DIS-P-0106"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -548,7 +621,6 @@
     {
       "common_differential_disease_ids": [
         "DIS-G-0027",
-        "DIS-N-0067",
         "DIS-P-0107"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -567,7 +639,6 @@
     {
       "common_differential_disease_ids": [
         "DIS-G-0028",
-        "DIS-N-0068",
         "DIS-P-0108"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -586,7 +657,6 @@
     {
       "common_differential_disease_ids": [
         "DIS-G-0029",
-        "DIS-N-0069",
         "DIS-P-0109"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -662,8 +732,7 @@
     {
       "common_differential_disease_ids": [
         "DIS-G-0033",
-        "DIS-ID-0073",
-        "DIS-P-0113"
+        "DIS-ID-0073"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -998,6 +1067,484 @@
       "name": "Peripheral edema",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-049",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-088",
+        "DIS-NEUR-089",
+        "DIS-NEUR-090",
+        "DIS-NEUR-091",
+        "DIS-NEUR-092",
+        "DIS-NEUR-093",
+        "DIS-NEUR-161"
+      ],
+      "concise_definition": "Neurologic presentation centered on abnormal movements.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Abnormal movements",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-050",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0058",
+        "DIS-N-0059",
+        "DIS-NEUR-001",
+        "DIS-NEUR-006",
+        "DIS-NEUR-008",
+        "DIS-NEUR-009",
+        "DIS-NEUR-010",
+        "DIS-NEUR-017",
+        "DIS-NEUR-018",
+        "DIS-NEUR-021",
+        "DIS-NEUR-022",
+        "DIS-NEUR-026"
+      ],
+      "concise_definition": "Neurologic presentation centered on acute focal neurologic deficit.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Acute focal neurologic deficit",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-051",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-145"
+      ],
+      "concise_definition": "Neurologic presentation centered on anisocoria.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Anisocoria",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-052",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0068"
+      ],
+      "concise_definition": "Neurologic presentation centered on ascending weakness.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Ascending weakness",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-053",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-149"
+      ],
+      "concise_definition": "Neurologic presentation centered on ataxia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Ataxia",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-054",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-069",
+        "DIS-NEUR-120",
+        "DIS-NEUR-121",
+        "DIS-NEUR-123",
+        "DIS-NEUR-124"
+      ],
+      "concise_definition": "Neurologic presentation centered on back pain with neurologic deficit.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Back pain with neurologic deficit",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-055",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-082",
+        "DIS-NEUR-098"
+      ],
+      "concise_definition": "Neurologic presentation centered on behavioral change.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Behavioral change",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-056",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-140"
+      ],
+      "concise_definition": "Neurologic presentation centered on coma.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Coma",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-057",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-153"
+      ],
+      "concise_definition": "Neurologic presentation centered on developmental delay.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Developmental delay",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-058",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-150",
+        "DIS-NEUR-154"
+      ],
+      "concise_definition": "Neurologic presentation centered on developmental regression.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Developmental regression",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-059",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-142",
+        "DIS-NEUR-143",
+        "DIS-NEUR-144"
+      ],
+      "concise_definition": "Neurologic presentation centered on diplopia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Diplopia",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-060",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-057",
+        "DIS-NEUR-118",
+        "DIS-NEUR-119"
+      ],
+      "concise_definition": "Neurologic presentation centered on facial weakness.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Facial weakness",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-061",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0067",
+        "DIS-NEUR-104"
+      ],
+      "concise_definition": "Neurologic presentation centered on fatigable weakness.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Fatigable weakness",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-062",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-034"
+      ],
+      "concise_definition": "Neurologic presentation centered on first seizure.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "First seizure",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-063",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-086",
+        "DIS-NEUR-099",
+        "DIS-NEUR-139"
+      ],
+      "concise_definition": "Neurologic presentation centered on gait disturbance.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Gait disturbance",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-064",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-014"
+      ],
+      "concise_definition": "Neurologic presentation centered on head trauma.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Head trauma",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-065",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-160"
+      ],
+      "concise_definition": "Neurologic presentation centered on loss of consciousness.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Loss of consciousness",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-066",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-025",
+        "DIS-NEUR-096",
+        "DIS-NEUR-097",
+        "DIS-NEUR-100",
+        "DIS-NEUR-102"
+      ],
+      "concise_definition": "Neurologic presentation centered on memory loss.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Memory loss",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-067",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-151"
+      ],
+      "concise_definition": "Neurologic presentation centered on neonatal hypotonia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Neonatal hypotonia",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-068",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-113",
+        "DIS-NEUR-114",
+        "DIS-NEUR-115",
+        "DIS-NEUR-116",
+        "DIS-NEUR-127"
+      ],
+      "concise_definition": "Neurologic presentation centered on numbness.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Numbness",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-069",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0062"
+      ],
+      "concise_definition": "Neurologic presentation centered on status epilepticus.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Status epilepticus",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-070",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0060",
+        "DIS-NEUR-023"
+      ],
+      "concise_definition": "Neurologic presentation centered on thunderclap headache.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Thunderclap headache",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-071",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0066",
+        "DIS-NEUR-084",
+        "DIS-NEUR-085",
+        "DIS-NEUR-087"
+      ],
+      "concise_definition": "Neurologic presentation centered on tremor.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Tremor",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-072",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-NEUR-020",
+        "DIS-NEUR-030",
+        "DIS-NEUR-132",
+        "DIS-NEUR-146",
+        "DIS-NEUR-147",
+        "DIS-NEUR-148"
+      ],
+      "concise_definition": "Neurologic presentation centered on vertigo.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Vertigo",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-073",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0065",
+        "DIS-NEUR-028",
+        "DIS-NEUR-073",
+        "DIS-NEUR-075",
+        "DIS-NEUR-078",
+        "DIS-NEUR-133",
+        "DIS-NEUR-141"
+      ],
+      "concise_definition": "Neurologic presentation centered on vision loss.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
+      "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
+      "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
+      "key_history_questions": "Establish onset, last-known-well, progression, preceding illness or trauma, medications, exposures, pregnancy, and baseline function.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Vision loss",
+      "notes": "Original Neurology presentation record.",
+      "presentation_id": "PRS-NEUR-074",
       "source_review_status": "source_checked"
     }
   ],

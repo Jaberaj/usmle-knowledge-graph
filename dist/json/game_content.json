@@ -59,13 +59,6 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
-      "presentation_id": "PRS-023",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-P-0023"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
       "presentation_id": "PRS-024",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-P-0024"
@@ -304,90 +297,6 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
-      "presentation_id": "PRS-018",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0058"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-019",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0059"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-020",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0060"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-021",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0061"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-022",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0062"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-023",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0063"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-024",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0064"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-025",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0065"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-026",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0066"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-027",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0067"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-028",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0068"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-029",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0069"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
       "presentation_id": "PRS-030",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-ID-0070"
@@ -570,13 +479,6 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
-      "presentation_id": "PRS-016",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0096"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
       "presentation_id": "PRS-017",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-R-0097"
@@ -685,13 +587,6 @@
       "presentation_id": "PRS-032",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-P-0112"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-033",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-P-0113"
     },
     {
       "cannot_miss_disease_ids": [],
@@ -1511,6 +1406,1140 @@
       "presentation_id": "PRS-003",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-CARD-100"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-001"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0061"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0063"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0069"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0058"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-006"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-007"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-008"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-009"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-010"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-011"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0059"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-071",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0060"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-065",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-014"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-015"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-016"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-017"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-018"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-019"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-073",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-020"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-021"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-022"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-071",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-023"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-024"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-067",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-025"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-051",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-026"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-027"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-074",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-028"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-029"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-073",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-030"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-031"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-032"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-033"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-063",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-034"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-035"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-036"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-037"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-038"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-039"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-040"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-041"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-042"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-P-0113"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-070",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0062"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-045"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-046"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-047"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-048"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-049"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-050"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-051"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-052"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-053"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-054"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-055"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-056"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-061",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-057"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-058"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-059"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-R-0096"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-061"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-062"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-063"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-064"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-065"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0064"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-067"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-068"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-069"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-070"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-071"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-074",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0065"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-074",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-073"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-074"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-074",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-075"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-076"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-077"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-074",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-078"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-053",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0068"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-080"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-081"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-056",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-082"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-072",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0066"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-072",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-084"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-072",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-085"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-064",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-086"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-072",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-087"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-050",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-088"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-050",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-089"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-050",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-090"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-050",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-091"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-050",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-092"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-050",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-093"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-094"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-095"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-067",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-096"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-067",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-097"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-056",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-098"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-064",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-099"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-067",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-100"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-101"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-067",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-102"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-062",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-N-0067"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-062",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-104"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-105"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-106"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-107"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-108"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-109"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-110"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-111"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-112"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-069",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-113"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-069",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-114"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-069",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-115"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-069",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-116"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-117"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-061",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-118"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-061",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-119"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-120"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-121"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-122"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-123"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-124"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-125"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-126"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-069",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-127"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-128"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-129"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-130"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-131"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-073",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-132"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-074",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-133"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-134"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-135"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-136"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-137"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-138"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-064",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-139"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-057",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-140"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-074",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-141"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-060",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-142"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-060",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-143"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-060",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-144"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-052",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-145"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-073",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-146"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-073",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-147"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-073",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-148"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-054",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-149"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-059",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-150"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-068",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-151"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-152"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-058",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-153"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-059",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-154"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-155"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-156"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-157"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-158"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-022",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-P-0023"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-066",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-160"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-050",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-161"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-022",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-NEUR-162"
     }
   ],
   "next_best_step": [],
@@ -1585,15 +2614,6 @@
         "TRT-024"
       ],
       "disease_id": "DIS-P-0022",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-023",
-        "TRT-024",
-        "TRT-025"
-      ],
-      "disease_id": "DIS-P-0023",
       "review_status": "draft_ai_generated"
     },
     {
@@ -1904,114 +2924,6 @@
     },
     {
       "correct_treatment_ids": [
-        "TRT-058",
-        "TRT-059",
-        "TRT-060"
-      ],
-      "disease_id": "DIS-N-0058",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-059",
-        "TRT-060",
-        "TRT-061"
-      ],
-      "disease_id": "DIS-N-0059",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-060",
-        "TRT-061",
-        "TRT-062"
-      ],
-      "disease_id": "DIS-N-0060",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-061",
-        "TRT-062",
-        "TRT-063"
-      ],
-      "disease_id": "DIS-N-0061",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-062",
-        "TRT-063",
-        "TRT-064"
-      ],
-      "disease_id": "DIS-N-0062",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-063",
-        "TRT-064",
-        "TRT-065"
-      ],
-      "disease_id": "DIS-N-0063",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-064",
-        "TRT-065",
-        "TRT-066"
-      ],
-      "disease_id": "DIS-N-0064",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-065",
-        "TRT-066",
-        "TRT-067"
-      ],
-      "disease_id": "DIS-N-0065",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-066",
-        "TRT-067",
-        "TRT-068"
-      ],
-      "disease_id": "DIS-N-0066",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-067",
-        "TRT-068",
-        "TRT-069"
-      ],
-      "disease_id": "DIS-N-0067",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-068",
-        "TRT-069",
-        "TRT-070"
-      ],
-      "disease_id": "DIS-N-0068",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-069",
-        "TRT-070",
-        "TRT-071"
-      ],
-      "disease_id": "DIS-N-0069",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
         "TRT-070",
         "TRT-071",
         "TRT-072"
@@ -2246,15 +3158,6 @@
     },
     {
       "correct_treatment_ids": [
-        "TRT-017",
-        "TRT-018",
-        "TRT-019"
-      ],
-      "disease_id": "DIS-R-0096",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
         "TRT-018",
         "TRT-019",
         "TRT-020"
@@ -2395,15 +3298,6 @@
         "TRT-035"
       ],
       "disease_id": "DIS-P-0112",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-034",
-        "TRT-035",
-        "TRT-036"
-      ],
-      "disease_id": "DIS-P-0113",
       "review_status": "draft_ai_generated"
     },
     {
@@ -3255,6 +4149,1140 @@
         "TRT-022"
       ],
       "disease_id": "DIS-CARD-100",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-NEUR-001",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-N-0061",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-N-0063",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-N-0069",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-N-0058",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-NEUR-006",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-NEUR-007",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-NEUR-008",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-028"
+      ],
+      "disease_id": "DIS-NEUR-009",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-031"
+      ],
+      "disease_id": "DIS-NEUR-010",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-NEUR-011",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-N-0059",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-040"
+      ],
+      "disease_id": "DIS-N-0060",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-NEUR-014",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-NEUR-015",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-049"
+      ],
+      "disease_id": "DIS-NEUR-016",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-052"
+      ],
+      "disease_id": "DIS-NEUR-017",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-055"
+      ],
+      "disease_id": "DIS-NEUR-018",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-NEUR-019",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-061"
+      ],
+      "disease_id": "DIS-NEUR-020",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-NEUR-021",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-NEUR-022",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-070"
+      ],
+      "disease_id": "DIS-NEUR-023",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-073"
+      ],
+      "disease_id": "DIS-NEUR-024",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-NEUR-025",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-079"
+      ],
+      "disease_id": "DIS-NEUR-026",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-NEUR-027",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-NEUR-028",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-NEUR-029",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-NEUR-030",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-NEUR-031",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-NEUR-032",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-NEUR-033",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-024"
+      ],
+      "disease_id": "DIS-NEUR-034",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-NEUR-035",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-NEUR-036",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-033"
+      ],
+      "disease_id": "DIS-NEUR-037",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-NEUR-038",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-NEUR-039",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-042"
+      ],
+      "disease_id": "DIS-NEUR-040",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-045"
+      ],
+      "disease_id": "DIS-NEUR-041",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-NEUR-042",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-P-0113",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-054"
+      ],
+      "disease_id": "DIS-N-0062",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-NEUR-045",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-060"
+      ],
+      "disease_id": "DIS-NEUR-046",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-063"
+      ],
+      "disease_id": "DIS-NEUR-047",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-066"
+      ],
+      "disease_id": "DIS-NEUR-048",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-NEUR-049",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-072"
+      ],
+      "disease_id": "DIS-NEUR-050",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-075"
+      ],
+      "disease_id": "DIS-NEUR-051",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-NEUR-052",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-NEUR-053",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-NEUR-054",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-NEUR-055",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-NEUR-056",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-NEUR-057",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-NEUR-058",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-NEUR-059",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-R-0096",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-026"
+      ],
+      "disease_id": "DIS-NEUR-061",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-NEUR-062",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-NEUR-063",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-035"
+      ],
+      "disease_id": "DIS-NEUR-064",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-038"
+      ],
+      "disease_id": "DIS-NEUR-065",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-N-0064",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-NEUR-067",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-047"
+      ],
+      "disease_id": "DIS-NEUR-068",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-050"
+      ],
+      "disease_id": "DIS-NEUR-069",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-NEUR-070",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-056"
+      ],
+      "disease_id": "DIS-NEUR-071",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-059"
+      ],
+      "disease_id": "DIS-N-0065",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-NEUR-073",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-065"
+      ],
+      "disease_id": "DIS-NEUR-074",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-068"
+      ],
+      "disease_id": "DIS-NEUR-075",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-NEUR-076",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-NEUR-077",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-077"
+      ],
+      "disease_id": "DIS-NEUR-078",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-001"
+      ],
+      "disease_id": "DIS-N-0068",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-NEUR-080",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-NEUR-081",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-NEUR-082",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-N-0066",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-NEUR-084",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-NEUR-085",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-NEUR-086",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-NEUR-087",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-028"
+      ],
+      "disease_id": "DIS-NEUR-088",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-031"
+      ],
+      "disease_id": "DIS-NEUR-089",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-NEUR-090",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-NEUR-091",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-040"
+      ],
+      "disease_id": "DIS-NEUR-092",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-NEUR-093",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-NEUR-094",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-049"
+      ],
+      "disease_id": "DIS-NEUR-095",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-052"
+      ],
+      "disease_id": "DIS-NEUR-096",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-055"
+      ],
+      "disease_id": "DIS-NEUR-097",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-NEUR-098",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-061"
+      ],
+      "disease_id": "DIS-NEUR-099",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-NEUR-100",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-NEUR-101",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-070"
+      ],
+      "disease_id": "DIS-NEUR-102",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-073"
+      ],
+      "disease_id": "DIS-N-0067",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-NEUR-104",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-079"
+      ],
+      "disease_id": "DIS-NEUR-105",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-NEUR-106",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-NEUR-107",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-NEUR-108",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-NEUR-109",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-NEUR-110",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-NEUR-111",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-NEUR-112",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-024"
+      ],
+      "disease_id": "DIS-NEUR-113",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-NEUR-114",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-NEUR-115",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-033"
+      ],
+      "disease_id": "DIS-NEUR-116",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-NEUR-117",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-NEUR-118",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-042"
+      ],
+      "disease_id": "DIS-NEUR-119",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-045"
+      ],
+      "disease_id": "DIS-NEUR-120",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-NEUR-121",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-NEUR-122",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-054"
+      ],
+      "disease_id": "DIS-NEUR-123",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-NEUR-124",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-060"
+      ],
+      "disease_id": "DIS-NEUR-125",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-063"
+      ],
+      "disease_id": "DIS-NEUR-126",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-066"
+      ],
+      "disease_id": "DIS-NEUR-127",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-NEUR-128",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-072"
+      ],
+      "disease_id": "DIS-NEUR-129",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-075"
+      ],
+      "disease_id": "DIS-NEUR-130",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-NEUR-131",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-NEUR-132",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-NEUR-133",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-NEUR-134",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-NEUR-135",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-NEUR-136",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-NEUR-137",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-NEUR-138",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-NEUR-139",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-026"
+      ],
+      "disease_id": "DIS-NEUR-140",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-NEUR-141",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-NEUR-142",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-035"
+      ],
+      "disease_id": "DIS-NEUR-143",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-038"
+      ],
+      "disease_id": "DIS-NEUR-144",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-NEUR-145",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-NEUR-146",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-047"
+      ],
+      "disease_id": "DIS-NEUR-147",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-050"
+      ],
+      "disease_id": "DIS-NEUR-148",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-NEUR-149",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-056"
+      ],
+      "disease_id": "DIS-NEUR-150",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-059"
+      ],
+      "disease_id": "DIS-NEUR-151",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-NEUR-152",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-065"
+      ],
+      "disease_id": "DIS-NEUR-153",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-068"
+      ],
+      "disease_id": "DIS-NEUR-154",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-NEUR-155",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-NEUR-156",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-077"
+      ],
+      "disease_id": "DIS-NEUR-157",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-001"
+      ],
+      "disease_id": "DIS-NEUR-158",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-P-0023",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-NEUR-160",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-NEUR-161",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-NEUR-162",
       "review_status": "draft_ai_generated"
     }
   ]

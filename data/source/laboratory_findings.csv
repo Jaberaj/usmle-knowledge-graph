@@ -1,1 +1,7 @@
 entity_id,name,source_review_status,medical_review_status,deprecated
+NEUR-LAB-001,Albuminocytologic dissociation supporting peripheral demyelination context,source_checked,needs_medical_review,false
+NEUR-LAB-002,Oligoclonal bands supporting CNS inflammatory context,source_checked,needs_medical_review,false
+NEUR-LAB-003,Xanthochromia after appropriate hemorrhage evaluation,source_checked,needs_medical_review,false
+NEUR-LAB-004,CSF low glucose in selected infectious patterns,source_checked,needs_medical_review,false
+NEUR-LAB-005,Elevated CK in muscle-injury context,source_checked,needs_medical_review,false
+NEUR-LAB-006,Acetylcholine receptor antibody positivity in myasthenia context,source_checked,needs_medical_review,false

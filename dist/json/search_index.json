@@ -106,19 +106,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Obstructive sleep apnea",
-      "entity_id": "DIS-P-0023",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Pulmonology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "obstructive sleep apnea"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Pulmonary hypertension",
       "entity_id": "DIS-P-0024",
       "entity_type": "disease",
@@ -561,162 +548,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Acute ischemic stroke",
-      "entity_id": "DIS-N-0058",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "acute ischemic stroke"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Intracerebral hemorrhage",
-      "entity_id": "DIS-N-0059",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "intracerebral hemorrhage"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Subarachnoid hemorrhage",
-      "entity_id": "DIS-N-0060",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "subarachnoid hemorrhage"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Seizure disorder",
-      "entity_id": "DIS-N-0061",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "seizure disorder"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Status epilepticus",
-      "entity_id": "DIS-N-0062",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "status epilepticus"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Meningitis",
-      "entity_id": "DIS-N-0063",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "meningitis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Encephalitis",
-      "entity_id": "DIS-N-0064",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "encephalitis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Multiple sclerosis",
-      "entity_id": "DIS-N-0065",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "multiple sclerosis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Parkinson disease",
-      "entity_id": "DIS-N-0066",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "parkinson disease"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Myasthenia gravis",
-      "entity_id": "DIS-N-0067",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "myasthenia gravis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Guillain-Barre syndrome",
-      "entity_id": "DIS-N-0068",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "guillain-barre syndrome"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Delirium",
-      "entity_id": "DIS-N-0069",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "delirium"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Sepsis",
       "entity_id": "DIS-ID-0070",
       "entity_type": "disease",
@@ -1055,19 +886,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Giant cell arteritis",
-      "entity_id": "DIS-R-0096",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "giant cell arteritis"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Scleroderma",
       "entity_id": "DIS-R-0097",
       "entity_type": "disease",
@@ -1272,19 +1090,6 @@
       "priority": 3,
       "search_keywords": [
         "pyloric stenosis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Febrile seizure",
-      "entity_id": "DIS-P-0113",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Pediatrics"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "febrile seizure"
       ]
     },
     {
@@ -2806,6 +2611,2112 @@
       "priority": 1,
       "search_keywords": [
         "hypertrophic cardiomyopathy-associated syncope"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Transient ischemic attack",
+      "entity_id": "DIS-NEUR-001",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "transient ischemic attack"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Seizure disorder",
+      "entity_id": "DIS-N-0061",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "seizure disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Meningitis",
+      "entity_id": "DIS-N-0063",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "meningitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Delirium",
+      "entity_id": "DIS-N-0069",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "delirium"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute ischemic stroke",
+      "entity_id": "DIS-N-0058",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute ischemic stroke"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Large-vessel occlusion stroke",
+      "entity_id": "DIS-NEUR-006",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "large-vessel occlusion stroke"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lacunar stroke",
+      "entity_id": "DIS-NEUR-007",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lacunar stroke"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Watershed infarction",
+      "entity_id": "DIS-NEUR-008",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "watershed infarction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardioembolic stroke",
+      "entity_id": "DIS-NEUR-009",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cardioembolic stroke"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cryptogenic stroke",
+      "entity_id": "DIS-NEUR-010",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cryptogenic stroke"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cerebral venous sinus thrombosis",
+      "entity_id": "DIS-NEUR-011",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cerebral venous sinus thrombosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Intracerebral hemorrhage",
+      "entity_id": "DIS-N-0059",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "intracerebral hemorrhage"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Subarachnoid hemorrhage",
+      "entity_id": "DIS-N-0060",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "subarachnoid hemorrhage"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Epidural hematoma",
+      "entity_id": "DIS-NEUR-014",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "epidural hematoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Subdural hematoma",
+      "entity_id": "DIS-NEUR-015",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "subdural hematoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Intraventricular hemorrhage",
+      "entity_id": "DIS-NEUR-016",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "intraventricular hemorrhage"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypertensive cerebral hemorrhage",
+      "entity_id": "DIS-NEUR-017",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypertensive cerebral hemorrhage"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cerebral amyloid angiopathy",
+      "entity_id": "DIS-NEUR-018",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cerebral amyloid angiopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Carotid artery dissection",
+      "entity_id": "DIS-NEUR-019",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "carotid artery dissection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vertebral artery dissection",
+      "entity_id": "DIS-NEUR-020",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "vertebral artery dissection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Carotid artery stenosis",
+      "entity_id": "DIS-NEUR-021",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "carotid artery stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Moyamoya disease",
+      "entity_id": "DIS-NEUR-022",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "moyamoya disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Reversible cerebral vasoconstriction syndrome",
+      "entity_id": "DIS-NEUR-023",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "reversible cerebral vasoconstriction syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Posterior reversible encephalopathy syndrome",
+      "entity_id": "DIS-NEUR-024",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "posterior reversible encephalopathy syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vascular dementia",
+      "entity_id": "DIS-NEUR-025",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "vascular dementia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Middle cerebral artery syndrome",
+      "entity_id": "DIS-NEUR-026",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "middle cerebral artery syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Anterior cerebral artery syndrome",
+      "entity_id": "DIS-NEUR-027",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "anterior cerebral artery syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Posterior cerebral artery syndrome",
+      "entity_id": "DIS-NEUR-028",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "posterior cerebral artery syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Basilar artery syndrome",
+      "entity_id": "DIS-NEUR-029",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "basilar artery syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lateral medullary syndrome",
+      "entity_id": "DIS-NEUR-030",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lateral medullary syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Medial medullary syndrome",
+      "entity_id": "DIS-NEUR-031",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "medial medullary syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Locked-in syndrome",
+      "entity_id": "DIS-NEUR-032",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "locked-in syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pure motor lacunar syndrome",
+      "entity_id": "DIS-NEUR-033",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pure motor lacunar syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "First unprovoked seizure",
+      "entity_id": "DIS-NEUR-034",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "first unprovoked seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Focal aware seizure",
+      "entity_id": "DIS-NEUR-035",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "focal aware seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Focal impaired-awareness seizure",
+      "entity_id": "DIS-NEUR-036",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "focal impaired-awareness seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Focal to bilateral tonic-clonic seizure",
+      "entity_id": "DIS-NEUR-037",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "focal to bilateral tonic-clonic seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Generalized tonic-clonic seizure",
+      "entity_id": "DIS-NEUR-038",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "generalized tonic-clonic seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Absence seizure",
+      "entity_id": "DIS-NEUR-039",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "absence seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myoclonic seizure",
+      "entity_id": "DIS-NEUR-040",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "myoclonic seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Atonic seizure",
+      "entity_id": "DIS-NEUR-041",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "atonic seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Infantile spasms",
+      "entity_id": "DIS-NEUR-042",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "infantile spasms"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Febrile seizure",
+      "entity_id": "DIS-P-0113",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "febrile seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Status epilepticus",
+      "entity_id": "DIS-N-0062",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "status epilepticus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nonconvulsive status epilepticus",
+      "entity_id": "DIS-NEUR-045",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "nonconvulsive status epilepticus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Psychogenic nonepileptic seizures",
+      "entity_id": "DIS-NEUR-046",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "psychogenic nonepileptic seizures"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Juvenile myoclonic epilepsy",
+      "entity_id": "DIS-NEUR-047",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "juvenile myoclonic epilepsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Childhood absence epilepsy",
+      "entity_id": "DIS-NEUR-048",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "childhood absence epilepsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Temporal-lobe epilepsy",
+      "entity_id": "DIS-NEUR-049",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "temporal-lobe epilepsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lennox-Gastaut syndrome",
+      "entity_id": "DIS-NEUR-050",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lennox-gastaut syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "West syndrome",
+      "entity_id": "DIS-NEUR-051",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "west syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dravet syndrome",
+      "entity_id": "DIS-NEUR-052",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "dravet syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Migraine without aura",
+      "entity_id": "DIS-NEUR-053",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "migraine without aura"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Migraine with aura",
+      "entity_id": "DIS-NEUR-054",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "migraine with aura"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hemiplegic migraine",
+      "entity_id": "DIS-NEUR-055",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hemiplegic migraine"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cluster headache",
+      "entity_id": "DIS-NEUR-056",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cluster headache"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Trigeminal neuralgia",
+      "entity_id": "DIS-NEUR-057",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "trigeminal neuralgia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Idiopathic intracranial hypertension",
+      "entity_id": "DIS-NEUR-058",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "idiopathic intracranial hypertension"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Intracranial hypotension",
+      "entity_id": "DIS-NEUR-059",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "intracranial hypotension"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Giant cell arteritis",
+      "entity_id": "DIS-R-0096",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "giant cell arteritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Post-dural-puncture headache",
+      "entity_id": "DIS-NEUR-061",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "post-dural-puncture headache"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute bacterial meningitis",
+      "entity_id": "DIS-NEUR-062",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute bacterial meningitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Viral meningitis",
+      "entity_id": "DIS-NEUR-063",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "viral meningitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tuberculous meningitis",
+      "entity_id": "DIS-NEUR-064",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tuberculous meningitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cryptococcal meningitis",
+      "entity_id": "DIS-NEUR-065",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cryptococcal meningitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Encephalitis",
+      "entity_id": "DIS-N-0064",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "encephalitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "HSV encephalitis",
+      "entity_id": "DIS-NEUR-067",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hsv encephalitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Brain abscess",
+      "entity_id": "DIS-NEUR-068",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "brain abscess"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spinal epidural abscess",
+      "entity_id": "DIS-NEUR-069",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "spinal epidural abscess"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Neurosyphilis",
+      "entity_id": "DIS-NEUR-070",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "neurosyphilis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Progressive multifocal leukoencephalopathy",
+      "entity_id": "DIS-NEUR-071",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "progressive multifocal leukoencephalopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Multiple sclerosis",
+      "entity_id": "DIS-N-0065",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "multiple sclerosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Clinically isolated syndrome",
+      "entity_id": "DIS-NEUR-073",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "clinically isolated syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Neuromyelitis optica spectrum disorder",
+      "entity_id": "DIS-NEUR-074",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "neuromyelitis optica spectrum disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "MOG antibody-associated disease",
+      "entity_id": "DIS-NEUR-075",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mog antibody-associated disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute disseminated encephalomyelitis",
+      "entity_id": "DIS-NEUR-076",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute disseminated encephalomyelitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Transverse myelitis",
+      "entity_id": "DIS-NEUR-077",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "transverse myelitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Optic neuritis",
+      "entity_id": "DIS-NEUR-078",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "optic neuritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Guillain-Barre syndrome",
+      "entity_id": "DIS-N-0068",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "guillain-barre syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic inflammatory demyelinating polyneuropathy",
+      "entity_id": "DIS-NEUR-080",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "chronic inflammatory demyelinating polyneuropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Autoimmune encephalitis",
+      "entity_id": "DIS-NEUR-081",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "autoimmune encephalitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Anti-NMDA receptor encephalitis",
+      "entity_id": "DIS-NEUR-082",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "anti-nmda receptor encephalitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Parkinson disease",
+      "entity_id": "DIS-N-0066",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "parkinson disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Drug-induced parkinsonism",
+      "entity_id": "DIS-NEUR-084",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "drug-induced parkinsonism"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Multiple system atrophy",
+      "entity_id": "DIS-NEUR-085",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "multiple system atrophy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Progressive supranuclear palsy",
+      "entity_id": "DIS-NEUR-086",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "progressive supranuclear palsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Essential tremor",
+      "entity_id": "DIS-NEUR-087",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "essential tremor"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Huntington disease",
+      "entity_id": "DIS-NEUR-088",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "huntington disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Wilson disease",
+      "entity_id": "DIS-NEUR-089",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "wilson disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tourette disorder",
+      "entity_id": "DIS-NEUR-090",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tourette disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tardive dyskinesia",
+      "entity_id": "DIS-NEUR-091",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tardive dyskinesia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute dystonia",
+      "entity_id": "DIS-NEUR-092",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute dystonia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Akathisia",
+      "entity_id": "DIS-NEUR-093",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "akathisia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Neuroleptic malignant syndrome",
+      "entity_id": "DIS-NEUR-094",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "neuroleptic malignant syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Serotonin syndrome",
+      "entity_id": "DIS-NEUR-095",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "serotonin syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Alzheimer disease",
+      "entity_id": "DIS-NEUR-096",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "alzheimer disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dementia with Lewy bodies",
+      "entity_id": "DIS-NEUR-097",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "dementia with lewy bodies"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Frontotemporal dementia",
+      "entity_id": "DIS-NEUR-098",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "frontotemporal dementia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Normal-pressure hydrocephalus",
+      "entity_id": "DIS-NEUR-099",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "normal-pressure hydrocephalus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Creutzfeldt-Jakob disease",
+      "entity_id": "DIS-NEUR-100",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "creutzfeldt-jakob disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Wernicke encephalopathy",
+      "entity_id": "DIS-NEUR-101",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "wernicke encephalopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Korsakoff syndrome",
+      "entity_id": "DIS-NEUR-102",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "korsakoff syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myasthenia gravis",
+      "entity_id": "DIS-N-0067",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "myasthenia gravis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myasthenic crisis",
+      "entity_id": "DIS-NEUR-104",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "myasthenic crisis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cholinergic crisis",
+      "entity_id": "DIS-NEUR-105",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cholinergic crisis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lambert-Eaton myasthenic syndrome",
+      "entity_id": "DIS-NEUR-106",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lambert-eaton myasthenic syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Botulism",
+      "entity_id": "DIS-NEUR-107",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "botulism"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Duchenne muscular dystrophy",
+      "entity_id": "DIS-NEUR-108",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "duchenne muscular dystrophy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dermatomyositis",
+      "entity_id": "DIS-NEUR-109",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "dermatomyositis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Polymyositis",
+      "entity_id": "DIS-NEUR-110",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "polymyositis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rhabdomyolysis",
+      "entity_id": "DIS-NEUR-111",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rhabdomyolysis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Malignant hyperthermia",
+      "entity_id": "DIS-NEUR-112",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "malignant hyperthermia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Diabetic polyneuropathy",
+      "entity_id": "DIS-NEUR-113",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "diabetic polyneuropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vitamin B12 deficiency neuropathy",
+      "entity_id": "DIS-NEUR-114",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "vitamin b12 deficiency neuropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Carpal tunnel syndrome",
+      "entity_id": "DIS-NEUR-115",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "carpal tunnel syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ulnar neuropathy",
+      "entity_id": "DIS-NEUR-116",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ulnar neuropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Common peroneal neuropathy",
+      "entity_id": "DIS-NEUR-117",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "common peroneal neuropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bell palsy",
+      "entity_id": "DIS-NEUR-118",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "bell palsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ramsay Hunt syndrome",
+      "entity_id": "DIS-NEUR-119",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ramsay hunt syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cauda equina syndrome",
+      "entity_id": "DIS-NEUR-120",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cauda equina syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Conus medullaris syndrome",
+      "entity_id": "DIS-NEUR-121",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "conus medullaris syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cervical myelopathy",
+      "entity_id": "DIS-NEUR-122",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cervical myelopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lumbar radiculopathy",
+      "entity_id": "DIS-NEUR-123",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lumbar radiculopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spinal cord compression",
+      "entity_id": "DIS-NEUR-124",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "spinal cord compression"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Anterior spinal artery syndrome",
+      "entity_id": "DIS-NEUR-125",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "anterior spinal artery syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Brown-Sequard syndrome",
+      "entity_id": "DIS-NEUR-126",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "brown-sequard syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Syringomyelia",
+      "entity_id": "DIS-NEUR-127",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "syringomyelia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Amyotrophic lateral sclerosis",
+      "entity_id": "DIS-NEUR-128",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "amyotrophic lateral sclerosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Glioblastoma",
+      "entity_id": "DIS-NEUR-129",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "glioblastoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Oligodendroglioma",
+      "entity_id": "DIS-NEUR-130",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "oligodendroglioma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Meningioma",
+      "entity_id": "DIS-NEUR-131",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "meningioma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vestibular schwannoma",
+      "entity_id": "DIS-NEUR-132",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "vestibular schwannoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pituitary adenoma",
+      "entity_id": "DIS-NEUR-133",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "pituitary adenoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Medulloblastoma",
+      "entity_id": "DIS-NEUR-134",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "medulloblastoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Primary CNS lymphoma",
+      "entity_id": "DIS-NEUR-135",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "primary cns lymphoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Brain metastases",
+      "entity_id": "DIS-NEUR-136",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "brain metastases"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Increased intracranial pressure",
+      "entity_id": "DIS-NEUR-137",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "increased intracranial pressure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Obstructive hydrocephalus",
+      "entity_id": "DIS-NEUR-138",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "obstructive hydrocephalus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Communicating hydrocephalus",
+      "entity_id": "DIS-NEUR-139",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "communicating hydrocephalus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Uncal herniation",
+      "entity_id": "DIS-NEUR-140",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "uncal herniation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Papilledema",
+      "entity_id": "DIS-NEUR-141",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "papilledema"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Oculomotor nerve palsy",
+      "entity_id": "DIS-NEUR-142",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "oculomotor nerve palsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Abducens nerve palsy",
+      "entity_id": "DIS-NEUR-143",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "abducens nerve palsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Internuclear ophthalmoplegia",
+      "entity_id": "DIS-NEUR-144",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "internuclear ophthalmoplegia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Horner syndrome",
+      "entity_id": "DIS-NEUR-145",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "horner syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Benign paroxysmal positional vertigo",
+      "entity_id": "DIS-NEUR-146",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "benign paroxysmal positional vertigo"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vestibular neuritis",
+      "entity_id": "DIS-NEUR-147",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "vestibular neuritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Central vertigo",
+      "entity_id": "DIS-NEUR-148",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "central vertigo"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cerebellar stroke",
+      "entity_id": "DIS-NEUR-149",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cerebellar stroke"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cerebral palsy",
+      "entity_id": "DIS-NEUR-150",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cerebral palsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spinal muscular atrophy",
+      "entity_id": "DIS-NEUR-151",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "spinal muscular atrophy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tuberous sclerosis",
+      "entity_id": "DIS-NEUR-152",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tuberous sclerosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Neurofibromatosis type 1",
+      "entity_id": "DIS-NEUR-153",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "neurofibromatosis type 1"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rett syndrome",
+      "entity_id": "DIS-NEUR-154",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rett syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hepatic encephalopathy",
+      "entity_id": "DIS-NEUR-155",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hepatic encephalopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyponatremic encephalopathy",
+      "entity_id": "DIS-NEUR-156",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hyponatremic encephalopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Carbon monoxide poisoning",
+      "entity_id": "DIS-NEUR-157",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "carbon monoxide poisoning"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osmotic demyelination syndrome",
+      "entity_id": "DIS-NEUR-158",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osmotic demyelination syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Obstructive sleep apnea",
+      "entity_id": "DIS-P-0023",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "obstructive sleep apnea"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Narcolepsy",
+      "entity_id": "DIS-NEUR-160",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "narcolepsy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "REM sleep behavior disorder",
+      "entity_id": "DIS-NEUR-161",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rem sleep behavior disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Restless legs syndrome",
+      "entity_id": "DIS-NEUR-162",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "restless legs syndrome"
       ]
     }
   ],

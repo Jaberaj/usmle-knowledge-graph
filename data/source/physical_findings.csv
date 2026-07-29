@@ -1,1 +1,9 @@
 entity_id,name,source_review_status,medical_review_status,deprecated
+NEUR-PHY-001,Pronator drift indicating corticospinal weakness,source_checked,needs_medical_review,false
+NEUR-PHY-002,Babinski sign indicating upper motor neuron dysfunction,source_checked,needs_medical_review,false
+NEUR-PHY-003,Hyperreflexia with spasticity,source_checked,needs_medical_review,false
+NEUR-PHY-004,Hyporeflexia in peripheral dysfunction,source_checked,needs_medical_review,false
+NEUR-PHY-005,Nystagmus requiring central-versus-peripheral context,source_checked,needs_medical_review,false
+NEUR-PHY-006,Papilledema indicating raised intracranial pressure,source_checked,needs_medical_review,false
+NEUR-PHY-007,Meningismus with meningeal inflammation concern,source_checked,needs_medical_review,false
+NEUR-PHY-008,Romberg sign suggesting sensory or vestibular imbalance,source_checked,needs_medical_review,false
