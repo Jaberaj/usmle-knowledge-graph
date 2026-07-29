@@ -1,0 +1,12 @@
+id,name
+REF-001,start
+REF-002,stabilization
+REF-003,history
+REF-004,examination
+REF-005,test
+REF-006,decision
+REF-007,treatment
+REF-008,consultation
+REF-009,disposition
+REF-010,reassessment
+REF-011,terminal

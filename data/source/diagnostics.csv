@@ -1,0 +1,31 @@
+diagnostic_id,name,diagnostic_type,specimen_or_modality,general_description,limitations_summary,contraindications_summary,source_review_status,medical_review_status,deprecated,notes
+DIA-001,Electrocardiogram,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-002,Chest radiograph,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-003,Complete blood count,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-004,Basic metabolic panel,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-005,Comprehensive metabolic panel,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-006,Troponin assay,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-007,Urinalysis,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-008,Blood cultures,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-009,Computed tomography,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-010,Magnetic resonance imaging,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-011,Ultrasound,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-012,Echocardiography,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-013,Arterial blood gas,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-014,Venous blood gas,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-015,Lactate,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-016,D-dimer,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-017,Coagulation studies,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-018,Lumbar puncture,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-019,Electroencephalogram,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-020,Cardiac catheterization,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-021,Endoscopy,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-022,Colonoscopy,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-023,Pregnancy test,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-024,Peripheral smear,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-025,Thyroid studies,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-026,Hemoglobin A1c,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-027,B-type natriuretic peptide,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-028,Lipase,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-029,Liver panel,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.
+DIA-030,Drug screen,test,review_required,Draft diagnostic concept.,Review required.,Review required.,draft_ai_generated,draft_ai_generated,false,Requires source and physician review.

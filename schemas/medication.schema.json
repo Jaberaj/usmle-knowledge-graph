@@ -1,0 +1,1 @@
+{"type":"object","required":["medication_id","generic_name","medical_review_status"]}

@@ -1,0 +1,774 @@
+{
+  "records": [
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0001",
+        "DIS-HO-0081",
+        "DIS-N-0041",
+        "DIS-OG-0121"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Chest pain",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-001",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0002",
+        "DIS-HO-0082",
+        "DIS-N-0042",
+        "DIS-ST-0122"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Dyspnea",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-002",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0003",
+        "DIS-HO-0083",
+        "DIS-N-0043",
+        "DIS-ST-0123"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Syncope",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-003",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0004",
+        "DIS-HO-0084",
+        "DIS-N-0044",
+        "DIS-ST-0124"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Palpitations",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-004",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0005",
+        "DIS-HO-0085",
+        "DIS-N-0045",
+        "DIS-ST-0125"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Fever",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-005",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0006",
+        "DIS-HO-0086",
+        "DIS-N-0046",
+        "DIS-ST-0126"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Altered mental status",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-006",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0007",
+        "DIS-HO-0087",
+        "DIS-N-0047",
+        "DIS-ST-0127"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Headache",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-007",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0008",
+        "DIS-E-0048",
+        "DIS-HO-0088",
+        "DIS-ST-0128"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Focal neurologic deficit",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-008",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0009",
+        "DIS-E-0049",
+        "DIS-HO-0089",
+        "DIS-ST-0129"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Seizure",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-009",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0010",
+        "DIS-E-0050",
+        "DIS-R-0090"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Abdominal pain",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-010",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0011",
+        "DIS-E-0051",
+        "DIS-R-0091"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Nausea and vomiting",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-011",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0012",
+        "DIS-E-0052",
+        "DIS-R-0092"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Diarrhea",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-012",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0013",
+        "DIS-E-0053",
+        "DIS-R-0093"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Gastrointestinal bleeding",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-013",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0014",
+        "DIS-E-0054",
+        "DIS-R-0094"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Jaundice",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-014",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-C-0015",
+        "DIS-E-0055",
+        "DIS-R-0095"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Dysuria",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-015",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-E-0056",
+        "DIS-P-0016",
+        "DIS-R-0096"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Hematuria",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-016",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-E-0057",
+        "DIS-P-0017",
+        "DIS-R-0097"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Acute kidney injury",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-017",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0058",
+        "DIS-P-0018",
+        "DIS-P-0098"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Edema",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-018",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0059",
+        "DIS-P-0019",
+        "DIS-P-0099"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Rash",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-019",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0060",
+        "DIS-P-0020",
+        "DIS-P-0100"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Joint pain",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-020",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0061",
+        "DIS-P-0021",
+        "DIS-P-0101"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Weakness",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-021",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0062",
+        "DIS-P-0022",
+        "DIS-P-0102"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Fatigue",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-022",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0063",
+        "DIS-P-0023",
+        "DIS-P-0103"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Anemia",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-023",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0064",
+        "DIS-P-0024",
+        "DIS-P-0104"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Lymphadenopathy",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-024",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-N-0065",
+        "DIS-P-0025",
+        "DIS-P-0105"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Weight loss",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-025",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0026",
+        "DIS-N-0066",
+        "DIS-P-0106"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Hyperglycemia",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-026",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0027",
+        "DIS-N-0067",
+        "DIS-P-0107"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Hypoglycemia",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-027",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0028",
+        "DIS-N-0068",
+        "DIS-P-0108"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Vaginal bleeding",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-028",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0029",
+        "DIS-N-0069",
+        "DIS-P-0109"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Pelvic pain",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-029",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0030",
+        "DIS-ID-0070",
+        "DIS-P-0110"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Amenorrhea",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-030",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0031",
+        "DIS-ID-0071",
+        "DIS-P-0111"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Pregnancy with abdominal pain",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-031",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0032",
+        "DIS-ID-0072",
+        "DIS-P-0112"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Pediatric fever",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-032",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0033",
+        "DIS-ID-0073",
+        "DIS-P-0113"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Neonatal respiratory distress",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-033",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0034",
+        "DIS-ID-0074",
+        "DIS-OG-0114"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Trauma",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-034",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0035",
+        "DIS-ID-0075",
+        "DIS-OG-0115"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Shock",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-035",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0036",
+        "DIS-ID-0076",
+        "DIS-OG-0116"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "2",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Back pain",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-036",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-G-0037",
+        "DIS-ID-0077",
+        "DIS-OG-0117"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "3",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Cough",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-037",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-ID-0078",
+        "DIS-N-0038",
+        "DIS-OG-0118"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "4",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Hemoptysis",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-038",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-ID-0079",
+        "DIS-N-0039",
+        "DIS-OG-0119"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "5",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Oliguria",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-039",
+      "source_review_status": "draft_ai_generated"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-HO-0080",
+        "DIS-N-0040",
+        "DIS-OG-0120"
+      ],
+      "concise_definition": "Draft educational presentation summary.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess stability; human review required.",
+      "initial_test_categories": "Draft pending review.",
+      "key_exam_focus": "Draft pending review.",
+      "key_history_questions": "Draft pending review.",
+      "medical_review_status": "draft_ai_generated",
+      "name": "Confusion",
+      "notes": "Requires source and physician review.",
+      "presentation_id": "PRS-040",
+      "source_review_status": "draft_ai_generated"
+    }
+  ],
+  "schema_version": "1.0.0"
+}

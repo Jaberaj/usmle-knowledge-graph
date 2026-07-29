@@ -1,0 +1,2 @@
+[console_scripts]
+usmle-kb = usmle_kb.cli:main

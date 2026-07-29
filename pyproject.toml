@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "usmle-clinical-knowledge-base"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = ["pydantic>=2.8"]
+
+[project.optional-dependencies]
+dev = ["mypy>=1.11", "pre-commit>=3.8", "pytest>=8.3", "ruff>=0.6"]
+
+[project.scripts]
+usmle-kb = "usmle_kb.cli:main"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+packages = ["usmle_kb"]

@@ -1,0 +1,1 @@
+{"type":"object","required":["disease_id","canonical_name","organ_system_primary","board_exam_priority","medical_review_status"]}

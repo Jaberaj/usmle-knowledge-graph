@@ -1,0 +1,31 @@
+algorithm_step_id,algorithm_id,node_id,node_type,prompt_or_action,condition_expression,next_node_if_true,next_node_if_false,next_node_default,terminal_outcome,sequence_hint,explanation,source_review_status,medical_review_status
+AST-001-1,ALG-001,NODE-001-START,start,Assess immediate stability.,,,,NODE-001-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-001-2,ALG-001,NODE-001-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-002-1,ALG-002,NODE-002-START,start,Assess immediate stability.,,,,NODE-002-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-002-2,ALG-002,NODE-002-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-003-1,ALG-003,NODE-003-START,start,Assess immediate stability.,,,,NODE-003-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-003-2,ALG-003,NODE-003-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-004-1,ALG-004,NODE-004-START,start,Assess immediate stability.,,,,NODE-004-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-004-2,ALG-004,NODE-004-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-005-1,ALG-005,NODE-005-START,start,Assess immediate stability.,,,,NODE-005-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-005-2,ALG-005,NODE-005-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-006-1,ALG-006,NODE-006-START,start,Assess immediate stability.,,,,NODE-006-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-006-2,ALG-006,NODE-006-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-007-1,ALG-007,NODE-007-START,start,Assess immediate stability.,,,,NODE-007-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-007-2,ALG-007,NODE-007-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-008-1,ALG-008,NODE-008-START,start,Assess immediate stability.,,,,NODE-008-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-008-2,ALG-008,NODE-008-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-009-1,ALG-009,NODE-009-START,start,Assess immediate stability.,,,,NODE-009-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-009-2,ALG-009,NODE-009-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-010-1,ALG-010,NODE-010-START,start,Assess immediate stability.,,,,NODE-010-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-010-2,ALG-010,NODE-010-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-011-1,ALG-011,NODE-011-START,start,Assess immediate stability.,,,,NODE-011-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-011-2,ALG-011,NODE-011-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-012-1,ALG-012,NODE-012-START,start,Assess immediate stability.,,,,NODE-012-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-012-2,ALG-012,NODE-012-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-013-1,ALG-013,NODE-013-START,start,Assess immediate stability.,,,,NODE-013-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-013-2,ALG-013,NODE-013-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-014-1,ALG-014,NODE-014-START,start,Assess immediate stability.,,,,NODE-014-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-014-2,ALG-014,NODE-014-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-015-1,ALG-015,NODE-015-START,start,Assess immediate stability.,,,,NODE-015-END,,1,Draft educational graph.,draft_ai_generated,draft_ai_generated
+AST-015-2,ALG-015,NODE-015-END,terminal,Escalate according to reviewed local protocol.,,,,,review_required,2,Draft educational graph.,draft_ai_generated,draft_ai_generated

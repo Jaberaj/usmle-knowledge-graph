@@ -1,0 +1,1682 @@
+{
+  "records": [
+    {
+      "aliases": [],
+      "canonical_name": "Acute coronary syndrome",
+      "entity_id": "DIS-C-0001",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute coronary syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Aortic dissection",
+      "entity_id": "DIS-C-0002",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "aortic dissection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute pericarditis",
+      "entity_id": "DIS-C-0003",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "acute pericarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardiac tamponade",
+      "entity_id": "DIS-C-0004",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "cardiac tamponade"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardiogenic shock",
+      "entity_id": "DIS-C-0005",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cardiogenic shock"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Atrial fibrillation",
+      "entity_id": "DIS-C-0006",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "atrial fibrillation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Atrial flutter",
+      "entity_id": "DIS-C-0007",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "atrial flutter"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Supraventricular tachycardia",
+      "entity_id": "DIS-C-0008",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "supraventricular tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ventricular tachycardia",
+      "entity_id": "DIS-C-0009",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "ventricular tachycardia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Heart failure",
+      "entity_id": "DIS-C-0010",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "heart failure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypertrophic cardiomyopathy",
+      "entity_id": "DIS-C-0011",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hypertrophic cardiomyopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Infective endocarditis",
+      "entity_id": "DIS-C-0012",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "infective endocarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Aortic stenosis",
+      "entity_id": "DIS-C-0013",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "aortic stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mitral regurgitation",
+      "entity_id": "DIS-C-0014",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "mitral regurgitation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pulmonary embolism",
+      "entity_id": "DIS-C-0015",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Cardiology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pulmonary embolism"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Asthma exacerbation",
+      "entity_id": "DIS-P-0016",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "asthma exacerbation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic obstructive pulmonary disease exacerbation",
+      "entity_id": "DIS-P-0017",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "chronic obstructive pulmonary disease exacerbation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pneumonia",
+      "entity_id": "DIS-P-0018",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "pneumonia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pneumothorax",
+      "entity_id": "DIS-P-0019",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "pneumothorax"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tension pneumothorax",
+      "entity_id": "DIS-P-0020",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tension pneumothorax"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute respiratory distress syndrome",
+      "entity_id": "DIS-P-0021",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute respiratory distress syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Interstitial lung disease",
+      "entity_id": "DIS-P-0022",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "interstitial lung disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Obstructive sleep apnea",
+      "entity_id": "DIS-P-0023",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "obstructive sleep apnea"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pulmonary hypertension",
+      "entity_id": "DIS-P-0024",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "pulmonary hypertension"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tuberculosis",
+      "entity_id": "DIS-P-0025",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pulmonology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tuberculosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Upper gastrointestinal bleeding",
+      "entity_id": "DIS-G-0026",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "upper gastrointestinal bleeding"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lower gastrointestinal bleeding",
+      "entity_id": "DIS-G-0027",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "lower gastrointestinal bleeding"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Peptic ulcer disease",
+      "entity_id": "DIS-G-0028",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "peptic ulcer disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute pancreatitis",
+      "entity_id": "DIS-G-0029",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "acute pancreatitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute cholecystitis",
+      "entity_id": "DIS-G-0030",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute cholecystitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ascending cholangitis",
+      "entity_id": "DIS-G-0031",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ascending cholangitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hepatitis",
+      "entity_id": "DIS-G-0032",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "hepatitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cirrhosis",
+      "entity_id": "DIS-G-0033",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "cirrhosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spontaneous bacterial peritonitis",
+      "entity_id": "DIS-G-0034",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "spontaneous bacterial peritonitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Inflammatory bowel disease",
+      "entity_id": "DIS-G-0035",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "inflammatory bowel disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Small bowel obstruction",
+      "entity_id": "DIS-G-0036",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "small bowel obstruction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mesenteric ischemia",
+      "entity_id": "DIS-G-0037",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Gastroenterology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "mesenteric ischemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute kidney injury",
+      "entity_id": "DIS-N-0038",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "acute kidney injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic kidney disease",
+      "entity_id": "DIS-N-0039",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "chronic kidney disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephrotic syndrome",
+      "entity_id": "DIS-N-0040",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "nephrotic syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephritic syndrome",
+      "entity_id": "DIS-N-0041",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nephritic syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pyelonephritis",
+      "entity_id": "DIS-N-0042",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "pyelonephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal colic",
+      "entity_id": "DIS-N-0043",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "renal colic"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyperkalemia",
+      "entity_id": "DIS-N-0044",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "hyperkalemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyponatremia",
+      "entity_id": "DIS-N-0045",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hyponatremia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Metabolic acidosis",
+      "entity_id": "DIS-N-0046",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "metabolic acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal tubular acidosis",
+      "entity_id": "DIS-N-0047",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Nephrology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "renal tubular acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Diabetic ketoacidosis",
+      "entity_id": "DIS-E-0048",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "diabetic ketoacidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyperosmolar hyperglycemic state",
+      "entity_id": "DIS-E-0049",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "hyperosmolar hyperglycemic state"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypoglycemia",
+      "entity_id": "DIS-E-0050",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypoglycemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Thyroid storm",
+      "entity_id": "DIS-E-0051",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "thyroid storm"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myxedema coma",
+      "entity_id": "DIS-E-0052",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "myxedema coma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Primary adrenal insufficiency",
+      "entity_id": "DIS-E-0053",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "primary adrenal insufficiency"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cushing syndrome",
+      "entity_id": "DIS-E-0054",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "cushing syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pheochromocytoma",
+      "entity_id": "DIS-E-0055",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pheochromocytoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypercalcemia",
+      "entity_id": "DIS-E-0056",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hypercalcemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Diabetes mellitus",
+      "entity_id": "DIS-E-0057",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Endocrinology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "diabetes mellitus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute ischemic stroke",
+      "entity_id": "DIS-N-0058",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "acute ischemic stroke"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Intracerebral hemorrhage",
+      "entity_id": "DIS-N-0059",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "intracerebral hemorrhage"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Subarachnoid hemorrhage",
+      "entity_id": "DIS-N-0060",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "subarachnoid hemorrhage"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Seizure disorder",
+      "entity_id": "DIS-N-0061",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "seizure disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Status epilepticus",
+      "entity_id": "DIS-N-0062",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "status epilepticus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Meningitis",
+      "entity_id": "DIS-N-0063",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "meningitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Encephalitis",
+      "entity_id": "DIS-N-0064",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "encephalitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Multiple sclerosis",
+      "entity_id": "DIS-N-0065",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "multiple sclerosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Parkinson disease",
+      "entity_id": "DIS-N-0066",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "parkinson disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myasthenia gravis",
+      "entity_id": "DIS-N-0067",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "myasthenia gravis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Guillain-Barre syndrome",
+      "entity_id": "DIS-N-0068",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "guillain-barre syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Delirium",
+      "entity_id": "DIS-N-0069",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "delirium"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Sepsis",
+      "entity_id": "DIS-ID-0070",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "sepsis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Anaphylaxis",
+      "entity_id": "DIS-ID-0071",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "anaphylaxis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cellulitis",
+      "entity_id": "DIS-ID-0072",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "cellulitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteomyelitis",
+      "entity_id": "DIS-ID-0073",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "osteomyelitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Human immunodeficiency virus infection",
+      "entity_id": "DIS-ID-0074",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "human immunodeficiency virus infection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Infective diarrhea",
+      "entity_id": "DIS-ID-0075",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "infective diarrhea"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Clostridioides difficile infection",
+      "entity_id": "DIS-ID-0076",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "clostridioides difficile infection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Malaria",
+      "entity_id": "DIS-ID-0077",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "malaria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lyme disease",
+      "entity_id": "DIS-ID-0078",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "lyme disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Toxic shock syndrome",
+      "entity_id": "DIS-ID-0079",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Infectious Disease"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "toxic shock syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Iron deficiency anemia",
+      "entity_id": "DIS-HO-0080",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "iron deficiency anemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hemolytic anemia",
+      "entity_id": "DIS-HO-0081",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hemolytic anemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Sickle cell disease",
+      "entity_id": "DIS-HO-0082",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "sickle cell disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Immune thrombocytopenia",
+      "entity_id": "DIS-HO-0083",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "immune thrombocytopenia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Disseminated intravascular coagulation",
+      "entity_id": "DIS-HO-0084",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "disseminated intravascular coagulation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute leukemia",
+      "entity_id": "DIS-HO-0085",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute leukemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lymphoma",
+      "entity_id": "DIS-HO-0086",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lymphoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Multiple myeloma",
+      "entity_id": "DIS-HO-0087",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "multiple myeloma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Neutropenic fever",
+      "entity_id": "DIS-HO-0088",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "neutropenic fever"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tumor lysis syndrome",
+      "entity_id": "DIS-HO-0089",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Hematology Oncology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "tumor lysis syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Systemic lupus erythematosus",
+      "entity_id": "DIS-R-0090",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "systemic lupus erythematosus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rheumatoid arthritis",
+      "entity_id": "DIS-R-0091",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rheumatoid arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Gout",
+      "entity_id": "DIS-R-0092",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "gout"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Septic arthritis",
+      "entity_id": "DIS-R-0093",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "septic arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vasculitis",
+      "entity_id": "DIS-R-0094",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "vasculitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Polymyalgia rheumatica",
+      "entity_id": "DIS-R-0095",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "polymyalgia rheumatica"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Giant cell arteritis",
+      "entity_id": "DIS-R-0096",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "giant cell arteritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scleroderma",
+      "entity_id": "DIS-R-0097",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Rheumatology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "scleroderma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Major depressive disorder",
+      "entity_id": "DIS-P-0098",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "major depressive disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bipolar disorder",
+      "entity_id": "DIS-P-0099",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "bipolar disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Schizophrenia",
+      "entity_id": "DIS-P-0100",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "schizophrenia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Panic disorder",
+      "entity_id": "DIS-P-0101",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "panic disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Generalized anxiety disorder",
+      "entity_id": "DIS-P-0102",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "generalized anxiety disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Alcohol withdrawal",
+      "entity_id": "DIS-P-0103",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "alcohol withdrawal"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Opioid use disorder",
+      "entity_id": "DIS-P-0104",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "opioid use disorder"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Delirium tremens",
+      "entity_id": "DIS-P-0105",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Psychiatry"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "delirium tremens"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bronchiolitis",
+      "entity_id": "DIS-P-0106",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "bronchiolitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Croup",
+      "entity_id": "DIS-P-0107",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "croup"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Epiglottitis",
+      "entity_id": "DIS-P-0108",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "epiglottitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Kawasaki disease",
+      "entity_id": "DIS-P-0109",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "kawasaki disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pediatric sepsis",
+      "entity_id": "DIS-P-0110",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pediatric sepsis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Intussusception",
+      "entity_id": "DIS-P-0111",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "intussusception"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pyloric stenosis",
+      "entity_id": "DIS-P-0112",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "pyloric stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Febrile seizure",
+      "entity_id": "DIS-P-0113",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Pediatrics"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "febrile seizure"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ectopic pregnancy",
+      "entity_id": "DIS-OG-0114",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "ectopic pregnancy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Preeclampsia",
+      "entity_id": "DIS-OG-0115",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "preeclampsia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Eclampsia",
+      "entity_id": "DIS-OG-0116",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "eclampsia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Placental abruption",
+      "entity_id": "DIS-OG-0117",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "placental abruption"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Placenta previa",
+      "entity_id": "DIS-OG-0118",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "placenta previa"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Postpartum hemorrhage",
+      "entity_id": "DIS-OG-0119",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "postpartum hemorrhage"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pelvic inflammatory disease",
+      "entity_id": "DIS-OG-0120",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pelvic inflammatory disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ovarian torsion",
+      "entity_id": "DIS-OG-0121",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Obstetrics Gynecology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ovarian torsion"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hemorrhagic shock",
+      "entity_id": "DIS-ST-0122",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "hemorrhagic shock"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Traumatic brain injury",
+      "entity_id": "DIS-ST-0123",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "traumatic brain injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spinal cord injury",
+      "entity_id": "DIS-ST-0124",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "spinal cord injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Compartment syndrome",
+      "entity_id": "DIS-ST-0125",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "compartment syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Necrotizing soft tissue infection",
+      "entity_id": "DIS-ST-0126",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "necrotizing soft tissue infection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute appendicitis",
+      "entity_id": "DIS-ST-0127",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 3,
+      "search_keywords": [
+        "acute appendicitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Testicular torsion",
+      "entity_id": "DIS-ST-0128",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 4,
+      "search_keywords": [
+        "testicular torsion"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Burn injury",
+      "entity_id": "DIS-ST-0129",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Surgery Trauma"
+      ],
+      "priority": 5,
+      "search_keywords": [
+        "burn injury"
+      ]
+    }
+  ],
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,7 @@
+id,name
+REF-001,initial
+REF-002,screening
+REF-003,confirmatory
+REF-004,most_accurate
+REF-005,gold_standard
+REF-006,monitoring
