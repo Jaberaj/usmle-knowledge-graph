@@ -157,76 +157,6 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
-      "presentation_id": "PRS-038",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0038"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-039",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0039"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-040",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0040"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-001",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0041"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-002",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0042"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-003",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0043"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-004",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0044"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-005",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0045"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-006",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0046"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-007",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-N-0047"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
       "presentation_id": "PRS-008",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-E-0048"
@@ -279,13 +209,6 @@
       "presentation_id": "PRS-015",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-E-0055"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-016",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-E-0056"
     },
     {
       "cannot_miss_disease_ids": [],
@@ -958,13 +881,6 @@
       "presentation_id": "PRS-002",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-CARD-036"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-001",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-CARD-037"
     },
     {
       "cannot_miss_disease_ids": [],
@@ -2540,6 +2456,860 @@
       "presentation_id": "PRS-022",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-NEUR-162"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTEKIDNEYINJURY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-013",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PYELONEPHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-029",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALCOLIC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALTUBULARACIDOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-039",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PRERENALAZOTEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ISCHEMICACUTETUBULAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NEPHROTOXICACUTETUBU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTEINTERSTITIALNEP"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-POSTRENALACUTEKIDNEY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PIGMENTNEPHROPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RHABDOMYOLYSISASSOCI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-TUMORLYSISASSOCIATED"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CONTRASTASSOCIATEDAC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTEPHOSPHATENEPHRO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HEPATORENALSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-018",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CARDIORENALSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-014",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALINFARCTION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CHRONICKIDNEYDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-027",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-DIABETICKIDNEYDISEAS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-045",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPERTENSIVENEPHROSC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-AUTOSOMALDOMINANTPOL"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-031",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ENDSTAGEKIDNEYDISEAS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-031",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-UREMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-UREMICENCEPHALOPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-001",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-UREMICPERICARDITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-022",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ANEMIAOFCKD"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-030",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CALCIPHYLAXIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NEPHRITICSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-POSTSTREPTOCOCCALGLO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-IGANEPHROPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ALPORTSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-IGAVASCULITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RAPIDLYPROGRESSIVEGL"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ANTIGBMDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-GRANULOMATOSISWITHPO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-MICROSCOPICPOLYANGII"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-027",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-LUPUSNEPHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-MEMBRANOPROLIFERATIV"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-018",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NEPHROTICSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-018",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-MINIMALCHANGEDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-027",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-FOCALSEGMENTALGLOMER"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-027",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-MEMBRANOUSNEPHROPATH"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-027",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-AMYLOIDOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-FANCONISYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALPAPILLARYNECROS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PROXIMALRENALTUBULAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-DISTALRENALTUBULARAC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-TYPE4RENALTUBULARACI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-BARTTERSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-GITELMANSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-045",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-LIDDLESYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-025",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NEPHROGENICDIABETESI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-025",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-LITHIUMASSOCIATEDNEP"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-METABOLICACIDOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HIGHANIONGAPMETABOLI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NORMALANIONGAPMETABO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-022",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-METABOLICALKALOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-LACTICACIDOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-KETOACIDOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPONATREMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTESYMPTOMATICHYPO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-SIADH"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PRIMARYPOLYDIPSIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPERNATREMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-025",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CENTRALDIABETESINSIP"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPERKALEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPOKALEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PSEUDOHYPERKALEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPERCALCEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPOCALCEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPERPHOSPHATEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPOMAGNESEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-029",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NEPHROLITHIASIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-029",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CALCIUMOXALATESTONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-029",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-URICACIDSTONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-013",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-STRUVITESTONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-029",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CYSTINESTONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-029",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-MEDULLARYSPONGEKIDNE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-014",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NEPHROCALCINOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-032",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTEURINARYRETENTIO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-032",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-BLADDEROUTLETOBSTRUC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-032",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-BENIGNPROSTATICHYPER"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-005",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-URETERALOBSTRUCTION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-014",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYDRONEPHROSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-025",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-POSTOBSTRUCTIVEDIURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-015",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTEUNCOMPLICATEDCY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-015",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-COMPLICATEDURINARYTR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-013",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTEPYELONEPHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-013",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-EMPHYSEMATOUSPYELONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-013",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALABSCESS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ASYMPTOMATICBACTERIU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-013",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CATHETERASSOCIATEDUR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-015",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-UTIINPREGNANCY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-013",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PEDIATRICUTI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-028",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-VESICOURETERALREFLUX"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-MICROSCOPICHEMATURIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-GROSSHEMATURIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-GLOMERULARHEMATURIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-NONGLOMERULARHEMATUR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-MYOGLOBINURIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-027",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ALBUMINURIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-045",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALARTERYSTENOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ATHEROEMBOLICRENALDI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-045",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-FIBROMUSCULARDYSPLAS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALVEINTHROMBOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-017",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HEMOLYTICUREMICSYNDR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-CARD-045",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-SCLERODERMARENALCRIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-026",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-POSTERIORURETHRALVAL"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-026",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HORSESHOEKIDNEY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-026",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALAGENESIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-026",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-POTTERSEQUENCE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-024",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-WILMSTUMOR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-RENALCELLCARCINOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-016",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ANGIOMYOLIPOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-KIDNEYTRANSPLANTRECI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HYPERACUTEREJECTION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-ACUTECELLULARREJECTI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-011",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-CALCINEURININHIBITOR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-HEMODIALYSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-REN-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PERITONEALDIALYSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-DIALYSISDISEQUILIBRI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-REN-PERITONEALDIALYSISPE"
     }
   ],
   "next_best_step": [],
@@ -2744,96 +3514,6 @@
     },
     {
       "correct_treatment_ids": [
-        "TRT-038",
-        "TRT-039",
-        "TRT-040"
-      ],
-      "disease_id": "DIS-N-0038",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-039",
-        "TRT-040",
-        "TRT-041"
-      ],
-      "disease_id": "DIS-N-0039",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-040",
-        "TRT-041",
-        "TRT-042"
-      ],
-      "disease_id": "DIS-N-0040",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-041",
-        "TRT-042",
-        "TRT-043"
-      ],
-      "disease_id": "DIS-N-0041",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-042",
-        "TRT-043",
-        "TRT-044"
-      ],
-      "disease_id": "DIS-N-0042",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-043",
-        "TRT-044",
-        "TRT-045"
-      ],
-      "disease_id": "DIS-N-0043",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-044",
-        "TRT-045",
-        "TRT-046"
-      ],
-      "disease_id": "DIS-N-0044",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-045",
-        "TRT-046",
-        "TRT-047"
-      ],
-      "disease_id": "DIS-N-0045",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-046",
-        "TRT-047",
-        "TRT-048"
-      ],
-      "disease_id": "DIS-N-0046",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-047",
-        "TRT-048",
-        "TRT-049"
-      ],
-      "disease_id": "DIS-N-0047",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
         "TRT-048",
         "TRT-049",
         "TRT-050"
@@ -2902,15 +3582,6 @@
         "TRT-057"
       ],
       "disease_id": "DIS-E-0055",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-056",
-        "TRT-057",
-        "TRT-058"
-      ],
-      "disease_id": "DIS-E-0056",
       "review_status": "draft_ai_generated"
     },
     {
@@ -3701,13 +4372,6 @@
         "TRT-037"
       ],
       "disease_id": "DIS-CARD-036",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-038"
-      ],
-      "disease_id": "DIS-CARD-037",
       "review_status": "draft_ai_generated"
     },
     {
@@ -5283,6 +5947,860 @@
         "TRT-013"
       ],
       "disease_id": "DIS-NEUR-162",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-REN-ACUTEKIDNEYINJURY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-REN-PYELONEPHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-REN-RENALCOLIC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-REN-RENALTUBULARACIDOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-REN-PRERENALAZOTEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-REN-ISCHEMICACUTETUBULAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-050"
+      ],
+      "disease_id": "DIS-REN-NEPHROTOXICACUTETUBU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-REN-ACUTEINTERSTITIALNEP",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-REN-POSTRENALACUTEKIDNEY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-REN-PIGMENTNEPHROPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-REN-RHABDOMYOLYSISASSOCI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-REN-TUMORLYSISASSOCIATED",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-REN-CONTRASTASSOCIATEDAC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-REN-ACUTEPHOSPHATENEPHRO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-REN-HEPATORENALSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-REN-CARDIORENALSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-REN-RENALINFARCTION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-REN-CHRONICKIDNEYDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-055"
+      ],
+      "disease_id": "DIS-REN-DIABETICKIDNEYDISEAS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-REN-HYPERTENSIVENEPHROSC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-REN-AUTOSOMALDOMINANTPOL",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-REN-ENDSTAGEKIDNEYDISEAS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-REN-UREMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-REN-UREMICENCEPHALOPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-REN-UREMICPERICARDITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-REN-ANEMIAOFCKD",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-REN-CALCIPHYLAXIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-REN-NEPHRITICSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-REN-POSTSTREPTOCOCCALGLO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-REN-IGANEPHROPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-060"
+      ],
+      "disease_id": "DIS-REN-ALPORTSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-REN-IGAVASCULITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-REN-RAPIDLYPROGRESSIVEGL",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-REN-ANTIGBMDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-REN-GRANULOMATOSISWITHPO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-REN-MICROSCOPICPOLYANGII",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-REN-LUPUSNEPHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-REN-MEMBRANOPROLIFERATIV",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-REN-NEPHROTICSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-REN-MINIMALCHANGEDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-REN-FOCALSEGMENTALGLOMER",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-REN-MEMBRANOUSNEPHROPATH",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-065"
+      ],
+      "disease_id": "DIS-REN-AMYLOIDOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-072"
+      ],
+      "disease_id": "DIS-REN-FANCONISYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-079"
+      ],
+      "disease_id": "DIS-REN-RENALPAPILLARYNECROS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-REN-PROXIMALRENALTUBULAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-REN-DISTALRENALTUBULARAC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-REN-TYPE4RENALTUBULARACI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-028"
+      ],
+      "disease_id": "DIS-REN-BARTTERSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-035"
+      ],
+      "disease_id": "DIS-REN-GITELMANSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-042"
+      ],
+      "disease_id": "DIS-REN-LIDDLESYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-049"
+      ],
+      "disease_id": "DIS-REN-NEPHROGENICDIABETESI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-056"
+      ],
+      "disease_id": "DIS-REN-LITHIUMASSOCIATEDNEP",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-063"
+      ],
+      "disease_id": "DIS-REN-METABOLICACIDOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-070"
+      ],
+      "disease_id": "DIS-REN-HIGHANIONGAPMETABOLI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-077"
+      ],
+      "disease_id": "DIS-REN-NORMALANIONGAPMETABO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-REN-METABOLICALKALOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-REN-LACTICACIDOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-REN-KETOACIDOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-026"
+      ],
+      "disease_id": "DIS-REN-HYPONATREMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-033"
+      ],
+      "disease_id": "DIS-REN-ACUTESYMPTOMATICHYPO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-040"
+      ],
+      "disease_id": "DIS-REN-SIADH",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-047"
+      ],
+      "disease_id": "DIS-REN-PRIMARYPOLYDIPSIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-054"
+      ],
+      "disease_id": "DIS-REN-HYPERNATREMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-061"
+      ],
+      "disease_id": "DIS-REN-CENTRALDIABETESINSIP",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-068"
+      ],
+      "disease_id": "DIS-REN-HYPERKALEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-075"
+      ],
+      "disease_id": "DIS-REN-HYPOKALEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-REN-PSEUDOHYPERKALEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-REN-HYPERCALCEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-REN-HYPOCALCEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-024"
+      ],
+      "disease_id": "DIS-REN-HYPERPHOSPHATEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-031"
+      ],
+      "disease_id": "DIS-REN-HYPOMAGNESEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-038"
+      ],
+      "disease_id": "DIS-REN-NEPHROLITHIASIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-045"
+      ],
+      "disease_id": "DIS-REN-CALCIUMOXALATESTONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-052"
+      ],
+      "disease_id": "DIS-REN-URICACIDSTONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-059"
+      ],
+      "disease_id": "DIS-REN-STRUVITESTONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-066"
+      ],
+      "disease_id": "DIS-REN-CYSTINESTONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-073"
+      ],
+      "disease_id": "DIS-REN-MEDULLARYSPONGEKIDNE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-001"
+      ],
+      "disease_id": "DIS-REN-NEPHROCALCINOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-REN-ACUTEURINARYRETENTIO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-REN-BLADDEROUTLETOBSTRUC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-REN-BENIGNPROSTATICHYPER",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-REN-URETERALOBSTRUCTION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-REN-HYDRONEPHROSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-REN-POSTOBSTRUCTIVEDIURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-050"
+      ],
+      "disease_id": "DIS-REN-ACUTEUNCOMPLICATEDCY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-REN-COMPLICATEDURINARYTR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-REN-ACUTEPYELONEPHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-REN-EMPHYSEMATOUSPYELONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-REN-RENALABSCESS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-REN-ASYMPTOMATICBACTERIU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-REN-CATHETERASSOCIATEDUR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-REN-UTIINPREGNANCY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-REN-PEDIATRICUTI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-REN-VESICOURETERALREFLUX",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-REN-MICROSCOPICHEMATURIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-REN-GROSSHEMATURIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-055"
+      ],
+      "disease_id": "DIS-REN-GLOMERULARHEMATURIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-REN-NONGLOMERULARHEMATUR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-REN-MYOGLOBINURIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-REN-ALBUMINURIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-REN-RENALARTERYSTENOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-REN-ATHEROEMBOLICRENALDI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-REN-FIBROMUSCULARDYSPLAS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-REN-RENALVEINTHROMBOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-REN-HEMOLYTICUREMICSYNDR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-REN-SCLERODERMARENALCRIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-REN-POSTERIORURETHRALVAL",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-REN-HORSESHOEKIDNEY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-060"
+      ],
+      "disease_id": "DIS-REN-RENALAGENESIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-REN-POTTERSEQUENCE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-REN-WILMSTUMOR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-REN-RENALCELLCARCINOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-REN-ANGIOMYOLIPOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-REN-KIDNEYTRANSPLANTRECI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-REN-HYPERACUTEREJECTION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-REN-ACUTECELLULARREJECTI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-REN-CALCINEURININHIBITOR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-REN-HEMODIALYSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-REN-PERITONEALDIALYSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-REN-DIALYSISDISEQUILIBRI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-065"
+      ],
+      "disease_id": "DIS-REN-PERITONEALDIALYSISPE",
       "review_status": "draft_ai_generated"
     }
   ]

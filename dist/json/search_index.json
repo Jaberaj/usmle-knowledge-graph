@@ -288,136 +288,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Acute kidney injury",
-      "entity_id": "DIS-N-0038",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "acute kidney injury"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Chronic kidney disease",
-      "entity_id": "DIS-N-0039",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "chronic kidney disease"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Nephrotic syndrome",
-      "entity_id": "DIS-N-0040",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "nephrotic syndrome"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Nephritic syndrome",
-      "entity_id": "DIS-N-0041",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "nephritic syndrome"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Pyelonephritis",
-      "entity_id": "DIS-N-0042",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "pyelonephritis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Renal colic",
-      "entity_id": "DIS-N-0043",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "renal colic"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Hyperkalemia",
-      "entity_id": "DIS-N-0044",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "hyperkalemia"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Hyponatremia",
-      "entity_id": "DIS-N-0045",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "hyponatremia"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Metabolic acidosis",
-      "entity_id": "DIS-N-0046",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "metabolic acidosis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Renal tubular acidosis",
-      "entity_id": "DIS-N-0047",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Nephrology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "renal tubular acidosis"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Diabetic ketoacidosis",
       "entity_id": "DIS-E-0048",
       "entity_type": "disease",
@@ -518,19 +388,6 @@
       "priority": 1,
       "search_keywords": [
         "pheochromocytoma"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Hypercalcemia",
-      "entity_id": "DIS-E-0056",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Endocrinology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "hypercalcemia"
       ]
     },
     {
@@ -1779,19 +1636,6 @@
       "priority": 1,
       "search_keywords": [
         "pericardial effusion"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Uremic pericarditis",
-      "entity_id": "DIS-CARD-037",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "uremic pericarditis"
       ]
     },
     {
@@ -4717,6 +4561,1592 @@
       "priority": 2,
       "search_keywords": [
         "restless legs syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute kidney injury",
+      "entity_id": "DIS-REN-ACUTEKIDNEYINJURY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute kidney injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pyelonephritis",
+      "entity_id": "DIS-REN-PYELONEPHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pyelonephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal colic",
+      "entity_id": "DIS-REN-RENALCOLIC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal colic"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal tubular acidosis",
+      "entity_id": "DIS-REN-RENALTUBULARACIDOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal tubular acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Prerenal azotemia",
+      "entity_id": "DIS-REN-PRERENALAZOTEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "prerenal azotemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ischemic acute tubular necrosis",
+      "entity_id": "DIS-REN-ISCHEMICACUTETUBULAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "ischemic acute tubular necrosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephrotoxic acute tubular necrosis",
+      "entity_id": "DIS-REN-NEPHROTOXICACUTETUBU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "nephrotoxic acute tubular necrosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute interstitial nephritis",
+      "entity_id": "DIS-REN-ACUTEINTERSTITIALNEP",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute interstitial nephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Postrenal acute kidney injury",
+      "entity_id": "DIS-REN-POSTRENALACUTEKIDNEY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "postrenal acute kidney injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pigment nephropathy",
+      "entity_id": "DIS-REN-PIGMENTNEPHROPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pigment nephropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rhabdomyolysis-associated AKI",
+      "entity_id": "DIS-REN-RHABDOMYOLYSISASSOCI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "rhabdomyolysis-associated aki"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tumor lysis-associated AKI",
+      "entity_id": "DIS-REN-TUMORLYSISASSOCIATED",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tumor lysis-associated aki"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Contrast-associated acute kidney injury",
+      "entity_id": "DIS-REN-CONTRASTASSOCIATEDAC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "contrast-associated acute kidney injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute phosphate nephropathy",
+      "entity_id": "DIS-REN-ACUTEPHOSPHATENEPHRO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute phosphate nephropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hepatorenal syndrome",
+      "entity_id": "DIS-REN-HEPATORENALSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hepatorenal syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cardiorenal syndrome",
+      "entity_id": "DIS-REN-CARDIORENALSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cardiorenal syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal infarction",
+      "entity_id": "DIS-REN-RENALINFARCTION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal infarction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic kidney disease",
+      "entity_id": "DIS-REN-CHRONICKIDNEYDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "chronic kidney disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Diabetic kidney disease",
+      "entity_id": "DIS-REN-DIABETICKIDNEYDISEAS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "diabetic kidney disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypertensive nephrosclerosis",
+      "entity_id": "DIS-REN-HYPERTENSIVENEPHROSC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hypertensive nephrosclerosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Autosomal dominant polycystic kidney disease",
+      "entity_id": "DIS-REN-AUTOSOMALDOMINANTPOL",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "autosomal dominant polycystic kidney disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "End-stage kidney disease",
+      "entity_id": "DIS-REN-ENDSTAGEKIDNEYDISEAS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "end-stage kidney disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Uremia",
+      "entity_id": "DIS-REN-UREMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "uremia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Uremic encephalopathy",
+      "entity_id": "DIS-REN-UREMICENCEPHALOPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "uremic encephalopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Uremic pericarditis",
+      "entity_id": "DIS-REN-UREMICPERICARDITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "uremic pericarditis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Anemia of CKD",
+      "entity_id": "DIS-REN-ANEMIAOFCKD",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "anemia of ckd"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Calciphylaxis",
+      "entity_id": "DIS-REN-CALCIPHYLAXIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "calciphylaxis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephritic syndrome",
+      "entity_id": "DIS-REN-NEPHRITICSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nephritic syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Poststreptococcal glomerulonephritis",
+      "entity_id": "DIS-REN-POSTSTREPTOCOCCALGLO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "poststreptococcal glomerulonephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "IgA nephropathy",
+      "entity_id": "DIS-REN-IGANEPHROPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "iga nephropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Alport syndrome",
+      "entity_id": "DIS-REN-ALPORTSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "alport syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "IgA vasculitis",
+      "entity_id": "DIS-REN-IGAVASCULITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "iga vasculitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rapidly progressive glomerulonephritis",
+      "entity_id": "DIS-REN-RAPIDLYPROGRESSIVEGL",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rapidly progressive glomerulonephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Anti-GBM disease",
+      "entity_id": "DIS-REN-ANTIGBMDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "anti-gbm disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Granulomatosis with polyangiitis",
+      "entity_id": "DIS-REN-GRANULOMATOSISWITHPO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "granulomatosis with polyangiitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Microscopic polyangiitis",
+      "entity_id": "DIS-REN-MICROSCOPICPOLYANGII",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "microscopic polyangiitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lupus nephritis",
+      "entity_id": "DIS-REN-LUPUSNEPHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lupus nephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Membranoproliferative glomerulonephritis",
+      "entity_id": "DIS-REN-MEMBRANOPROLIFERATIV",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "membranoproliferative glomerulonephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephrotic syndrome",
+      "entity_id": "DIS-REN-NEPHROTICSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nephrotic syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Minimal-change disease",
+      "entity_id": "DIS-REN-MINIMALCHANGEDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "minimal-change disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Focal segmental glomerulosclerosis",
+      "entity_id": "DIS-REN-FOCALSEGMENTALGLOMER",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "focal segmental glomerulosclerosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Membranous nephropathy",
+      "entity_id": "DIS-REN-MEMBRANOUSNEPHROPATH",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "membranous nephropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Amyloidosis",
+      "entity_id": "DIS-REN-AMYLOIDOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "amyloidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Fanconi syndrome",
+      "entity_id": "DIS-REN-FANCONISYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "fanconi syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal papillary necrosis",
+      "entity_id": "DIS-REN-RENALPAPILLARYNECROS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal papillary necrosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Proximal renal tubular acidosis",
+      "entity_id": "DIS-REN-PROXIMALRENALTUBULAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "proximal renal tubular acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Distal renal tubular acidosis",
+      "entity_id": "DIS-REN-DISTALRENALTUBULARAC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "distal renal tubular acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Type 4 renal tubular acidosis",
+      "entity_id": "DIS-REN-TYPE4RENALTUBULARACI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "type 4 renal tubular acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bartter syndrome",
+      "entity_id": "DIS-REN-BARTTERSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "bartter syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Gitelman syndrome",
+      "entity_id": "DIS-REN-GITELMANSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "gitelman syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Liddle syndrome",
+      "entity_id": "DIS-REN-LIDDLESYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "liddle syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephrogenic diabetes insipidus",
+      "entity_id": "DIS-REN-NEPHROGENICDIABETESI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "nephrogenic diabetes insipidus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lithium-associated nephrogenic diabetes insipidus",
+      "entity_id": "DIS-REN-LITHIUMASSOCIATEDNEP",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lithium-associated nephrogenic diabetes insipidus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Metabolic acidosis",
+      "entity_id": "DIS-REN-METABOLICACIDOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "metabolic acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "High-anion-gap metabolic acidosis",
+      "entity_id": "DIS-REN-HIGHANIONGAPMETABOLI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "high-anion-gap metabolic acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Normal-anion-gap metabolic acidosis",
+      "entity_id": "DIS-REN-NORMALANIONGAPMETABO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "normal-anion-gap metabolic acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Metabolic alkalosis",
+      "entity_id": "DIS-REN-METABOLICALKALOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "metabolic alkalosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lactic acidosis",
+      "entity_id": "DIS-REN-LACTICACIDOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lactic acidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ketoacidosis",
+      "entity_id": "DIS-REN-KETOACIDOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "ketoacidosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyponatremia",
+      "entity_id": "DIS-REN-HYPONATREMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hyponatremia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute symptomatic hyponatremia",
+      "entity_id": "DIS-REN-ACUTESYMPTOMATICHYPO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute symptomatic hyponatremia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "SIADH",
+      "entity_id": "DIS-REN-SIADH",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "siadh"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Primary polydipsia",
+      "entity_id": "DIS-REN-PRIMARYPOLYDIPSIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "primary polydipsia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypernatremia",
+      "entity_id": "DIS-REN-HYPERNATREMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypernatremia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Central diabetes insipidus",
+      "entity_id": "DIS-REN-CENTRALDIABETESINSIP",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "central diabetes insipidus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyperkalemia",
+      "entity_id": "DIS-REN-HYPERKALEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hyperkalemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypokalemia",
+      "entity_id": "DIS-REN-HYPOKALEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypokalemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pseudohyperkalemia",
+      "entity_id": "DIS-REN-PSEUDOHYPERKALEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pseudohyperkalemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypercalcemia",
+      "entity_id": "DIS-REN-HYPERCALCEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypercalcemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypocalcemia",
+      "entity_id": "DIS-REN-HYPOCALCEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypocalcemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyperphosphatemia",
+      "entity_id": "DIS-REN-HYPERPHOSPHATEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hyperphosphatemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypomagnesemia",
+      "entity_id": "DIS-REN-HYPOMAGNESEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hypomagnesemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephrolithiasis",
+      "entity_id": "DIS-REN-NEPHROLITHIASIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nephrolithiasis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Calcium oxalate stone",
+      "entity_id": "DIS-REN-CALCIUMOXALATESTONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "calcium oxalate stone"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Uric acid stone",
+      "entity_id": "DIS-REN-URICACIDSTONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "uric acid stone"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Struvite stone",
+      "entity_id": "DIS-REN-STRUVITESTONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "struvite stone"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cystine stone",
+      "entity_id": "DIS-REN-CYSTINESTONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cystine stone"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Medullary sponge kidney",
+      "entity_id": "DIS-REN-MEDULLARYSPONGEKIDNE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "medullary sponge kidney"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nephrocalcinosis",
+      "entity_id": "DIS-REN-NEPHROCALCINOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nephrocalcinosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute urinary retention",
+      "entity_id": "DIS-REN-ACUTEURINARYRETENTIO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute urinary retention"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bladder outlet obstruction",
+      "entity_id": "DIS-REN-BLADDEROUTLETOBSTRUC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "bladder outlet obstruction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Benign prostatic hyperplasia",
+      "entity_id": "DIS-REN-BENIGNPROSTATICHYPER",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "benign prostatic hyperplasia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ureteral obstruction",
+      "entity_id": "DIS-REN-URETERALOBSTRUCTION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "ureteral obstruction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hydronephrosis",
+      "entity_id": "DIS-REN-HYDRONEPHROSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hydronephrosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Postobstructive diuresis",
+      "entity_id": "DIS-REN-POSTOBSTRUCTIVEDIURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "postobstructive diuresis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute uncomplicated cystitis",
+      "entity_id": "DIS-REN-ACUTEUNCOMPLICATEDCY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute uncomplicated cystitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Complicated urinary-tract infection",
+      "entity_id": "DIS-REN-COMPLICATEDURINARYTR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "complicated urinary-tract infection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute pyelonephritis",
+      "entity_id": "DIS-REN-ACUTEPYELONEPHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute pyelonephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Emphysematous pyelonephritis",
+      "entity_id": "DIS-REN-EMPHYSEMATOUSPYELONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "emphysematous pyelonephritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal abscess",
+      "entity_id": "DIS-REN-RENALABSCESS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "renal abscess"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Asymptomatic bacteriuria",
+      "entity_id": "DIS-REN-ASYMPTOMATICBACTERIU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "asymptomatic bacteriuria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Catheter-associated urinary-tract infection",
+      "entity_id": "DIS-REN-CATHETERASSOCIATEDUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "catheter-associated urinary-tract infection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "UTI in pregnancy",
+      "entity_id": "DIS-REN-UTIINPREGNANCY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "uti in pregnancy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pediatric UTI",
+      "entity_id": "DIS-REN-PEDIATRICUTI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pediatric uti"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vesicoureteral reflux",
+      "entity_id": "DIS-REN-VESICOURETERALREFLUX",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "vesicoureteral reflux"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Microscopic hematuria",
+      "entity_id": "DIS-REN-MICROSCOPICHEMATURIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "microscopic hematuria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Gross hematuria",
+      "entity_id": "DIS-REN-GROSSHEMATURIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "gross hematuria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Glomerular hematuria",
+      "entity_id": "DIS-REN-GLOMERULARHEMATURIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "glomerular hematuria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nonglomerular hematuria",
+      "entity_id": "DIS-REN-NONGLOMERULARHEMATUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nonglomerular hematuria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myoglobinuria",
+      "entity_id": "DIS-REN-MYOGLOBINURIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "myoglobinuria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Albuminuria",
+      "entity_id": "DIS-REN-ALBUMINURIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "albuminuria"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal artery stenosis",
+      "entity_id": "DIS-REN-RENALARTERYSTENOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal artery stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Atheroembolic renal disease",
+      "entity_id": "DIS-REN-ATHEROEMBOLICRENALDI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "atheroembolic renal disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Fibromuscular dysplasia",
+      "entity_id": "DIS-REN-FIBROMUSCULARDYSPLAS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "fibromuscular dysplasia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal vein thrombosis",
+      "entity_id": "DIS-REN-RENALVEINTHROMBOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal vein thrombosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hemolytic uremic syndrome",
+      "entity_id": "DIS-REN-HEMOLYTICUREMICSYNDR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hemolytic uremic syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scleroderma renal crisis",
+      "entity_id": "DIS-REN-SCLERODERMARENALCRIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "scleroderma renal crisis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Posterior urethral valves",
+      "entity_id": "DIS-REN-POSTERIORURETHRALVAL",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "posterior urethral valves"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Horseshoe kidney",
+      "entity_id": "DIS-REN-HORSESHOEKIDNEY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "horseshoe kidney"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal agenesis",
+      "entity_id": "DIS-REN-RENALAGENESIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal agenesis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Potter sequence",
+      "entity_id": "DIS-REN-POTTERSEQUENCE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "potter sequence"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Wilms tumor",
+      "entity_id": "DIS-REN-WILMSTUMOR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "wilms tumor"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal cell carcinoma",
+      "entity_id": "DIS-REN-RENALCELLCARCINOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal cell carcinoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Angiomyolipoma",
+      "entity_id": "DIS-REN-ANGIOMYOLIPOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "angiomyolipoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Kidney transplant recipient",
+      "entity_id": "DIS-REN-KIDNEYTRANSPLANTRECI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "kidney transplant recipient"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyperacute rejection",
+      "entity_id": "DIS-REN-HYPERACUTEREJECTION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hyperacute rejection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute cellular rejection",
+      "entity_id": "DIS-REN-ACUTECELLULARREJECTI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute cellular rejection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Calcineurin-inhibitor nephrotoxicity",
+      "entity_id": "DIS-REN-CALCINEURININHIBITOR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "calcineurin-inhibitor nephrotoxicity"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hemodialysis",
+      "entity_id": "DIS-REN-HEMODIALYSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hemodialysis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Peritoneal dialysis",
+      "entity_id": "DIS-REN-PERITONEALDIALYSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "peritoneal dialysis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dialysis disequilibrium syndrome",
+      "entity_id": "DIS-REN-DIALYSISDISEQUILIBRI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "dialysis disequilibrium syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Peritoneal-dialysis peritonitis",
+      "entity_id": "DIS-REN-PERITONEALDIALYSISPE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Renal and Genitourinary"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "peritoneal-dialysis peritonitis"
       ]
     }
   ],

@@ -1,15 +1,15 @@
 # Quality report
 
-- diseases: 363
-- presentations: 74
+- diseases: 473
+- presentations: 96
 - treatments: 79
 - medications: 50
 - diagnostics: 30
-- algorithms: 63
-- references: 12
-- disease_presentations: 363
-- disease_treatments: 563
-- disease_differentials: 563
-- disease_diagnostics: 463
-- algorithm_steps: 540
-- entity_references: 263
+- algorithms: 93
+- references: 15
+- disease_presentations: 473
+- disease_treatments: 651
+- disease_differentials: 642
+- disease_diagnostics: 562
+- algorithm_steps: 870
+- entity_references: 385

@@ -13,12 +13,11 @@
         "DIS-CARD-019",
         "DIS-CARD-021",
         "DIS-CARD-027",
-        "DIS-CARD-037",
         "DIS-CARD-038",
         "DIS-CARD-046",
         "DIS-HO-0081",
-        "DIS-N-0041",
-        "DIS-OG-0121"
+        "DIS-OG-0121",
+        "DIS-REN-UREMICPERICARDITIS"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -43,7 +42,6 @@
         "DIS-CARD-042",
         "DIS-CARD-047",
         "DIS-HO-0082",
-        "DIS-N-0042",
         "DIS-ST-0122"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -72,7 +70,6 @@
         "DIS-CARD-099",
         "DIS-CARD-100",
         "DIS-HO-0083",
-        "DIS-N-0043",
         "DIS-ST-0123"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -105,7 +102,6 @@
         "DIS-CARD-058",
         "DIS-CARD-071",
         "DIS-HO-0084",
-        "DIS-N-0044",
         "DIS-ST-0124"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -130,7 +126,6 @@
         "DIS-CARD-078",
         "DIS-CARD-081",
         "DIS-HO-0085",
-        "DIS-N-0045",
         "DIS-ST-0125"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -149,7 +144,6 @@
     {
       "common_differential_disease_ids": [
         "DIS-HO-0086",
-        "DIS-N-0046",
         "DIS-N-0064",
         "DIS-N-0069",
         "DIS-NEUR-015",
@@ -168,6 +162,8 @@
         "DIS-NEUR-135",
         "DIS-NEUR-155",
         "DIS-NEUR-156",
+        "DIS-REN-DIALYSISDISEQUILIBRI",
+        "DIS-REN-UREMICENCEPHALOPATHY",
         "DIS-ST-0126"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -188,7 +184,6 @@
         "DIS-CARD-033",
         "DIS-CARD-034",
         "DIS-HO-0087",
-        "DIS-N-0047",
         "DIS-N-0063",
         "DIS-NEUR-011",
         "DIS-NEUR-019",
@@ -290,7 +285,8 @@
       "common_differential_disease_ids": [
         "DIS-CARD-028",
         "DIS-E-0050",
-        "DIS-R-0090"
+        "DIS-R-0090",
+        "DIS-REN-PERITONEALDIALYSISPE"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -381,7 +377,10 @@
       "common_differential_disease_ids": [
         "DIS-C-0015",
         "DIS-E-0055",
-        "DIS-R-0095"
+        "DIS-R-0095",
+        "DIS-REN-ACUTEUNCOMPLICATEDCY",
+        "DIS-REN-COMPLICATEDURINARYTR",
+        "DIS-REN-UTIINPREGNANCY"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -398,8 +397,25 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-E-0056",
-        "DIS-P-0016"
+        "DIS-P-0016",
+        "DIS-REN-ALPORTSYNDROME",
+        "DIS-REN-ANGIOMYOLIPOMA",
+        "DIS-REN-ANTIGBMDISEASE",
+        "DIS-REN-AUTOSOMALDOMINANTPOL",
+        "DIS-REN-GLOMERULARHEMATURIA",
+        "DIS-REN-GRANULOMATOSISWITHPO",
+        "DIS-REN-GROSSHEMATURIA",
+        "DIS-REN-IGANEPHROPATHY",
+        "DIS-REN-IGAVASCULITIS",
+        "DIS-REN-MEMBRANOPROLIFERATIV",
+        "DIS-REN-MICROSCOPICHEMATURIA",
+        "DIS-REN-MICROSCOPICPOLYANGII",
+        "DIS-REN-NEPHRITICSYNDROME",
+        "DIS-REN-NONGLOMERULARHEMATUR",
+        "DIS-REN-POSTSTREPTOCOCCALGLO",
+        "DIS-REN-RENALCELLCARCINOMA",
+        "DIS-REN-RENALPAPILLARYNECROS",
+        "DIS-REN-RENALVEINTHROMBOSIS"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -419,7 +435,16 @@
         "DIS-CARD-032",
         "DIS-E-0057",
         "DIS-P-0017",
-        "DIS-R-0097"
+        "DIS-R-0097",
+        "DIS-REN-ACUTEKIDNEYINJURY",
+        "DIS-REN-ATHEROEMBOLICRENALDI",
+        "DIS-REN-HEMOLYTICUREMICSYNDR",
+        "DIS-REN-HEPATORENALSYNDROME",
+        "DIS-REN-ISCHEMICACUTETUBULAR",
+        "DIS-REN-NEPHROTOXICACUTETUBU",
+        "DIS-REN-PIGMENTNEPHROPATHY",
+        "DIS-REN-RAPIDLYPROGRESSIVEGL",
+        "DIS-REN-RHABDOMYOLYSISASSOCI"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -437,7 +462,10 @@
     {
       "common_differential_disease_ids": [
         "DIS-P-0018",
-        "DIS-P-0098"
+        "DIS-P-0098",
+        "DIS-REN-CARDIORENALSYNDROME",
+        "DIS-REN-MINIMALCHANGEDISEASE",
+        "DIS-REN-NEPHROTICSYNDROME"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -532,7 +560,8 @@
         "DIS-NEUR-162",
         "DIS-P-0022",
         "DIS-P-0023",
-        "DIS-P-0102"
+        "DIS-P-0102",
+        "DIS-REN-ANEMIAOFCKD"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -831,7 +860,6 @@
     {
       "common_differential_disease_ids": [
         "DIS-ID-0078",
-        "DIS-N-0038",
         "DIS-OG-0118"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -850,8 +878,8 @@
     {
       "common_differential_disease_ids": [
         "DIS-ID-0079",
-        "DIS-N-0039",
-        "DIS-OG-0119"
+        "DIS-OG-0119",
+        "DIS-REN-PRERENALAZOTEMIA"
       ],
       "concise_definition": "Draft educational presentation summary.",
       "deprecated": "false",
@@ -869,7 +897,6 @@
     {
       "common_differential_disease_ids": [
         "DIS-HO-0080",
-        "DIS-N-0040",
         "DIS-OG-0120"
       ],
       "concise_definition": "Draft educational presentation summary.",
@@ -968,7 +995,12 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-CARD-086"
+        "DIS-CARD-086",
+        "DIS-REN-FIBROMUSCULARDYSPLAS",
+        "DIS-REN-HYPERTENSIVENEPHROSC",
+        "DIS-REN-LIDDLESYNDROME",
+        "DIS-REN-RENALARTERYSTENOSIS",
+        "DIS-REN-SCLERODERMARENALCRIS"
       ],
       "concise_definition": "Cardiovascular presentation centered on hypertension.",
       "deprecated": "false",
@@ -1545,6 +1577,436 @@
       "name": "Vision loss",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-074",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-ASYMPTOMATICBACTERIU",
+        "DIS-REN-MYOGLOBINURIA"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on abnormal urinalysis.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Abnormal urinalysis",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-002",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-POSTRENALACUTEKIDNEY",
+        "DIS-REN-URETERALOBSTRUCTION"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on anuria.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Anuria",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-005",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-HEMODIALYSIS",
+        "DIS-REN-PERITONEALDIALYSIS"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on dialysis complication.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Dialysis complication",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-007",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-HYPERCALCEMIA",
+        "DIS-REN-HYPERPHOSPHATEMIA",
+        "DIS-REN-HYPOCALCEMIA",
+        "DIS-REN-HYPOMAGNESEMIA",
+        "DIS-REN-TUMORLYSISASSOCIATED"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on electrolyte abnormality.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Electrolyte abnormality",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-010",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-ACUTECELLULARREJECTI",
+        "DIS-REN-ACUTEINTERSTITIALNEP",
+        "DIS-REN-ACUTEPHOSPHATENEPHRO",
+        "DIS-REN-CALCINEURININHIBITOR",
+        "DIS-REN-CHRONICKIDNEYDISEASE",
+        "DIS-REN-CONTRASTASSOCIATEDAC",
+        "DIS-REN-HYPERACUTEREJECTION",
+        "DIS-REN-KIDNEYTRANSPLANTRECI"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on elevated creatinine.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Elevated creatinine",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-011",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-ACUTEPYELONEPHRITIS",
+        "DIS-REN-CATHETERASSOCIATEDUR",
+        "DIS-REN-EMPHYSEMATOUSPYELONE",
+        "DIS-REN-PEDIATRICUTI",
+        "DIS-REN-PYELONEPHRITIS",
+        "DIS-REN-RENALABSCESS",
+        "DIS-REN-STRUVITESTONE"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on fever with flank pain.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Fever with flank pain",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-013",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-HYDRONEPHROSIS",
+        "DIS-REN-NEPHROCALCINOSIS",
+        "DIS-REN-RENALINFARCTION"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on flank pain.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Flank pain",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-014",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-HYPERKALEMIA",
+        "DIS-REN-PSEUDOHYPERKALEMIA",
+        "DIS-REN-TYPE4RENALTUBULARACI"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on hyperkalemia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Hyperkalemia",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-016",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-HYPERNATREMIA"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on hypernatremia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Hypernatremia",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-017",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-BARTTERSYNDROME",
+        "DIS-REN-GITELMANSYNDROME",
+        "DIS-REN-HYPOKALEMIA"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on hypokalemia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Hypokalemia",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-019",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-ACUTESYMPTOMATICHYPO",
+        "DIS-REN-HYPONATREMIA",
+        "DIS-REN-PRIMARYPOLYDIPSIA",
+        "DIS-REN-SIADH"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on hyponatremia.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Hyponatremia",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-020",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-DISTALRENALTUBULARAC",
+        "DIS-REN-FANCONISYNDROME",
+        "DIS-REN-HIGHANIONGAPMETABOLI",
+        "DIS-REN-KETOACIDOSIS",
+        "DIS-REN-LACTICACIDOSIS",
+        "DIS-REN-METABOLICACIDOSIS",
+        "DIS-REN-NORMALANIONGAPMETABO",
+        "DIS-REN-PROXIMALRENALTUBULAR",
+        "DIS-REN-RENALTUBULARACIDOSIS"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on metabolic acidosis.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Metabolic acidosis",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-021",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-METABOLICALKALOSIS"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on metabolic alkalosis.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Metabolic alkalosis",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-022",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-WILMSTUMOR"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on pediatric abdominal mass.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Pediatric abdominal mass",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-024",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-CENTRALDIABETESINSIP",
+        "DIS-REN-LITHIUMASSOCIATEDNEP",
+        "DIS-REN-NEPHROGENICDIABETESI",
+        "DIS-REN-POSTOBSTRUCTIVEDIURE"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on polyuria.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Polyuria",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-025",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-HORSESHOEKIDNEY",
+        "DIS-REN-POSTERIORURETHRALVAL",
+        "DIS-REN-POTTERSEQUENCE",
+        "DIS-REN-RENALAGENESIS"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on prenatal renal abnormality.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Prenatal renal abnormality",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-026",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-ALBUMINURIA",
+        "DIS-REN-AMYLOIDOSIS",
+        "DIS-REN-DIABETICKIDNEYDISEAS",
+        "DIS-REN-FOCALSEGMENTALGLOMER",
+        "DIS-REN-LUPUSNEPHRITIS",
+        "DIS-REN-MEMBRANOUSNEPHROPATH"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on proteinuria.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Proteinuria",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-027",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-VESICOURETERALREFLUX"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on recurrent uti.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Recurrent UTI",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-028",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-CALCIUMOXALATESTONE",
+        "DIS-REN-CYSTINESTONE",
+        "DIS-REN-MEDULLARYSPONGEKIDNE",
+        "DIS-REN-NEPHROLITHIASIS",
+        "DIS-REN-RENALCOLIC",
+        "DIS-REN-URICACIDSTONE"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on renal colic.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Renal colic",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-029",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-CALCIPHYLAXIS"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on skin lesion.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Skin lesion",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-030",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-ENDSTAGEKIDNEYDISEAS",
+        "DIS-REN-UREMIA"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on uremic symptoms.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Uremic symptoms",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-031",
+      "source_review_status": "source_checked"
+    },
+    {
+      "common_differential_disease_ids": [
+        "DIS-REN-ACUTEURINARYRETENTIO",
+        "DIS-REN-BENIGNPROSTATICHYPER",
+        "DIS-REN-BLADDEROUTLETOBSTRUC"
+      ],
+      "concise_definition": "Renal or genitourinary presentation centered on urinary retention.",
+      "deprecated": "false",
+      "emergency_priority": "1",
+      "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
+      "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
+      "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
+      "key_history_questions": "Clarify baseline kidney function, medications, nephrotoxins, voiding, fluid loss, pregnancy, systemic disease, and timing.",
+      "medical_review_status": "needs_medical_review",
+      "name": "Urinary retention",
+      "notes": "Original renal presentation record.",
+      "presentation_id": "PRS-REN-032",
       "source_review_status": "source_checked"
     }
   ],

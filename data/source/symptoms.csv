@@ -7,3 +7,13 @@ NEUR-SYM-005,Saddle anesthesia,source_checked,needs_medical_review,false
 NEUR-SYM-006,Fluctuating inattention,source_checked,needs_medical_review,false
 NEUR-SYM-007,Sensory level,source_checked,needs_medical_review,false
 NEUR-SYM-008,Unilateral facial weakness,source_checked,needs_medical_review,false
+REN-SYMPTOMS-001,Oliguria,source_checked,needs_medical_review,false
+REN-SYMPTOMS-002,Anuria,source_checked,needs_medical_review,false
+REN-SYMPTOMS-003,Dysuria,source_checked,needs_medical_review,false
+REN-SYMPTOMS-004,Urinary retention,source_checked,needs_medical_review,false
+REN-SYMPTOMS-005,Foamy urine,source_checked,needs_medical_review,false
+REN-SYMPTOMS-006,Flank pain,source_checked,needs_medical_review,false
+REN-SYMPTOMS-007,Renal colic,source_checked,needs_medical_review,false
+REN-SYMPTOMS-008,Polyuria,source_checked,needs_medical_review,false
+REN-SYMPTOMS-009,Nocturia,source_checked,needs_medical_review,false
+REN-SYMPTOMS-010,Gross hematuria,source_checked,needs_medical_review,false

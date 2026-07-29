@@ -1,1 +1,9 @@
 entity_id,name,source_review_status,medical_review_status,deprecated
+REN-PROCEDURES-001,Urinary bladder catheterization,source_checked,needs_medical_review,false
+REN-PROCEDURES-002,Renal ultrasonography,source_checked,needs_medical_review,false
+REN-PROCEDURES-003,Percutaneous nephrostomy,source_checked,needs_medical_review,false
+REN-PROCEDURES-004,Ureteral stent placement,source_checked,needs_medical_review,false
+REN-PROCEDURES-005,Kidney biopsy,source_checked,needs_medical_review,false
+REN-PROCEDURES-006,Intermittent hemodialysis,source_checked,needs_medical_review,false
+REN-PROCEDURES-007,Continuous renal replacement therapy,source_checked,needs_medical_review,false
+REN-PROCEDURES-008,Peritoneal dialysis,source_checked,needs_medical_review,false

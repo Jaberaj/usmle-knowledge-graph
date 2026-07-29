@@ -5,3 +5,11 @@ NEUR-LAB-003,Xanthochromia after appropriate hemorrhage evaluation,source_checke
 NEUR-LAB-004,CSF low glucose in selected infectious patterns,source_checked,needs_medical_review,false
 NEUR-LAB-005,Elevated CK in muscle-injury context,source_checked,needs_medical_review,false
 NEUR-LAB-006,Acetylcholine receptor antibody positivity in myasthenia context,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-001,Rising serum creatinine,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-002,Active urine sediment,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-003,Dysmorphic erythrocytes,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-004,Red-cell casts,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-005,Proteinuria,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-006,Hyperkalemia,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-007,High anion gap,source_checked,needs_medical_review,false
+REN-LABORATORY_FINDINGS-008,Low serum bicarbonate,source_checked,needs_medical_review,false

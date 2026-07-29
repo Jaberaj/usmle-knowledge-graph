@@ -1,38 +1,38 @@
 {
   "disease_counts_by_organ_system": {
-    "Cardiology": 101,
-    "Endocrinology": 10,
+    "Cardiology": 100,
+    "Endocrinology": 9,
     "Gastroenterology": 12,
     "Hematology Oncology": 10,
     "Infectious Disease": 10,
-    "Nephrology": 10,
     "Neurology": 162,
     "Obstetrics Gynecology": 8,
     "Pediatrics": 7,
     "Psychiatry": 8,
     "Pulmonology": 10,
+    "Renal and Genitourinary": 122,
     "Rheumatology": 7,
     "Surgery Trauma": 8
   },
   "diseases_without_presentations": [],
   "diseases_without_treatments": [],
   "review_status_distribution": {
-    "draft_ai_generated": 100,
-    "needs_medical_review": 263
+    "draft_ai_generated": 89,
+    "needs_medical_review": 384
   },
   "row_counts": {
-    "algorithm_steps": 540,
-    "algorithms": 63,
+    "algorithm_steps": 870,
+    "algorithms": 93,
     "diagnostics": 30,
-    "disease_diagnostics": 463,
-    "disease_differentials": 563,
-    "disease_presentations": 363,
-    "disease_treatments": 563,
-    "diseases": 363,
-    "entity_references": 263,
+    "disease_diagnostics": 562,
+    "disease_differentials": 642,
+    "disease_presentations": 473,
+    "disease_treatments": 651,
+    "diseases": 473,
+    "entity_references": 385,
     "medications": 50,
-    "presentations": 74,
-    "references": 12,
+    "presentations": 96,
+    "references": 15,
     "treatments": 79
   },
   "validation_errors": []

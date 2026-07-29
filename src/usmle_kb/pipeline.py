@@ -109,7 +109,7 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
     completed_system_records = [
         row
         for row in tables["diseases"]
-        if row.get("organ_system_primary") in {"Cardiology", "Neurology"}
+        if row.get("organ_system_primary") in {"Cardiology", "Neurology", "Renal and Genitourinary"}
     ]
     blocked = (
         "draft content pending review",
@@ -118,6 +118,11 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
         "tbd",
         "todo",
         "lorem ipsum",
+        "unknown",
+        "depends on presentation",
+        "depends on severity",
+        "further testing is needed",
+        "use clinical judgment",
     )
     required = (
         "concise_definition",

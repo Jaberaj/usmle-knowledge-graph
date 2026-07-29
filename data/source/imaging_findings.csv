@@ -7,3 +7,10 @@ NEUR-IMA-005,Crescentic subdural collection,source_checked,needs_medical_review,
 NEUR-IMA-006,Temporal-lobe signal abnormality in HSV encephalitis context,source_checked,needs_medical_review,false
 NEUR-IMA-007,Periventricular demyelinating plaques,source_checked,needs_medical_review,false
 NEUR-IMA-008,Dawson-finger pattern in MS context,source_checked,needs_medical_review,false
+REN-IMAGING_FINDINGS-001,Hydronephrosis,source_checked,needs_medical_review,false
+REN-IMAGING_FINDINGS-002,Echogenic kidneys,source_checked,needs_medical_review,false
+REN-IMAGING_FINDINGS-003,Renal calculus,source_checked,needs_medical_review,false
+REN-IMAGING_FINDINGS-004,Staghorn calculus,source_checked,needs_medical_review,false
+REN-IMAGING_FINDINGS-005,Polycystic kidneys,source_checked,needs_medical_review,false
+REN-IMAGING_FINDINGS-006,Renal mass,source_checked,needs_medical_review,false
+REN-IMAGING_FINDINGS-007,Wedge-shaped renal infarct,source_checked,needs_medical_review,false

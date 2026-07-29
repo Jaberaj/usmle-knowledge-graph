@@ -7,3 +7,9 @@ NEUR-PHY-005,Nystagmus requiring central-versus-peripheral context,source_checke
 NEUR-PHY-006,Papilledema indicating raised intracranial pressure,source_checked,needs_medical_review,false
 NEUR-PHY-007,Meningismus with meningeal inflammation concern,source_checked,needs_medical_review,false
 NEUR-PHY-008,Romberg sign suggesting sensory or vestibular imbalance,source_checked,needs_medical_review,false
+REN-PHYSICAL_FINDINGS-001,Costovertebral-angle tenderness,source_checked,needs_medical_review,false
+REN-PHYSICAL_FINDINGS-002,Peripheral edema,source_checked,needs_medical_review,false
+REN-PHYSICAL_FINDINGS-003,Bladder distention,source_checked,needs_medical_review,false
+REN-PHYSICAL_FINDINGS-004,Volume depletion,source_checked,needs_medical_review,false
+REN-PHYSICAL_FINDINGS-005,Hypertensive emergency,source_checked,needs_medical_review,false
+REN-PHYSICAL_FINDINGS-006,Uremic friction rub,source_checked,needs_medical_review,false
