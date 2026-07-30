@@ -1,0 +1,177 @@
+disease_id,canonical_name,board_priority,presentation_count,finding_count,keyword_count,diagnostic_count,treatment_count,differential_count,complication_count,localization_count,algorithm_count,source_topic_count,suspected_threshold_generation,suspected_generic_text,clinically_complete,remaining_gaps
+DIS-NEUR-001,Transient ischemic attack,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0061,Seizure disorder,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0063,Meningitis,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0069,Delirium,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0058,Acute ischemic stroke,1,4,5,3,6,5,6,4,10,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-006,Large-vessel occlusion stroke,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-007,Lacunar stroke,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-008,Watershed infarction,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-009,Cardioembolic stroke,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-010,Cryptogenic stroke,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-011,Cerebral venous sinus thrombosis,1,4,4,4,4,4,13,4,8,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0059,Intracerebral hemorrhage,1,4,6,5,6,5,6,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0060,Subarachnoid hemorrhage,1,4,4,4,4,4,7,4,8,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-014,Epidural hematoma,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-015,Subdural hematoma,1,4,5,5,5,5,6,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-016,Intraventricular hemorrhage,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-017,Hypertensive cerebral hemorrhage,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-018,Cerebral amyloid angiopathy,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-019,Carotid artery dissection,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-020,Vertebral artery dissection,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-021,Carotid artery stenosis,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-022,Moyamoya disease,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-023,Reversible cerebral vasoconstriction syndrome,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-024,Posterior reversible encephalopathy syndrome,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-025,Vascular dementia,2,3,4,3,4,4,7,2,8,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-026,Middle cerebral artery syndrome,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-027,Anterior cerebral artery syndrome,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-028,Posterior cerebral artery syndrome,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-029,Basilar artery syndrome,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-030,Lateral medullary syndrome,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-031,Medial medullary syndrome,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-032,Locked-in syndrome,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-033,Pure motor lacunar syndrome,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-034,First unprovoked seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-035,Focal aware seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-036,Focal impaired-awareness seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-037,Focal to bilateral tonic-clonic seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-038,Generalized tonic-clonic seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-039,Absence seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-040,Myoclonic seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-041,Atonic seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-042,Infantile spasms,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-P-0113,Febrile seizure,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0062,Status epilepticus,1,4,6,3,4,6,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-045,Nonconvulsive status epilepticus,1,4,6,5,5,5,6,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-046,Psychogenic nonepileptic seizures,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-047,Juvenile myoclonic epilepsy,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-048,Childhood absence epilepsy,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-049,Temporal-lobe epilepsy,1,4,6,5,5,5,7,4,11,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-050,Lennox-Gastaut syndrome,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-051,West syndrome,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-052,Dravet syndrome,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-053,Migraine without aura,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-054,Migraine with aura,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-055,Hemiplegic migraine,2,3,4,3,4,4,7,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-056,Cluster headache,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-057,Trigeminal neuralgia,2,3,4,3,4,4,7,2,8,2,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-058,Idiopathic intracranial hypertension,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-059,Intracranial hypotension,2,3,4,3,4,4,7,2,8,2,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-061,Post-dural-puncture headache,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-062,Acute bacterial meningitis,1,4,6,3,4,4,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-063,Viral meningitis,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-064,Tuberculous meningitis,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-065,Cryptococcal meningitis,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0064,Encephalitis,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-067,HSV encephalitis,1,4,4,3,3,3,13,4,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-068,Brain abscess,1,4,6,3,4,4,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-070,Neurosyphilis,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-071,Progressive multifocal leukoencephalopathy,1,4,6,5,5,5,14,4,12,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0065,Multiple sclerosis,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-073,Clinically isolated syndrome,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-074,Neuromyelitis optica spectrum disorder,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-075,MOG antibody-associated disease,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-076,Acute disseminated encephalomyelitis,2,3,4,3,4,4,7,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-077,Transverse myelitis,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-078,Optic neuritis,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0068,Guillain-Barre syndrome,2,3,4,3,4,6,3,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-080,Chronic inflammatory demyelinating polyneuropathy,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-081,Autoimmune encephalitis,2,3,4,3,4,4,7,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-082,Anti-NMDA receptor encephalitis,2,3,4,3,4,4,7,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0066,Parkinson disease,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-084,Drug-induced parkinsonism,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-085,Multiple system atrophy,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-086,Progressive supranuclear palsy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-087,Essential tremor,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-088,Huntington disease,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-089,Wilson disease,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-090,Tourette disorder,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-091,Tardive dyskinesia,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-092,Acute dystonia,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-093,Akathisia,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-094,Neuroleptic malignant syndrome,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-095,Serotonin syndrome,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-096,Alzheimer disease,2,3,4,3,4,4,6,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-097,Dementia with Lewy bodies,2,3,4,3,4,4,6,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-098,Frontotemporal dementia,2,3,4,3,4,4,6,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-099,Normal-pressure hydrocephalus,2,3,4,3,4,4,6,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-100,Creutzfeldt-Jakob disease,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-101,Wernicke encephalopathy,2,3,4,3,4,4,7,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-102,Korsakoff syndrome,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-N-0067,Myasthenia gravis,2,3,4,3,4,4,3,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-104,Myasthenic crisis,2,3,4,3,3,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-105,Cholinergic crisis,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-106,Lambert-Eaton myasthenic syndrome,2,3,4,3,4,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-107,Botulism,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-108,Duchenne muscular dystrophy,2,3,4,3,4,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-111,Rhabdomyolysis,2,3,4,3,4,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-112,Malignant hyperthermia,2,3,4,3,4,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-113,Diabetic polyneuropathy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-114,Vitamin B12 deficiency neuropathy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-116,Ulnar neuropathy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-117,Common peroneal neuropathy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-118,Bell palsy,2,3,3,3,4,4,1,2,6,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-119,Ramsay Hunt syndrome,2,3,3,3,4,4,1,2,6,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-125,Anterior spinal artery syndrome,1,4,6,5,6,5,7,4,12,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-126,Brown-Sequard syndrome,1,4,6,5,4,5,1,4,12,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-127,Syringomyelia,1,4,6,5,4,5,1,4,12,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-128,Amyotrophic lateral sclerosis,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-129,Glioblastoma,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-130,Oligodendroglioma,2,3,4,3,4,4,7,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-131,Meningioma,2,3,4,3,4,4,7,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-132,Vestibular schwannoma,2,3,4,2,4,4,7,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-133,Pituitary adenoma,2,3,4,3,4,4,7,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-134,Medulloblastoma,2,3,4,2,4,4,7,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-135,Primary CNS lymphoma,2,3,4,3,4,4,7,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-136,Brain metastases,2,3,4,3,4,4,6,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-137,Increased intracranial pressure,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-138,Obstructive hydrocephalus,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-139,Communicating hydrocephalus,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-140,Uncal herniation,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-141,Papilledema,1,4,5,5,5,5,7,4,10,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-142,Oculomotor nerve palsy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-143,Abducens nerve palsy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-144,Internuclear ophthalmoplegia,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-145,Horner syndrome,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-146,Benign paroxysmal positional vertigo,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-147,Vestibular neuritis,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-148,Central vertigo,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-149,Cerebellar stroke,2,3,4,3,4,4,7,2,8,12,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-150,Cerebral palsy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-151,Spinal muscular atrophy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-152,Tuberous sclerosis,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-153,Neurofibromatosis type 1,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-154,Rett syndrome,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-155,Hepatic encephalopathy,2,3,4,3,4,4,6,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-156,Hyponatremic encephalopathy,2,3,4,3,4,4,6,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-157,Carbon monoxide poisoning,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-158,Osmotic demyelination syndrome,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-P-0023,Obstructive sleep apnea,2,3,3,3,4,4,1,2,6,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-160,Narcolepsy,2,3,3,3,4,4,1,2,6,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-161,REM sleep behavior disorder,2,3,3,3,4,4,1,2,6,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-162,Restless legs syndrome,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-MEDICATIONOVERUSEHEA,Medication-overuse headache,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-TENSIONTYPEHEADACHE,Tension-type headache,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-VESTIBULARMIGRAINE,Vestibular migraine,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-CHRONICMIGRAINE,Chronic migraine,2,3,4,3,4,4,1,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-OCCIPITALNEURALGIA,Occipital neuralgia,2,3,4,3,4,4,7,2,8,2,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-GLOSSOPHARYNGEALNEUR,Glossopharyngeal neuralgia,2,3,4,3,4,4,7,2,8,2,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-NEUROBORRELIOSIS,Neuroborreliosis,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-RABIESENCEPHALITIS,Rabies encephalitis,2,3,4,3,4,4,7,2,8,4,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-ACUTEFLACCIDMYELITIS,Acute flaccid myelitis,2,3,4,3,4,4,1,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-FACIOSCAPULOHUMERALM,Facioscapulohumeral muscular dystrophy,2,3,4,3,4,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-MYOTONICDYSTROPHY,Myotonic dystrophy,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-MCARDLEDISEASE,McArdle disease,2,3,4,3,4,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-POMPEDISEASE,Pompe disease,2,3,4,3,4,4,4,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-SMALLFIBERNEUROPATHY,Small-fiber neuropathy,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-MONONEURITISMULTIPLE,Mononeuritis multiplex,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-TABESDORSALIS,Tabes dorsalis,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-CENTRALCORDSYNDROME,Central cord syndrome,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-POSTERIORCORDSYNDROM,Posterior cord syndrome,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-DIFFUSEASTROCYTOMA,Diffuse astrocytoma,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-EPENDYMOMA,Ependymoma,2,3,4,2,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-HEMANGIOBLASTOMA,Hemangioblastoma,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-CRANIOPHARYNGIOMA,Craniopharyngioma,2,3,4,3,4,4,7,2,8,1,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-CHIARIMALFORMATION,Chiari malformation,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.
+DIS-NEUR-DANDYWALKERMALFORMAT,Dandy-Walker malformation,2,3,4,3,4,4,1,2,8,0,1,false,false,true,None; topic-level source support remains transparent.

@@ -1,0 +1,180 @@
+# Neurology Phase 2 relationship audit
+
+All Neurology phase-one uniform and cyclic rows were replaced. Counts vary by syndrome profile and priority; every row is condition-contextual.
+
+- Transient ischemic attack: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Seizure disorder: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Meningitis: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- Delirium: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Acute ischemic stroke: presentations 4, findings 5, diagnostics 6, treatments 5, differentials 6.
+- Large-vessel occlusion stroke: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Lacunar stroke: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Watershed infarction: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Cardioembolic stroke: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Cryptogenic stroke: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Cerebral venous sinus thrombosis: presentations 4, findings 4, diagnostics 4, treatments 4, differentials 13.
+- Intracerebral hemorrhage: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 6.
+- Subarachnoid hemorrhage: presentations 4, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Epidural hematoma: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Subdural hematoma: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 6.
+- Intraventricular hemorrhage: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Hypertensive cerebral hemorrhage: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Cerebral amyloid angiopathy: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Carotid artery dissection: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Vertebral artery dissection: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Carotid artery stenosis: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Moyamoya disease: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Reversible cerebral vasoconstriction syndrome: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Posterior reversible encephalopathy syndrome: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- Vascular dementia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Middle cerebral artery syndrome: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Anterior cerebral artery syndrome: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Posterior cerebral artery syndrome: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Basilar artery syndrome: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Lateral medullary syndrome: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Medial medullary syndrome: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Locked-in syndrome: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Pure motor lacunar syndrome: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- First unprovoked seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Focal aware seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Focal impaired-awareness seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Focal to bilateral tonic-clonic seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Generalized tonic-clonic seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Absence seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Myoclonic seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Atonic seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Infantile spasms: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Febrile seizure: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Status epilepticus: presentations 4, findings 6, diagnostics 4, treatments 6, differentials 7.
+- Nonconvulsive status epilepticus: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 6.
+- Psychogenic nonepileptic seizures: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Juvenile myoclonic epilepsy: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Childhood absence epilepsy: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Temporal-lobe epilepsy: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 7.
+- Lennox-Gastaut syndrome: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- West syndrome: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Dravet syndrome: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Migraine without aura: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Migraine with aura: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Hemiplegic migraine: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Cluster headache: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Trigeminal neuralgia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Idiopathic intracranial hypertension: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Intracranial hypotension: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Post-dural-puncture headache: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Acute bacterial meningitis: presentations 4, findings 6, diagnostics 4, treatments 4, differentials 14.
+- Viral meningitis: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- Tuberculous meningitis: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- Cryptococcal meningitis: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- Encephalitis: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- HSV encephalitis: presentations 4, findings 4, diagnostics 3, treatments 3, differentials 13.
+- Brain abscess: presentations 4, findings 6, diagnostics 4, treatments 4, differentials 14.
+- Neurosyphilis: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- Progressive multifocal leukoencephalopathy: presentations 4, findings 6, diagnostics 5, treatments 5, differentials 14.
+- Multiple sclerosis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Clinically isolated syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Neuromyelitis optica spectrum disorder: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- MOG antibody-associated disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Acute disseminated encephalomyelitis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Transverse myelitis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Optic neuritis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Guillain-Barre syndrome: presentations 3, findings 4, diagnostics 4, treatments 6, differentials 3.
+- Chronic inflammatory demyelinating polyneuropathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Autoimmune encephalitis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Anti-NMDA receptor encephalitis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Parkinson disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Drug-induced parkinsonism: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Multiple system atrophy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Progressive supranuclear palsy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Essential tremor: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Huntington disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Wilson disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Tourette disorder: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Tardive dyskinesia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Acute dystonia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Akathisia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Neuroleptic malignant syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Serotonin syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Alzheimer disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 6.
+- Dementia with Lewy bodies: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 6.
+- Frontotemporal dementia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 6.
+- Normal-pressure hydrocephalus: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 6.
+- Creutzfeldt-Jakob disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Wernicke encephalopathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Korsakoff syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Myasthenia gravis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 3.
+- Myasthenic crisis: presentations 3, findings 4, diagnostics 3, treatments 4, differentials 4.
+- Cholinergic crisis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Lambert-Eaton myasthenic syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 4.
+- Botulism: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Duchenne muscular dystrophy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 4.
+- Rhabdomyolysis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 4.
+- Malignant hyperthermia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 4.
+- Diabetic polyneuropathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Vitamin B12 deficiency neuropathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Ulnar neuropathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Common peroneal neuropathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Bell palsy: presentations 3, findings 3, diagnostics 4, treatments 4, differentials 1.
+- Ramsay Hunt syndrome: presentations 3, findings 3, diagnostics 4, treatments 4, differentials 1.
+- Anterior spinal artery syndrome: presentations 4, findings 6, diagnostics 6, treatments 5, differentials 7.
+- Brown-Sequard syndrome: presentations 4, findings 6, diagnostics 4, treatments 5, differentials 1.
+- Syringomyelia: presentations 4, findings 6, diagnostics 4, treatments 5, differentials 1.
+- Amyotrophic lateral sclerosis: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Glioblastoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Oligodendroglioma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Meningioma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Vestibular schwannoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Pituitary adenoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Medulloblastoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Primary CNS lymphoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Brain metastases: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 6.
+- Increased intracranial pressure: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Obstructive hydrocephalus: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Communicating hydrocephalus: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Uncal herniation: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Papilledema: presentations 4, findings 5, diagnostics 5, treatments 5, differentials 7.
+- Oculomotor nerve palsy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Abducens nerve palsy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Internuclear ophthalmoplegia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Horner syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Benign paroxysmal positional vertigo: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Vestibular neuritis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Central vertigo: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Cerebellar stroke: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Cerebral palsy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Spinal muscular atrophy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Tuberous sclerosis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Neurofibromatosis type 1: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Rett syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Hepatic encephalopathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 6.
+- Hyponatremic encephalopathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 6.
+- Carbon monoxide poisoning: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Osmotic demyelination syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Obstructive sleep apnea: presentations 3, findings 3, diagnostics 4, treatments 4, differentials 1.
+- Narcolepsy: presentations 3, findings 3, diagnostics 4, treatments 4, differentials 1.
+- REM sleep behavior disorder: presentations 3, findings 3, diagnostics 4, treatments 4, differentials 1.
+- Restless legs syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Medication-overuse headache: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Tension-type headache: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Vestibular migraine: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Chronic migraine: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Occipital neuralgia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Glossopharyngeal neuralgia: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Neuroborreliosis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Rabies encephalitis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Acute flaccid myelitis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Facioscapulohumeral muscular dystrophy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 4.
+- Myotonic dystrophy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- McArdle disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 4.
+- Pompe disease: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 4.
+- Small-fiber neuropathy: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Mononeuritis multiplex: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Tabes dorsalis: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Central cord syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Posterior cord syndrome: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Diffuse astrocytoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Ependymoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Hemangioblastoma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Craniopharyngioma: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 7.
+- Chiari malformation: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.
+- Dandy-Walker malformation: presentations 3, findings 4, diagnostics 4, treatments 4, differentials 1.

@@ -1,3 +1,3 @@
 # Finding Coverage
 
-- keyword_linked_diseases: 33
+- keyword_linked_diseases: 192

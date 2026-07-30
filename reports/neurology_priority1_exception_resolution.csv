@@ -1,0 +1,137 @@
+disease_id,canonical_name,gap_type,original_gap,resolution_type,entities_added,nonapplicability_rationale,source_status,resolved
+DIS-NEUR-001,Transient ischemic attack,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-001,Transient ischemic attack,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0061,Seizure disorder,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-N-0061,Seizure disorder,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0063,Meningitis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-N-0063,Meningitis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0058,Acute ischemic stroke,keyword,Phase-1 keyword threshold exception,entities added,3,,partially_source_supported,true
+DIS-N-0058,Acute ischemic stroke,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-006,Large-vessel occlusion stroke,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-006,Large-vessel occlusion stroke,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-007,Lacunar stroke,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-007,Lacunar stroke,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-008,Watershed infarction,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-008,Watershed infarction,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-009,Cardioembolic stroke,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-009,Cardioembolic stroke,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-010,Cryptogenic stroke,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-010,Cryptogenic stroke,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-011,Cerebral venous sinus thrombosis,keyword,Phase-1 keyword threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-011,Cerebral venous sinus thrombosis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0059,Intracerebral hemorrhage,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-N-0059,Intracerebral hemorrhage,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0060,Subarachnoid hemorrhage,keyword,Phase-1 keyword threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0060,Subarachnoid hemorrhage,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-014,Epidural hematoma,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-014,Epidural hematoma,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-015,Subdural hematoma,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-015,Subdural hematoma,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-016,Intraventricular hemorrhage,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-016,Intraventricular hemorrhage,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-017,Hypertensive cerebral hemorrhage,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-017,Hypertensive cerebral hemorrhage,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-018,Cerebral amyloid angiopathy,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-018,Cerebral amyloid angiopathy,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-019,Carotid artery dissection,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-019,Carotid artery dissection,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-020,Vertebral artery dissection,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-020,Vertebral artery dissection,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-021,Carotid artery stenosis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-021,Carotid artery stenosis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-022,Moyamoya disease,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-022,Moyamoya disease,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-023,Reversible cerebral vasoconstriction syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-023,Reversible cerebral vasoconstriction syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-024,Posterior reversible encephalopathy syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-024,Posterior reversible encephalopathy syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-026,Middle cerebral artery syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-026,Middle cerebral artery syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-027,Anterior cerebral artery syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-027,Anterior cerebral artery syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-028,Posterior cerebral artery syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-028,Posterior cerebral artery syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-029,Basilar artery syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-029,Basilar artery syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-030,Lateral medullary syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-030,Lateral medullary syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-031,Medial medullary syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-031,Medial medullary syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-032,Locked-in syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-032,Locked-in syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-033,Pure motor lacunar syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-033,Pure motor lacunar syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-034,First unprovoked seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-034,First unprovoked seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-035,Focal aware seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-035,Focal aware seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-036,Focal impaired-awareness seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-036,Focal impaired-awareness seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-037,Focal to bilateral tonic-clonic seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-037,Focal to bilateral tonic-clonic seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-038,Generalized tonic-clonic seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-038,Generalized tonic-clonic seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-039,Absence seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-039,Absence seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-040,Myoclonic seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-040,Myoclonic seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-041,Atonic seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-041,Atonic seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-042,Infantile spasms,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-042,Infantile spasms,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-P-0113,Febrile seizure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-P-0113,Febrile seizure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0062,Status epilepticus,keyword,Phase-1 keyword threshold exception,entities added,3,,partially_source_supported,true
+DIS-N-0062,Status epilepticus,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-045,Nonconvulsive status epilepticus,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-045,Nonconvulsive status epilepticus,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-046,Psychogenic nonepileptic seizures,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-046,Psychogenic nonepileptic seizures,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-047,Juvenile myoclonic epilepsy,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-047,Juvenile myoclonic epilepsy,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-048,Childhood absence epilepsy,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-048,Childhood absence epilepsy,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-049,Temporal-lobe epilepsy,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-049,Temporal-lobe epilepsy,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-050,Lennox-Gastaut syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-050,Lennox-Gastaut syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-051,West syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-051,West syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-052,Dravet syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-052,Dravet syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-062,Acute bacterial meningitis,keyword,Phase-1 keyword threshold exception,entities added,3,,partially_source_supported,true
+DIS-NEUR-062,Acute bacterial meningitis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-063,Viral meningitis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-063,Viral meningitis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-064,Tuberculous meningitis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-064,Tuberculous meningitis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-065,Cryptococcal meningitis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-065,Cryptococcal meningitis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-N-0064,Encephalitis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-N-0064,Encephalitis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-067,HSV encephalitis,keyword,Phase-1 keyword threshold exception,entities added,3,,partially_source_supported,true
+DIS-NEUR-067,HSV encephalitis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-068,Brain abscess,keyword,Phase-1 keyword threshold exception,entities added,3,,partially_source_supported,true
+DIS-NEUR-068,Brain abscess,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-070,Neurosyphilis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-070,Neurosyphilis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-071,Progressive multifocal leukoencephalopathy,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-071,Progressive multifocal leukoencephalopathy,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-125,Anterior spinal artery syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-125,Anterior spinal artery syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-126,Brown-Sequard syndrome,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-126,Brown-Sequard syndrome,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-127,Syringomyelia,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-127,Syringomyelia,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-128,Amyotrophic lateral sclerosis,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-128,Amyotrophic lateral sclerosis,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-137,Increased intracranial pressure,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-137,Increased intracranial pressure,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-138,Obstructive hydrocephalus,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-138,Obstructive hydrocephalus,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-139,Communicating hydrocephalus,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-139,Communicating hydrocephalus,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-140,Uncal herniation,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-140,Uncal herniation,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true
+DIS-NEUR-141,Papilledema,keyword,Phase-1 keyword threshold exception,entities added,5,,partially_source_supported,true
+DIS-NEUR-141,Papilledema,complication,Phase-1 complication threshold exception,entities added,4,,partially_source_supported,true

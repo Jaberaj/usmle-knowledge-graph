@@ -21,3 +21,44 @@ LOC-NEUR-NEUROMUSCULARJUNCTIO,Neuromuscular junction,motor unit,partially_source
 LOC-NEUR-MUSCLE,Muscle,motor unit,partially_source_supported,not_requested,false,Localization concept for educational inference.
 LOC-NEUR-PERIPHERALNERVE,Peripheral nerve,peripheral nervous system,partially_source_supported,not_requested,false,Localization concept for educational inference.
 LOC-NEUR-CAUDAEQUINA,Cauda equina,peripheral nervous system,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-783678A5C969,Cerebral cortex,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-BE6898C84397,Dominant frontal language region,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-D8CAD50D4FAF,Dominant parietal lobe,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-79F12D347BFA,Nondominant parietal lobe,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-708B17430BB7,Caudate,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-870C934FAAF7,Subthalamic nucleus,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-FFE315001EB7,Hypothalamus,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-B96FC3A654E9,Medial brainstem,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-6A49A2418699,Lateral brainstem,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-B91A830C65D2,Cranial-nerve nuclei,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-B31D9122CD4D,Flocculonodular lobe,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-0DC9B1DCD68A,Cerebellar peduncles,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-E4CB23EEB957,Cervical cord,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-53C24D7CC2BE,Thoracic cord,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-63F7DF148700,Lumbar cord,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-1B7AF500D64A,Conus medullaris,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-22E4A59A1B30,Anterior horn,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-1D8C1BDFB097,Central cord,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-C54495282657,Hemicord,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-926261FED385,Nerve root,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-E2A406F79800,Plexus,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-5B2622BA4CC2,Optic nerve,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-2B250B62E276,Optic chiasm,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-E69BAF054E79,Optic tract,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-7434A2531CCA,Meyer loop,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-638E4F670A22,Optic radiations,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-9C7B467FD4F4,Broca region,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-647BE02DFA8D,Wernicke region,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-CFF12913FEDF,Arcuate fasciculus,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-027A2D568168,Cranial nerve I,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-8C784684C3A7,Cranial nerve II,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-06F9E5A9DAC5,Cranial nerve III,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-3ABB768B49F2,Cranial nerve IV,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-7D3D334BEC07,Cranial nerve V,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-ACB9DF579CA5,Cranial nerve VI,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-AF2DA84BA25E,Cranial nerve VII,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-4D357CCC6A4B,Cranial nerve VIII,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-9632DCF2A991,Cranial nerve IX,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-C428112E052E,Cranial nerve X,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-9248D47FC9E7,Cranial nerve XI,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.
+LOC-NEUR-8BF85041A8DD,Cranial nerve XII,neuroanatomic region or tract,partially_source_supported,not_requested,false,Phase-2 localization-game node.

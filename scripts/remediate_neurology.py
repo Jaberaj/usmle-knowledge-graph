@@ -438,7 +438,7 @@ def read(path: Path) -> tuple[list[str], list[dict[str, str]]]:
 
 def write(path: Path, headers: list[str], rows: list[dict[str, str]]) -> None:
     with path.open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=headers)
+        writer = csv.DictWriter(handle, fieldnames=headers, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 

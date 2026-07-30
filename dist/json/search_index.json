@@ -2729,7 +2729,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "transient ischemic attack"
+        "transient ischemic attack",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2744,7 +2749,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "seizure disorder"
+        "seizure disorder",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2759,7 +2769,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "meningitis"
+        "meningitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2774,7 +2789,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "delirium"
+        "delirium",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2789,7 +2807,10 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "acute ischemic stroke"
+        "acute ischemic stroke",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "pure motor stroke"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2804,7 +2825,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "large-vessel occlusion stroke"
+        "large-vessel occlusion stroke",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2819,7 +2845,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "lacunar stroke"
+        "lacunar stroke",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2834,7 +2865,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "watershed infarction"
+        "watershed infarction",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2849,7 +2885,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "cardioembolic stroke"
+        "cardioembolic stroke",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2864,7 +2905,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "cryptogenic stroke"
+        "cryptogenic stroke",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2879,7 +2925,11 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "cerebral venous sinus thrombosis"
+        "cerebral venous sinus thrombosis",
+        "thunderclap headache",
+        "papilledema",
+        "diffusion restriction",
+        "postpartum thrombosis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2894,7 +2944,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "intracerebral hemorrhage"
+        "intracerebral hemorrhage",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2910,8 +2965,10 @@
       "priority": 1,
       "search_keywords": [
         "subarachnoid hemorrhage",
+        "worst headache of life",
         "thunderclap headache",
-        "worst headache of life"
+        "xanthochromia",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2926,7 +2983,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "epidural hematoma"
+        "epidural hematoma",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2941,7 +3003,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "subdural hematoma"
+        "subdural hematoma",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2956,7 +3023,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "intraventricular hemorrhage"
+        "intraventricular hemorrhage",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2971,7 +3043,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "hypertensive cerebral hemorrhage"
+        "hypertensive cerebral hemorrhage",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2986,7 +3063,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "cerebral amyloid angiopathy"
+        "cerebral amyloid angiopathy",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3001,7 +3083,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "carotid artery dissection"
+        "carotid artery dissection",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3016,7 +3103,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "vertebral artery dissection"
+        "vertebral artery dissection",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3031,7 +3123,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "carotid artery stenosis"
+        "carotid artery stenosis",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3046,7 +3143,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "moyamoya disease"
+        "moyamoya disease",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3061,7 +3163,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "reversible cerebral vasoconstriction syndrome"
+        "reversible cerebral vasoconstriction syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3076,7 +3183,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "posterior reversible encephalopathy syndrome"
+        "posterior reversible encephalopathy syndrome",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3091,7 +3203,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "vascular dementia"
+        "vascular dementia",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3106,7 +3221,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "middle cerebral artery syndrome"
+        "middle cerebral artery syndrome",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3121,7 +3241,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "anterior cerebral artery syndrome"
+        "anterior cerebral artery syndrome",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3136,7 +3261,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "posterior cerebral artery syndrome"
+        "posterior cerebral artery syndrome",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3151,7 +3281,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "basilar artery syndrome"
+        "basilar artery syndrome",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3166,7 +3301,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "lateral medullary syndrome"
+        "lateral medullary syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3181,7 +3321,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "medial medullary syndrome"
+        "medial medullary syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3196,7 +3341,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "locked-in syndrome"
+        "locked-in syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3211,7 +3361,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "pure motor lacunar syndrome"
+        "pure motor lacunar syndrome",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3226,7 +3381,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "first unprovoked seizure"
+        "first unprovoked seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3241,7 +3401,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "focal aware seizure"
+        "focal aware seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3256,7 +3421,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "focal impaired-awareness seizure"
+        "focal impaired-awareness seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3271,7 +3441,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "focal to bilateral tonic-clonic seizure"
+        "focal to bilateral tonic-clonic seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3286,7 +3461,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "generalized tonic-clonic seizure"
+        "generalized tonic-clonic seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3301,7 +3481,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "absence seizure"
+        "absence seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3316,7 +3501,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "myoclonic seizure"
+        "myoclonic seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3331,7 +3521,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "atonic seizure"
+        "atonic seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3346,7 +3541,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "infantile spasms"
+        "infantile spasms",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3361,7 +3561,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "febrile seizure"
+        "febrile seizure",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3376,7 +3581,10 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "status epilepticus"
+        "status epilepticus",
+        "ongoing convulsions",
+        "postictal failure to recover",
+        "lateral tongue biting"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3391,7 +3599,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "nonconvulsive status epilepticus"
+        "nonconvulsive status epilepticus",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3406,7 +3619,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "psychogenic nonepileptic seizures"
+        "psychogenic nonepileptic seizures",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3421,7 +3639,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "juvenile myoclonic epilepsy"
+        "juvenile myoclonic epilepsy",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3436,7 +3659,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "childhood absence epilepsy"
+        "childhood absence epilepsy",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3451,7 +3679,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "temporal-lobe epilepsy"
+        "temporal-lobe epilepsy",
+        "deja vu aura",
+        "automatisms",
+        "three-hertz spike-and-wave",
+        "hypsarrhythmia",
+        "todd paralysis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3466,7 +3699,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "lennox-gastaut syndrome"
+        "lennox-gastaut syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3481,7 +3719,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "west syndrome"
+        "west syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3496,7 +3739,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "dravet syndrome"
+        "dravet syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3511,7 +3759,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "migraine without aura"
+        "migraine without aura",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3526,7 +3777,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "migraine with aura"
+        "migraine with aura",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3541,7 +3795,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "hemiplegic migraine"
+        "hemiplegic migraine",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3556,7 +3813,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "cluster headache"
+        "cluster headache",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3571,7 +3831,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "trigeminal neuralgia"
+        "trigeminal neuralgia",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3586,7 +3849,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "idiopathic intracranial hypertension"
+        "idiopathic intracranial hypertension",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3601,7 +3867,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "intracranial hypotension"
+        "intracranial hypotension",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3616,7 +3885,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "post-dural-puncture headache"
+        "post-dural-puncture headache",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3631,7 +3903,10 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "acute bacterial meningitis"
+        "acute bacterial meningitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "meningismus"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3646,7 +3921,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "viral meningitis"
+        "viral meningitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3661,7 +3941,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "tuberculous meningitis"
+        "tuberculous meningitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3676,7 +3961,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "cryptococcal meningitis"
+        "cryptococcal meningitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3691,7 +3981,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "encephalitis"
+        "encephalitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3707,7 +4002,9 @@
       "priority": 1,
       "search_keywords": [
         "hsv encephalitis",
-        "temporal-lobe hemorrhagic necrosis"
+        "temporal-lobe hemorrhagic necrosis",
+        "focal seizure",
+        "lymphocytic csf"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3722,7 +4019,10 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "brain abscess"
+        "brain abscess",
+        "ring-enhancing lesion",
+        "focal neurologic deficit",
+        "avoid routine lumbar puncture"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3738,7 +4038,11 @@
       "priority": 1,
       "search_keywords": [
         "neurosyphilis",
-        "argyll robertson pupil"
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3753,7 +4057,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "progressive multifocal leukoencephalopathy"
+        "progressive multifocal leukoencephalopathy",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis",
+        "opening pressure",
+        "ring-enhancing lesion"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -3769,9 +4078,9 @@
       "priority": 2,
       "search_keywords": [
         "multiple sclerosis",
-        "electric shock sensation with neck flexion",
         "dawson fingers",
-        "electric shock with neck flexion"
+        "oligoclonal bands",
+        "internuclear ophthalmoplegia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3786,7 +4095,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "clinically isolated syndrome"
+        "clinically isolated syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3801,7 +4113,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "neuromyelitis optica spectrum disorder"
+        "neuromyelitis optica spectrum disorder",
+        "aquaporin-4 antibodies",
+        "longitudinally extensive transverse myelitis",
+        "area postrema syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3816,7 +4131,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "mog antibody-associated disease"
+        "mog antibody-associated disease",
+        "internuclear ophthalmoplegia",
+        "dawson fingers",
+        "oligoclonal bands"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -3831,7 +4149,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "acute disseminated encephalomyelitis"
+        "acute disseminated encephalomyelitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3846,7 +4167,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "transverse myelitis"
+        "transverse myelitis",
+        "internuclear ophthalmoplegia",
+        "dawson fingers",
+        "oligoclonal bands"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3861,7 +4185,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "optic neuritis"
+        "optic neuritis",
+        "internuclear ophthalmoplegia",
+        "dawson fingers",
+        "oligoclonal bands"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3877,7 +4204,9 @@
       "priority": 2,
       "search_keywords": [
         "guillain-barre syndrome",
-        "albuminocytologic dissociation"
+        "albuminocytologic dissociation",
+        "ascending weakness",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3892,7 +4221,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "chronic inflammatory demyelinating polyneuropathy"
+        "chronic inflammatory demyelinating polyneuropathy",
+        "internuclear ophthalmoplegia",
+        "dawson fingers",
+        "oligoclonal bands"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -3907,7 +4239,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "autoimmune encephalitis"
+        "autoimmune encephalitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3922,7 +4257,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "anti-nmda receptor encephalitis"
+        "anti-nmda receptor encephalitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3938,9 +4276,9 @@
       "priority": 2,
       "search_keywords": [
         "parkinson disease",
-        "resting tremor",
-        "resting pill-rolling tremor",
-        "cogwheel rigidity"
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "masked facies"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3956,7 +4294,9 @@
       "priority": 2,
       "search_keywords": [
         "drug-induced parkinsonism",
-        "cogwheel rigidity"
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -3971,7 +4311,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "multiple system atrophy"
+        "multiple system atrophy",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -3986,7 +4329,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "progressive supranuclear palsy"
+        "progressive supranuclear palsy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -4001,7 +4347,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "essential tremor"
+        "essential tremor",
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4016,7 +4365,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "huntington disease"
+        "huntington disease",
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4032,7 +4384,9 @@
       "priority": 2,
       "search_keywords": [
         "wilson disease",
-        "kayser-fleischer rings"
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4047,7 +4401,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "tourette disorder"
+        "tourette disorder",
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4062,7 +4419,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "tardive dyskinesia"
+        "tardive dyskinesia",
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4077,7 +4437,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "acute dystonia"
+        "acute dystonia",
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4092,7 +4455,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "akathisia"
+        "akathisia",
+        "pill-rolling tremor",
+        "cogwheel rigidity",
+        "lead-pipe rigidity"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4107,7 +4473,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "neuroleptic malignant syndrome"
+        "neuroleptic malignant syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4122,7 +4491,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "serotonin syndrome"
+        "serotonin syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4137,7 +4509,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "alzheimer disease"
+        "alzheimer disease",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4152,7 +4527,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "dementia with lewy bodies"
+        "dementia with lewy bodies",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4167,7 +4545,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "frontotemporal dementia"
+        "frontotemporal dementia",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4182,7 +4563,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "normal-pressure hydrocephalus"
+        "normal-pressure hydrocephalus",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4197,7 +4581,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "creutzfeldt-jakob disease"
+        "creutzfeldt-jakob disease",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4212,7 +4599,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "wernicke encephalopathy"
+        "wernicke encephalopathy",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4227,7 +4617,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "korsakoff syndrome"
+        "korsakoff syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4243,7 +4636,9 @@
       "priority": 2,
       "search_keywords": [
         "myasthenia gravis",
-        "fatigable ptosis"
+        "fatigable ptosis",
+        "diurnal variation",
+        "no sensory loss"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4259,7 +4654,9 @@
       "priority": 2,
       "search_keywords": [
         "myasthenic crisis",
-        "fatigable ptosis"
+        "fatigable ptosis",
+        "diurnal variation",
+        "facilitation with repeated use"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4274,7 +4671,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "cholinergic crisis"
+        "cholinergic crisis",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4290,6 +4690,8 @@
       "priority": 2,
       "search_keywords": [
         "lambert-eaton myasthenic syndrome",
+        "fatigable ptosis",
+        "diurnal variation",
         "facilitation with repeated use"
       ],
       "source_status": "partially_source_supported"
@@ -4305,7 +4707,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "botulism"
+        "botulism",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4321,8 +4726,9 @@
       "priority": 2,
       "search_keywords": [
         "duchenne muscular dystrophy",
-        "gowers sign",
-        "calf pseudohypertrophy"
+        "fatigable ptosis",
+        "diurnal variation",
+        "facilitation with repeated use"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4337,7 +4743,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "rhabdomyolysis"
+        "rhabdomyolysis",
+        "fatigable ptosis",
+        "diurnal variation",
+        "facilitation with repeated use"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4352,7 +4761,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "malignant hyperthermia"
+        "malignant hyperthermia",
+        "fatigable ptosis",
+        "diurnal variation",
+        "facilitation with repeated use"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4367,7 +4779,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "diabetic polyneuropathy"
+        "diabetic polyneuropathy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4382,7 +4797,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "vitamin b12 deficiency neuropathy"
+        "vitamin b12 deficiency neuropathy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4397,7 +4815,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "ulnar neuropathy"
+        "ulnar neuropathy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4412,7 +4833,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "common peroneal neuropathy"
+        "common peroneal neuropathy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4427,7 +4851,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "bell palsy"
+        "bell palsy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4442,7 +4869,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "ramsay hunt syndrome"
+        "ramsay hunt syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4457,7 +4887,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "anterior spinal artery syndrome"
+        "anterior spinal artery syndrome",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings",
+        "pure motor stroke",
+        "lateral medullary syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4472,7 +4907,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "brown-sequard syndrome"
+        "brown-sequard syndrome",
+        "sensory level",
+        "saddle anesthesia",
+        "brown-sequard syndrome",
+        "cape-like sensory loss",
+        "autonomic dysreflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4488,7 +4928,11 @@
       "priority": 1,
       "search_keywords": [
         "syringomyelia",
-        "cape-like sensory loss"
+        "sensory level",
+        "saddle anesthesia",
+        "brown-sequard syndrome",
+        "cape-like sensory loss",
+        "autonomic dysreflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4503,7 +4947,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "amyotrophic lateral sclerosis"
+        "amyotrophic lateral sclerosis",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4519,7 +4968,9 @@
       "priority": 2,
       "search_keywords": [
         "glioblastoma",
-        "butterfly glioma"
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4535,7 +4986,9 @@
       "priority": 2,
       "search_keywords": [
         "oligodendroglioma",
-        "fried-egg appearance"
+        "fried-egg cells",
+        "chicken-wire vasculature",
+        "1p/19q codeletion"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4551,7 +5004,9 @@
       "priority": 2,
       "search_keywords": [
         "meningioma",
-        "dural tail"
+        "dural tail",
+        "extra-axial mass",
+        "homogeneous enhancement"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4566,7 +5021,9 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "vestibular schwannoma"
+        "vestibular schwannoma",
+        "bilateral vestibular schwannomas",
+        "cerebellopontine-angle mass"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4581,7 +5038,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "pituitary adenoma"
+        "pituitary adenoma",
+        "butterfly glioma",
+        "pseudopalisading necrosis",
+        "dural tail"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4597,7 +5057,8 @@
       "priority": 2,
       "search_keywords": [
         "medulloblastoma",
-        "homer wright rosettes"
+        "homer wright rosettes",
+        "midline cerebellar tumor"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4612,7 +5073,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "primary cns lymphoma"
+        "primary cns lymphoma",
+        "butterfly glioma",
+        "pseudopalisading necrosis",
+        "dural tail"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4627,7 +5091,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "brain metastases"
+        "brain metastases",
+        "butterfly glioma",
+        "pseudopalisading necrosis",
+        "dural tail"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4642,7 +5109,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "increased intracranial pressure"
+        "increased intracranial pressure",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4657,7 +5129,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "obstructive hydrocephalus"
+        "obstructive hydrocephalus",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4672,7 +5149,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "communicating hydrocephalus"
+        "communicating hydrocephalus",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4687,7 +5169,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "uncal herniation"
+        "uncal herniation",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4702,7 +5189,12 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "papilledema"
+        "papilledema",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait",
+        "urinary incontinence",
+        "wernicke aphasia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4717,7 +5209,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "oculomotor nerve palsy"
+        "oculomotor nerve palsy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4732,7 +5227,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "abducens nerve palsy"
+        "abducens nerve palsy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4747,7 +5245,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "internuclear ophthalmoplegia"
+        "internuclear ophthalmoplegia",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4762,7 +5263,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "horner syndrome"
+        "horner syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4777,7 +5281,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "benign paroxysmal positional vertigo"
+        "benign paroxysmal positional vertigo",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4792,7 +5299,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "vestibular neuritis"
+        "vestibular neuritis",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4807,7 +5317,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "central vertigo"
+        "central vertigo",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4822,7 +5335,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "cerebellar stroke"
+        "cerebellar stroke",
+        "diffusion restriction",
+        "hyperdense mca sign",
+        "crossed neurologic findings"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4837,7 +5353,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "cerebral palsy"
+        "cerebral palsy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4852,7 +5371,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "spinal muscular atrophy"
+        "spinal muscular atrophy",
+        "sensory level",
+        "saddle anesthesia",
+        "brown-sequard syndrome"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4867,7 +5389,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "tuberous sclerosis"
+        "tuberous sclerosis",
+        "developmental regression",
+        "hypotonia",
+        "infantile spasms"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4882,7 +5407,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "neurofibromatosis type 1"
+        "neurofibromatosis type 1",
+        "developmental regression",
+        "hypotonia",
+        "infantile spasms"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4897,7 +5425,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "rett syndrome"
+        "rett syndrome",
+        "developmental regression",
+        "hypotonia",
+        "infantile spasms"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4912,7 +5443,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "hepatic encephalopathy"
+        "hepatic encephalopathy",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4927,7 +5461,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "hyponatremic encephalopathy"
+        "hyponatremic encephalopathy",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4942,7 +5479,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "carbon monoxide poisoning"
+        "carbon monoxide poisoning",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4957,7 +5497,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "osmotic demyelination syndrome"
+        "osmotic demyelination syndrome",
+        "internuclear ophthalmoplegia",
+        "dawson fingers",
+        "oligoclonal bands"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4972,7 +5515,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "obstructive sleep apnea"
+        "obstructive sleep apnea",
+        "cataplexy",
+        "sleep-onset rem periods",
+        "dream enactment"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4987,7 +5533,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "narcolepsy"
+        "narcolepsy",
+        "cataplexy",
+        "sleep-onset rem periods",
+        "dream enactment"
       ],
       "source_status": "partially_source_supported"
     },
@@ -5002,7 +5551,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "rem sleep behavior disorder"
+        "rem sleep behavior disorder",
+        "cataplexy",
+        "sleep-onset rem periods",
+        "dream enactment"
       ],
       "source_status": "partially_source_supported"
     },
@@ -5017,7 +5569,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "restless legs syndrome"
+        "restless legs syndrome",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "partially_source_supported"
     },
@@ -10325,7 +10880,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "medication-overuse headache"
+        "medication-overuse headache",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10340,7 +10898,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "tension-type headache"
+        "tension-type headache",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10355,7 +10916,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "vestibular migraine"
+        "vestibular migraine",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10370,7 +10934,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "chronic migraine"
+        "chronic migraine",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10385,7 +10952,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "occipital neuralgia"
+        "occipital neuralgia",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10400,7 +10970,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "glossopharyngeal neuralgia"
+        "glossopharyngeal neuralgia",
+        "worst headache of life",
+        "thunderclap headache",
+        "sentinel headache"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10415,7 +10988,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "neuroborreliosis"
+        "neuroborreliosis",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10430,7 +11006,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "rabies encephalitis"
+        "rabies encephalitis",
+        "neutrophilic csf",
+        "low csf glucose",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10445,7 +11024,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "acute flaccid myelitis"
+        "acute flaccid myelitis",
+        "internuclear ophthalmoplegia",
+        "dawson fingers",
+        "oligoclonal bands"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10460,7 +11042,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "facioscapulohumeral muscular dystrophy"
+        "facioscapulohumeral muscular dystrophy",
+        "fatigable ptosis",
+        "diurnal variation",
+        "facilitation with repeated use"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10475,7 +11060,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "myotonic dystrophy"
+        "myotonic dystrophy",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10490,7 +11078,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "mcardle disease"
+        "mcardle disease",
+        "fatigable ptosis",
+        "diurnal variation",
+        "facilitation with repeated use"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10505,7 +11096,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "pompe disease"
+        "pompe disease",
+        "fatigable ptosis",
+        "diurnal variation",
+        "facilitation with repeated use"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10520,7 +11114,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "small-fiber neuropathy"
+        "small-fiber neuropathy",
+        "stocking-glove sensory loss",
+        "foot drop",
+        "areflexia"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10535,7 +11132,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "mononeuritis multiplex"
+        "mononeuritis multiplex",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10550,7 +11150,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "tabes dorsalis"
+        "tabes dorsalis",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10565,7 +11168,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "central cord syndrome"
+        "central cord syndrome",
+        "sensory level",
+        "saddle anesthesia",
+        "brown-sequard syndrome"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10580,7 +11186,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "posterior cord syndrome"
+        "posterior cord syndrome",
+        "sensory level",
+        "saddle anesthesia",
+        "brown-sequard syndrome"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10595,7 +11204,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "diffuse astrocytoma"
+        "diffuse astrocytoma",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10610,7 +11222,9 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "ependymoma"
+        "ependymoma",
+        "perivascular pseudorosettes",
+        "fourth-ventricle tumor"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10625,7 +11239,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "hemangioblastoma"
+        "hemangioblastoma",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10640,7 +11257,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "craniopharyngioma"
+        "craniopharyngioma",
+        "fluctuating cognition",
+        "visual hallucinations",
+        "magnetic gait"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10655,7 +11275,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "chiari malformation"
+        "chiari malformation",
+        "developmental regression",
+        "hypotonia",
+        "infantile spasms"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10670,7 +11293,10 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "dandy-walker malformation"
+        "dandy-walker malformation",
+        "developmental regression",
+        "hypotonia",
+        "infantile spasms"
       ],
       "source_status": "unverified_ai_generated"
     }
