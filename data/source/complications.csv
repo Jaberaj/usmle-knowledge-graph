@@ -1,1 +1,14 @@
-entity_id,name,source_review_status,medical_review_status,deprecated
+entity_id,name,source_review_status,medical_review_status,deprecated,source_status,human_review_status,content_tier
+COM-COV-001,Acute compartment syndrome,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-002,Avascular necrosis,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-003,Nonunion,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-004,Septic arthritis,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-005,Papillary muscle rupture,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-006,Ventricular septal rupture,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-007,Free-wall rupture,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-008,Thrombosis,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-009,Acute chest syndrome,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-010,Stroke,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-011,Splenic sequestration,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-012,Hearing loss,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index
+COM-COV-013,Hydrocephalus,draft_ai_generated,draft_ai_generated,false,unverified_ai_generated,not_requested,index

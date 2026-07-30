@@ -16,17 +16,17 @@ from .config import (
     DATABASE_GENERATED,
     DIST,
     GENERATED,
+    HUMAN_REVIEW_STATUSES,
+    LEGACY_REVIEW_STATUSES,
     RELATIONSHIP_TABLES,
     REPORTS,
     REQUIRED_TABLES,
-    REVIEW_STATUSES,
     SOURCE,
+    SOURCE_STATUSES,
 )
 from .models import ReleaseManifest
 
-DISCLAIMER = (
-    "Educational content only; not clinical decision support. Draft records require human review."
-)
+DISCLAIMER = "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional."
 
 
 def _read_csv(path: Path) -> list[dict[str, str]]:
@@ -64,8 +64,15 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
         ids[table] = set(values)
         for row in rows:
             for field in ("source_review_status", "medical_review_status"):
-                if field in row and row[field] not in REVIEW_STATUSES:
+                if field in row and row[field] not in LEGACY_REVIEW_STATUSES:
                     errors.append(f"{table}: invalid {field}")
+            if "source_status" in row and row["source_status"] not in SOURCE_STATUSES:
+                errors.append(f"{table}: invalid source_status")
+            if (
+                "human_review_status" in row
+                and row["human_review_status"] not in HUMAN_REVIEW_STATUSES
+            ):
+                errors.append(f"{table}: invalid human_review_status")
             if "deprecated" in row and row["deprecated"] not in {"true", "false"}:
                 errors.append(f"{table}: invalid deprecated flag")
             if "board_exam_priority" in row and not row["board_exam_priority"].isdigit():
@@ -81,6 +88,9 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
             "diseases",
         ),
         "algorithm_steps": ("algorithm_id", "algorithms", "node_id", None),
+        "disease_keywords": ("disease_id", "diseases", "keyword_id", "keywords"),
+        "presentation_keywords": ("presentation_id", "presentations", "keyword_id", "keywords"),
+        "disease_complications": ("disease_id", "diseases", "complication_id", "complications"),
     }
     for table, rows in tables.items():
         if table not in foreign:
@@ -222,7 +232,8 @@ def build_sqlite(tables: dict[str, list[dict[str, str]]] | None = None) -> Path:
         CREATE VIEW vw_cannot_miss_differentials AS SELECT * FROM disease_differentials WHERE cannot_miss='true';
         CREATE VIEW vw_disease_treatment_pathway AS SELECT * FROM disease_treatments;
         CREATE VIEW vw_disease_diagnostic_pathway AS SELECT * FROM disease_diagnostics;
-        CREATE VIEW vw_unreviewed_content AS SELECT disease_id,canonical_name FROM diseases WHERE medical_review_status!='medically_reviewed';
+        CREATE VIEW vw_unreviewed_content AS SELECT disease_id,canonical_name FROM diseases WHERE human_review_status!='reviewed';
+        CREATE VIEW vw_source_coverage AS SELECT disease_id,canonical_name,source_status,content_tier FROM diseases;
         CREATE VIEW vw_missing_content AS SELECT d.disease_id FROM diseases d LEFT JOIN disease_treatments t ON d.disease_id=t.disease_id WHERE t.disease_id IS NULL;
         CREATE VIEW vw_algorithm_nodes AS SELECT * FROM algorithm_steps;
         CREATE VIEW vw_disease_by_rotation AS SELECT disease_id,organ_system_primary FROM diseases;
@@ -276,13 +287,14 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
     entities = {k: v for k, v in tables.items() if k in REQUIRED_TABLES}
     relationships = {k: tables[k] for k in RELATIONSHIP_TABLES}
     files["entities.json"] = out / "entities.json"
-    _json(files["entities.json"], {"schema_version": "1.0.0", "entities": entities})
+    _json(files["entities.json"], {"schema_version": "1.1.0", "entities": entities})
     files["relationships.json"] = out / "relationships.json"
-    _json(files["relationships.json"], {"schema_version": "1.0.0", "relationships": relationships})
-    pres = defaultdict(list)
-    trts = defaultdict(list)
-    diags = defaultdict(list)
-    diffs = defaultdict(list)
+    _json(files["relationships.json"], {"schema_version": "1.1.0", "relationships": relationships})
+    pres: defaultdict[str, list[str]] = defaultdict(list)
+    trts: defaultdict[str, list[str]] = defaultdict(list)
+    diags: defaultdict[str, list[str]] = defaultdict(list)
+    diffs: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
+    keywords: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
     for row in tables["disease_presentations"]:
         pres[row["disease_id"]].append(row["presentation_id"])
     for row in tables["disease_treatments"]:
@@ -291,6 +303,10 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
         diags[row["disease_id"]].append(row["diagnostic_id"])
     for row in tables["disease_differentials"]:
         diffs[row["source_disease_id"]].append(row)
+    keyword_by_id = {row["keyword_id"]: row for row in tables["keywords"]}
+    source_by_disease = {row["disease_id"]: row["source_status"] for row in tables["diseases"]}
+    for row in tables["disease_keywords"]:
+        keywords[row["disease_id"]].append(keyword_by_id[row["keyword_id"]])
     disease_records = [
         {
             **d,
@@ -298,11 +314,30 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
             "treatment_ids": sorted(trts[d["disease_id"]]),
             "diagnostic_ids": sorted(diags[d["disease_id"]]),
             "differentials": diffs[d["disease_id"]],
+            "keywords": keywords[d["disease_id"]],
+            "eligibility": {
+                "eligible_for_differential_game": bool(
+                    pres[d["disease_id"]] and diffs[d["disease_id"]]
+                ),
+                "eligible_for_keyword_game": bool(keywords[d["disease_id"]]),
+                "eligible_for_treatment_game": bool(trts[d["disease_id"]]),
+                "eligible_for_next_best_step": any(
+                    a["triggering_presentation_id"] in pres[d["disease_id"]]
+                    for a in tables["algorithms"]
+                ),
+                "eligible_for_finding_game": bool(keywords[d["disease_id"]]),
+                "eligible_for_imaging_game": any(
+                    k["keyword_type"] == "imaging_phrase" for k in keywords[d["disease_id"]]
+                ),
+                "eligible_for_pathology_game": any(
+                    k["keyword_type"] == "pathology_phrase" for k in keywords[d["disease_id"]]
+                ),
+            },
         }
         for d in tables["diseases"]
     ]
     files["diseases.json"] = out / "diseases.json"
-    _json(files["diseases.json"], {"schema_version": "1.0.0", "records": disease_records})
+    _json(files["diseases.json"], {"schema_version": "1.1.0", "records": disease_records})
     p_records = [
         {
             **p,
@@ -313,10 +348,10 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
         for p in tables["presentations"]
     ]
     files["presentations.json"] = out / "presentations.json"
-    _json(files["presentations.json"], {"schema_version": "1.0.0", "records": p_records})
+    _json(files["presentations.json"], {"schema_version": "1.1.0", "records": p_records})
     for key in ("treatments", "medications"):
         files[f"{key}.json"] = out / f"{key}.json"
-        _json(files[f"{key}.json"], {"schema_version": "1.0.0", "records": tables[key]})
+        _json(files[f"{key}.json"], {"schema_version": "1.1.0", "records": tables[key]})
     algs = [
         {
             **a,
@@ -327,7 +362,7 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
         for a in tables["algorithms"]
     ]
     files["algorithms.json"] = out / "algorithms.json"
-    _json(files["algorithms.json"], {"schema_version": "1.0.0", "records": algs})
+    _json(files["algorithms.json"], {"schema_version": "1.1.0", "records": algs})
     games = {
         "differential_diagnosis": [
             {
@@ -335,7 +370,7 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
                 "target_disease_id": d,
                 "competing_disease_ids": [],
                 "cannot_miss_disease_ids": [],
-                "review_status": "draft_ai_generated",
+                "source_status": source_by_disease[d],
             }
             for d, ps in pres.items()
             for p in ps
@@ -344,11 +379,26 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
             {
                 "disease_id": d,
                 "correct_treatment_ids": sorted(v),
-                "review_status": "draft_ai_generated",
+                "source_status": source_by_disease[d],
             }
             for d, v in trts.items()
         ],
-        "next_best_step": [],
+        "next_best_step": [
+            {
+                "algorithm_id": a["algorithm_id"],
+                "source_status": a["source_status"],
+                "human_review_status": a["human_review_status"],
+            }
+            for a in tables["algorithms"]
+        ],
+        "keyword_recognition": [
+            {
+                "disease_id": disease_id,
+                "keyword_ids": [row["keyword_id"] for row in rows],
+                "source_status": source_by_disease[disease_id],
+            }
+            for disease_id, rows in sorted(keywords.items())
+        ],
     }
     files["game_content.json"] = out / "game_content.json"
     _json(files["game_content.json"], games)
@@ -359,8 +409,13 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
             "canonical_name": d["canonical_name"],
             "aliases": [],
             "organ_systems": [d["organ_system_primary"]],
-            "search_keywords": [d["canonical_name"].lower()],
+            "search_keywords": [
+                d["canonical_name"].lower(),
+                *[k["normalized_keyword"] for k in keywords[d["disease_id"]]],
+            ],
             "priority": int(d["board_exam_priority"]),
+            "content_tier": d["content_tier"],
+            "source_status": d["source_status"],
         }
         for d in tables["diseases"]
     ]
@@ -437,4 +492,65 @@ def quality_report(tables: dict[str, list[dict[str, str]]] | None = None) -> Pat
         "# Quality report\n\n" + "\n".join(f"- {k}: {v}" for k, v in counts.items()) + "\n",
         encoding="utf-8",
     )
+    coverage = {
+        "diseases_by_system": dict(sorted(organ.items())),
+        "source_status_distribution": dict(
+            sorted(Counter(d["source_status"] for d in tables["diseases"]).items())
+        ),
+        "content_tier_distribution": dict(
+            sorted(Counter(d["content_tier"] for d in tables["diseases"]).items())
+        ),
+        "presentations_per_disease": dict(
+            sorted(Counter(row["disease_id"] for row in tables["disease_presentations"]).items())
+        ),
+        "differentials_per_disease": dict(
+            sorted(
+                Counter(row["source_disease_id"] for row in tables["disease_differentials"]).items()
+            )
+        ),
+        "treatments_per_disease": dict(
+            sorted(Counter(row["disease_id"] for row in tables["disease_treatments"]).items())
+        ),
+        "diagnostics_per_disease": dict(
+            sorted(Counter(row["disease_id"] for row in tables["disease_diagnostics"]).items())
+        ),
+        "keywords_per_disease": dict(
+            sorted(Counter(row["disease_id"] for row in tables["disease_keywords"]).items())
+        ),
+        "complications_per_disease": dict(
+            sorted(Counter(row["disease_id"] for row in tables["disease_complications"]).items())
+        ),
+    }
+    _json(REPORTS / "usmle_coverage_matrix.json", coverage)
+    (REPORTS / "usmle_coverage_matrix.md").write_text(
+        "# USMLE coverage matrix\n\n"
+        + "\n".join(f"- {system}: {count}" for system, count in sorted(organ.items()))
+        + "\n",
+        encoding="utf-8",
+    )
+    report_files = {
+        "presentation_coverage.md": coverage["presentations_per_disease"],
+        "differential_coverage.md": coverage["differentials_per_disease"],
+        "treatment_coverage.md": coverage["treatments_per_disease"],
+        "finding_coverage.md": {"keyword_linked_diseases": len(coverage["keywords_per_disease"])},
+        "keyword_coverage.md": coverage["keywords_per_disease"],
+        "source_coverage.md": coverage["source_status_distribution"],
+        "gap_analysis.md": {
+            "diseases_without_keywords": len(tables["diseases"])
+            - len(coverage["keywords_per_disease"]),
+            "diseases_without_complications": len(tables["diseases"])
+            - len(coverage["complications_per_disease"]),
+            "diseases_without_differentials": len(tables["diseases"])
+            - len(coverage["differentials_per_disease"]),
+        },
+    }
+    for filename, values in report_files.items():
+        (REPORTS / filename).write_text(
+            "# "
+            + filename.removesuffix(".md").replace("_", " ").title()
+            + "\n\n"
+            + "\n".join(f"- {key}: {value}" for key, value in sorted(values.items()))
+            + "\n",
+            encoding="utf-8",
+        )
     return REPORTS / "quality_report.json"

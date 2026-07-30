@@ -1,56 +1,56 @@
-entity_id,name,source_review_status,medical_review_status,deprecated
-NEUR-PHY-001,Pronator drift indicating corticospinal weakness,source_checked,needs_medical_review,false
-NEUR-PHY-002,Babinski sign indicating upper motor neuron dysfunction,source_checked,needs_medical_review,false
-NEUR-PHY-003,Hyperreflexia with spasticity,source_checked,needs_medical_review,false
-NEUR-PHY-004,Hyporeflexia in peripheral dysfunction,source_checked,needs_medical_review,false
-NEUR-PHY-005,Nystagmus requiring central-versus-peripheral context,source_checked,needs_medical_review,false
-NEUR-PHY-006,Papilledema indicating raised intracranial pressure,source_checked,needs_medical_review,false
-NEUR-PHY-007,Meningismus with meningeal inflammation concern,source_checked,needs_medical_review,false
-NEUR-PHY-008,Romberg sign suggesting sensory or vestibular imbalance,source_checked,needs_medical_review,false
-REN-PHYSICAL_FINDINGS-001,Costovertebral-angle tenderness,source_checked,needs_medical_review,false
-REN-PHYSICAL_FINDINGS-002,Peripheral edema,source_checked,needs_medical_review,false
-REN-PHYSICAL_FINDINGS-003,Bladder distention,source_checked,needs_medical_review,false
-REN-PHYSICAL_FINDINGS-004,Volume depletion,source_checked,needs_medical_review,false
-REN-PHYSICAL_FINDINGS-005,Hypertensive emergency,source_checked,needs_medical_review,false
-REN-PHYSICAL_FINDINGS-006,Uremic friction rub,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-001,Distal pulse examination,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-002,Capillary refill,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-003,Compartment firmness,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-004,Neurovascular examination,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-005,Joint effusion,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-006,Synovitis,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-007,Gait assessment,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-008,Growth-plate tenderness,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-009,Kanavel signs,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-010,Saddle anesthesia,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-011,Neer test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-012,Hawkins-Kennedy test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-013,Empty-can test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-014,Drop-arm test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-015,Lift-off test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-016,Apprehension and relocation tests,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-017,Cozen test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-018,Tinel sign,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-019,Phalen test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-020,Durkan compression test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-021,Finkelstein test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-022,Froment sign,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-023,Ortolani maneuver,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-024,Barlow maneuver,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-025,Trendelenburg test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-026,FABER test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-027,FADIR test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-028,Lachman test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-029,Anterior drawer test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-030,Posterior drawer test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-031,McMurray test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-032,Thessaly test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-033,Patellar apprehension test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-034,Thompson test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-035,Squeeze test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-036,Ottawa ankle rules,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-037,Straight-leg raise,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-038,Crossed straight-leg raise,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-039,Spurling test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-040,Schober test,source_checked,needs_medical_review,false
-MSK-PHYSICAL_FINDINGS-041,Adam forward-bend test,source_checked,needs_medical_review,false
+entity_id,name,source_review_status,medical_review_status,deprecated,source_status,human_review_status,content_tier
+NEUR-PHY-001,Pronator drift indicating corticospinal weakness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-PHY-002,Babinski sign indicating upper motor neuron dysfunction,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-PHY-003,Hyperreflexia with spasticity,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-PHY-004,Hyporeflexia in peripheral dysfunction,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-PHY-005,Nystagmus requiring central-versus-peripheral context,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-PHY-006,Papilledema indicating raised intracranial pressure,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-PHY-007,Meningismus with meningeal inflammation concern,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-PHY-008,Romberg sign suggesting sensory or vestibular imbalance,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PHYSICAL_FINDINGS-001,Costovertebral-angle tenderness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PHYSICAL_FINDINGS-002,Peripheral edema,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PHYSICAL_FINDINGS-003,Bladder distention,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PHYSICAL_FINDINGS-004,Volume depletion,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PHYSICAL_FINDINGS-005,Hypertensive emergency,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PHYSICAL_FINDINGS-006,Uremic friction rub,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-001,Distal pulse examination,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-002,Capillary refill,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-003,Compartment firmness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-004,Neurovascular examination,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-005,Joint effusion,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-006,Synovitis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-007,Gait assessment,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-008,Growth-plate tenderness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-009,Kanavel signs,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-010,Saddle anesthesia,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-011,Neer test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-012,Hawkins-Kennedy test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-013,Empty-can test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-014,Drop-arm test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-015,Lift-off test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-016,Apprehension and relocation tests,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-017,Cozen test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-018,Tinel sign,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-019,Phalen test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-020,Durkan compression test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-021,Finkelstein test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-022,Froment sign,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-023,Ortolani maneuver,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-024,Barlow maneuver,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-025,Trendelenburg test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-026,FABER test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-027,FADIR test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-028,Lachman test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-029,Anterior drawer test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-030,Posterior drawer test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-031,McMurray test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-032,Thessaly test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-033,Patellar apprehension test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-034,Thompson test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-035,Squeeze test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-036,Ottawa ankle rules,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-037,Straight-leg raise,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-038,Crossed straight-leg raise,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-039,Spurling test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-040,Schober test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PHYSICAL_FINDINGS-041,Adam forward-bend test,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index

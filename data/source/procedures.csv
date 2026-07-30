@@ -1,22 +1,22 @@
-entity_id,name,source_review_status,medical_review_status,deprecated
-REN-PROCEDURES-001,Urinary bladder catheterization,source_checked,needs_medical_review,false
-REN-PROCEDURES-002,Renal ultrasonography,source_checked,needs_medical_review,false
-REN-PROCEDURES-003,Percutaneous nephrostomy,source_checked,needs_medical_review,false
-REN-PROCEDURES-004,Ureteral stent placement,source_checked,needs_medical_review,false
-REN-PROCEDURES-005,Kidney biopsy,source_checked,needs_medical_review,false
-REN-PROCEDURES-006,Intermittent hemodialysis,source_checked,needs_medical_review,false
-REN-PROCEDURES-007,Continuous renal replacement therapy,source_checked,needs_medical_review,false
-REN-PROCEDURES-008,Peritoneal dialysis,source_checked,needs_medical_review,false
-MSK-PROCEDURES-001,Closed reduction,source_checked,needs_medical_review,false
-MSK-PROCEDURES-002,Open reduction and internal fixation,source_checked,needs_medical_review,false
-MSK-PROCEDURES-003,Splinting,source_checked,needs_medical_review,false
-MSK-PROCEDURES-004,Casting,source_checked,needs_medical_review,false
-MSK-PROCEDURES-005,Arthrocentesis,source_checked,needs_medical_review,false
-MSK-PROCEDURES-006,Joint injection,source_checked,needs_medical_review,false
-MSK-PROCEDURES-007,Fasciotomy,source_checked,needs_medical_review,false
-MSK-PROCEDURES-008,Irrigation and debridement,source_checked,needs_medical_review,false
-MSK-PROCEDURES-009,External fixation,source_checked,needs_medical_review,false
-MSK-PROCEDURES-010,Intramedullary nailing,source_checked,needs_medical_review,false
-MSK-PROCEDURES-011,Compartment-pressure measurement,source_checked,needs_medical_review,false
-MSK-PROCEDURES-012,Spinal decompression,source_checked,needs_medical_review,false
-MSK-PROCEDURES-013,Tumor biopsy,source_checked,needs_medical_review,false
+entity_id,name,source_review_status,medical_review_status,deprecated,source_status,human_review_status,content_tier
+REN-PROCEDURES-001,Urinary bladder catheterization,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PROCEDURES-002,Renal ultrasonography,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PROCEDURES-003,Percutaneous nephrostomy,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PROCEDURES-004,Ureteral stent placement,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PROCEDURES-005,Kidney biopsy,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PROCEDURES-006,Intermittent hemodialysis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PROCEDURES-007,Continuous renal replacement therapy,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-PROCEDURES-008,Peritoneal dialysis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-001,Closed reduction,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-002,Open reduction and internal fixation,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-003,Splinting,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-004,Casting,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-005,Arthrocentesis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-006,Joint injection,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-007,Fasciotomy,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-008,Irrigation and debridement,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-009,External fixation,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-010,Intramedullary nailing,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-011,Compartment-pressure measurement,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-012,Spinal decompression,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-PROCEDURES-013,Tumor biopsy,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index

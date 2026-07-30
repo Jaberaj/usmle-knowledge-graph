@@ -1,0 +1,5 @@
+presentation_keyword_id,presentation_id,keyword_id,relationship_role,explanation,source_status
+PKW-001,PRS-NEUR-055,KEY-007,classic_clue,"Pain out of proportion may indicate compartment physiology, ischemia, or necrotizing infection and needs urgent context-specific assessment.",partially_source_supported
+PKW-002,PRS-MSK-008,KEY-012,classic_clue,An acutely inflamed joint requires prompt distinction of infection from crystal and inflammatory causes.,partially_source_supported
+PKW-003,PRS-MSK-001,KEY-007,classic_clue,"Pain out of proportion may indicate compartment physiology, ischemia, or necrotizing infection and needs urgent context-specific assessment.",partially_source_supported
+PKW-004,PRS-REN-011,KEY-002,classic_clue,Granular muddy-brown casts support tubular injury in the appropriate acute kidney injury context.,partially_source_supported

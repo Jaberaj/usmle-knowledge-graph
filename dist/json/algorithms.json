@@ -4,8 +4,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-001",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Acute chest pain",
       "nodes": [
@@ -42,10 +44,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-001-START",
       "triggering_presentation_id": "PRS-001",
       "version": "0.1.0"
@@ -54,8 +57,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-002",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Acute dyspnea",
       "nodes": [
@@ -92,10 +97,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-002-START",
       "triggering_presentation_id": "PRS-002",
       "version": "0.1.0"
@@ -104,8 +110,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-003",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Undifferentiated shock",
       "nodes": [
@@ -142,10 +150,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-003-START",
       "triggering_presentation_id": "PRS-003",
       "version": "0.1.0"
@@ -154,8 +163,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-004",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Altered mental status",
       "nodes": [
@@ -192,10 +203,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-004-START",
       "triggering_presentation_id": "PRS-004",
       "version": "0.1.0"
@@ -204,8 +216,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-005",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Acute focal neurologic deficit",
       "nodes": [
@@ -242,10 +256,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-005-START",
       "triggering_presentation_id": "PRS-005",
       "version": "0.1.0"
@@ -254,8 +269,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-006",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "First seizure",
       "nodes": [
@@ -292,10 +309,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-006-START",
       "triggering_presentation_id": "PRS-006",
       "version": "0.1.0"
@@ -304,8 +322,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-007",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Acute abdominal pain",
       "nodes": [
@@ -342,10 +362,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-007-START",
       "triggering_presentation_id": "PRS-007",
       "version": "0.1.0"
@@ -354,8 +375,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-008",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Upper gastrointestinal bleeding",
       "nodes": [
@@ -392,10 +415,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-008-START",
       "triggering_presentation_id": "PRS-008",
       "version": "0.1.0"
@@ -404,8 +428,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-009",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Lower gastrointestinal bleeding",
       "nodes": [
@@ -442,10 +468,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-009-START",
       "triggering_presentation_id": "PRS-009",
       "version": "0.1.0"
@@ -454,8 +481,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-010",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Acute kidney injury",
       "nodes": [
@@ -492,10 +521,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-010-START",
       "triggering_presentation_id": "PRS-010",
       "version": "0.1.0"
@@ -504,8 +534,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-011",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Hyperkalemia",
       "nodes": [
@@ -542,10 +574,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-011-START",
       "triggering_presentation_id": "PRS-011",
       "version": "0.1.0"
@@ -554,8 +587,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-012",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Hyponatremia",
       "nodes": [
@@ -592,10 +627,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-012-START",
       "triggering_presentation_id": "PRS-012",
       "version": "0.1.0"
@@ -604,8 +640,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-013",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Vaginal bleeding in pregnancy",
       "nodes": [
@@ -642,10 +680,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-013-START",
       "triggering_presentation_id": "PRS-013",
       "version": "0.1.0"
@@ -654,8 +693,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-014",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Pediatric fever",
       "nodes": [
@@ -692,10 +733,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-014-START",
       "triggering_presentation_id": "PRS-014",
       "version": "0.1.0"
@@ -704,8 +746,10 @@
       "age_context": "all",
       "algorithm_id": "ALG-015",
       "clinical_setting": "acute care",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "review required",
+      "human_review_status": "not_requested",
       "medical_review_status": "draft_ai_generated",
       "name": "Anaphylaxis",
       "nodes": [
@@ -742,10 +786,11 @@
           "terminal_outcome": "review_required"
         }
       ],
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "objective": "Draft educational pathway.",
       "pregnancy_context": "context dependent",
       "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
       "starting_node_id": "NODE-015-START",
       "triggering_presentation_id": "PRS-015",
       "version": "0.1.0"
@@ -754,8 +799,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-001",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Undifferentiated acute chest pain",
       "nodes": [
@@ -920,10 +967,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-001-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.2.0"
@@ -932,8 +980,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-002",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "STEMI recognition and initial management",
       "nodes": [
@@ -1098,10 +1148,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-002-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.2.0"
@@ -1110,8 +1161,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-003",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "NSTEMI unstable-angina evaluation",
       "nodes": [
@@ -1276,10 +1329,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-003-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.2.0"
@@ -1288,8 +1342,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-004",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Stable narrow-complex tachycardia",
       "nodes": [
@@ -1454,10 +1510,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-004-01",
       "triggering_presentation_id": "PRS-035",
       "version": "0.2.0"
@@ -1466,8 +1523,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-005",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Unstable tachycardia",
       "nodes": [
@@ -1632,10 +1691,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-005-01",
       "triggering_presentation_id": "PRS-035",
       "version": "0.2.0"
@@ -1644,8 +1704,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-006",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Regular wide-complex tachycardia",
       "nodes": [
@@ -1810,10 +1872,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-006-01",
       "triggering_presentation_id": "PRS-004",
       "version": "0.2.0"
@@ -1822,8 +1885,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-007",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Bradycardia with symptoms",
       "nodes": [
@@ -1988,10 +2053,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-007-01",
       "triggering_presentation_id": "PRS-004",
       "version": "0.2.0"
@@ -2000,8 +2066,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-008",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Atrial fibrillation evaluation and management",
       "nodes": [
@@ -2166,10 +2234,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-008-01",
       "triggering_presentation_id": "PRS-004",
       "version": "0.2.0"
@@ -2178,8 +2247,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-009",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Syncope evaluation",
       "nodes": [
@@ -2344,10 +2415,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-009-01",
       "triggering_presentation_id": "PRS-004",
       "version": "0.2.0"
@@ -2356,8 +2428,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-010",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute decompensated heart failure",
       "nodes": [
@@ -2522,10 +2596,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-010-01",
       "triggering_presentation_id": "PRS-002",
       "version": "0.2.0"
@@ -2534,8 +2609,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-011",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Cardiogenic shock",
       "nodes": [
@@ -2700,10 +2777,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-011-01",
       "triggering_presentation_id": "PRS-003",
       "version": "0.2.0"
@@ -2712,8 +2790,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-012",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected aortic dissection",
       "nodes": [
@@ -2878,10 +2958,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-012-01",
       "triggering_presentation_id": "PRS-005",
       "version": "0.2.0"
@@ -2890,8 +2971,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-013",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Cardiac tamponade",
       "nodes": [
@@ -3056,10 +3139,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-013-01",
       "triggering_presentation_id": "PRS-005",
       "version": "0.2.0"
@@ -3068,8 +3152,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-014",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Hypertensive emergency",
       "nodes": [
@@ -3234,10 +3320,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-014-01",
       "triggering_presentation_id": "PRS-CARD-048",
       "version": "0.2.0"
@@ -3246,8 +3333,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-015",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "New murmur evaluation",
       "nodes": [
@@ -3412,10 +3501,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-015-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.2.0"
@@ -3424,8 +3514,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-016",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected infective endocarditis",
       "nodes": [
@@ -3590,10 +3682,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-016-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.2.0"
@@ -3602,8 +3695,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-017",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Cyanotic congenital heart disease in a neonate",
       "nodes": [
@@ -3768,10 +3863,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-017-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.2.0"
@@ -3780,8 +3876,10 @@
       "age_context": "adult unless pediatric or neonatal title specifies otherwise",
       "algorithm_id": "ALG-CARD-018",
       "clinical_setting": "emergency or acute-care education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pediatric murmur evaluation",
       "nodes": [
@@ -3946,10 +4044,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, discriminating decisions, safe diagnostic sequencing, escalation, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy-specific physiology and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-CARD-018-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.2.0"
@@ -3958,8 +4057,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-001",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute focal neurologic deficit",
       "nodes": [
@@ -4140,10 +4241,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-001-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -4152,8 +4254,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-002",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected acute ischemic stroke",
       "nodes": [
@@ -4334,10 +4438,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-002-01",
       "triggering_presentation_id": "PRS-009",
       "version": "0.3.0"
@@ -4346,8 +4451,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-003",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected intracranial hemorrhage",
       "nodes": [
@@ -4528,10 +4635,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-003-01",
       "triggering_presentation_id": "PRS-007",
       "version": "0.3.0"
@@ -4540,8 +4648,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-004",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Thunderclap headache",
       "nodes": [
@@ -4722,10 +4832,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-004-01",
       "triggering_presentation_id": "PRS-006",
       "version": "0.3.0"
@@ -4734,8 +4845,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-005",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "General acute headache evaluation",
       "nodes": [
@@ -4916,10 +5029,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-005-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -4928,8 +5042,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-006",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Altered mental status",
       "nodes": [
@@ -5110,10 +5226,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-006-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -5122,8 +5239,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-007",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "First seizure",
       "nodes": [
@@ -5304,10 +5423,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-007-01",
       "triggering_presentation_id": "PRS-021",
       "version": "0.3.0"
@@ -5316,8 +5436,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-008",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Convulsive status epilepticus",
       "nodes": [
@@ -5498,10 +5620,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-008-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -5510,8 +5633,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-009",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected nonconvulsive status epilepticus",
       "nodes": [
@@ -5692,10 +5817,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-009-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -5704,8 +5830,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-010",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected meningitis or encephalitis",
       "nodes": [
@@ -5886,10 +6014,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-010-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -5898,8 +6027,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-011",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute ascending weakness",
       "nodes": [
@@ -6080,10 +6211,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-011-01",
       "triggering_presentation_id": "PRS-007",
       "version": "0.3.0"
@@ -6092,8 +6224,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-012",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute neuromuscular respiratory weakness",
       "nodes": [
@@ -6274,10 +6408,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-012-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -6286,8 +6421,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-013",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Myasthenic crisis",
       "nodes": [
@@ -6468,10 +6605,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-013-01",
       "triggering_presentation_id": "PRS-NEUR-071",
       "version": "0.3.0"
@@ -6480,8 +6618,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-014",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute vertigo",
       "nodes": [
@@ -6662,10 +6802,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-014-01",
       "triggering_presentation_id": "PRS-NEUR-065",
       "version": "0.3.0"
@@ -6674,8 +6815,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-015",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute vision loss",
       "nodes": [
@@ -6856,10 +6999,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-015-01",
       "triggering_presentation_id": "PRS-006",
       "version": "0.3.0"
@@ -6868,8 +7012,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-016",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "New diplopia",
       "nodes": [
@@ -7050,10 +7196,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-016-01",
       "triggering_presentation_id": "PRS-006",
       "version": "0.3.0"
@@ -7062,8 +7209,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-017",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Facial weakness",
       "nodes": [
@@ -7244,10 +7393,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-017-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -7256,8 +7406,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-018",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Syncope versus seizure evaluation",
       "nodes": [
@@ -7438,10 +7590,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-018-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -7450,8 +7603,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-019",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute spinal cord compression",
       "nodes": [
@@ -7632,10 +7787,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-019-01",
       "triggering_presentation_id": "PRS-007",
       "version": "0.3.0"
@@ -7644,8 +7800,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-020",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Cauda equina syndrome",
       "nodes": [
@@ -7826,10 +7984,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-020-01",
       "triggering_presentation_id": "PRS-NEUR-073",
       "version": "0.3.0"
@@ -7838,8 +7997,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-021",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Increased intracranial pressure",
       "nodes": [
@@ -8020,10 +8181,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-021-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -8032,8 +8194,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-022",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Papilledema evaluation",
       "nodes": [
@@ -8214,10 +8378,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-022-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -8226,8 +8391,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-023",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "New cognitive decline",
       "nodes": [
@@ -8408,10 +8575,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-023-01",
       "triggering_presentation_id": "PRS-NEUR-071",
       "version": "0.3.0"
@@ -8420,8 +8588,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-024",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Delirium evaluation",
       "nodes": [
@@ -8602,10 +8772,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-024-01",
       "triggering_presentation_id": "PRS-007",
       "version": "0.3.0"
@@ -8614,8 +8785,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-025",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Parkinsonism evaluation",
       "nodes": [
@@ -8796,10 +8969,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-025-01",
       "triggering_presentation_id": "PRS-NEUR-067",
       "version": "0.3.0"
@@ -8808,8 +8982,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-026",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pediatric developmental regression",
       "nodes": [
@@ -8990,10 +9166,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-026-01",
       "triggering_presentation_id": "PRS-NEUR-051",
       "version": "0.3.0"
@@ -9002,8 +9179,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-027",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Neonatal hypotonia",
       "nodes": [
@@ -9184,10 +9363,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-027-01",
       "triggering_presentation_id": "PRS-021",
       "version": "0.3.0"
@@ -9196,8 +9376,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-028",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Migraine treatment selection",
       "nodes": [
@@ -9378,10 +9560,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-028-01",
       "triggering_presentation_id": "PRS-NEUR-074",
       "version": "0.3.0"
@@ -9390,8 +9573,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-029",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Trigeminal neuralgia evaluation",
       "nodes": [
@@ -9572,10 +9757,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-029-01",
       "triggering_presentation_id": "PRS-006",
       "version": "0.3.0"
@@ -9584,8 +9770,10 @@
       "age_context": "adult unless title specifies pediatric or neonatal context",
       "algorithm_id": "ALG-NEUR-030",
       "clinical_setting": "acute neurologic education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected giant cell arteritis",
       "nodes": [
@@ -9766,10 +9954,11 @@
           "terminal_outcome": "Disposition after reassessment and specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, localization, diagnostic sequencing, decision branches, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy, postpartum, and medication safety context when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-NEUR-030-01",
       "triggering_presentation_id": "PRS-NEUR-073",
       "version": "0.3.0"
@@ -9778,8 +9967,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-001",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute kidney injury",
       "nodes": [
@@ -9960,10 +10151,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-001-01",
       "triggering_presentation_id": "PRS-017",
       "version": "0.4.0"
@@ -9972,8 +10164,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-002",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Oliguria or anuria",
       "nodes": [
@@ -10154,10 +10348,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-002-01",
       "triggering_presentation_id": "PRS-REN-013",
       "version": "0.4.0"
@@ -10166,8 +10361,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-003",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Elevated creatinine",
       "nodes": [
@@ -10348,10 +10545,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-003-01",
       "triggering_presentation_id": "PRS-REN-029",
       "version": "0.4.0"
@@ -10360,8 +10558,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-004",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Hyperkalemia",
       "nodes": [
@@ -10542,10 +10742,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-004-01",
       "triggering_presentation_id": "PRS-REN-021",
       "version": "0.4.0"
@@ -10554,8 +10755,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-005",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Hypokalemia",
       "nodes": [
@@ -10736,10 +10939,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-005-01",
       "triggering_presentation_id": "PRS-039",
       "version": "0.4.0"
@@ -10748,8 +10952,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-006",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Hyponatremia",
       "nodes": [
@@ -10930,10 +11136,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-006-01",
       "triggering_presentation_id": "PRS-017",
       "version": "0.4.0"
@@ -10942,8 +11149,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-007",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Hypernatremia",
       "nodes": [
@@ -11124,10 +11333,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-007-01",
       "triggering_presentation_id": "PRS-017",
       "version": "0.4.0"
@@ -11136,8 +11346,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-008",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Metabolic acidosis",
       "nodes": [
@@ -11318,10 +11530,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-008-01",
       "triggering_presentation_id": "PRS-REN-011",
       "version": "0.4.0"
@@ -11330,8 +11543,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-009",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Metabolic alkalosis",
       "nodes": [
@@ -11512,10 +11727,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-009-01",
       "triggering_presentation_id": "PRS-REN-005",
       "version": "0.4.0"
@@ -11524,8 +11740,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-010",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Mixed acid-base disorder",
       "nodes": [
@@ -11706,10 +11924,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-010-01",
       "triggering_presentation_id": "PRS-017",
       "version": "0.4.0"
@@ -11718,8 +11937,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-011",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Hematuria",
       "nodes": [
@@ -11900,10 +12121,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-011-01",
       "triggering_presentation_id": "PRS-017",
       "version": "0.4.0"
@@ -11912,8 +12134,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-012",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Proteinuria",
       "nodes": [
@@ -12094,10 +12318,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-012-01",
       "triggering_presentation_id": "PRS-REN-010",
       "version": "0.4.0"
@@ -12106,8 +12331,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-013",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Nephritic syndrome",
       "nodes": [
@@ -12288,10 +12515,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-013-01",
       "triggering_presentation_id": "PRS-REN-011",
       "version": "0.4.0"
@@ -12300,8 +12528,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-014",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Nephrotic syndrome",
       "nodes": [
@@ -12482,10 +12712,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-014-01",
       "triggering_presentation_id": "PRS-REN-011",
       "version": "0.4.0"
@@ -12494,8 +12725,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-015",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Rapidly progressive glomerulonephritis",
       "nodes": [
@@ -12676,10 +12909,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-015-01",
       "triggering_presentation_id": "PRS-017",
       "version": "0.4.0"
@@ -12688,8 +12922,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-016",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute flank pain",
       "nodes": [
@@ -12870,10 +13106,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-016-01",
       "triggering_presentation_id": "PRS-018",
       "version": "0.4.0"
@@ -12882,8 +13119,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-017",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected nephrolithiasis",
       "nodes": [
@@ -13064,10 +13303,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-017-01",
       "triggering_presentation_id": "PRS-REN-014",
       "version": "0.4.0"
@@ -13076,8 +13316,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-018",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Infected urinary obstruction",
       "nodes": [
@@ -13258,10 +13500,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-018-01",
       "triggering_presentation_id": "PRS-REN-011",
       "version": "0.4.0"
@@ -13270,8 +13513,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-019",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Dysuria",
       "nodes": [
@@ -13452,10 +13697,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-019-01",
       "triggering_presentation_id": "PRS-REN-027",
       "version": "0.4.0"
@@ -13464,8 +13710,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-020",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute pyelonephritis",
       "nodes": [
@@ -13646,10 +13894,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-020-01",
       "triggering_presentation_id": "PRS-CARD-045",
       "version": "0.4.0"
@@ -13658,8 +13907,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-021",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute urinary retention",
       "nodes": [
@@ -13840,10 +14091,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-021-01",
       "triggering_presentation_id": "PRS-016",
       "version": "0.4.0"
@@ -13852,8 +14104,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-022",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Polyuria and polydipsia",
       "nodes": [
@@ -14034,10 +14288,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-022-01",
       "triggering_presentation_id": "PRS-REN-031",
       "version": "0.4.0"
@@ -14046,8 +14301,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-023",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Dialysis indication assessment",
       "nodes": [
@@ -14228,10 +14485,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-023-01",
       "triggering_presentation_id": "PRS-REN-031",
       "version": "0.4.0"
@@ -14240,8 +14498,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-024",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Dialysis-patient fever",
       "nodes": [
@@ -14422,10 +14682,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-024-01",
       "triggering_presentation_id": "PRS-006",
       "version": "0.4.0"
@@ -14434,8 +14695,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-025",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Peritoneal-dialysis abdominal pain",
       "nodes": [
@@ -14616,10 +14879,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-025-01",
       "triggering_presentation_id": "PRS-001",
       "version": "0.4.0"
@@ -14628,8 +14892,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-026",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Kidney-transplant creatinine elevation",
       "nodes": [
@@ -14810,10 +15076,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-026-01",
       "triggering_presentation_id": "PRS-022",
       "version": "0.4.0"
@@ -14822,8 +15089,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-027",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Resistant hypertension",
       "nodes": [
@@ -15004,10 +15273,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-027-01",
       "triggering_presentation_id": "PRS-REN-030",
       "version": "0.4.0"
@@ -15016,8 +15286,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-028",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pediatric UTI",
       "nodes": [
@@ -15198,10 +15470,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-028-01",
       "triggering_presentation_id": "PRS-016",
       "version": "0.4.0"
@@ -15210,8 +15483,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-029",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pediatric renal mass",
       "nodes": [
@@ -15392,10 +15667,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-029-01",
       "triggering_presentation_id": "PRS-016",
       "version": "0.4.0"
@@ -15404,8 +15680,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-REN-030",
       "clinical_setting": "acute renal and genitourinary education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pregnancy with urinary symptoms",
       "nodes": [
@@ -15586,10 +15864,11 @@
           "terminal_outcome": "Disposition after reassessment and renal, urology, or specialty handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, volume and medication review, urinalysis, imaging, decisions, treatment, reassessment, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy physiology, imaging, and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-REN-030-01",
       "triggering_presentation_id": "PRS-016",
       "version": "0.4.0"
@@ -15598,8 +15877,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-001",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute traumatic limb pain",
       "nodes": [
@@ -15780,10 +16061,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-001-01",
       "triggering_presentation_id": "PRS-MSK-001",
       "version": "0.5.0"
@@ -15792,8 +16074,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-002",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected fracture",
       "nodes": [
@@ -15974,10 +16258,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-002-01",
       "triggering_presentation_id": "PRS-MSK-002",
       "version": "0.5.0"
@@ -15986,8 +16271,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-003",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Open fracture",
       "nodes": [
@@ -16168,10 +16455,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-003-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -16180,8 +16468,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-004",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected compartment syndrome",
       "nodes": [
@@ -16362,10 +16652,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-004-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -16374,8 +16665,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-005",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Joint dislocation",
       "nodes": [
@@ -16556,10 +16849,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-005-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -16568,8 +16862,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-006",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Knee dislocation",
       "nodes": [
@@ -16750,10 +17046,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-006-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -16762,8 +17059,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-007",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pelvic fracture",
       "nodes": [
@@ -16944,10 +17243,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-007-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -16956,8 +17256,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-008",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute monoarthritis",
       "nodes": [
@@ -17138,10 +17440,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-008-01",
       "triggering_presentation_id": "PRS-MSK-008",
       "version": "0.5.0"
@@ -17150,8 +17453,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-009",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected septic arthritis",
       "nodes": [
@@ -17332,10 +17637,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-009-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -17344,8 +17650,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-010",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Polyarthritis",
       "nodes": [
@@ -17526,10 +17834,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-010-01",
       "triggering_presentation_id": "PRS-MSK-009",
       "version": "0.5.0"
@@ -17538,8 +17847,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-011",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute low back pain",
       "nodes": [
@@ -17720,10 +18031,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-011-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -17732,8 +18044,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-012",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Back pain with red flags",
       "nodes": [
@@ -17914,10 +18228,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-012-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -17926,8 +18241,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-013",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Cauda equina syndrome",
       "nodes": [
@@ -18108,10 +18425,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-013-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -18120,8 +18438,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-014",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pediatric limp",
       "nodes": [
@@ -18302,10 +18622,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-014-01",
       "triggering_presentation_id": "PRS-MSK-012",
       "version": "0.5.0"
@@ -18314,8 +18635,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-015",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Pediatric hip pain",
       "nodes": [
@@ -18496,10 +18819,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-015-01",
       "triggering_presentation_id": "PRS-MSK-013",
       "version": "0.5.0"
@@ -18508,8 +18832,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-016",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected slipped capital femoral epiphysis",
       "nodes": [
@@ -18690,10 +19016,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-016-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -18702,8 +19029,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-017",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Shoulder pain",
       "nodes": [
@@ -18884,10 +19213,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-017-01",
       "triggering_presentation_id": "PRS-MSK-014",
       "version": "0.5.0"
@@ -18896,8 +19226,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-018",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Knee injury",
       "nodes": [
@@ -19078,10 +19410,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-018-01",
       "triggering_presentation_id": "PRS-MSK-015",
       "version": "0.5.0"
@@ -19090,8 +19423,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-019",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Ankle injury",
       "nodes": [
@@ -19272,10 +19607,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-019-01",
       "triggering_presentation_id": "PRS-MSK-016",
       "version": "0.5.0"
@@ -19284,8 +19620,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-020",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Wrist injury",
       "nodes": [
@@ -19466,10 +19804,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-020-01",
       "triggering_presentation_id": "PRS-MSK-017",
       "version": "0.5.0"
@@ -19478,8 +19817,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-021",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected scaphoid fracture",
       "nodes": [
@@ -19660,10 +20001,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-021-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -19672,8 +20014,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-022",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Hand infection",
       "nodes": [
@@ -19854,10 +20198,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-022-01",
       "triggering_presentation_id": "PRS-MSK-018",
       "version": "0.5.0"
@@ -19866,8 +20211,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-023",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Flexor tenosynovitis",
       "nodes": [
@@ -20048,10 +20395,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-023-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -20060,8 +20408,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-024",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Acute gout",
       "nodes": [
@@ -20242,10 +20592,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-024-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -20254,8 +20605,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-025",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected inflammatory arthritis",
       "nodes": [
@@ -20436,10 +20789,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-025-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -20448,8 +20802,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-026",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Muscle weakness with elevated CK",
       "nodes": [
@@ -20630,10 +20986,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-026-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -20642,8 +20999,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-027",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Rhabdomyolysis",
       "nodes": [
@@ -20824,10 +21183,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-027-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -20836,8 +21196,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-028",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Bone pain or pathologic fracture",
       "nodes": [
@@ -21018,10 +21380,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-028-01",
       "triggering_presentation_id": "PRS-MSK-020",
       "version": "0.5.0"
@@ -21030,8 +21393,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-029",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected bone tumor",
       "nodes": [
@@ -21212,10 +21577,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-029-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -21224,8 +21590,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-030",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Soft-tissue mass",
       "nodes": [
@@ -21406,10 +21774,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-030-01",
       "triggering_presentation_id": "PRS-MSK-021",
       "version": "0.5.0"
@@ -21418,8 +21787,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-031",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Osteoporosis evaluation",
       "nodes": [
@@ -21600,10 +21971,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-031-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -21612,8 +21984,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-032",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Suspected osteomyelitis",
       "nodes": [
@@ -21794,10 +22168,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-032-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -21806,8 +22181,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-033",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Postoperative joint pain",
       "nodes": [
@@ -21988,10 +22365,11 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-033-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
@@ -22000,8 +22378,10 @@
       "age_context": "adult unless title specifies pediatric context",
       "algorithm_id": "ALG-MSK-034",
       "clinical_setting": "acute musculoskeletal and rheumatology education",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_status": "high-acuity pathway",
+      "human_review_status": "not_requested",
       "medical_review_status": "needs_medical_review",
       "name": "Neurovascular compromise after orthopedic injury",
       "nodes": [
@@ -22182,14 +22562,15 @@
           "terminal_outcome": "Disposition after reassessment and orthopedic, rheumatology, infectious disease, surgery, or oncology handoff."
         }
       ],
-      "notes": "Original educational graph; clinician review pending.",
+      "notes": "Original educational graph",
       "objective": "Teach stabilization, neurovascular examination, mechanism, imaging, laboratory and aspiration context, decision branches, consultation, and disposition.",
       "pregnancy_context": "consider pregnancy imaging and medication restrictions when relevant",
       "source_review_status": "source_checked",
+      "source_status": "partially_source_supported",
       "starting_node_id": "NODE-MSK-034-01",
       "triggering_presentation_id": "PRS-MSK-023",
       "version": "0.5.0"
     }
   ],
-  "schema_version": "1.0.0"
+  "schema_version": "1.1.0"
 }

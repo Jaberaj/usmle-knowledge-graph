@@ -1,29 +1,29 @@
-entity_id,name,source_review_status,medical_review_status,deprecated
-NEUR-SYM-001,Aphasia with impaired language output,source_checked,needs_medical_review,false
-NEUR-SYM-002,Thunderclap headache signaling abrupt vascular concern,source_checked,needs_medical_review,false
-NEUR-SYM-003,Ascending symmetric weakness,source_checked,needs_medical_review,false
-NEUR-SYM-004,Fatigable ocular weakness,source_checked,needs_medical_review,false
-NEUR-SYM-005,Saddle anesthesia,source_checked,needs_medical_review,false
-NEUR-SYM-006,Fluctuating inattention,source_checked,needs_medical_review,false
-NEUR-SYM-007,Sensory level,source_checked,needs_medical_review,false
-NEUR-SYM-008,Unilateral facial weakness,source_checked,needs_medical_review,false
-REN-SYMPTOMS-001,Oliguria,source_checked,needs_medical_review,false
-REN-SYMPTOMS-002,Anuria,source_checked,needs_medical_review,false
-REN-SYMPTOMS-003,Dysuria,source_checked,needs_medical_review,false
-REN-SYMPTOMS-004,Urinary retention,source_checked,needs_medical_review,false
-REN-SYMPTOMS-005,Foamy urine,source_checked,needs_medical_review,false
-REN-SYMPTOMS-006,Flank pain,source_checked,needs_medical_review,false
-REN-SYMPTOMS-007,Renal colic,source_checked,needs_medical_review,false
-REN-SYMPTOMS-008,Polyuria,source_checked,needs_medical_review,false
-REN-SYMPTOMS-009,Nocturia,source_checked,needs_medical_review,false
-REN-SYMPTOMS-010,Gross hematuria,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-001,Joint swelling,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-002,Morning stiffness,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-003,Mechanical joint pain,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-004,Traumatic deformity,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-005,Limp,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-006,Inability to bear weight,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-007,Pain with passive stretch,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-008,Myalgia,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-009,Bone pain,source_checked,needs_medical_review,false
-MSK-SYMPTOMS-010,Night pain,source_checked,needs_medical_review,false
+entity_id,name,source_review_status,medical_review_status,deprecated,source_status,human_review_status,content_tier
+NEUR-SYM-001,Aphasia with impaired language output,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-SYM-002,Thunderclap headache signaling abrupt vascular concern,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-SYM-003,Ascending symmetric weakness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-SYM-004,Fatigable ocular weakness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-SYM-005,Saddle anesthesia,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-SYM-006,Fluctuating inattention,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-SYM-007,Sensory level,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-SYM-008,Unilateral facial weakness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-001,Oliguria,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-002,Anuria,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-003,Dysuria,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-004,Urinary retention,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-005,Foamy urine,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-006,Flank pain,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-007,Renal colic,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-008,Polyuria,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-009,Nocturia,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-SYMPTOMS-010,Gross hematuria,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-001,Joint swelling,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-002,Morning stiffness,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-003,Mechanical joint pain,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-004,Traumatic deformity,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-005,Limp,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-006,Inability to bear weight,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-007,Pain with passive stretch,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-008,Myalgia,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-009,Bone pain,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-SYMPTOMS-010,Night pain,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index

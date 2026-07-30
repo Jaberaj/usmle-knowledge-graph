@@ -1,0 +1,6 @@
+id,name,description
+REF-SRC-001,unverified_ai_generated,Generated coverage content without linked source support.
+REF-SRC-002,partially_source_supported,One or more topic-level source links exist but do not support the complete entity record.
+REF-SRC-003,source_supported,Specific linked sources support the represented topic areas.
+REF-SRC-004,conflicting_sources,Linked sources disagree or require contextual reconciliation.
+REF-SRC-005,deprecated,No longer current for educational display.

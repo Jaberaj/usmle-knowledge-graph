@@ -5,9 +5,9 @@ application. It contains no UI, API, authentication, cloud infrastructure, or
 question-bank content.
 
 > **Educational use only.** This is not clinical decision support or
-> patient-specific medical advice. All initial clinical records are
-> `draft_ai_generated` and require source and physician review before use in
-> educational decision-making.
+> patient-specific medical advice. The repository is coverage-first and
+> source-traceable: source support is recorded by topic, and independent human
+> review is optional rather than a prerequisite for educational use.
 
 ## Architecture
 
@@ -36,7 +36,7 @@ for data definitions, application contract, reviews, release/version policy,
 and contribution process.
 
 Medical-content contributions must identify changed tables and entities,
-reference and medical review, treatment/emergency/algorithm changes, contract
+topic-level source support, treatment/emergency/algorithm changes, contract
 impact, migration need, and validation run. Airway, resuscitation,
 anticoagulation, thrombolysis, insulin, electrolyte correction, pregnancy,
 pediatrics, toxicology, antibiotics, dosing, and contraindications need extra

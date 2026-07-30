@@ -7,9 +7,14 @@
 - diagnostics: 30
 - algorithms: 127
 - references: 20
+- keywords: 16
+- complications: 13
 - disease_presentations: 685
 - disease_treatments: 849
 - disease_differentials: 834
 - disease_diagnostics: 767
 - algorithm_steps: 1244
 - entity_references: 615
+- disease_keywords: 19
+- presentation_keywords: 4
+- disease_complications: 13

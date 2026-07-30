@@ -8,12 +8,20 @@ DATABASE = ROOT / "database"
 DATABASE_GENERATED = DATABASE / "generated"
 DIST = ROOT / "dist"
 REPORTS = ROOT / "reports"
-REVIEW_STATUSES = {
+LEGACY_REVIEW_STATUSES = {
     "draft_ai_generated",
     "source_checked",
     "needs_medical_review",
     "medically_reviewed",
 }
+SOURCE_STATUSES = {
+    "unverified_ai_generated",
+    "partially_source_supported",
+    "source_supported",
+    "conflicting_sources",
+    "deprecated",
+}
+HUMAN_REVIEW_STATUSES = {"not_requested", "optional_review", "reviewed"}
 REQUIRED_TABLES = {
     "diseases": [
         "disease_id",
@@ -66,6 +74,21 @@ REQUIRED_TABLES = {
         "deprecated",
     ],
     "references": ["reference_id", "title", "verification_status"],
+    "keywords": [
+        "keyword_id",
+        "keyword_text",
+        "keyword_type",
+        "normalized_keyword",
+        "source_status",
+        "deprecated",
+    ],
+    "complications": [
+        "entity_id",
+        "name",
+        "source_review_status",
+        "medical_review_status",
+        "deprecated",
+    ],
 }
 RELATIONSHIP_TABLES = [
     "disease_presentations",
@@ -74,4 +97,7 @@ RELATIONSHIP_TABLES = [
     "disease_diagnostics",
     "algorithm_steps",
     "entity_references",
+    "disease_keywords",
+    "presentation_keywords",
+    "disease_complications",
 ]

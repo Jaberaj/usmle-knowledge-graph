@@ -20,17 +20,20 @@
         "DIS-REN-UREMICPERICARDITIS"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Chest pain",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-001",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -45,17 +48,20 @@
         "DIS-ST-0122"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Dyspnea",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-002",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -73,17 +79,20 @@
         "DIS-ST-0123"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Syncope",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-003",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -105,17 +114,20 @@
         "DIS-ST-0124"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Palpitations",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-004",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -129,17 +141,20 @@
         "DIS-ST-0125"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Fever",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-005",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -167,17 +182,20 @@
         "DIS-ST-0126"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Altered mental status",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-006",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -210,17 +228,20 @@
         "DIS-ST-0127"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Headache",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-007",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -230,17 +251,20 @@
         "DIS-ST-0128"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Focal neurologic deficit",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-008",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -268,17 +292,20 @@
         "DIS-ST-0129"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Seizure",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-009",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -287,85 +314,100 @@
         "DIS-REN-PERITONEALDIALYSISPE"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Abdominal pain",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-010",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
         "DIS-E-0051"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Nausea and vomiting",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-011",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
         "DIS-E-0052"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Diarrhea",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-012",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
         "DIS-E-0053"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Gastrointestinal bleeding",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-013",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
         "DIS-E-0054"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Jaundice",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-014",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -376,17 +418,20 @@
         "DIS-REN-UTIINPREGNANCY"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Dysuria",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-015",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -411,17 +456,20 @@
         "DIS-REN-RENALVEINTHROMBOSIS"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Hematuria",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-016",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -439,17 +487,20 @@
         "DIS-REN-RHABDOMYOLYSISASSOCI"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Acute kidney injury",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-017",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -460,17 +511,20 @@
         "DIS-REN-NEPHROTICSYNDROME"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Edema",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-018",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -478,17 +532,20 @@
         "DIS-P-0099"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Rash",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-019",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -496,17 +553,20 @@
         "DIS-P-0100"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Joint pain",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-020",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -532,17 +592,20 @@
         "DIS-P-0101"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Weakness",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-021",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -553,34 +616,40 @@
         "DIS-REN-ANEMIAOFCKD"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Fatigue",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-022",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
         "DIS-P-0103"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Anemia",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-023",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -588,17 +657,20 @@
         "DIS-P-0104"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Lymphadenopathy",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-024",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -606,17 +678,20 @@
         "DIS-P-0105"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Weight loss",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-025",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -624,17 +699,20 @@
         "DIS-P-0106"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Hyperglycemia",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-026",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -642,17 +720,20 @@
         "DIS-P-0107"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Hypoglycemia",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-027",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -660,17 +741,20 @@
         "DIS-P-0108"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Vaginal bleeding",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-028",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -678,17 +762,20 @@
         "DIS-P-0109"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Pelvic pain",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-029",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -697,17 +784,20 @@
         "DIS-P-0110"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Amenorrhea",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-030",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -716,17 +806,20 @@
         "DIS-P-0111"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Pregnancy with abdominal pain",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-031",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -735,17 +828,20 @@
         "DIS-P-0112"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Pediatric fever",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-032",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -753,17 +849,20 @@
         "DIS-ID-0073"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Neonatal respiratory distress",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-033",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -772,17 +871,20 @@
         "DIS-OG-0114"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Trauma",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-034",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -796,17 +898,20 @@
         "DIS-OG-0115"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Shock",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-035",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -815,17 +920,20 @@
         "DIS-OG-0116"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "2",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Back pain",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-036",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -834,17 +942,20 @@
         "DIS-OG-0117"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "3",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Cough",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-037",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -852,17 +963,20 @@
         "DIS-OG-0118"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "4",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Hemoptysis",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-038",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -871,17 +985,20 @@
         "DIS-REN-PRERENALAZOTEMIA"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "5",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Oliguria",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-039",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -889,17 +1006,20 @@
         "DIS-OG-0120"
       ],
       "concise_definition": "Draft educational presentation summary.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
-      "initial_stabilization_summary": "Assess stability; human review required.",
+      "human_review_status": "not_requested",
+      "initial_stabilization_summary": "Assess stability; source status shown with the record.",
       "initial_test_categories": "Draft pending review.",
       "key_exam_focus": "Draft pending review.",
       "key_history_questions": "Draft pending review.",
       "medical_review_status": "draft_ai_generated",
       "name": "Confusion",
-      "notes": "Requires source and physician review.",
+      "notes": "; Source support varies by linked topic.",
       "presentation_id": "PRS-040",
-      "source_review_status": "draft_ai_generated"
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated"
     },
     {
       "common_differential_disease_ids": [
@@ -909,8 +1029,10 @@
         "DIS-CARD-065"
       ],
       "concise_definition": "Cardiovascular presentation centered on bradycardia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -919,7 +1041,8 @@
       "name": "Bradycardia",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-041",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -932,8 +1055,10 @@
         "DIS-CARD-093"
       ],
       "concise_definition": "Cardiovascular presentation centered on cyanosis.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -942,7 +1067,8 @@
       "name": "Cyanosis",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-042",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -950,8 +1076,10 @@
         "DIS-CARD-044"
       ],
       "concise_definition": "Cardiovascular presentation centered on exertional intolerance.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -960,7 +1088,8 @@
       "name": "Exertional intolerance",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-043",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -970,8 +1099,10 @@
         "DIS-CARD-050"
       ],
       "concise_definition": "Cardiovascular presentation centered on heart failure.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -980,7 +1111,8 @@
       "name": "Heart failure",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-044",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -992,8 +1124,10 @@
         "DIS-REN-SCLERODERMARENALCRIS"
       ],
       "concise_definition": "Cardiovascular presentation centered on hypertension.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -1002,7 +1136,8 @@
       "name": "Hypertension",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-045",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1011,8 +1146,10 @@
         "DIS-CARD-029"
       ],
       "concise_definition": "Cardiovascular presentation centered on hypotension.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -1021,13 +1158,16 @@
       "name": "Hypotension",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-046",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Cardiovascular presentation centered on limb pain.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -1036,7 +1176,8 @@
       "name": "Limb pain",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-047",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1056,8 +1197,10 @@
         "DIS-CARD-094"
       ],
       "concise_definition": "Cardiovascular presentation centered on new murmur.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -1066,7 +1209,8 @@
       "name": "New murmur",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-048",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1076,8 +1220,10 @@
         "DIS-CARD-073"
       ],
       "concise_definition": "Cardiovascular presentation centered on peripheral edema.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, perfusion, and monitor rhythm before targeted testing.",
       "initial_test_categories": "ECG, focused laboratory testing, echocardiography or imaging selected by the suspected physiology.",
       "key_exam_focus": "Assess perfusion, blood pressure in both arms when relevant, heart sounds, volume status, pulses, and neurologic findings.",
@@ -1086,7 +1232,8 @@
       "name": "Peripheral edema",
       "notes": "Original educational presentation record.",
       "presentation_id": "PRS-CARD-049",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1099,8 +1246,10 @@
         "DIS-NEUR-161"
       ],
       "concise_definition": "Neurologic presentation centered on abnormal movements.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1109,7 +1258,8 @@
       "name": "Abnormal movements",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-050",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1127,8 +1277,10 @@
         "DIS-NEUR-026"
       ],
       "concise_definition": "Neurologic presentation centered on acute focal neurologic deficit.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1137,15 +1289,18 @@
       "name": "Acute focal neurologic deficit",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-051",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-145"
       ],
       "concise_definition": "Neurologic presentation centered on anisocoria.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1154,15 +1309,18 @@
       "name": "Anisocoria",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-052",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-N-0068"
       ],
       "concise_definition": "Neurologic presentation centered on ascending weakness.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1171,15 +1329,18 @@
       "name": "Ascending weakness",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-053",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-149"
       ],
       "concise_definition": "Neurologic presentation centered on ataxia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1188,7 +1349,8 @@
       "name": "Ataxia",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-054",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1203,8 +1365,10 @@
         "DIS-MSK-VERTEBRALCOMPRESSION"
       ],
       "concise_definition": "Neurologic presentation centered on back pain with neurologic deficit.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1213,7 +1377,8 @@
       "name": "Back pain with neurologic deficit",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-055",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1221,8 +1386,10 @@
         "DIS-NEUR-098"
       ],
       "concise_definition": "Neurologic presentation centered on behavioral change.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1231,15 +1398,18 @@
       "name": "Behavioral change",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-056",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-140"
       ],
       "concise_definition": "Neurologic presentation centered on coma.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1248,15 +1418,18 @@
       "name": "Coma",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-057",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-153"
       ],
       "concise_definition": "Neurologic presentation centered on developmental delay.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1265,7 +1438,8 @@
       "name": "Developmental delay",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-058",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1273,8 +1447,10 @@
         "DIS-NEUR-154"
       ],
       "concise_definition": "Neurologic presentation centered on developmental regression.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1283,7 +1459,8 @@
       "name": "Developmental regression",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-059",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1292,8 +1469,10 @@
         "DIS-NEUR-144"
       ],
       "concise_definition": "Neurologic presentation centered on diplopia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1302,7 +1481,8 @@
       "name": "Diplopia",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-060",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1311,8 +1491,10 @@
         "DIS-NEUR-119"
       ],
       "concise_definition": "Neurologic presentation centered on facial weakness.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1321,7 +1503,8 @@
       "name": "Facial weakness",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-061",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1329,8 +1512,10 @@
         "DIS-NEUR-104"
       ],
       "concise_definition": "Neurologic presentation centered on fatigable weakness.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1339,15 +1524,18 @@
       "name": "Fatigable weakness",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-062",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-034"
       ],
       "concise_definition": "Neurologic presentation centered on first seizure.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1356,7 +1544,8 @@
       "name": "First seizure",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-063",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1365,8 +1554,10 @@
         "DIS-NEUR-139"
       ],
       "concise_definition": "Neurologic presentation centered on gait disturbance.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1375,15 +1566,18 @@
       "name": "Gait disturbance",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-064",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-014"
       ],
       "concise_definition": "Neurologic presentation centered on head trauma.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1392,15 +1586,18 @@
       "name": "Head trauma",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-065",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-160"
       ],
       "concise_definition": "Neurologic presentation centered on loss of consciousness.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1409,7 +1606,8 @@
       "name": "Loss of consciousness",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-066",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1420,8 +1618,10 @@
         "DIS-NEUR-102"
       ],
       "concise_definition": "Neurologic presentation centered on memory loss.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1430,15 +1630,18 @@
       "name": "Memory loss",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-067",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-NEUR-151"
       ],
       "concise_definition": "Neurologic presentation centered on neonatal hypotonia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1447,7 +1650,8 @@
       "name": "Neonatal hypotonia",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-068",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1457,8 +1661,10 @@
         "DIS-NEUR-127"
       ],
       "concise_definition": "Neurologic presentation centered on numbness.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1467,15 +1673,18 @@
       "name": "Numbness",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-069",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-N-0062"
       ],
       "concise_definition": "Neurologic presentation centered on status epilepticus.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1484,7 +1693,8 @@
       "name": "Status epilepticus",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-070",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1492,8 +1702,10 @@
         "DIS-NEUR-023"
       ],
       "concise_definition": "Neurologic presentation centered on thunderclap headache.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1502,7 +1714,8 @@
       "name": "Thunderclap headache",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-071",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1512,8 +1725,10 @@
         "DIS-NEUR-087"
       ],
       "concise_definition": "Neurologic presentation centered on tremor.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1522,7 +1737,8 @@
       "name": "Tremor",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-072",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1534,8 +1750,10 @@
         "DIS-NEUR-148"
       ],
       "concise_definition": "Neurologic presentation centered on vertigo.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1544,7 +1762,8 @@
       "name": "Vertigo",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-073",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1557,8 +1776,10 @@
         "DIS-NEUR-141"
       ],
       "concise_definition": "Neurologic presentation centered on vision loss.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway, breathing, circulation, glucose, consciousness, and time-sensitive neurologic threats.",
       "initial_test_categories": "Bedside glucose, ECG when appropriate, targeted labs, neuroimaging, EEG, CSF, or electrodiagnostics selected by localization.",
       "key_exam_focus": "Document mental status, cranial nerves, motor pattern, sensation, reflexes, coordination, gait when safe, and meningeal or pressure signs.",
@@ -1567,7 +1788,8 @@
       "name": "Vision loss",
       "notes": "Original Neurology presentation record.",
       "presentation_id": "PRS-NEUR-074",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1575,8 +1797,10 @@
         "DIS-REN-MYOGLOBINURIA"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on abnormal urinalysis.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1585,7 +1809,8 @@
       "name": "Abnormal urinalysis",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-002",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1593,8 +1818,10 @@
         "DIS-REN-URETERALOBSTRUCTION"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on anuria.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1603,7 +1830,8 @@
       "name": "Anuria",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-005",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1611,8 +1839,10 @@
         "DIS-REN-PERITONEALDIALYSIS"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on dialysis complication.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1621,7 +1851,8 @@
       "name": "Dialysis complication",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-007",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1632,8 +1863,10 @@
         "DIS-REN-TUMORLYSISASSOCIATED"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on electrolyte abnormality.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1642,7 +1875,8 @@
       "name": "Electrolyte abnormality",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-010",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1656,8 +1890,10 @@
         "DIS-REN-KIDNEYTRANSPLANTRECI"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on elevated creatinine.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1666,7 +1902,8 @@
       "name": "Elevated creatinine",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-011",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1679,8 +1916,10 @@
         "DIS-REN-STRUVITESTONE"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on fever with flank pain.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1689,7 +1928,8 @@
       "name": "Fever with flank pain",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-013",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1698,8 +1938,10 @@
         "DIS-REN-RENALINFARCTION"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on flank pain.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1708,7 +1950,8 @@
       "name": "Flank pain",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-014",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1717,8 +1960,10 @@
         "DIS-REN-TYPE4RENALTUBULARACI"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on hyperkalemia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1727,15 +1972,18 @@
       "name": "Hyperkalemia",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-016",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-REN-HYPERNATREMIA"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on hypernatremia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1744,7 +1992,8 @@
       "name": "Hypernatremia",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-017",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1753,8 +2002,10 @@
         "DIS-REN-HYPOKALEMIA"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on hypokalemia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1763,7 +2014,8 @@
       "name": "Hypokalemia",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-019",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1773,8 +2025,10 @@
         "DIS-REN-SIADH"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on hyponatremia.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1783,7 +2037,8 @@
       "name": "Hyponatremia",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-020",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1798,8 +2053,10 @@
         "DIS-REN-RENALTUBULARACIDOSIS"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on metabolic acidosis.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1808,15 +2065,18 @@
       "name": "Metabolic acidosis",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-021",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-REN-METABOLICALKALOSIS"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on metabolic alkalosis.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1825,15 +2085,18 @@
       "name": "Metabolic alkalosis",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-022",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-REN-WILMSTUMOR"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on pediatric abdominal mass.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1842,7 +2105,8 @@
       "name": "Pediatric abdominal mass",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-024",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1852,8 +2116,10 @@
         "DIS-REN-POSTOBSTRUCTIVEDIURE"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on polyuria.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1862,7 +2128,8 @@
       "name": "Polyuria",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-025",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1872,8 +2139,10 @@
         "DIS-REN-RENALAGENESIS"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on prenatal renal abnormality.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1882,7 +2151,8 @@
       "name": "Prenatal renal abnormality",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-026",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1894,8 +2164,10 @@
         "DIS-REN-MEMBRANOUSNEPHROPATH"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on proteinuria.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1904,15 +2176,18 @@
       "name": "Proteinuria",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-027",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-REN-VESICOURETERALREFLUX"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on recurrent uti.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1921,7 +2196,8 @@
       "name": "Recurrent UTI",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-028",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1933,8 +2209,10 @@
         "DIS-REN-URICACIDSTONE"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on renal colic.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1943,15 +2221,18 @@
       "name": "Renal colic",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-029",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
         "DIS-REN-CALCIPHYLAXIS"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on skin lesion.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1960,7 +2241,8 @@
       "name": "Skin lesion",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-030",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1968,8 +2250,10 @@
         "DIS-REN-UREMIA"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on uremic symptoms.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1978,7 +2262,8 @@
       "name": "Uremic symptoms",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-031",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -1987,8 +2272,10 @@
         "DIS-REN-BLADDEROUTLETOBSTRUC"
       ],
       "concise_definition": "Renal or genitourinary presentation centered on urinary retention.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess circulation, ECG when electrolyte risk exists, urine output, volume state, sepsis, and obstruction.",
       "initial_test_categories": "Creatinine trend, urinalysis, microscopy, electrolytes, ECG, urine studies, bladder scan, and renal imaging selected by syndrome.",
       "key_exam_focus": "Assess volume, blood pressure, edema, bladder distention, costovertebral tenderness, rash, and systemic findings.",
@@ -1997,13 +2284,16 @@
       "name": "Urinary retention",
       "notes": "Original renal presentation record.",
       "presentation_id": "PRS-REN-032",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on acute traumatic limb pain.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2012,7 +2302,8 @@
       "name": "Acute traumatic limb pain",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-001",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2066,8 +2357,10 @@
         "DIS-MSK-TRIMALLEOLARFRACTURE"
       ],
       "concise_definition": "Musculoskeletal presentation centered on suspected fracture.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2076,7 +2369,8 @@
       "name": "Suspected fracture",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-002",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2096,8 +2390,10 @@
         "DIS-MSK-TEMPOROMANDIBULARJOI"
       ],
       "concise_definition": "Musculoskeletal presentation centered on suspected dislocation.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2106,13 +2402,16 @@
       "name": "Suspected dislocation",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-003",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on open wound over fracture.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2121,13 +2420,16 @@
       "name": "Open wound over fracture",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-004",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on neurovascular compromise after injury.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2136,7 +2438,8 @@
       "name": "Neurovascular compromise after injury",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-005",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2152,8 +2455,10 @@
         "DIS-MSK-TRAUMATICAMPUTATION"
       ],
       "concise_definition": "Musculoskeletal presentation centered on extremity pain out of proportion.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2162,7 +2467,8 @@
       "name": "Extremity pain out of proportion",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-006",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2180,8 +2486,10 @@
         "DIS-MSK-VERTEBRALOSTEOMYELIT"
       ],
       "concise_definition": "Musculoskeletal presentation centered on red hot swollen joint.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2190,7 +2498,8 @@
       "name": "Red hot swollen joint",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-007",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2201,8 +2510,10 @@
         "DIS-MSK-GOUT"
       ],
       "concise_definition": "Musculoskeletal presentation centered on acute monoarthritis.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2211,7 +2522,8 @@
       "name": "Acute monoarthritis",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-008",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2237,8 +2549,10 @@
         "DIS-MSK-SYSTEMICSCLEROSIS"
       ],
       "concise_definition": "Musculoskeletal presentation centered on polyarthritis.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2247,7 +2561,8 @@
       "name": "Polyarthritis",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-009",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2268,8 +2583,10 @@
         "DIS-MSK-SPONDYLOLYSIS"
       ],
       "concise_definition": "Musculoskeletal presentation centered on morning stiffness.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2278,7 +2595,8 @@
       "name": "Morning stiffness",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-010",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2298,8 +2616,10 @@
         "DIS-MSK-TRANSIENTSYNOVITIS"
       ],
       "concise_definition": "Musculoskeletal presentation centered on pediatric limp.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2308,13 +2628,16 @@
       "name": "Pediatric limp",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-012",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on pediatric hip pain.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2323,13 +2646,16 @@
       "name": "Pediatric hip pain",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-013",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on shoulder pain.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2338,13 +2664,16 @@
       "name": "Shoulder pain",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-014",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on knee injury.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2353,13 +2682,16 @@
       "name": "Knee injury",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-015",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on ankle injury.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2368,13 +2700,16 @@
       "name": "Ankle injury",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-016",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on wrist injury.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2383,13 +2718,16 @@
       "name": "Wrist injury",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-017",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on hand infection.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2398,7 +2736,8 @@
       "name": "Hand infection",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-018",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2414,8 +2753,10 @@
         "DIS-MSK-TROCHANTERICPAINSYND"
       ],
       "concise_definition": "Musculoskeletal presentation centered on muscle weakness.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2424,7 +2765,8 @@
       "name": "Muscle weakness",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-019",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2449,8 +2791,10 @@
         "DIS-MSK-SCURVY"
       ],
       "concise_definition": "Musculoskeletal presentation centered on bone pain or pathologic fracture.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2459,7 +2803,8 @@
       "name": "Bone pain or pathologic fracture",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-020",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2481,8 +2826,10 @@
         "DIS-MSK-UNICAMERALBONECYST"
       ],
       "concise_definition": "Musculoskeletal presentation centered on soft-tissue mass.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2491,13 +2838,16 @@
       "name": "Soft-tissue mass",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-021",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on postoperative orthopedic pain.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2506,7 +2856,8 @@
       "name": "Postoperative orthopedic pain",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-022",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [
@@ -2550,8 +2901,10 @@
         "DIS-MSK-ULNARCOLLATERALLIGAM"
       ],
       "concise_definition": "Musculoskeletal presentation centered on sports injury.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2560,13 +2913,16 @@
       "name": "Sports injury",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-023",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     },
     {
       "common_differential_disease_ids": [],
       "concise_definition": "Musculoskeletal presentation centered on inability to bear weight.",
+      "content_tier": "index",
       "deprecated": "false",
       "emergency_priority": "1",
+      "human_review_status": "not_requested",
       "initial_stabilization_summary": "Assess airway when trauma warrants, hemorrhage, pain, deformity, skin, distal pulses, sensation, motor function, and weight bearing.",
       "initial_test_categories": "Use targeted radiographs, ultrasound, CT, MRI, laboratory tests, aspiration, cultures, vascular imaging, or specialist evaluation according to the suspected syndrome.",
       "key_exam_focus": "Inspect alignment and skin; document range of motion, focal tenderness, compartments, motor, sensation, pulses, capillary refill, gait, and systemic findings.",
@@ -2575,8 +2931,9 @@
       "name": "Inability to bear weight",
       "notes": "Original musculoskeletal presentation record.",
       "presentation_id": "PRS-MSK-024",
-      "source_review_status": "source_checked"
+      "source_review_status": "source_checked",
+      "source_status": "partially_source_supported"
     }
   ],
-  "schema_version": "1.0.0"
+  "schema_version": "1.1.0"
 }

@@ -1,0 +1,4 @@
+id,name,description
+REF-HUM-001,not_requested,No independent human review has been requested.
+REF-HUM-002,optional_review,Independent review is optional or requested.
+REF-HUM-003,reviewed,An identifiable human reviewer completed review.

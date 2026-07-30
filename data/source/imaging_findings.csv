@@ -1,45 +1,45 @@
-entity_id,name,source_review_status,medical_review_status,deprecated
-NEUR-IMA-001,Diffusion restriction suggesting acute ischemic injury,source_checked,needs_medical_review,false
-NEUR-IMA-002,Hyperdense middle cerebral artery sign,source_checked,needs_medical_review,false
-NEUR-IMA-003,Subarachnoid blood in basal cisterns,source_checked,needs_medical_review,false
-NEUR-IMA-004,Biconvex epidural collection,source_checked,needs_medical_review,false
-NEUR-IMA-005,Crescentic subdural collection,source_checked,needs_medical_review,false
-NEUR-IMA-006,Temporal-lobe signal abnormality in HSV encephalitis context,source_checked,needs_medical_review,false
-NEUR-IMA-007,Periventricular demyelinating plaques,source_checked,needs_medical_review,false
-NEUR-IMA-008,Dawson-finger pattern in MS context,source_checked,needs_medical_review,false
-REN-IMAGING_FINDINGS-001,Hydronephrosis,source_checked,needs_medical_review,false
-REN-IMAGING_FINDINGS-002,Echogenic kidneys,source_checked,needs_medical_review,false
-REN-IMAGING_FINDINGS-003,Renal calculus,source_checked,needs_medical_review,false
-REN-IMAGING_FINDINGS-004,Staghorn calculus,source_checked,needs_medical_review,false
-REN-IMAGING_FINDINGS-005,Polycystic kidneys,source_checked,needs_medical_review,false
-REN-IMAGING_FINDINGS-006,Renal mass,source_checked,needs_medical_review,false
-REN-IMAGING_FINDINGS-007,Wedge-shaped renal infarct,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-001,Joint-space narrowing,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-002,Osteophytes,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-003,Subchondral sclerosis,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-004,Subchondral cysts,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-005,Marginal erosions,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-006,Juxta-articular osteopenia,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-007,Pencil-in-cup deformity,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-008,Chondrocalcinosis,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-009,Bamboo spine,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-010,Hill-Sachs lesion,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-011,Bankart lesion,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-012,Fat-pad sign,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-013,Posterior sail sign,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-014,Widened scapholunate interval,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-015,Perilunate dislocation,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-016,Lisfranc widening,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-017,Widened syndesmosis,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-018,Avascular necrosis,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-019,Bone infarct,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-020,Sunburst periosteal pattern,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-021,Codman triangle,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-022,Onion-skin periosteal reaction,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-023,Soap-bubble lesion,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-024,Ground-glass bone lesion,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-025,Looser zones,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-026,Vertebral compression fracture,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-027,Disc-space infection,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-028,Marrow edema,source_checked,needs_medical_review,false
-MSK-IMAGING_FINDINGS-029,Pathologic fracture,source_checked,needs_medical_review,false
+entity_id,name,source_review_status,medical_review_status,deprecated,source_status,human_review_status,content_tier
+NEUR-IMA-001,Diffusion restriction suggesting acute ischemic injury,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-IMA-002,Hyperdense middle cerebral artery sign,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-IMA-003,Subarachnoid blood in basal cisterns,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-IMA-004,Biconvex epidural collection,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-IMA-005,Crescentic subdural collection,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-IMA-006,Temporal-lobe signal abnormality in HSV encephalitis context,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-IMA-007,Periventricular demyelinating plaques,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+NEUR-IMA-008,Dawson-finger pattern in MS context,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-IMAGING_FINDINGS-001,Hydronephrosis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-IMAGING_FINDINGS-002,Echogenic kidneys,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-IMAGING_FINDINGS-003,Renal calculus,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-IMAGING_FINDINGS-004,Staghorn calculus,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-IMAGING_FINDINGS-005,Polycystic kidneys,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-IMAGING_FINDINGS-006,Renal mass,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+REN-IMAGING_FINDINGS-007,Wedge-shaped renal infarct,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-001,Joint-space narrowing,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-002,Osteophytes,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-003,Subchondral sclerosis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-004,Subchondral cysts,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-005,Marginal erosions,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-006,Juxta-articular osteopenia,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-007,Pencil-in-cup deformity,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-008,Chondrocalcinosis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-009,Bamboo spine,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-010,Hill-Sachs lesion,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-011,Bankart lesion,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-012,Fat-pad sign,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-013,Posterior sail sign,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-014,Widened scapholunate interval,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-015,Perilunate dislocation,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-016,Lisfranc widening,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-017,Widened syndesmosis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-018,Avascular necrosis,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-019,Bone infarct,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-020,Sunburst periosteal pattern,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-021,Codman triangle,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-022,Onion-skin periosteal reaction,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-023,Soap-bubble lesion,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-024,Ground-glass bone lesion,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-025,Looser zones,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-026,Vertebral compression fracture,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-027,Disc-space infection,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-028,Marrow edema,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index
+MSK-IMAGING_FINDINGS-029,Pathologic fracture,source_checked,needs_medical_review,false,partially_source_supported,not_requested,index

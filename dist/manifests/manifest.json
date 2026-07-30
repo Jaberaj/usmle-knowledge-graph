@@ -1,22 +1,22 @@
 {
-  "application_contract_version": "1.0.0",
-  "build_timestamp": "2026-07-30T00:44:44+00:00",
+  "application_contract_version": "1.1.0",
+  "build_timestamp": "2026-07-30T19:42:55+00:00",
   "checksums": {
-    "algorithms.json": "331d9834f8115d1bf190171c14b89b006b974bc6f196c915b66584f8899305a3",
-    "diseases.json": "a132f4c642ef4930de79d8c20e1656079d0b655bc05dd7afa6f946f5dc10e1bf",
-    "entities.json": "9a9b6ff3096b6b3b865616d4cecca95354c0825be4142b475240b8133a8cdc8b",
-    "game_content.json": "af2fddd1804c7ed99179b5a79c50d42177e45e676376dace09347d44b58c715a",
-    "medications.json": "d95c0c0f64f73f31371ed89efdcb80d63f35a3d3fcbdddab561ee2625da1a0d8",
-    "presentations.json": "d5c1c8e7cee91b5907e777f4ffb63d869450385dd79b4f8d197351c1e1126a0b",
-    "relationships.json": "f8e069d503a3440a0195c26ff261f169ee5fecb689ba0b4039588262ea595f71",
-    "search_index.json": "7e48e4b3b4bdbb8266e8fab7c39c14078e533b30487693529ad3060c81ddadb3",
-    "treatments.json": "a75bb941edb7d970c092ac178efa55a6e6d0fcc038729fa2e04f6b37a0e8dac5"
+    "algorithms.json": "3dce7bc0a67fe4596e8d52187325a121760bcbe46c71ac0e1ace9b28e7dfbd34",
+    "diseases.json": "284b3d05fd867bae1ace3136dff9763e7e886cc63d8d6fba447aa4c73157e784",
+    "entities.json": "75d68d7ebe30e9e8510d6e2a57c3897f5385efda43ebf346f99ae3d67e9d366e",
+    "game_content.json": "a4b8beecab23e0ec7c1e2018de3b2ae5989c2dd32b25cd45ed1f5586f51e28af",
+    "medications.json": "18a4d7f24b3424c3e6c27234722af6eb058d33d704a30622feb8a8b77a9357fc",
+    "presentations.json": "f4e8a8509c039d55b7387b93c86cc48f4ffebeecf8ad6a0d3299f35b21401664",
+    "relationships.json": "623ec922058439b555f9cc59d4870c964eee4e9d5a6ab2a45438445cb4814bfb",
+    "search_index.json": "5affb5a08479438c48c29985f35da73f57d70c069df01d7b3d716fce16e0f601",
+    "treatments.json": "f9db16e28e975ec24b78980ec3066c1e161267cc721a0de1787c6d0534e82243"
   },
   "compatibility_notes": [
     "Initial application contract; additive changes are backward compatible."
   ],
-  "disclaimer": "Educational content only; not clinical decision support. Draft records require human review.",
-  "git_commit": "ba05b9941011987c7f4506a3069e7d1341ae04ad",
+  "disclaimer": "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional.",
+  "git_commit": "3d3dc9901f5dca57993f94d9a3b88265f3aa8f97",
   "included_bundles": [
     "algorithms.json",
     "diseases.json",
@@ -28,21 +28,26 @@
     "search_index.json",
     "treatments.json"
   ],
-  "knowledge_base_version": "0.1.0",
+  "knowledge_base_version": "0.2.0",
   "record_counts": {
     "algorithm_steps": 1244,
     "algorithms": 127,
+    "complications": 13,
     "diagnostics": 30,
+    "disease_complications": 13,
     "disease_diagnostics": 767,
     "disease_differentials": 834,
+    "disease_keywords": 19,
     "disease_presentations": 685,
     "disease_treatments": 849,
     "diseases": 685,
     "entity_references": 615,
+    "keywords": 16,
     "medications": 50,
+    "presentation_keywords": 4,
     "presentations": 119,
     "references": 20,
     "treatments": 79
   },
-  "schema_version": "1.0.0"
+  "schema_version": "1.1.0"
 }
