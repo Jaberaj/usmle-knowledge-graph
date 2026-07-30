@@ -7,3 +7,16 @@ REN-PROCEDURES-005,Kidney biopsy,source_checked,needs_medical_review,false
 REN-PROCEDURES-006,Intermittent hemodialysis,source_checked,needs_medical_review,false
 REN-PROCEDURES-007,Continuous renal replacement therapy,source_checked,needs_medical_review,false
 REN-PROCEDURES-008,Peritoneal dialysis,source_checked,needs_medical_review,false
+MSK-PROCEDURES-001,Closed reduction,source_checked,needs_medical_review,false
+MSK-PROCEDURES-002,Open reduction and internal fixation,source_checked,needs_medical_review,false
+MSK-PROCEDURES-003,Splinting,source_checked,needs_medical_review,false
+MSK-PROCEDURES-004,Casting,source_checked,needs_medical_review,false
+MSK-PROCEDURES-005,Arthrocentesis,source_checked,needs_medical_review,false
+MSK-PROCEDURES-006,Joint injection,source_checked,needs_medical_review,false
+MSK-PROCEDURES-007,Fasciotomy,source_checked,needs_medical_review,false
+MSK-PROCEDURES-008,Irrigation and debridement,source_checked,needs_medical_review,false
+MSK-PROCEDURES-009,External fixation,source_checked,needs_medical_review,false
+MSK-PROCEDURES-010,Intramedullary nailing,source_checked,needs_medical_review,false
+MSK-PROCEDURES-011,Compartment-pressure measurement,source_checked,needs_medical_review,false
+MSK-PROCEDURES-012,Spinal decompression,source_checked,needs_medical_review,false
+MSK-PROCEDURES-013,Tumor biopsy,source_checked,needs_medical_review,false

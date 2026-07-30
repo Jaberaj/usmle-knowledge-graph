@@ -13,3 +13,28 @@ REN-LABORATORY_FINDINGS-005,Proteinuria,source_checked,needs_medical_review,fals
 REN-LABORATORY_FINDINGS-006,Hyperkalemia,source_checked,needs_medical_review,false
 REN-LABORATORY_FINDINGS-007,High anion gap,source_checked,needs_medical_review,false
 REN-LABORATORY_FINDINGS-008,Low serum bicarbonate,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-001,Erythrocyte sedimentation rate,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-002,C-reactive protein,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-003,Creatine kinase,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-004,Aldolase,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-005,Rheumatoid factor,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-006,Anti-cyclic citrullinated peptide antibody,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-007,Antinuclear antibody,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-008,Anti-double-stranded DNA antibody,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-009,Anti-Smith antibody,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-010,HLA-B27,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-011,ANCA pattern,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-012,Complement level,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-013,Synovial fluid crystals,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-014,Synovial-fluid leukocyte count,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-015,Serum urate,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-016,Blood culture,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-017,Calcium,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-018,Phosphate,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-019,Alkaline phosphatase,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-020,Parathyroid hormone,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-021,Vitamin D,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-022,Serum protein electrophoresis,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-023,Serum free light chains,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-024,Myoglobin,source_checked,needs_medical_review,false
+MSK-LABORATORY_FINDINGS-025,Urinalysis with heme positivity,source_checked,needs_medical_review,false

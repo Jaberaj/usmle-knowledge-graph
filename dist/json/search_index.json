@@ -665,97 +665,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Systemic lupus erythematosus",
-      "entity_id": "DIS-R-0090",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "systemic lupus erythematosus"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Rheumatoid arthritis",
-      "entity_id": "DIS-R-0091",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "rheumatoid arthritis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Gout",
-      "entity_id": "DIS-R-0092",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "gout"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Septic arthritis",
-      "entity_id": "DIS-R-0093",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 4,
-      "search_keywords": [
-        "septic arthritis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Vasculitis",
-      "entity_id": "DIS-R-0094",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 5,
-      "search_keywords": [
-        "vasculitis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Polymyalgia rheumatica",
-      "entity_id": "DIS-R-0095",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "polymyalgia rheumatica"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Scleroderma",
-      "entity_id": "DIS-R-0097",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Rheumatology"
-      ],
-      "priority": 3,
-      "search_keywords": [
-        "scleroderma"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Major depressive disorder",
       "entity_id": "DIS-P-0098",
       "entity_type": "disease",
@@ -1545,19 +1454,6 @@
       "priority": 1,
       "search_keywords": [
         "aortic rupture"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Acute limb ischemia",
-      "entity_id": "DIS-CARD-030",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Cardiology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "acute limb ischemia"
       ]
     },
     {
@@ -3226,19 +3122,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Giant cell arteritis",
-      "entity_id": "DIS-R-0096",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "giant cell arteritis"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Post-dural-puncture headache",
       "entity_id": "DIS-NEUR-061",
       "entity_type": "disease",
@@ -3339,19 +3222,6 @@
       "priority": 1,
       "search_keywords": [
         "brain abscess"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Spinal epidural abscess",
-      "entity_id": "DIS-NEUR-069",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "spinal epidural abscess"
       ]
     },
     {
@@ -3863,32 +3733,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Dermatomyositis",
-      "entity_id": "DIS-NEUR-109",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "dermatomyositis"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Polymyositis",
-      "entity_id": "DIS-NEUR-110",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "polymyositis"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Rhabdomyolysis",
       "entity_id": "DIS-NEUR-111",
       "entity_type": "disease",
@@ -3941,19 +3785,6 @@
     },
     {
       "aliases": [],
-      "canonical_name": "Carpal tunnel syndrome",
-      "entity_id": "DIS-NEUR-115",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 2,
-      "search_keywords": [
-        "carpal tunnel syndrome"
-      ]
-    },
-    {
-      "aliases": [],
       "canonical_name": "Ulnar neuropathy",
       "entity_id": "DIS-NEUR-116",
       "entity_type": "disease",
@@ -4002,71 +3833,6 @@
       "priority": 2,
       "search_keywords": [
         "ramsay hunt syndrome"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Cauda equina syndrome",
-      "entity_id": "DIS-NEUR-120",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "cauda equina syndrome"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Conus medullaris syndrome",
-      "entity_id": "DIS-NEUR-121",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "conus medullaris syndrome"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Cervical myelopathy",
-      "entity_id": "DIS-NEUR-122",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "cervical myelopathy"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Lumbar radiculopathy",
-      "entity_id": "DIS-NEUR-123",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "lumbar radiculopathy"
-      ]
-    },
-    {
-      "aliases": [],
-      "canonical_name": "Spinal cord compression",
-      "entity_id": "DIS-NEUR-124",
-      "entity_type": "disease",
-      "organ_systems": [
-        "Neurology"
-      ],
-      "priority": 1,
-      "search_keywords": [
-        "spinal cord compression"
       ]
     },
     {
@@ -6147,6 +5913,2996 @@
       "priority": 2,
       "search_keywords": [
         "peritoneal-dialysis peritonitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Clavicle fracture",
+      "entity_id": "DIS-MSK-CLAVICLEFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "clavicle fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scapular fracture",
+      "entity_id": "DIS-MSK-SCAPULARFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "scapular fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Proximal humerus fracture",
+      "entity_id": "DIS-MSK-PROXIMALHUMERUSFRACT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "proximal humerus fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Humeral shaft fracture",
+      "entity_id": "DIS-MSK-HUMERALSHAFTFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "humeral shaft fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Supracondylar humerus fracture",
+      "entity_id": "DIS-MSK-SUPRACONDYLARHUMERUS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "supracondylar humerus fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lateral condyle fracture",
+      "entity_id": "DIS-MSK-LATERALCONDYLEFRACTU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lateral condyle fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Medial epicondyle fracture",
+      "entity_id": "DIS-MSK-MEDIALEPICONDYLEFRAC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "medial epicondyle fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Radial head fracture",
+      "entity_id": "DIS-MSK-RADIALHEADFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "radial head fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Olecranon fracture",
+      "entity_id": "DIS-MSK-OLECRANONFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "olecranon fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Monteggia fracture-dislocation",
+      "entity_id": "DIS-MSK-MONTEGGIAFRACTUREDIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "monteggia fracture-dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Galeazzi fracture-dislocation",
+      "entity_id": "DIS-MSK-GALEAZZIFRACTUREDISL",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "galeazzi fracture-dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Both-bone forearm fracture",
+      "entity_id": "DIS-MSK-BOTHBONEFOREARMFRACT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "both-bone forearm fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Colles fracture",
+      "entity_id": "DIS-MSK-COLLESFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "colles fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Smith fracture",
+      "entity_id": "DIS-MSK-SMITHFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "smith fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Barton fracture",
+      "entity_id": "DIS-MSK-BARTONFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "barton fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chauffeur fracture",
+      "entity_id": "DIS-MSK-CHAUFFEURFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "chauffeur fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scaphoid fracture",
+      "entity_id": "DIS-MSK-SCAPHOIDFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "scaphoid fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lunate fracture",
+      "entity_id": "DIS-MSK-LUNATEFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lunate fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hook of hamate fracture",
+      "entity_id": "DIS-MSK-HOOKOFHAMATEFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hook of hamate fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Boxer fracture",
+      "entity_id": "DIS-MSK-BOXERFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "boxer fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bennett fracture",
+      "entity_id": "DIS-MSK-BENNETTFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "bennett fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rolando fracture",
+      "entity_id": "DIS-MSK-ROLANDOFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "rolando fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Phalangeal fracture",
+      "entity_id": "DIS-MSK-PHALANGEALFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "phalangeal fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Femoral neck fracture",
+      "entity_id": "DIS-MSK-FEMORALNECKFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "femoral neck fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Intertrochanteric fracture",
+      "entity_id": "DIS-MSK-INTERTROCHANTERICFRA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "intertrochanteric fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Subtrochanteric fracture",
+      "entity_id": "DIS-MSK-SUBTROCHANTERICFRACT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "subtrochanteric fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Femoral shaft fracture",
+      "entity_id": "DIS-MSK-FEMORALSHAFTFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "femoral shaft fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Patellar fracture",
+      "entity_id": "DIS-MSK-PATELLARFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "patellar fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tibial plateau fracture",
+      "entity_id": "DIS-MSK-TIBIALPLATEAUFRACTUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tibial plateau fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tibial shaft fracture",
+      "entity_id": "DIS-MSK-TIBIALSHAFTFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tibial shaft fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tibial stress fracture",
+      "entity_id": "DIS-MSK-TIBIALSTRESSFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tibial stress fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Maisonneuve fracture",
+      "entity_id": "DIS-MSK-MAISONNEUVEFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "maisonneuve fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pilon fracture",
+      "entity_id": "DIS-MSK-PILONFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pilon fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bimalleolar fracture",
+      "entity_id": "DIS-MSK-BIMALLEOLARFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "bimalleolar fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Trimalleolar fracture",
+      "entity_id": "DIS-MSK-TRIMALLEOLARFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "trimalleolar fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Jones fracture",
+      "entity_id": "DIS-MSK-JONESFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "jones fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lisfranc injury",
+      "entity_id": "DIS-MSK-LISFRANCINJURY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lisfranc injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Calcaneal fracture",
+      "entity_id": "DIS-MSK-CALCANEALFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "calcaneal fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Talar neck fracture",
+      "entity_id": "DIS-MSK-TALARNECKFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "talar neck fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Toddler fracture",
+      "entity_id": "DIS-MSK-TODDLERFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "toddler fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Jefferson fracture",
+      "entity_id": "DIS-MSK-JEFFERSONFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "jefferson fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hangman fracture",
+      "entity_id": "DIS-MSK-HANGMANFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hangman fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Odontoid fracture",
+      "entity_id": "DIS-MSK-ODONTOIDFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "odontoid fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Burst fracture",
+      "entity_id": "DIS-MSK-BURSTFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "burst fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chance fracture",
+      "entity_id": "DIS-MSK-CHANCEFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "chance fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pelvic ring fracture",
+      "entity_id": "DIS-MSK-PELVICRINGFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pelvic ring fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Open-book pelvic fracture",
+      "entity_id": "DIS-MSK-OPENBOOKPELVICFRACTU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "open-book pelvic fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acetabular fracture",
+      "entity_id": "DIS-MSK-ACETABULARFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acetabular fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Anterior shoulder dislocation",
+      "entity_id": "DIS-MSK-ANTERIORSHOULDERDISL",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "anterior shoulder dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Posterior shoulder dislocation",
+      "entity_id": "DIS-MSK-POSTERIORSHOULDERDIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "posterior shoulder dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acromioclavicular separation",
+      "entity_id": "DIS-MSK-ACROMIOCLAVICULARSEP",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acromioclavicular separation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Sternoclavicular dislocation",
+      "entity_id": "DIS-MSK-STERNOCLAVICULARDISL",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "sternoclavicular dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nursemaid elbow",
+      "entity_id": "DIS-MSK-NURSEMAIDELBOW",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "nursemaid elbow"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Elbow dislocation",
+      "entity_id": "DIS-MSK-ELBOWDISLOCATION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "elbow dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Perilunate dislocation",
+      "entity_id": "DIS-MSK-PERILUNATEDISLOCATIO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "perilunate dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lunate dislocation",
+      "entity_id": "DIS-MSK-LUNATEDISLOCATION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lunate dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Posterior hip dislocation",
+      "entity_id": "DIS-MSK-POSTERIORHIPDISLOCAT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "posterior hip dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Developmental dysplasia of the hip",
+      "entity_id": "DIS-MSK-DEVELOPMENTALDYSPLAS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "developmental dysplasia of the hip"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Patellar dislocation",
+      "entity_id": "DIS-MSK-PATELLARDISLOCATION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "patellar dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Knee dislocation",
+      "entity_id": "DIS-MSK-KNEEDISLOCATION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "knee dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ankle dislocation",
+      "entity_id": "DIS-MSK-ANKLEDISLOCATION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "ankle dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Temporomandibular joint dislocation",
+      "entity_id": "DIS-MSK-TEMPOROMANDIBULARJOI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "temporomandibular joint dislocation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rotator cuff tendinopathy",
+      "entity_id": "DIS-MSK-ROTATORCUFFTENDINOPA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rotator cuff tendinopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rotator cuff tear",
+      "entity_id": "DIS-MSK-ROTATORCUFFTEAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rotator cuff tear"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "SLAP lesion",
+      "entity_id": "DIS-MSK-SLAPLESION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "slap lesion"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Shoulder impingement",
+      "entity_id": "DIS-MSK-SHOULDERIMPINGEMENT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "shoulder impingement"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Adhesive capsulitis",
+      "entity_id": "DIS-MSK-ADHESIVECAPSULITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "adhesive capsulitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pectoralis major rupture",
+      "entity_id": "DIS-MSK-PECTORALISMAJORRUPTU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "pectoralis major rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lateral epicondylitis",
+      "entity_id": "DIS-MSK-LATERALEPICONDYLITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lateral epicondylitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Medial epicondylitis",
+      "entity_id": "DIS-MSK-MEDIALEPICONDYLITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "medial epicondylitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ulnar collateral ligament injury of elbow",
+      "entity_id": "DIS-MSK-ULNARCOLLATERALLIGAM",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ulnar collateral ligament injury of elbow"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "De Quervain tenosynovitis",
+      "entity_id": "DIS-MSK-DEQUERVAINTENOSYNOVI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "de quervain tenosynovitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Trigger finger",
+      "entity_id": "DIS-MSK-TRIGGERFINGER",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "trigger finger"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dupuytren contracture",
+      "entity_id": "DIS-MSK-DUPUYTRENCONTRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "dupuytren contracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Skier thumb",
+      "entity_id": "DIS-MSK-SKIERTHUMB",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "skier thumb"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scapholunate ligament injury",
+      "entity_id": "DIS-MSK-SCAPHOLUNATELIGAMENT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "scapholunate ligament injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Triangular fibrocartilage complex injury",
+      "entity_id": "DIS-MSK-TRIANGULARFIBROCARTI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "triangular fibrocartilage complex injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mallet finger",
+      "entity_id": "DIS-MSK-MALLETFINGER",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mallet finger"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Jersey finger",
+      "entity_id": "DIS-MSK-JERSEYFINGER",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "jersey finger"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "ACL tear",
+      "entity_id": "DIS-MSK-ACLTEAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acl tear"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "PCL tear",
+      "entity_id": "DIS-MSK-PCLTEAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "pcl tear"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "MCL tear",
+      "entity_id": "DIS-MSK-MCLTEAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mcl tear"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "LCL tear",
+      "entity_id": "DIS-MSK-LCLTEAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lcl tear"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Medial meniscus tear",
+      "entity_id": "DIS-MSK-MEDIALMENISCUSTEAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "medial meniscus tear"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lateral meniscus tear",
+      "entity_id": "DIS-MSK-LATERALMENISCUSTEAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lateral meniscus tear"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Patellar tendon rupture",
+      "entity_id": "DIS-MSK-PATELLARTENDONRUPTUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "patellar tendon rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Quadriceps tendon rupture",
+      "entity_id": "DIS-MSK-QUADRICEPSTENDONRUPT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "quadriceps tendon rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Patellofemoral pain syndrome",
+      "entity_id": "DIS-MSK-PATELLOFEMORALPAINSY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "patellofemoral pain syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Iliotibial band syndrome",
+      "entity_id": "DIS-MSK-ILIOTIBIALBANDSYNDRO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "iliotibial band syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pes anserine bursitis",
+      "entity_id": "DIS-MSK-PESANSERINEBURSITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "pes anserine bursitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osgood-Schlatter disease",
+      "entity_id": "DIS-MSK-OSGOODSCHLATTERDISEA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osgood-schlatter disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lateral ankle sprain",
+      "entity_id": "DIS-MSK-LATERALANKLESPRAIN",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lateral ankle sprain"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Syndesmotic ankle sprain",
+      "entity_id": "DIS-MSK-SYNDESMOTICANKLESPRA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "syndesmotic ankle sprain"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Achilles tendinopathy",
+      "entity_id": "DIS-MSK-ACHILLESTENDINOPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "achilles tendinopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Achilles tendon rupture",
+      "entity_id": "DIS-MSK-ACHILLESTENDONRUPTUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "achilles tendon rupture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Posterior tibial tendon dysfunction",
+      "entity_id": "DIS-MSK-POSTERIORTIBIALTENDO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "posterior tibial tendon dysfunction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Plantar fasciitis",
+      "entity_id": "DIS-MSK-PLANTARFASCIITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "plantar fasciitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Turf toe",
+      "entity_id": "DIS-MSK-TURFTOE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "turf toe"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Morton neuroma",
+      "entity_id": "DIS-MSK-MORTONNEUROMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "morton neuroma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hallux valgus",
+      "entity_id": "DIS-MSK-HALLUXVALGUS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hallux valgus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute compartment syndrome",
+      "entity_id": "DIS-MSK-ACUTECOMPARTMENTSYND",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute compartment syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic exertional compartment syndrome",
+      "entity_id": "DIS-MSK-CHRONICEXERTIONALCOM",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "chronic exertional compartment syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Open fracture",
+      "entity_id": "DIS-MSK-OPENFRACTURE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "open fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Necrotizing soft-tissue infection",
+      "entity_id": "DIS-MSK-NECROTIZINGSOFTTISSU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "necrotizing soft-tissue infection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute limb ischemia",
+      "entity_id": "DIS-MSK-ACUTELIMBISCHEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute limb ischemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Fat embolism syndrome",
+      "entity_id": "DIS-MSK-FATEMBOLISMSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "fat embolism syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Traumatic amputation",
+      "entity_id": "DIS-MSK-TRAUMATICAMPUTATION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "traumatic amputation"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Flexor tenosynovitis",
+      "entity_id": "DIS-MSK-FLEXORTENOSYNOVITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "flexor tenosynovitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hand or digit ischemia",
+      "entity_id": "DIS-MSK-HANDORDIGITISCHEMIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "hand or digit ischemia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Crush injury",
+      "entity_id": "DIS-MSK-CRUSHINJURY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "crush injury"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute hematogenous osteomyelitis",
+      "entity_id": "DIS-MSK-ACUTEHEMATOGENOUSOST",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute hematogenous osteomyelitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic osteomyelitis",
+      "entity_id": "DIS-MSK-CHRONICOSTEOMYELITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "chronic osteomyelitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vertebral osteomyelitis",
+      "entity_id": "DIS-MSK-VERTEBRALOSTEOMYELIT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "vertebral osteomyelitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Diabetic foot osteomyelitis",
+      "entity_id": "DIS-MSK-DIABETICFOOTOSTEOMYE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "diabetic foot osteomyelitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Prosthetic joint infection",
+      "entity_id": "DIS-MSK-PROSTHETICJOINTINFEC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "prosthetic joint infection"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Brodie abscess",
+      "entity_id": "DIS-MSK-BRODIEABSCESS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "brodie abscess"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Septic arthritis",
+      "entity_id": "DIS-MSK-SEPTICARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "septic arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Gonococcal arthritis",
+      "entity_id": "DIS-MSK-GONOCOCCALARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "gonococcal arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tuberculous arthritis",
+      "entity_id": "DIS-MSK-TUBERCULOUSARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "tuberculous arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pott disease",
+      "entity_id": "DIS-MSK-POTTDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "pott disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Discitis",
+      "entity_id": "DIS-MSK-DISCITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "discitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Infectious bursitis",
+      "entity_id": "DIS-MSK-INFECTIOUSBURSITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "infectious bursitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteoarthritis",
+      "entity_id": "DIS-MSK-OSTEOARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteoarthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cervical spondylosis",
+      "entity_id": "DIS-MSK-CERVICALSPONDYLOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cervical spondylosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cervical radiculopathy",
+      "entity_id": "DIS-MSK-CERVICALRADICULOPATH",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cervical radiculopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cervical myelopathy",
+      "entity_id": "DIS-MSK-CERVICALMYELOPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cervical myelopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lumbar spinal stenosis",
+      "entity_id": "DIS-MSK-LUMBARSPINALSTENOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lumbar spinal stenosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lumbar radiculopathy",
+      "entity_id": "DIS-MSK-LUMBARRADICULOPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lumbar radiculopathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Herniated nucleus pulposus",
+      "entity_id": "DIS-MSK-HERNIATEDNUCLEUSPULP",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "herniated nucleus pulposus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Facet arthropathy",
+      "entity_id": "DIS-MSK-FACETARTHROPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "facet arthropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Degenerative disc disease",
+      "entity_id": "DIS-MSK-DEGENERATIVEDISCDISE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "degenerative disc disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spondylolysis",
+      "entity_id": "DIS-MSK-SPONDYLOLYSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "spondylolysis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spondylolisthesis",
+      "entity_id": "DIS-MSK-SPONDYLOLISTHESIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "spondylolisthesis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Sacroiliac joint dysfunction",
+      "entity_id": "DIS-MSK-SACROILIACJOINTDYSFU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "sacroiliac joint dysfunction"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hip osteoarthritis",
+      "entity_id": "DIS-MSK-HIPOSTEOARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hip osteoarthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Knee osteoarthritis",
+      "entity_id": "DIS-MSK-KNEEOSTEOARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "knee osteoarthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hand osteoarthritis",
+      "entity_id": "DIS-MSK-HANDOSTEOARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hand osteoarthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rheumatoid arthritis",
+      "entity_id": "DIS-MSK-RHEUMATOIDARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rheumatoid arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Juvenile idiopathic arthritis",
+      "entity_id": "DIS-MSK-JUVENILEIDIOPATHICAR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "juvenile idiopathic arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Psoriatic arthritis",
+      "entity_id": "DIS-MSK-PSORIATICARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "psoriatic arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ankylosing spondylitis",
+      "entity_id": "DIS-MSK-ANKYLOSINGSPONDYLITI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ankylosing spondylitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Reactive arthritis",
+      "entity_id": "DIS-MSK-REACTIVEARTHRITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "reactive arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Enteropathic arthritis",
+      "entity_id": "DIS-MSK-ENTEROPATHICARTHRITI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "enteropathic arthritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Systemic lupus erythematosus",
+      "entity_id": "DIS-MSK-SYSTEMICLUPUSERYTHEM",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "systemic lupus erythematosus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mixed connective-tissue disease",
+      "entity_id": "DIS-MSK-MIXEDCONNECTIVETISSU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mixed connective-tissue disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Sjögren syndrome",
+      "entity_id": "DIS-MSK-SJÖGRENSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "sjögren syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Systemic sclerosis",
+      "entity_id": "DIS-MSK-SYSTEMICSCLEROSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "systemic sclerosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Polymyositis",
+      "entity_id": "DIS-MSK-POLYMYOSITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "polymyositis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dermatomyositis",
+      "entity_id": "DIS-MSK-DERMATOMYOSITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "dermatomyositis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Inclusion-body myositis",
+      "entity_id": "DIS-MSK-INCLUSIONBODYMYOSITI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "inclusion-body myositis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Polymyalgia rheumatica",
+      "entity_id": "DIS-MSK-POLYMYALGIARHEUMATIC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "polymyalgia rheumatica"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Relapsing polychondritis",
+      "entity_id": "DIS-MSK-RELAPSINGPOLYCHONDRI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "relapsing polychondritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Adult-onset Still disease",
+      "entity_id": "DIS-MSK-ADULTONSETSTILLDISEA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "adult-onset still disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Giant cell arteritis",
+      "entity_id": "DIS-MSK-GIANTCELLARTERITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "giant cell arteritis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Polyarteritis nodosa",
+      "entity_id": "DIS-MSK-POLYARTERITISNODOSA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "polyarteritis nodosa"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Eosinophilic granulomatosis with polyangiitis",
+      "entity_id": "DIS-MSK-EOSINOPHILICGRANULOM",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "eosinophilic granulomatosis with polyangiitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Behçet disease",
+      "entity_id": "DIS-MSK-BEHÇETDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "behçet disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Gout",
+      "entity_id": "DIS-MSK-GOUT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "gout"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute gout flare",
+      "entity_id": "DIS-MSK-ACUTEGOUTFLARE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute gout flare"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic tophaceous gout",
+      "entity_id": "DIS-MSK-CHRONICTOPHACEOUSGOU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "chronic tophaceous gout"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Calcium pyrophosphate deposition disease",
+      "entity_id": "DIS-MSK-CALCIUMPYROPHOSPHATE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "calcium pyrophosphate deposition disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Calcific tendinitis",
+      "entity_id": "DIS-MSK-CALCIFICTENDINITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "calcific tendinitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteoporosis",
+      "entity_id": "DIS-MSK-OSTEOPOROSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteoporosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteopenia",
+      "entity_id": "DIS-MSK-OSTEOPENIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteopenia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteomalacia",
+      "entity_id": "DIS-MSK-OSTEOMALACIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteomalacia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rickets",
+      "entity_id": "DIS-MSK-RICKETS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rickets"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Paget disease of bone",
+      "entity_id": "DIS-MSK-PAGETDISEASEOFBONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "paget disease of bone"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hyperparathyroid bone disease",
+      "entity_id": "DIS-MSK-HYPERPARATHYROIDBONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hyperparathyroid bone disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Renal osteodystrophy",
+      "entity_id": "DIS-MSK-RENALOSTEODYSTROPHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "renal osteodystrophy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteitis fibrosa cystica",
+      "entity_id": "DIS-MSK-OSTEITISFIBROSACYSTI",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteitis fibrosa cystica"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scurvy",
+      "entity_id": "DIS-MSK-SCURVY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "scurvy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteopetrosis",
+      "entity_id": "DIS-MSK-OSTEOPETROSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteopetrosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Fibrous dysplasia",
+      "entity_id": "DIS-MSK-FIBROUSDYSPLASIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "fibrous dysplasia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "McCune-Albright syndrome",
+      "entity_id": "DIS-MSK-MCCUNEALBRIGHTSYNDRO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mccune-albright syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteogenesis imperfecta",
+      "entity_id": "DIS-MSK-OSTEOGENESISIMPERFEC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteogenesis imperfecta"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hypophosphatemic rickets",
+      "entity_id": "DIS-MSK-HYPOPHOSPHATEMICRICK",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hypophosphatemic rickets"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Glucocorticoid-induced osteoporosis",
+      "entity_id": "DIS-MSK-GLUCOCORTICOIDINDUCE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "glucocorticoid-induced osteoporosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Avascular necrosis of the femoral head",
+      "entity_id": "DIS-MSK-AVASCULARNECROSISOFT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "avascular necrosis of the femoral head"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Legg-Calvé-Perthes disease",
+      "entity_id": "DIS-MSK-LEGGCALVÉPERTHESDISE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "legg-calvé-perthes disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Kienböck disease",
+      "entity_id": "DIS-MSK-KIENBÖCKDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "kienböck disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteochondritis dissecans",
+      "entity_id": "DIS-MSK-OSTEOCHONDRITISDISSE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteochondritis dissecans"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Slipped capital femoral epiphysis",
+      "entity_id": "DIS-MSK-SLIPPEDCAPITALFEMORA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "slipped capital femoral epiphysis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Transient synovitis",
+      "entity_id": "DIS-MSK-TRANSIENTSYNOVITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "transient synovitis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pediatric septic arthritis of the hip",
+      "entity_id": "DIS-MSK-PEDIATRICSEPTICARTHR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "pediatric septic arthritis of the hip"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scoliosis",
+      "entity_id": "DIS-MSK-SCOLIOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "scoliosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Clubfoot",
+      "entity_id": "DIS-MSK-CLUBFOOT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "clubfoot"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Metatarsus adductus",
+      "entity_id": "DIS-MSK-METATARSUSADDUCTUS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "metatarsus adductus"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Blount disease",
+      "entity_id": "DIS-MSK-BLOUNTDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "blount disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Limb-length discrepancy",
+      "entity_id": "DIS-MSK-LIMBLENGTHDISCREPANC",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "limb-length discrepancy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Salter-Harris I fracture",
+      "entity_id": "DIS-MSK-SALTERHARRISIFRACTUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "salter-harris i fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Salter-Harris II fracture",
+      "entity_id": "DIS-MSK-SALTERHARRISIIFRACTU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "salter-harris ii fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Salter-Harris III fracture",
+      "entity_id": "DIS-MSK-SALTERHARRISIIIFRACT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "salter-harris iii fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Salter-Harris IV fracture",
+      "entity_id": "DIS-MSK-SALTERHARRISIVFRACTU",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "salter-harris iv fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Salter-Harris V fracture",
+      "entity_id": "DIS-MSK-SALTERHARRISVFRACTUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "salter-harris v fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Nonaccidental trauma fracture",
+      "entity_id": "DIS-MSK-NONACCIDENTALTRAUMAF",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "nonaccidental trauma fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute mechanical low back pain",
+      "entity_id": "DIS-MSK-ACUTEMECHANICALLOWBA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "acute mechanical low back pain"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lumbar strain",
+      "entity_id": "DIS-MSK-LUMBARSTRAIN",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "lumbar strain"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vertebral compression fracture",
+      "entity_id": "DIS-MSK-VERTEBRALCOMPRESSION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "vertebral compression fracture"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Kyphosis",
+      "entity_id": "DIS-MSK-KYPHOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "kyphosis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Scheuermann disease",
+      "entity_id": "DIS-MSK-SCHEUERMANNDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "scheuermann disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cauda equina syndrome",
+      "entity_id": "DIS-MSK-CAUDAEQUINASYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cauda equina syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Conus medullaris syndrome",
+      "entity_id": "DIS-MSK-CONUSMEDULLARISSYNDR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "conus medullaris syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spinal cord compression",
+      "entity_id": "DIS-MSK-SPINALCORDCOMPRESSIO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "spinal cord compression"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Spinal epidural abscess",
+      "entity_id": "DIS-MSK-SPINALEPIDURALABSCES",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "spinal epidural abscess"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteochondroma",
+      "entity_id": "DIS-MSK-OSTEOCHONDROMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteochondroma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteoid osteoma",
+      "entity_id": "DIS-MSK-OSTEOIDOSTEOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteoid osteoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Enchondroma",
+      "entity_id": "DIS-MSK-ENCHONDROMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "enchondroma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Giant-cell tumor of bone",
+      "entity_id": "DIS-MSK-GIANTCELLTUMOROFBONE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "giant-cell tumor of bone"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Unicameral bone cyst",
+      "entity_id": "DIS-MSK-UNICAMERALBONECYST",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "unicameral bone cyst"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Osteosarcoma",
+      "entity_id": "DIS-MSK-OSTEOSARCOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "osteosarcoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ewing sarcoma",
+      "entity_id": "DIS-MSK-EWINGSARCOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ewing sarcoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chondrosarcoma",
+      "entity_id": "DIS-MSK-CHONDROSARCOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "chondrosarcoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Multiple myeloma bone disease",
+      "entity_id": "DIS-MSK-MULTIPLEMYELOMABONED",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "multiple myeloma bone disease"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Bone metastasis",
+      "entity_id": "DIS-MSK-BONEMETASTASIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "bone metastasis"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Lipoma",
+      "entity_id": "DIS-MSK-LIPOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "lipoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Liposarcoma",
+      "entity_id": "DIS-MSK-LIPOSARCOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "liposarcoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rhabdomyosarcoma",
+      "entity_id": "DIS-MSK-RHABDOMYOSARCOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rhabdomyosarcoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Synovial sarcoma",
+      "entity_id": "DIS-MSK-SYNOVIALSARCOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "synovial sarcoma"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ganglion cyst",
+      "entity_id": "DIS-MSK-GANGLIONCYST",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ganglion cyst"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Baker cyst",
+      "entity_id": "DIS-MSK-BAKERCYST",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "baker cyst"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Fibromyalgia",
+      "entity_id": "DIS-MSK-FIBROMYALGIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "fibromyalgia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Complex regional pain syndrome",
+      "entity_id": "DIS-MSK-COMPLEXREGIONALPAINS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "complex regional pain syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myofascial pain syndrome",
+      "entity_id": "DIS-MSK-MYOFASCIALPAINSYNDRO",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "myofascial pain syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Phantom limb pain",
+      "entity_id": "DIS-MSK-PHANTOMLIMBPAIN",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "phantom limb pain"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Carpal tunnel syndrome",
+      "entity_id": "DIS-MSK-CARPALTUNNELSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "carpal tunnel syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Cubital tunnel syndrome",
+      "entity_id": "DIS-MSK-CUBITALTUNNELSYNDROM",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "cubital tunnel syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tarsal tunnel syndrome",
+      "entity_id": "DIS-MSK-TARSALTUNNELSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tarsal tunnel syndrome"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Charcot arthropathy",
+      "entity_id": "DIS-MSK-CHARCOTARTHROPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "charcot arthropathy"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Metatarsalgia",
+      "entity_id": "DIS-MSK-METATARSALGIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "metatarsalgia"
+      ]
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Trochanteric pain syndrome",
+      "entity_id": "DIS-MSK-TROCHANTERICPAINSYND",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Musculoskeletal and Rheumatology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "trochanteric pain syndrome"
       ]
     }
   ],

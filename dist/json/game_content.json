@@ -360,55 +360,6 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
-      "presentation_id": "PRS-010",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0090"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-011",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0091"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-012",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0092"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-013",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0093"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-014",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0094"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-015",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0095"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-017",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0097"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
       "presentation_id": "PRS-018",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-P-0098"
@@ -832,13 +783,6 @@
       "presentation_id": "PRS-CARD-046",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-CARD-029"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-CARD-047",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-CARD-030"
     },
     {
       "cannot_miss_disease_ids": [],
@@ -1741,13 +1685,6 @@
       "competing_disease_ids": [],
       "presentation_id": "PRS-007",
       "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-R-0096"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-007",
-      "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-NEUR-061"
     },
     {
@@ -1798,13 +1735,6 @@
       "presentation_id": "PRS-007",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-NEUR-068"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-055",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-069"
     },
     {
       "cannot_miss_disease_ids": [],
@@ -2084,20 +2014,6 @@
       "competing_disease_ids": [],
       "presentation_id": "PRS-021",
       "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-109"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-021",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-110"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-021",
-      "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-NEUR-111"
     },
     {
@@ -2126,13 +2042,6 @@
       "competing_disease_ids": [],
       "presentation_id": "PRS-NEUR-069",
       "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-115"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-069",
-      "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-NEUR-116"
     },
     {
@@ -2155,41 +2064,6 @@
       "presentation_id": "PRS-NEUR-061",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-NEUR-119"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-055",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-120"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-055",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-121"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-021",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-122"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-055",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-123"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-055",
-      "review_status": "draft_ai_generated",
-      "target_disease_id": "DIS-NEUR-124"
     },
     {
       "cannot_miss_disease_ids": [],
@@ -3310,6 +3184,1616 @@
       "presentation_id": "PRS-010",
       "review_status": "draft_ai_generated",
       "target_disease_id": "DIS-REN-PERITONEALDIALYSISPE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CLAVICLEFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SCAPULARFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PROXIMALHUMERUSFRACT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HUMERALSHAFTFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SUPRACONDYLARHUMERUS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LATERALCONDYLEFRACTU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MEDIALEPICONDYLEFRAC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-RADIALHEADFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OLECRANONFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MONTEGGIAFRACTUREDIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-GALEAZZIFRACTUREDISL"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BOTHBONEFOREARMFRACT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-COLLESFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SMITHFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BARTONFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CHAUFFEURFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SCAPHOIDFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LUNATEFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HOOKOFHAMATEFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BOXERFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BENNETTFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ROLANDOFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PHALANGEALFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-FEMORALNECKFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-INTERTROCHANTERICFRA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SUBTROCHANTERICFRACT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-FEMORALSHAFTFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PATELLARFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TIBIALPLATEAUFRACTUR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TIBIALSHAFTFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TIBIALSTRESSFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MAISONNEUVEFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PILONFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BIMALLEOLARFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TRIMALLEOLARFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-JONESFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LISFRANCINJURY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CALCANEALFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TALARNECKFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TODDLERFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-JEFFERSONFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HANGMANFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ODONTOIDFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BURSTFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CHANCEFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PELVICRINGFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OPENBOOKPELVICFRACTU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-002",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACETABULARFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ANTERIORSHOULDERDISL"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-POSTERIORSHOULDERDIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACROMIOCLAVICULARSEP"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-STERNOCLAVICULARDISL"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-NURSEMAIDELBOW"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ELBOWDISLOCATION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PERILUNATEDISLOCATIO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LUNATEDISLOCATION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-POSTERIORHIPDISLOCAT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-DEVELOPMENTALDYSPLAS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PATELLARDISLOCATION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-KNEEDISLOCATION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ANKLEDISLOCATION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-003",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TEMPOROMANDIBULARJOI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ROTATORCUFFTENDINOPA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ROTATORCUFFTEAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SLAPLESION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SHOULDERIMPINGEMENT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ADHESIVECAPSULITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PECTORALISMAJORRUPTU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LATERALEPICONDYLITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MEDIALEPICONDYLITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ULNARCOLLATERALLIGAM"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-DEQUERVAINTENOSYNOVI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TRIGGERFINGER"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-DUPUYTRENCONTRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SKIERTHUMB"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SCAPHOLUNATELIGAMENT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TRIANGULARFIBROCARTI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MALLETFINGER"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-JERSEYFINGER"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACLTEAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PCLTEAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MCLTEAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LCLTEAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MEDIALMENISCUSTEAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LATERALMENISCUSTEAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PATELLARTENDONRUPTUR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-QUADRICEPSTENDONRUPT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PATELLOFEMORALPAINSY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ILIOTIBIALBANDSYNDRO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PESANSERINEBURSITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSGOODSCHLATTERDISEA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LATERALANKLESPRAIN"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SYNDESMOTICANKLESPRA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACHILLESTENDINOPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACHILLESTENDONRUPTUR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-POSTERIORTIBIALTENDO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PLANTARFASCIITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TURFTOE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MORTONNEUROMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-023",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HALLUXVALGUS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACUTECOMPARTMENTSYND"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CHRONICEXERTIONALCOM"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OPENFRACTURE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-NECROTIZINGSOFTTISSU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACUTELIMBISCHEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-FATEMBOLISMSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TRAUMATICAMPUTATION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-FLEXORTENOSYNOVITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HANDORDIGITISCHEMIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-006",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CRUSHINJURY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACUTEHEMATOGENOUSOST"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CHRONICOSTEOMYELITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-VERTEBRALOSTEOMYELIT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-DIABETICFOOTOSTEOMYE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PROSTHETICJOINTINFEC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BRODIEABSCESS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SEPTICARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-GONOCOCCALARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TUBERCULOUSARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-POTTDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-DISCITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-007",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-INFECTIOUSBURSITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CERVICALSPONDYLOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CERVICALRADICULOPATH"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CERVICALMYELOPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LUMBARSPINALSTENOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LUMBARRADICULOPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HERNIATEDNUCLEUSPULP"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-FACETARTHROPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-DEGENERATIVEDISCDISE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SPONDYLOLYSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SPONDYLOLISTHESIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SACROILIACJOINTDYSFU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HIPOSTEOARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-KNEEOSTEOARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-010",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HANDOSTEOARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-RHEUMATOIDARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-JUVENILEIDIOPATHICAR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PSORIATICARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ANKYLOSINGSPONDYLITI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-REACTIVEARTHRITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ENTEROPATHICARTHRITI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SYSTEMICLUPUSERYTHEM"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MIXEDCONNECTIVETISSU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SJÖGRENSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SYSTEMICSCLEROSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-POLYMYOSITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-DERMATOMYOSITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-INCLUSIONBODYMYOSITI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-POLYMYALGIARHEUMATIC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-RELAPSINGPOLYCHONDRI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ADULTONSETSTILLDISEA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-GIANTCELLARTERITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-POLYARTERITISNODOSA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-EOSINOPHILICGRANULOM"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-009",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BEHÇETDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-008",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-GOUT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-008",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACUTEGOUTFLARE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-008",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CHRONICTOPHACEOUSGOU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-008",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CALCIUMPYROPHOSPHATE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-008",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CALCIFICTENDINITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOPOROSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOPENIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOMALACIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-RICKETS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PAGETDISEASEOFBONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HYPERPARATHYROIDBONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-RENALOSTEODYSTROPHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEITISFIBROSACYSTI"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SCURVY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOPETROSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-FIBROUSDYSPLASIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MCCUNEALBRIGHTSYNDRO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOGENESISIMPERFEC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-HYPOPHOSPHATEMICRICK"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-GLUCOCORTICOIDINDUCE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-AVASCULARNECROSISOFT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LEGGCALVÉPERTHESDISE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-KIENBÖCKDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-020",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOCHONDRITISDISSE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SLIPPEDCAPITALFEMORA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TRANSIENTSYNOVITIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PEDIATRICSEPTICARTHR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SCOLIOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CLUBFOOT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-METATARSUSADDUCTUS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BLOUNTDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LIMBLENGTHDISCREPANC"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SALTERHARRISIFRACTUR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SALTERHARRISIIFRACTU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SALTERHARRISIIIFRACT"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SALTERHARRISIVFRACTU"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SALTERHARRISVFRACTUR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-012",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-NONACCIDENTALTRAUMAF"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ACUTEMECHANICALLOWBA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LUMBARSTRAIN"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-VERTEBRALCOMPRESSION"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-KYPHOSIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SCHEUERMANNDISEASE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CAUDAEQUINASYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CONUSMEDULLARISSYNDR"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SPINALCORDCOMPRESSIO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-NEUR-055",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SPINALEPIDURALABSCES"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOCHONDROMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOIDOSTEOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-ENCHONDROMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-GIANTCELLTUMOROFBONE"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-UNICAMERALBONECYST"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-OSTEOSARCOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-EWINGSARCOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CHONDROSARCOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MULTIPLEMYELOMABONED"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BONEMETASTASIS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LIPOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-LIPOSARCOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-RHABDOMYOSARCOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-SYNOVIALSARCOMA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-GANGLIONCYST"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-021",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-BAKERCYST"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-FIBROMYALGIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-COMPLEXREGIONALPAINS"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-MYOFASCIALPAINSYNDRO"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-PHANTOMLIMBPAIN"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CARPALTUNNELSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CUBITALTUNNELSYNDROM"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TARSALTUNNELSYNDROME"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-CHARCOTARTHROPATHY"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-METATARSALGIA"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
+      "presentation_id": "PRS-MSK-019",
+      "review_status": "draft_ai_generated",
+      "target_disease_id": "DIS-MSK-TROCHANTERICPAINSYND"
     }
   ],
   "next_best_step": [],
@@ -3771,69 +5255,6 @@
         "TRT-012"
       ],
       "disease_id": "DIS-HO-0089",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-011",
-        "TRT-012",
-        "TRT-013"
-      ],
-      "disease_id": "DIS-R-0090",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-012",
-        "TRT-013",
-        "TRT-014"
-      ],
-      "disease_id": "DIS-R-0091",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-013",
-        "TRT-014",
-        "TRT-015"
-      ],
-      "disease_id": "DIS-R-0092",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-014",
-        "TRT-015",
-        "TRT-016"
-      ],
-      "disease_id": "DIS-R-0093",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-015",
-        "TRT-016",
-        "TRT-017"
-      ],
-      "disease_id": "DIS-R-0094",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-016",
-        "TRT-017",
-        "TRT-018"
-      ],
-      "disease_id": "DIS-R-0095",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-018",
-        "TRT-019",
-        "TRT-020"
-      ],
-      "disease_id": "DIS-R-0097",
       "review_status": "draft_ai_generated"
     },
     {
@@ -4323,13 +5744,6 @@
         "TRT-030"
       ],
       "disease_id": "DIS-CARD-029",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-031"
-      ],
-      "disease_id": "DIS-CARD-030",
       "review_status": "draft_ai_generated"
     },
     {
@@ -5230,13 +6644,6 @@
     },
     {
       "correct_treatment_ids": [
-        "TRT-023"
-      ],
-      "disease_id": "DIS-R-0096",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
         "TRT-026"
       ],
       "disease_id": "DIS-NEUR-061",
@@ -5289,13 +6696,6 @@
         "TRT-047"
       ],
       "disease_id": "DIS-NEUR-068",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-050"
-      ],
-      "disease_id": "DIS-NEUR-069",
       "review_status": "draft_ai_generated"
     },
     {
@@ -5573,20 +6973,6 @@
     },
     {
       "correct_treatment_ids": [
-        "TRT-012"
-      ],
-      "disease_id": "DIS-NEUR-109",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-015"
-      ],
-      "disease_id": "DIS-NEUR-110",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
         "TRT-018"
       ],
       "disease_id": "DIS-NEUR-111",
@@ -5615,13 +7001,6 @@
     },
     {
       "correct_treatment_ids": [
-        "TRT-030"
-      ],
-      "disease_id": "DIS-NEUR-115",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
         "TRT-033"
       ],
       "disease_id": "DIS-NEUR-116",
@@ -5646,41 +7025,6 @@
         "TRT-042"
       ],
       "disease_id": "DIS-NEUR-119",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-045"
-      ],
-      "disease_id": "DIS-NEUR-120",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-048"
-      ],
-      "disease_id": "DIS-NEUR-121",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-051"
-      ],
-      "disease_id": "DIS-NEUR-122",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-054"
-      ],
-      "disease_id": "DIS-NEUR-123",
-      "review_status": "draft_ai_generated"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-057"
-      ],
-      "disease_id": "DIS-NEUR-124",
       "review_status": "draft_ai_generated"
     },
     {
@@ -6801,6 +8145,1616 @@
         "TRT-065"
       ],
       "disease_id": "DIS-REN-PERITONEALDIALYSISPE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-MSK-CLAVICLEFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-MSK-SCAPULARFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-MSK-PROXIMALHUMERUSFRACT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-MSK-HUMERALSHAFTFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-026"
+      ],
+      "disease_id": "DIS-MSK-SUPRACONDYLARHUMERUS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-031"
+      ],
+      "disease_id": "DIS-MSK-LATERALCONDYLEFRACTU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-MSK-MEDIALEPICONDYLEFRAC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-MSK-RADIALHEADFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-MSK-OLECRANONFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-MSK-MONTEGGIAFRACTUREDIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-056"
+      ],
+      "disease_id": "DIS-MSK-GALEAZZIFRACTUREDISL",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-061"
+      ],
+      "disease_id": "DIS-MSK-BOTHBONEFOREARMFRACT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-066"
+      ],
+      "disease_id": "DIS-MSK-COLLESFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-MSK-SMITHFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-MSK-BARTONFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-MSK-CHAUFFEURFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-MSK-SCAPHOIDFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-MSK-LUNATEFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-MSK-HOOKOFHAMATEFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-MSK-BOXERFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-MSK-BENNETTFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-MSK-ROLANDOFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-MSK-PHALANGEALFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-042"
+      ],
+      "disease_id": "DIS-MSK-FEMORALNECKFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-047"
+      ],
+      "disease_id": "DIS-MSK-INTERTROCHANTERICFRA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-052"
+      ],
+      "disease_id": "DIS-MSK-SUBTROCHANTERICFRACT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-MSK-FEMORALSHAFTFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-MSK-PATELLARFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-MSK-TIBIALPLATEAUFRACTUR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-072"
+      ],
+      "disease_id": "DIS-MSK-TIBIALSHAFTFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-077"
+      ],
+      "disease_id": "DIS-MSK-TIBIALSTRESSFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-MSK-MAISONNEUVEFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-MSK-PILONFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-MSK-BIMALLEOLARFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-MSK-TRIMALLEOLARFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-MSK-JONESFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-028"
+      ],
+      "disease_id": "DIS-MSK-LISFRANCINJURY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-033"
+      ],
+      "disease_id": "DIS-MSK-CALCANEALFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-038"
+      ],
+      "disease_id": "DIS-MSK-TALARNECKFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-MSK-TODDLERFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-MSK-JEFFERSONFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-MSK-HANGMANFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-MSK-ODONTOIDFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-063"
+      ],
+      "disease_id": "DIS-MSK-BURSTFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-068"
+      ],
+      "disease_id": "DIS-MSK-CHANCEFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-073"
+      ],
+      "disease_id": "DIS-MSK-PELVICRINGFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-MSK-OPENBOOKPELVICFRACTU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-MSK-ACETABULARFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-MSK-ANTERIORSHOULDERDISL",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-MSK-POSTERIORSHOULDERDIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-MSK-ACROMIOCLAVICULARSEP",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-024"
+      ],
+      "disease_id": "DIS-MSK-STERNOCLAVICULARDISL",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-MSK-NURSEMAIDELBOW",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-MSK-ELBOWDISLOCATION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-MSK-PERILUNATEDISLOCATIO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-MSK-LUNATEDISLOCATION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-049"
+      ],
+      "disease_id": "DIS-MSK-POSTERIORHIPDISLOCAT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-054"
+      ],
+      "disease_id": "DIS-MSK-DEVELOPMENTALDYSPLAS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-059"
+      ],
+      "disease_id": "DIS-MSK-PATELLARDISLOCATION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-MSK-KNEEDISLOCATION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-MSK-ANKLEDISLOCATION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-MSK-TEMPOROMANDIBULARJOI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-079"
+      ],
+      "disease_id": "DIS-MSK-ROTATORCUFFTENDINOPA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-MSK-ROTATORCUFFTEAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-MSK-SLAPLESION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-MSK-SHOULDERIMPINGEMENT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-MSK-ADHESIVECAPSULITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-MSK-PECTORALISMAJORRUPTU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-MSK-LATERALEPICONDYLITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-035"
+      ],
+      "disease_id": "DIS-MSK-MEDIALEPICONDYLITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-040"
+      ],
+      "disease_id": "DIS-MSK-ULNARCOLLATERALLIGAM",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-045"
+      ],
+      "disease_id": "DIS-MSK-DEQUERVAINTENOSYNOVI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-050"
+      ],
+      "disease_id": "DIS-MSK-TRIGGERFINGER",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-055"
+      ],
+      "disease_id": "DIS-MSK-DUPUYTRENCONTRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-060"
+      ],
+      "disease_id": "DIS-MSK-SKIERTHUMB",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-065"
+      ],
+      "disease_id": "DIS-MSK-SCAPHOLUNATELIGAMENT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-070"
+      ],
+      "disease_id": "DIS-MSK-TRIANGULARFIBROCARTI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-075"
+      ],
+      "disease_id": "DIS-MSK-MALLETFINGER",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-001"
+      ],
+      "disease_id": "DIS-MSK-JERSEYFINGER",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-MSK-ACLTEAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-MSK-PCLTEAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-MSK-MCLTEAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-MSK-LCLTEAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-026"
+      ],
+      "disease_id": "DIS-MSK-MEDIALMENISCUSTEAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-031"
+      ],
+      "disease_id": "DIS-MSK-LATERALMENISCUSTEAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-MSK-PATELLARTENDONRUPTUR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-MSK-QUADRICEPSTENDONRUPT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-MSK-PATELLOFEMORALPAINSY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-MSK-ILIOTIBIALBANDSYNDRO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-056"
+      ],
+      "disease_id": "DIS-MSK-PESANSERINEBURSITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-061"
+      ],
+      "disease_id": "DIS-MSK-OSGOODSCHLATTERDISEA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-066"
+      ],
+      "disease_id": "DIS-MSK-LATERALANKLESPRAIN",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-MSK-SYNDESMOTICANKLESPRA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-MSK-ACHILLESTENDINOPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-MSK-ACHILLESTENDONRUPTUR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-MSK-POSTERIORTIBIALTENDO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-MSK-PLANTARFASCIITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-MSK-TURFTOE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-MSK-MORTONNEUROMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-MSK-HALLUXVALGUS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-MSK-ACUTECOMPARTMENTSYND",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-MSK-CHRONICEXERTIONALCOM",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-042"
+      ],
+      "disease_id": "DIS-MSK-OPENFRACTURE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-047"
+      ],
+      "disease_id": "DIS-MSK-NECROTIZINGSOFTTISSU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-052"
+      ],
+      "disease_id": "DIS-MSK-ACUTELIMBISCHEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-MSK-FATEMBOLISMSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-MSK-TRAUMATICAMPUTATION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-MSK-FLEXORTENOSYNOVITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-072"
+      ],
+      "disease_id": "DIS-MSK-HANDORDIGITISCHEMIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-077"
+      ],
+      "disease_id": "DIS-MSK-CRUSHINJURY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-MSK-ACUTEHEMATOGENOUSOST",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-MSK-CHRONICOSTEOMYELITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-MSK-VERTEBRALOSTEOMYELIT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-MSK-DIABETICFOOTOSTEOMYE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-MSK-PROSTHETICJOINTINFEC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-028"
+      ],
+      "disease_id": "DIS-MSK-BRODIEABSCESS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-033"
+      ],
+      "disease_id": "DIS-MSK-SEPTICARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-038"
+      ],
+      "disease_id": "DIS-MSK-GONOCOCCALARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-MSK-TUBERCULOUSARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-MSK-POTTDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-MSK-DISCITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-MSK-INFECTIOUSBURSITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-063"
+      ],
+      "disease_id": "DIS-MSK-OSTEOARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-068"
+      ],
+      "disease_id": "DIS-MSK-CERVICALSPONDYLOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-073"
+      ],
+      "disease_id": "DIS-MSK-CERVICALRADICULOPATH",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-MSK-CERVICALMYELOPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-MSK-LUMBARSPINALSTENOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-MSK-LUMBARRADICULOPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-MSK-HERNIATEDNUCLEUSPULP",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-MSK-FACETARTHROPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-024"
+      ],
+      "disease_id": "DIS-MSK-DEGENERATIVEDISCDISE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-MSK-SPONDYLOLYSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-MSK-SPONDYLOLISTHESIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-MSK-SACROILIACJOINTDYSFU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-MSK-HIPOSTEOARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-049"
+      ],
+      "disease_id": "DIS-MSK-KNEEOSTEOARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-054"
+      ],
+      "disease_id": "DIS-MSK-HANDOSTEOARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-059"
+      ],
+      "disease_id": "DIS-MSK-RHEUMATOIDARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-MSK-JUVENILEIDIOPATHICAR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-MSK-PSORIATICARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-MSK-ANKYLOSINGSPONDYLITI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-079"
+      ],
+      "disease_id": "DIS-MSK-REACTIVEARTHRITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-MSK-ENTEROPATHICARTHRITI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-MSK-SYSTEMICLUPUSERYTHEM",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-MSK-MIXEDCONNECTIVETISSU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-MSK-SJÖGRENSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-MSK-SYSTEMICSCLEROSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-MSK-POLYMYOSITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-035"
+      ],
+      "disease_id": "DIS-MSK-DERMATOMYOSITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-040"
+      ],
+      "disease_id": "DIS-MSK-INCLUSIONBODYMYOSITI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-045"
+      ],
+      "disease_id": "DIS-MSK-POLYMYALGIARHEUMATIC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-050"
+      ],
+      "disease_id": "DIS-MSK-RELAPSINGPOLYCHONDRI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-055"
+      ],
+      "disease_id": "DIS-MSK-ADULTONSETSTILLDISEA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-060"
+      ],
+      "disease_id": "DIS-MSK-GIANTCELLARTERITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-065"
+      ],
+      "disease_id": "DIS-MSK-POLYARTERITISNODOSA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-070"
+      ],
+      "disease_id": "DIS-MSK-EOSINOPHILICGRANULOM",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-075"
+      ],
+      "disease_id": "DIS-MSK-BEHÇETDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-001"
+      ],
+      "disease_id": "DIS-MSK-GOUT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-006"
+      ],
+      "disease_id": "DIS-MSK-ACUTEGOUTFLARE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-011"
+      ],
+      "disease_id": "DIS-MSK-CHRONICTOPHACEOUSGOU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-016"
+      ],
+      "disease_id": "DIS-MSK-CALCIUMPYROPHOSPHATE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-021"
+      ],
+      "disease_id": "DIS-MSK-CALCIFICTENDINITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-026"
+      ],
+      "disease_id": "DIS-MSK-OSTEOPOROSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-031"
+      ],
+      "disease_id": "DIS-MSK-OSTEOPENIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-036"
+      ],
+      "disease_id": "DIS-MSK-OSTEOMALACIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-041"
+      ],
+      "disease_id": "DIS-MSK-RICKETS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-046"
+      ],
+      "disease_id": "DIS-MSK-PAGETDISEASEOFBONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-051"
+      ],
+      "disease_id": "DIS-MSK-HYPERPARATHYROIDBONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-056"
+      ],
+      "disease_id": "DIS-MSK-RENALOSTEODYSTROPHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-061"
+      ],
+      "disease_id": "DIS-MSK-OSTEITISFIBROSACYSTI",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-066"
+      ],
+      "disease_id": "DIS-MSK-SCURVY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-071"
+      ],
+      "disease_id": "DIS-MSK-OSTEOPETROSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-076"
+      ],
+      "disease_id": "DIS-MSK-FIBROUSDYSPLASIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-002"
+      ],
+      "disease_id": "DIS-MSK-MCCUNEALBRIGHTSYNDRO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-007"
+      ],
+      "disease_id": "DIS-MSK-OSTEOGENESISIMPERFEC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-012"
+      ],
+      "disease_id": "DIS-MSK-HYPOPHOSPHATEMICRICK",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-017"
+      ],
+      "disease_id": "DIS-MSK-GLUCOCORTICOIDINDUCE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-022"
+      ],
+      "disease_id": "DIS-MSK-AVASCULARNECROSISOFT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-027"
+      ],
+      "disease_id": "DIS-MSK-LEGGCALVÉPERTHESDISE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-032"
+      ],
+      "disease_id": "DIS-MSK-KIENBÖCKDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-037"
+      ],
+      "disease_id": "DIS-MSK-OSTEOCHONDRITISDISSE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-042"
+      ],
+      "disease_id": "DIS-MSK-SLIPPEDCAPITALFEMORA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-047"
+      ],
+      "disease_id": "DIS-MSK-TRANSIENTSYNOVITIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-052"
+      ],
+      "disease_id": "DIS-MSK-PEDIATRICSEPTICARTHR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-057"
+      ],
+      "disease_id": "DIS-MSK-SCOLIOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-062"
+      ],
+      "disease_id": "DIS-MSK-CLUBFOOT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-067"
+      ],
+      "disease_id": "DIS-MSK-METATARSUSADDUCTUS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-072"
+      ],
+      "disease_id": "DIS-MSK-BLOUNTDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-077"
+      ],
+      "disease_id": "DIS-MSK-LIMBLENGTHDISCREPANC",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-003"
+      ],
+      "disease_id": "DIS-MSK-SALTERHARRISIFRACTUR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-008"
+      ],
+      "disease_id": "DIS-MSK-SALTERHARRISIIFRACTU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-013"
+      ],
+      "disease_id": "DIS-MSK-SALTERHARRISIIIFRACT",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-018"
+      ],
+      "disease_id": "DIS-MSK-SALTERHARRISIVFRACTU",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-023"
+      ],
+      "disease_id": "DIS-MSK-SALTERHARRISVFRACTUR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-028"
+      ],
+      "disease_id": "DIS-MSK-NONACCIDENTALTRAUMAF",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-033"
+      ],
+      "disease_id": "DIS-MSK-ACUTEMECHANICALLOWBA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-038"
+      ],
+      "disease_id": "DIS-MSK-LUMBARSTRAIN",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-043"
+      ],
+      "disease_id": "DIS-MSK-VERTEBRALCOMPRESSION",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-048"
+      ],
+      "disease_id": "DIS-MSK-KYPHOSIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-053"
+      ],
+      "disease_id": "DIS-MSK-SCHEUERMANNDISEASE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-058"
+      ],
+      "disease_id": "DIS-MSK-CAUDAEQUINASYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-063"
+      ],
+      "disease_id": "DIS-MSK-CONUSMEDULLARISSYNDR",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-068"
+      ],
+      "disease_id": "DIS-MSK-SPINALCORDCOMPRESSIO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-073"
+      ],
+      "disease_id": "DIS-MSK-SPINALEPIDURALABSCES",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-078"
+      ],
+      "disease_id": "DIS-MSK-OSTEOCHONDROMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-004"
+      ],
+      "disease_id": "DIS-MSK-OSTEOIDOSTEOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-009"
+      ],
+      "disease_id": "DIS-MSK-ENCHONDROMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-014"
+      ],
+      "disease_id": "DIS-MSK-GIANTCELLTUMOROFBONE",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-019"
+      ],
+      "disease_id": "DIS-MSK-UNICAMERALBONECYST",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-024"
+      ],
+      "disease_id": "DIS-MSK-OSTEOSARCOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-029"
+      ],
+      "disease_id": "DIS-MSK-EWINGSARCOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-034"
+      ],
+      "disease_id": "DIS-MSK-CHONDROSARCOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-039"
+      ],
+      "disease_id": "DIS-MSK-MULTIPLEMYELOMABONED",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-044"
+      ],
+      "disease_id": "DIS-MSK-BONEMETASTASIS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-049"
+      ],
+      "disease_id": "DIS-MSK-LIPOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-054"
+      ],
+      "disease_id": "DIS-MSK-LIPOSARCOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-059"
+      ],
+      "disease_id": "DIS-MSK-RHABDOMYOSARCOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-064"
+      ],
+      "disease_id": "DIS-MSK-SYNOVIALSARCOMA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-069"
+      ],
+      "disease_id": "DIS-MSK-GANGLIONCYST",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-074"
+      ],
+      "disease_id": "DIS-MSK-BAKERCYST",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-079"
+      ],
+      "disease_id": "DIS-MSK-FIBROMYALGIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-005"
+      ],
+      "disease_id": "DIS-MSK-COMPLEXREGIONALPAINS",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-010"
+      ],
+      "disease_id": "DIS-MSK-MYOFASCIALPAINSYNDRO",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-015"
+      ],
+      "disease_id": "DIS-MSK-PHANTOMLIMBPAIN",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-020"
+      ],
+      "disease_id": "DIS-MSK-CARPALTUNNELSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-025"
+      ],
+      "disease_id": "DIS-MSK-CUBITALTUNNELSYNDROM",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-030"
+      ],
+      "disease_id": "DIS-MSK-TARSALTUNNELSYNDROME",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-035"
+      ],
+      "disease_id": "DIS-MSK-CHARCOTARTHROPATHY",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-040"
+      ],
+      "disease_id": "DIS-MSK-METATARSALGIA",
+      "review_status": "draft_ai_generated"
+    },
+    {
+      "correct_treatment_ids": [
+        "TRT-045"
+      ],
+      "disease_id": "DIS-MSK-TROCHANTERICPAINSYND",
       "review_status": "draft_ai_generated"
     }
   ]
