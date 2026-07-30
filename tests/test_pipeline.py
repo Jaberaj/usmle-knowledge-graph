@@ -1,4 +1,5 @@
 import json
+from collections import Counter
 from pathlib import Path
 
 import pytest
@@ -135,3 +136,33 @@ def test_neurology_phase2_semantic_relationships(disease: str, kind: str, expect
     assert disease_ids[disease]
     assert expected in links[kind + disease_ids[disease]]
     assert links[kind + disease_ids[disease]][expected]
+
+
+def test_neurology_relationship_vectors_and_algorithm_shapes_are_not_templated() -> None:
+    tables = load()
+    neuro_ids = {
+        row["disease_id"]
+        for row in tables["diseases"]
+        if row["organ_system_primary"] == "Neurology"
+    }
+    relationship_specs = (
+        ("disease_presentations", "disease_id"),
+        ("disease_findings", "disease_id"),
+        ("disease_keywords", "disease_id"),
+        ("disease_diagnostics", "disease_id"),
+        ("disease_treatments", "disease_id"),
+        ("disease_differentials", "source_disease_id"),
+        ("disease_complications", "disease_id"),
+    )
+    vectors: dict[str, list[int]] = {disease_id: [] for disease_id in neuro_ids}
+    for table, field in relationship_specs:
+        counts = Counter(row[field] for row in tables[table] if row[field] in neuro_ids)
+        for disease_id in neuro_ids:
+            vectors[disease_id].append(counts[disease_id])
+    assert max(Counter(map(tuple, vectors.values())).values()) < 50
+    algorithm_sizes = Counter(
+        sum(step["algorithm_id"] == algorithm["algorithm_id"] for step in tables["algorithm_steps"])
+        for algorithm in tables["algorithms"]
+        if algorithm["algorithm_id"].startswith("ALG-NEUR-")
+    )
+    assert max(algorithm_sizes.values()) == 1

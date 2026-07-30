@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import hashlib
 import json
+import re
 import sqlite3
 import subprocess
 from collections import Counter, defaultdict
@@ -27,6 +28,24 @@ from .config import (
 from .models import ReleaseManifest
 
 DISCLAIMER = "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional."
+
+_NEUROLOGY_GENERIC_PHRASES = (
+    "defined neurologic finding",
+    "affected neural structure or disease process",
+    "use with timing and the rest of the neurologic examination",
+    "conditions linked in the canonical graph",
+    "other disorders with a similar pattern",
+    "no isolated finding independently establishes a diagnosis",
+)
+
+
+def _normalized_sentence_similarity(left: str, right: str) -> float:
+    """Return token-set similarity for detecting copy/pasted explanatory prose."""
+    left_terms = set(re.findall(r"[a-z0-9]+", left.lower()))
+    right_terms = set(re.findall(r"[a-z0-9]+", right.lower()))
+    if not left_terms or not right_terms:
+        return 0.0
+    return len(left_terms & right_terms) / len(left_terms | right_terms)
 
 
 def _read_csv(path: Path) -> list[dict[str, str]]:
@@ -180,6 +199,36 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
             for link in tables["entity_references"]
         ):
             errors.append(f"{row['disease_id']}: no source link")
+    neurology_findings = [
+        row for row in tables["findings"] if row.get("finding_id", "").startswith("FND-NEUR")
+    ]
+    for finding in neurology_findings:
+        explanatory_text = " ".join(
+            finding.get(field, "")
+            for field in (
+                "concise_definition",
+                "mechanism",
+                "clinical_meaning",
+                "localization_value",
+                "major_associated_diseases",
+                "important_mimics",
+                "limitations",
+            )
+        ).lower()
+        if any(phrase in explanatory_text for phrase in _NEUROLOGY_GENERIC_PHRASES):
+            errors.append(f"{finding['finding_id']}: generic neurology finding prose")
+    for index, finding in enumerate(neurology_findings):
+        for comparison in neurology_findings[index + 1 :]:
+            if (
+                _normalized_sentence_similarity(
+                    finding.get("clinical_meaning", ""), comparison.get("clinical_meaning", "")
+                )
+                >= 0.97
+            ):
+                errors.append(
+                    f"{finding['finding_id']}: repeated neurology finding explanation with "
+                    f"{comparison['finding_id']}"
+                )
     return sorted(set(errors))
 
 

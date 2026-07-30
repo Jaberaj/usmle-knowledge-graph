@@ -15,7 +15,7 @@
 - disease_treatments: 1466
 - disease_differentials: 1659
 - disease_diagnostics: 1395
-- algorithm_steps: 1184
+- algorithm_steps: 1739
 - entity_references: 706
 - disease_keywords: 665
 - presentation_keywords: 4

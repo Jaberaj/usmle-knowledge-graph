@@ -1,22 +1,22 @@
 {
   "application_contract_version": "1.1.0",
-  "build_timestamp": "2026-07-30T20:53:20+00:00",
+  "build_timestamp": "2026-07-30T21:24:59+00:00",
   "checksums": {
-    "algorithms.json": "653280612bc1c25428d11bc640a110381d54bbdee6539c746cf9cf91d1ecf9c4",
-    "diseases.json": "30f365c5c8d54a98041811c7b9584a6e11503b38fe1d52bd457c860ab548b343",
-    "entities.json": "519f78d0153058bfe0df72afac622bed07436a04aadbb6843c7c8a5ceb4e88ff",
-    "game_content.json": "882408ffc888cbc69bdfe200b6259b81b7ce17d9ef0dcbdb4e9ebf59839bb310",
+    "algorithms.json": "ec35d1c15252cb5c9c97adcb15b9e2cc41d4d118312da1a920d31ba597a080c3",
+    "diseases.json": "279288c4160c15b36da48df3e9394037d8f133fdf95bb6205f0bd535aded914f",
+    "entities.json": "fdcff8cf0da42eb4040baa8720341d90f121ee9883f9516c5d68eed915ec9098",
+    "game_content.json": "a051d31024916427a595749c3da0bf7e722ed5c0d83545be13ebc2cdf943ec81",
     "medications.json": "18a4d7f24b3424c3e6c27234722af6eb058d33d704a30622feb8a8b77a9357fc",
     "presentations.json": "edc83602c7d9de31b821716e19b6642d96b7a1bf3b7cd227005e60a6f21064f0",
-    "relationships.json": "8d8a6475e11b8398e03f0dc0e051209c508292f5dbca9649be6d5bcb95e32a56",
+    "relationships.json": "3a4b5ed2e295af01b9124df44a45d6474bcfa96bd1f66f65042d801e6d3c5935",
     "search_index.json": "e8252f195b6ae57c59f7b70e7c0c09faa4e10aa389c32d04820d6a671fa34d61",
-    "treatments.json": "3b3b15fb500277a48c6b347ebdfe7357f128478703356a8efdcdf4c0e72eedbf"
+    "treatments.json": "14a92f249915c663a80431c5465c5504c18fa747def5852a74ffb3cd3d5d2d30"
   },
   "compatibility_notes": [
     "Initial application contract; additive changes are backward compatible."
   ],
   "disclaimer": "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional.",
-  "git_commit": "59d2e4f54d3a56163f25d3ef352fc6854e060cb2",
+  "git_commit": "fc3965de33da7e689cf24736d095535e13e5934b",
   "included_bundles": [
     "algorithms.json",
     "diseases.json",
@@ -30,7 +30,7 @@
   ],
   "knowledge_base_version": "0.2.0",
   "record_counts": {
-    "algorithm_steps": 1184,
+    "algorithm_steps": 1739,
     "algorithms": 127,
     "complications": 74,
     "diagnostics": 100,
