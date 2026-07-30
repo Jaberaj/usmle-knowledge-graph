@@ -1,0 +1,30 @@
+# Neurology USMLE coverage matrix
+
+- Neuroanatomy: needs further source-specific expansion
+- Neurophysiology: needs further source-specific expansion
+- Vascular territories: covered
+- Cranial nerves: covered
+- Major tracts: needs further source-specific expansion
+- Neuropathology: needs further source-specific expansion
+- Neuropharmacology: needs further source-specific expansion
+- Neurogenetics: needs further source-specific expansion
+- Neuroimmunology: needs further source-specific expansion
+- Neuroinfectious disease: needs further source-specific expansion
+- Neuromuscular physiology: needs further source-specific expansion
+- Sleep physiology: covered
+- Acute focal neurologic deficit: covered
+- Headache: covered
+- Seizure: covered
+- Altered mental status: needs further source-specific expansion
+- Weakness: needs further source-specific expansion
+- Dizziness and vertigo: needs further source-specific expansion
+- Gait disturbance: needs further source-specific expansion
+- Cognitive decline: needs further source-specific expansion
+- Pediatric neurologic presentations: needs further source-specific expansion
+- Emergency stabilization: needs further source-specific expansion
+- Long-term management: needs further source-specific expansion
+- Secondary prevention: needs further source-specific expansion
+- Rehabilitation: needs further source-specific expansion
+- Medication adverse effects: covered
+- Driving and seizure precautions: needs further source-specific expansion
+- Pregnancy-related neurologic management: needs further source-specific expansion

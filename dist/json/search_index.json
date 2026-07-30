@@ -2721,7 +2721,7 @@
     {
       "aliases": [],
       "canonical_name": "Transient ischemic attack",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-001",
       "entity_type": "disease",
       "organ_systems": [
@@ -2736,7 +2736,7 @@
     {
       "aliases": [],
       "canonical_name": "Seizure disorder",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0061",
       "entity_type": "disease",
       "organ_systems": [
@@ -2751,7 +2751,7 @@
     {
       "aliases": [],
       "canonical_name": "Meningitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0063",
       "entity_type": "disease",
       "organ_systems": [
@@ -2766,7 +2766,7 @@
     {
       "aliases": [],
       "canonical_name": "Delirium",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0069",
       "entity_type": "disease",
       "organ_systems": [
@@ -2781,7 +2781,7 @@
     {
       "aliases": [],
       "canonical_name": "Acute ischemic stroke",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0058",
       "entity_type": "disease",
       "organ_systems": [
@@ -2796,7 +2796,7 @@
     {
       "aliases": [],
       "canonical_name": "Large-vessel occlusion stroke",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-006",
       "entity_type": "disease",
       "organ_systems": [
@@ -2811,7 +2811,7 @@
     {
       "aliases": [],
       "canonical_name": "Lacunar stroke",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-007",
       "entity_type": "disease",
       "organ_systems": [
@@ -2826,7 +2826,7 @@
     {
       "aliases": [],
       "canonical_name": "Watershed infarction",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-008",
       "entity_type": "disease",
       "organ_systems": [
@@ -2841,7 +2841,7 @@
     {
       "aliases": [],
       "canonical_name": "Cardioembolic stroke",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-009",
       "entity_type": "disease",
       "organ_systems": [
@@ -2856,7 +2856,7 @@
     {
       "aliases": [],
       "canonical_name": "Cryptogenic stroke",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-010",
       "entity_type": "disease",
       "organ_systems": [
@@ -2871,7 +2871,7 @@
     {
       "aliases": [],
       "canonical_name": "Cerebral venous sinus thrombosis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-011",
       "entity_type": "disease",
       "organ_systems": [
@@ -2886,7 +2886,7 @@
     {
       "aliases": [],
       "canonical_name": "Intracerebral hemorrhage",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0059",
       "entity_type": "disease",
       "organ_systems": [
@@ -2901,7 +2901,7 @@
     {
       "aliases": [],
       "canonical_name": "Subarachnoid hemorrhage",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0060",
       "entity_type": "disease",
       "organ_systems": [
@@ -2910,14 +2910,15 @@
       "priority": 1,
       "search_keywords": [
         "subarachnoid hemorrhage",
-        "thunderclap headache"
+        "thunderclap headache",
+        "worst headache of life"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Epidural hematoma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-014",
       "entity_type": "disease",
       "organ_systems": [
@@ -2932,7 +2933,7 @@
     {
       "aliases": [],
       "canonical_name": "Subdural hematoma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-015",
       "entity_type": "disease",
       "organ_systems": [
@@ -2947,7 +2948,7 @@
     {
       "aliases": [],
       "canonical_name": "Intraventricular hemorrhage",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-016",
       "entity_type": "disease",
       "organ_systems": [
@@ -2962,7 +2963,7 @@
     {
       "aliases": [],
       "canonical_name": "Hypertensive cerebral hemorrhage",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-017",
       "entity_type": "disease",
       "organ_systems": [
@@ -2977,7 +2978,7 @@
     {
       "aliases": [],
       "canonical_name": "Cerebral amyloid angiopathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-018",
       "entity_type": "disease",
       "organ_systems": [
@@ -2992,7 +2993,7 @@
     {
       "aliases": [],
       "canonical_name": "Carotid artery dissection",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-019",
       "entity_type": "disease",
       "organ_systems": [
@@ -3007,7 +3008,7 @@
     {
       "aliases": [],
       "canonical_name": "Vertebral artery dissection",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-020",
       "entity_type": "disease",
       "organ_systems": [
@@ -3022,7 +3023,7 @@
     {
       "aliases": [],
       "canonical_name": "Carotid artery stenosis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-021",
       "entity_type": "disease",
       "organ_systems": [
@@ -3037,7 +3038,7 @@
     {
       "aliases": [],
       "canonical_name": "Moyamoya disease",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-022",
       "entity_type": "disease",
       "organ_systems": [
@@ -3052,7 +3053,7 @@
     {
       "aliases": [],
       "canonical_name": "Reversible cerebral vasoconstriction syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-023",
       "entity_type": "disease",
       "organ_systems": [
@@ -3067,7 +3068,7 @@
     {
       "aliases": [],
       "canonical_name": "Posterior reversible encephalopathy syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-024",
       "entity_type": "disease",
       "organ_systems": [
@@ -3082,7 +3083,7 @@
     {
       "aliases": [],
       "canonical_name": "Vascular dementia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-025",
       "entity_type": "disease",
       "organ_systems": [
@@ -3097,7 +3098,7 @@
     {
       "aliases": [],
       "canonical_name": "Middle cerebral artery syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-026",
       "entity_type": "disease",
       "organ_systems": [
@@ -3112,7 +3113,7 @@
     {
       "aliases": [],
       "canonical_name": "Anterior cerebral artery syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-027",
       "entity_type": "disease",
       "organ_systems": [
@@ -3127,7 +3128,7 @@
     {
       "aliases": [],
       "canonical_name": "Posterior cerebral artery syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-028",
       "entity_type": "disease",
       "organ_systems": [
@@ -3142,7 +3143,7 @@
     {
       "aliases": [],
       "canonical_name": "Basilar artery syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-029",
       "entity_type": "disease",
       "organ_systems": [
@@ -3157,7 +3158,7 @@
     {
       "aliases": [],
       "canonical_name": "Lateral medullary syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-030",
       "entity_type": "disease",
       "organ_systems": [
@@ -3172,7 +3173,7 @@
     {
       "aliases": [],
       "canonical_name": "Medial medullary syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-031",
       "entity_type": "disease",
       "organ_systems": [
@@ -3187,7 +3188,7 @@
     {
       "aliases": [],
       "canonical_name": "Locked-in syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-032",
       "entity_type": "disease",
       "organ_systems": [
@@ -3202,7 +3203,7 @@
     {
       "aliases": [],
       "canonical_name": "Pure motor lacunar syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-033",
       "entity_type": "disease",
       "organ_systems": [
@@ -3217,7 +3218,7 @@
     {
       "aliases": [],
       "canonical_name": "First unprovoked seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-034",
       "entity_type": "disease",
       "organ_systems": [
@@ -3232,7 +3233,7 @@
     {
       "aliases": [],
       "canonical_name": "Focal aware seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-035",
       "entity_type": "disease",
       "organ_systems": [
@@ -3247,7 +3248,7 @@
     {
       "aliases": [],
       "canonical_name": "Focal impaired-awareness seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-036",
       "entity_type": "disease",
       "organ_systems": [
@@ -3262,7 +3263,7 @@
     {
       "aliases": [],
       "canonical_name": "Focal to bilateral tonic-clonic seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-037",
       "entity_type": "disease",
       "organ_systems": [
@@ -3277,7 +3278,7 @@
     {
       "aliases": [],
       "canonical_name": "Generalized tonic-clonic seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-038",
       "entity_type": "disease",
       "organ_systems": [
@@ -3292,7 +3293,7 @@
     {
       "aliases": [],
       "canonical_name": "Absence seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-039",
       "entity_type": "disease",
       "organ_systems": [
@@ -3307,7 +3308,7 @@
     {
       "aliases": [],
       "canonical_name": "Myoclonic seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-040",
       "entity_type": "disease",
       "organ_systems": [
@@ -3322,7 +3323,7 @@
     {
       "aliases": [],
       "canonical_name": "Atonic seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-041",
       "entity_type": "disease",
       "organ_systems": [
@@ -3337,7 +3338,7 @@
     {
       "aliases": [],
       "canonical_name": "Infantile spasms",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-042",
       "entity_type": "disease",
       "organ_systems": [
@@ -3352,7 +3353,7 @@
     {
       "aliases": [],
       "canonical_name": "Febrile seizure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-P-0113",
       "entity_type": "disease",
       "organ_systems": [
@@ -3367,7 +3368,7 @@
     {
       "aliases": [],
       "canonical_name": "Status epilepticus",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0062",
       "entity_type": "disease",
       "organ_systems": [
@@ -3382,7 +3383,7 @@
     {
       "aliases": [],
       "canonical_name": "Nonconvulsive status epilepticus",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-045",
       "entity_type": "disease",
       "organ_systems": [
@@ -3397,7 +3398,7 @@
     {
       "aliases": [],
       "canonical_name": "Psychogenic nonepileptic seizures",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-046",
       "entity_type": "disease",
       "organ_systems": [
@@ -3412,7 +3413,7 @@
     {
       "aliases": [],
       "canonical_name": "Juvenile myoclonic epilepsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-047",
       "entity_type": "disease",
       "organ_systems": [
@@ -3427,7 +3428,7 @@
     {
       "aliases": [],
       "canonical_name": "Childhood absence epilepsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-048",
       "entity_type": "disease",
       "organ_systems": [
@@ -3442,7 +3443,7 @@
     {
       "aliases": [],
       "canonical_name": "Temporal-lobe epilepsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-049",
       "entity_type": "disease",
       "organ_systems": [
@@ -3457,7 +3458,7 @@
     {
       "aliases": [],
       "canonical_name": "Lennox-Gastaut syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-050",
       "entity_type": "disease",
       "organ_systems": [
@@ -3472,7 +3473,7 @@
     {
       "aliases": [],
       "canonical_name": "West syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-051",
       "entity_type": "disease",
       "organ_systems": [
@@ -3487,7 +3488,7 @@
     {
       "aliases": [],
       "canonical_name": "Dravet syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-052",
       "entity_type": "disease",
       "organ_systems": [
@@ -3502,7 +3503,7 @@
     {
       "aliases": [],
       "canonical_name": "Migraine without aura",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-053",
       "entity_type": "disease",
       "organ_systems": [
@@ -3517,7 +3518,7 @@
     {
       "aliases": [],
       "canonical_name": "Migraine with aura",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-054",
       "entity_type": "disease",
       "organ_systems": [
@@ -3532,7 +3533,7 @@
     {
       "aliases": [],
       "canonical_name": "Hemiplegic migraine",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-055",
       "entity_type": "disease",
       "organ_systems": [
@@ -3547,7 +3548,7 @@
     {
       "aliases": [],
       "canonical_name": "Cluster headache",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-056",
       "entity_type": "disease",
       "organ_systems": [
@@ -3562,7 +3563,7 @@
     {
       "aliases": [],
       "canonical_name": "Trigeminal neuralgia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-057",
       "entity_type": "disease",
       "organ_systems": [
@@ -3577,7 +3578,7 @@
     {
       "aliases": [],
       "canonical_name": "Idiopathic intracranial hypertension",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-058",
       "entity_type": "disease",
       "organ_systems": [
@@ -3592,7 +3593,7 @@
     {
       "aliases": [],
       "canonical_name": "Intracranial hypotension",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-059",
       "entity_type": "disease",
       "organ_systems": [
@@ -3607,7 +3608,7 @@
     {
       "aliases": [],
       "canonical_name": "Post-dural-puncture headache",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-061",
       "entity_type": "disease",
       "organ_systems": [
@@ -3622,7 +3623,7 @@
     {
       "aliases": [],
       "canonical_name": "Acute bacterial meningitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-062",
       "entity_type": "disease",
       "organ_systems": [
@@ -3637,7 +3638,7 @@
     {
       "aliases": [],
       "canonical_name": "Viral meningitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-063",
       "entity_type": "disease",
       "organ_systems": [
@@ -3652,7 +3653,7 @@
     {
       "aliases": [],
       "canonical_name": "Tuberculous meningitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-064",
       "entity_type": "disease",
       "organ_systems": [
@@ -3667,7 +3668,7 @@
     {
       "aliases": [],
       "canonical_name": "Cryptococcal meningitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-065",
       "entity_type": "disease",
       "organ_systems": [
@@ -3682,7 +3683,7 @@
     {
       "aliases": [],
       "canonical_name": "Encephalitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0064",
       "entity_type": "disease",
       "organ_systems": [
@@ -3697,7 +3698,7 @@
     {
       "aliases": [],
       "canonical_name": "HSV encephalitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-067",
       "entity_type": "disease",
       "organ_systems": [
@@ -3705,14 +3706,15 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "hsv encephalitis"
+        "hsv encephalitis",
+        "temporal-lobe hemorrhagic necrosis"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Brain abscess",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-068",
       "entity_type": "disease",
       "organ_systems": [
@@ -3727,7 +3729,7 @@
     {
       "aliases": [],
       "canonical_name": "Neurosyphilis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-070",
       "entity_type": "disease",
       "organ_systems": [
@@ -3735,14 +3737,15 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "neurosyphilis"
+        "neurosyphilis",
+        "argyll robertson pupil"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Progressive multifocal leukoencephalopathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-071",
       "entity_type": "disease",
       "organ_systems": [
@@ -3752,12 +3755,12 @@
       "search_keywords": [
         "progressive multifocal leukoencephalopathy"
       ],
-      "source_status": "partially_source_supported"
+      "source_status": "unverified_ai_generated"
     },
     {
       "aliases": [],
       "canonical_name": "Multiple sclerosis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0065",
       "entity_type": "disease",
       "organ_systems": [
@@ -3766,14 +3769,16 @@
       "priority": 2,
       "search_keywords": [
         "multiple sclerosis",
-        "electric shock sensation with neck flexion"
+        "electric shock sensation with neck flexion",
+        "dawson fingers",
+        "electric shock with neck flexion"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Clinically isolated syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-073",
       "entity_type": "disease",
       "organ_systems": [
@@ -3788,7 +3793,7 @@
     {
       "aliases": [],
       "canonical_name": "Neuromyelitis optica spectrum disorder",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-074",
       "entity_type": "disease",
       "organ_systems": [
@@ -3803,7 +3808,7 @@
     {
       "aliases": [],
       "canonical_name": "MOG antibody-associated disease",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-075",
       "entity_type": "disease",
       "organ_systems": [
@@ -3813,12 +3818,12 @@
       "search_keywords": [
         "mog antibody-associated disease"
       ],
-      "source_status": "partially_source_supported"
+      "source_status": "unverified_ai_generated"
     },
     {
       "aliases": [],
       "canonical_name": "Acute disseminated encephalomyelitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-076",
       "entity_type": "disease",
       "organ_systems": [
@@ -3833,7 +3838,7 @@
     {
       "aliases": [],
       "canonical_name": "Transverse myelitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-077",
       "entity_type": "disease",
       "organ_systems": [
@@ -3848,7 +3853,7 @@
     {
       "aliases": [],
       "canonical_name": "Optic neuritis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-078",
       "entity_type": "disease",
       "organ_systems": [
@@ -3863,7 +3868,7 @@
     {
       "aliases": [],
       "canonical_name": "Guillain-Barre syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0068",
       "entity_type": "disease",
       "organ_systems": [
@@ -3871,14 +3876,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "guillain-barre syndrome"
+        "guillain-barre syndrome",
+        "albuminocytologic dissociation"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Chronic inflammatory demyelinating polyneuropathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-080",
       "entity_type": "disease",
       "organ_systems": [
@@ -3888,12 +3894,12 @@
       "search_keywords": [
         "chronic inflammatory demyelinating polyneuropathy"
       ],
-      "source_status": "partially_source_supported"
+      "source_status": "unverified_ai_generated"
     },
     {
       "aliases": [],
       "canonical_name": "Autoimmune encephalitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-081",
       "entity_type": "disease",
       "organ_systems": [
@@ -3908,7 +3914,7 @@
     {
       "aliases": [],
       "canonical_name": "Anti-NMDA receptor encephalitis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-082",
       "entity_type": "disease",
       "organ_systems": [
@@ -3923,7 +3929,7 @@
     {
       "aliases": [],
       "canonical_name": "Parkinson disease",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0066",
       "entity_type": "disease",
       "organ_systems": [
@@ -3932,14 +3938,16 @@
       "priority": 2,
       "search_keywords": [
         "parkinson disease",
-        "resting tremor"
+        "resting tremor",
+        "resting pill-rolling tremor",
+        "cogwheel rigidity"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Drug-induced parkinsonism",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-084",
       "entity_type": "disease",
       "organ_systems": [
@@ -3947,14 +3955,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "drug-induced parkinsonism"
+        "drug-induced parkinsonism",
+        "cogwheel rigidity"
       ],
-      "source_status": "partially_source_supported"
+      "source_status": "unverified_ai_generated"
     },
     {
       "aliases": [],
       "canonical_name": "Multiple system atrophy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-085",
       "entity_type": "disease",
       "organ_systems": [
@@ -3964,12 +3973,12 @@
       "search_keywords": [
         "multiple system atrophy"
       ],
-      "source_status": "partially_source_supported"
+      "source_status": "unverified_ai_generated"
     },
     {
       "aliases": [],
       "canonical_name": "Progressive supranuclear palsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-086",
       "entity_type": "disease",
       "organ_systems": [
@@ -3979,12 +3988,12 @@
       "search_keywords": [
         "progressive supranuclear palsy"
       ],
-      "source_status": "partially_source_supported"
+      "source_status": "unverified_ai_generated"
     },
     {
       "aliases": [],
       "canonical_name": "Essential tremor",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-087",
       "entity_type": "disease",
       "organ_systems": [
@@ -3999,7 +4008,7 @@
     {
       "aliases": [],
       "canonical_name": "Huntington disease",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-088",
       "entity_type": "disease",
       "organ_systems": [
@@ -4014,7 +4023,7 @@
     {
       "aliases": [],
       "canonical_name": "Wilson disease",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-089",
       "entity_type": "disease",
       "organ_systems": [
@@ -4022,14 +4031,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "wilson disease"
+        "wilson disease",
+        "kayser-fleischer rings"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Tourette disorder",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-090",
       "entity_type": "disease",
       "organ_systems": [
@@ -4044,7 +4054,7 @@
     {
       "aliases": [],
       "canonical_name": "Tardive dyskinesia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-091",
       "entity_type": "disease",
       "organ_systems": [
@@ -4059,7 +4069,7 @@
     {
       "aliases": [],
       "canonical_name": "Acute dystonia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-092",
       "entity_type": "disease",
       "organ_systems": [
@@ -4074,7 +4084,7 @@
     {
       "aliases": [],
       "canonical_name": "Akathisia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-093",
       "entity_type": "disease",
       "organ_systems": [
@@ -4089,7 +4099,7 @@
     {
       "aliases": [],
       "canonical_name": "Neuroleptic malignant syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-094",
       "entity_type": "disease",
       "organ_systems": [
@@ -4104,7 +4114,7 @@
     {
       "aliases": [],
       "canonical_name": "Serotonin syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-095",
       "entity_type": "disease",
       "organ_systems": [
@@ -4119,7 +4129,7 @@
     {
       "aliases": [],
       "canonical_name": "Alzheimer disease",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-096",
       "entity_type": "disease",
       "organ_systems": [
@@ -4134,7 +4144,7 @@
     {
       "aliases": [],
       "canonical_name": "Dementia with Lewy bodies",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-097",
       "entity_type": "disease",
       "organ_systems": [
@@ -4149,7 +4159,7 @@
     {
       "aliases": [],
       "canonical_name": "Frontotemporal dementia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-098",
       "entity_type": "disease",
       "organ_systems": [
@@ -4164,7 +4174,7 @@
     {
       "aliases": [],
       "canonical_name": "Normal-pressure hydrocephalus",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-099",
       "entity_type": "disease",
       "organ_systems": [
@@ -4179,7 +4189,7 @@
     {
       "aliases": [],
       "canonical_name": "Creutzfeldt-Jakob disease",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-100",
       "entity_type": "disease",
       "organ_systems": [
@@ -4194,7 +4204,7 @@
     {
       "aliases": [],
       "canonical_name": "Wernicke encephalopathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-101",
       "entity_type": "disease",
       "organ_systems": [
@@ -4209,7 +4219,7 @@
     {
       "aliases": [],
       "canonical_name": "Korsakoff syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-102",
       "entity_type": "disease",
       "organ_systems": [
@@ -4224,7 +4234,7 @@
     {
       "aliases": [],
       "canonical_name": "Myasthenia gravis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-N-0067",
       "entity_type": "disease",
       "organ_systems": [
@@ -4232,14 +4242,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "myasthenia gravis"
+        "myasthenia gravis",
+        "fatigable ptosis"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Myasthenic crisis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-104",
       "entity_type": "disease",
       "organ_systems": [
@@ -4247,14 +4258,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "myasthenic crisis"
+        "myasthenic crisis",
+        "fatigable ptosis"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Cholinergic crisis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-105",
       "entity_type": "disease",
       "organ_systems": [
@@ -4269,7 +4281,7 @@
     {
       "aliases": [],
       "canonical_name": "Lambert-Eaton myasthenic syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-106",
       "entity_type": "disease",
       "organ_systems": [
@@ -4277,14 +4289,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "lambert-eaton myasthenic syndrome"
+        "lambert-eaton myasthenic syndrome",
+        "facilitation with repeated use"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Botulism",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-107",
       "entity_type": "disease",
       "organ_systems": [
@@ -4299,7 +4312,7 @@
     {
       "aliases": [],
       "canonical_name": "Duchenne muscular dystrophy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-108",
       "entity_type": "disease",
       "organ_systems": [
@@ -4307,14 +4320,16 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "duchenne muscular dystrophy"
+        "duchenne muscular dystrophy",
+        "gowers sign",
+        "calf pseudohypertrophy"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Rhabdomyolysis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-111",
       "entity_type": "disease",
       "organ_systems": [
@@ -4329,7 +4344,7 @@
     {
       "aliases": [],
       "canonical_name": "Malignant hyperthermia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-112",
       "entity_type": "disease",
       "organ_systems": [
@@ -4344,7 +4359,7 @@
     {
       "aliases": [],
       "canonical_name": "Diabetic polyneuropathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-113",
       "entity_type": "disease",
       "organ_systems": [
@@ -4359,7 +4374,7 @@
     {
       "aliases": [],
       "canonical_name": "Vitamin B12 deficiency neuropathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-114",
       "entity_type": "disease",
       "organ_systems": [
@@ -4374,7 +4389,7 @@
     {
       "aliases": [],
       "canonical_name": "Ulnar neuropathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-116",
       "entity_type": "disease",
       "organ_systems": [
@@ -4389,7 +4404,7 @@
     {
       "aliases": [],
       "canonical_name": "Common peroneal neuropathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-117",
       "entity_type": "disease",
       "organ_systems": [
@@ -4404,7 +4419,7 @@
     {
       "aliases": [],
       "canonical_name": "Bell palsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-118",
       "entity_type": "disease",
       "organ_systems": [
@@ -4419,7 +4434,7 @@
     {
       "aliases": [],
       "canonical_name": "Ramsay Hunt syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-119",
       "entity_type": "disease",
       "organ_systems": [
@@ -4434,7 +4449,7 @@
     {
       "aliases": [],
       "canonical_name": "Anterior spinal artery syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-125",
       "entity_type": "disease",
       "organ_systems": [
@@ -4449,7 +4464,7 @@
     {
       "aliases": [],
       "canonical_name": "Brown-Sequard syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-126",
       "entity_type": "disease",
       "organ_systems": [
@@ -4464,7 +4479,7 @@
     {
       "aliases": [],
       "canonical_name": "Syringomyelia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-127",
       "entity_type": "disease",
       "organ_systems": [
@@ -4472,14 +4487,15 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "syringomyelia"
+        "syringomyelia",
+        "cape-like sensory loss"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Amyotrophic lateral sclerosis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-128",
       "entity_type": "disease",
       "organ_systems": [
@@ -4494,7 +4510,7 @@
     {
       "aliases": [],
       "canonical_name": "Glioblastoma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-129",
       "entity_type": "disease",
       "organ_systems": [
@@ -4502,14 +4518,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "glioblastoma"
+        "glioblastoma",
+        "butterfly glioma"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Oligodendroglioma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-130",
       "entity_type": "disease",
       "organ_systems": [
@@ -4517,14 +4534,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "oligodendroglioma"
+        "oligodendroglioma",
+        "fried-egg appearance"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Meningioma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-131",
       "entity_type": "disease",
       "organ_systems": [
@@ -4532,14 +4550,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "meningioma"
+        "meningioma",
+        "dural tail"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Vestibular schwannoma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-132",
       "entity_type": "disease",
       "organ_systems": [
@@ -4554,7 +4573,7 @@
     {
       "aliases": [],
       "canonical_name": "Pituitary adenoma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-133",
       "entity_type": "disease",
       "organ_systems": [
@@ -4569,7 +4588,7 @@
     {
       "aliases": [],
       "canonical_name": "Medulloblastoma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-134",
       "entity_type": "disease",
       "organ_systems": [
@@ -4577,14 +4596,15 @@
       ],
       "priority": 2,
       "search_keywords": [
-        "medulloblastoma"
+        "medulloblastoma",
+        "homer wright rosettes"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "aliases": [],
       "canonical_name": "Primary CNS lymphoma",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-135",
       "entity_type": "disease",
       "organ_systems": [
@@ -4599,7 +4619,7 @@
     {
       "aliases": [],
       "canonical_name": "Brain metastases",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-136",
       "entity_type": "disease",
       "organ_systems": [
@@ -4614,7 +4634,7 @@
     {
       "aliases": [],
       "canonical_name": "Increased intracranial pressure",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-137",
       "entity_type": "disease",
       "organ_systems": [
@@ -4629,7 +4649,7 @@
     {
       "aliases": [],
       "canonical_name": "Obstructive hydrocephalus",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-138",
       "entity_type": "disease",
       "organ_systems": [
@@ -4644,7 +4664,7 @@
     {
       "aliases": [],
       "canonical_name": "Communicating hydrocephalus",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-139",
       "entity_type": "disease",
       "organ_systems": [
@@ -4659,7 +4679,7 @@
     {
       "aliases": [],
       "canonical_name": "Uncal herniation",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-140",
       "entity_type": "disease",
       "organ_systems": [
@@ -4674,7 +4694,7 @@
     {
       "aliases": [],
       "canonical_name": "Papilledema",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-141",
       "entity_type": "disease",
       "organ_systems": [
@@ -4689,7 +4709,7 @@
     {
       "aliases": [],
       "canonical_name": "Oculomotor nerve palsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-142",
       "entity_type": "disease",
       "organ_systems": [
@@ -4704,7 +4724,7 @@
     {
       "aliases": [],
       "canonical_name": "Abducens nerve palsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-143",
       "entity_type": "disease",
       "organ_systems": [
@@ -4719,7 +4739,7 @@
     {
       "aliases": [],
       "canonical_name": "Internuclear ophthalmoplegia",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-144",
       "entity_type": "disease",
       "organ_systems": [
@@ -4734,7 +4754,7 @@
     {
       "aliases": [],
       "canonical_name": "Horner syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-145",
       "entity_type": "disease",
       "organ_systems": [
@@ -4749,7 +4769,7 @@
     {
       "aliases": [],
       "canonical_name": "Benign paroxysmal positional vertigo",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-146",
       "entity_type": "disease",
       "organ_systems": [
@@ -4764,7 +4784,7 @@
     {
       "aliases": [],
       "canonical_name": "Vestibular neuritis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-147",
       "entity_type": "disease",
       "organ_systems": [
@@ -4779,7 +4799,7 @@
     {
       "aliases": [],
       "canonical_name": "Central vertigo",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-148",
       "entity_type": "disease",
       "organ_systems": [
@@ -4794,7 +4814,7 @@
     {
       "aliases": [],
       "canonical_name": "Cerebellar stroke",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-149",
       "entity_type": "disease",
       "organ_systems": [
@@ -4809,7 +4829,7 @@
     {
       "aliases": [],
       "canonical_name": "Cerebral palsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-150",
       "entity_type": "disease",
       "organ_systems": [
@@ -4824,7 +4844,7 @@
     {
       "aliases": [],
       "canonical_name": "Spinal muscular atrophy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-151",
       "entity_type": "disease",
       "organ_systems": [
@@ -4839,7 +4859,7 @@
     {
       "aliases": [],
       "canonical_name": "Tuberous sclerosis",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-152",
       "entity_type": "disease",
       "organ_systems": [
@@ -4854,7 +4874,7 @@
     {
       "aliases": [],
       "canonical_name": "Neurofibromatosis type 1",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-153",
       "entity_type": "disease",
       "organ_systems": [
@@ -4869,7 +4889,7 @@
     {
       "aliases": [],
       "canonical_name": "Rett syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-154",
       "entity_type": "disease",
       "organ_systems": [
@@ -4884,7 +4904,7 @@
     {
       "aliases": [],
       "canonical_name": "Hepatic encephalopathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-155",
       "entity_type": "disease",
       "organ_systems": [
@@ -4899,7 +4919,7 @@
     {
       "aliases": [],
       "canonical_name": "Hyponatremic encephalopathy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-156",
       "entity_type": "disease",
       "organ_systems": [
@@ -4914,7 +4934,7 @@
     {
       "aliases": [],
       "canonical_name": "Carbon monoxide poisoning",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-157",
       "entity_type": "disease",
       "organ_systems": [
@@ -4929,7 +4949,7 @@
     {
       "aliases": [],
       "canonical_name": "Osmotic demyelination syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-158",
       "entity_type": "disease",
       "organ_systems": [
@@ -4944,7 +4964,7 @@
     {
       "aliases": [],
       "canonical_name": "Obstructive sleep apnea",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-P-0023",
       "entity_type": "disease",
       "organ_systems": [
@@ -4959,7 +4979,7 @@
     {
       "aliases": [],
       "canonical_name": "Narcolepsy",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-160",
       "entity_type": "disease",
       "organ_systems": [
@@ -4974,7 +4994,7 @@
     {
       "aliases": [],
       "canonical_name": "REM sleep behavior disorder",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-161",
       "entity_type": "disease",
       "organ_systems": [
@@ -4989,7 +5009,7 @@
     {
       "aliases": [],
       "canonical_name": "Restless legs syndrome",
-      "content_tier": "core",
+      "content_tier": "expanded",
       "entity_id": "DIS-NEUR-162",
       "entity_type": "disease",
       "organ_systems": [
@@ -10293,6 +10313,366 @@
         "trochanteric pain syndrome"
       ],
       "source_status": "partially_source_supported"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Medication-overuse headache",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-MEDICATIONOVERUSEHEA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "medication-overuse headache"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tension-type headache",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-TENSIONTYPEHEADACHE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tension-type headache"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Vestibular migraine",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-VESTIBULARMIGRAINE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "vestibular migraine"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chronic migraine",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-CHRONICMIGRAINE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "chronic migraine"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Occipital neuralgia",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-OCCIPITALNEURALGIA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "occipital neuralgia"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Glossopharyngeal neuralgia",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "glossopharyngeal neuralgia"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Neuroborreliosis",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-NEUROBORRELIOSIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "neuroborreliosis"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Rabies encephalitis",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-RABIESENCEPHALITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "rabies encephalitis"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Acute flaccid myelitis",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-ACUTEFLACCIDMYELITIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "acute flaccid myelitis"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Facioscapulohumeral muscular dystrophy",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-FACIOSCAPULOHUMERALM",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "facioscapulohumeral muscular dystrophy"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Myotonic dystrophy",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-MYOTONICDYSTROPHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "myotonic dystrophy"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "McArdle disease",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-MCARDLEDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mcardle disease"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Pompe disease",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-POMPEDISEASE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "pompe disease"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Small-fiber neuropathy",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-SMALLFIBERNEUROPATHY",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "small-fiber neuropathy"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Mononeuritis multiplex",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-MONONEURITISMULTIPLE",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "mononeuritis multiplex"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Tabes dorsalis",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-TABESDORSALIS",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "tabes dorsalis"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Central cord syndrome",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-CENTRALCORDSYNDROME",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "central cord syndrome"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Posterior cord syndrome",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-POSTERIORCORDSYNDROM",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "posterior cord syndrome"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Diffuse astrocytoma",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-DIFFUSEASTROCYTOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "diffuse astrocytoma"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Ependymoma",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-EPENDYMOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "ependymoma"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Hemangioblastoma",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-HEMANGIOBLASTOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "hemangioblastoma"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Craniopharyngioma",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-CRANIOPHARYNGIOMA",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "craniopharyngioma"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Chiari malformation",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-CHIARIMALFORMATION",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "chiari malformation"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
+      "canonical_name": "Dandy-Walker malformation",
+      "content_tier": "expanded",
+      "entity_id": "DIS-NEUR-DANDYWALKERMALFORMAT",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 2,
+      "search_keywords": [
+        "dandy-walker malformation"
+      ],
+      "source_status": "unverified_ai_generated"
     }
   ],
   "schema_version": "1.0.0"

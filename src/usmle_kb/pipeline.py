@@ -91,6 +91,8 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
         "disease_keywords": ("disease_id", "diseases", "keyword_id", "keywords"),
         "presentation_keywords": ("presentation_id", "presentations", "keyword_id", "keywords"),
         "disease_complications": ("disease_id", "diseases", "complication_id", "complications"),
+        "disease_findings": ("disease_id", "diseases", "finding_id", "findings"),
+        "finding_localizations": ("finding_id", "findings", "localization_id", "localizations"),
     }
     for table, rows in tables.items():
         if table not in foreign:
@@ -173,7 +175,7 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
             for link in tables["disease_differentials"]
         ):
             errors.append(f"{row['disease_id']}: no differential")
-        if not any(
+        if row.get("source_status") != "unverified_ai_generated" and not any(
             link["entity_type"] == "disease" and link["entity_id"] == row["disease_id"]
             for link in tables["entity_references"]
         ):
@@ -295,6 +297,7 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
     diags: defaultdict[str, list[str]] = defaultdict(list)
     diffs: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
     keywords: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
+    findings: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
     for row in tables["disease_presentations"]:
         pres[row["disease_id"]].append(row["presentation_id"])
     for row in tables["disease_treatments"]:
@@ -304,9 +307,13 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
     for row in tables["disease_differentials"]:
         diffs[row["source_disease_id"]].append(row)
     keyword_by_id = {row["keyword_id"]: row for row in tables["keywords"]}
+    finding_by_id = {row["finding_id"]: row for row in tables["findings"]}
+    localized_finding_ids = {row["finding_id"] for row in tables["finding_localizations"]}
     source_by_disease = {row["disease_id"]: row["source_status"] for row in tables["diseases"]}
     for row in tables["disease_keywords"]:
         keywords[row["disease_id"]].append(keyword_by_id[row["keyword_id"]])
+    for row in tables["disease_findings"]:
+        findings[row["disease_id"]].append(finding_by_id[row["finding_id"]])
     disease_records = [
         {
             **d,
@@ -315,6 +322,7 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
             "diagnostic_ids": sorted(diags[d["disease_id"]]),
             "differentials": diffs[d["disease_id"]],
             "keywords": keywords[d["disease_id"]],
+            "findings": findings[d["disease_id"]],
             "eligibility": {
                 "eligible_for_differential_game": bool(
                     pres[d["disease_id"]] and diffs[d["disease_id"]]
@@ -325,12 +333,16 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
                     a["triggering_presentation_id"] in pres[d["disease_id"]]
                     for a in tables["algorithms"]
                 ),
-                "eligible_for_finding_game": bool(keywords[d["disease_id"]]),
+                "eligible_for_finding_game": bool(findings[d["disease_id"]]),
                 "eligible_for_imaging_game": any(
-                    k["keyword_type"] == "imaging_phrase" for k in keywords[d["disease_id"]]
+                    finding["finding_type"] == "imaging" for finding in findings[d["disease_id"]]
                 ),
                 "eligible_for_pathology_game": any(
-                    k["keyword_type"] == "pathology_phrase" for k in keywords[d["disease_id"]]
+                    finding["finding_type"] == "pathology" for finding in findings[d["disease_id"]]
+                ),
+                "eligible_for_localization_game": any(
+                    finding["finding_id"] in localized_finding_ids
+                    for finding in findings[d["disease_id"]]
                 ),
             },
         }

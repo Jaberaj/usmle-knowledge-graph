@@ -89,6 +89,8 @@ REQUIRED_TABLES = {
         "medical_review_status",
         "deprecated",
     ],
+    "findings": ["finding_id", "name", "finding_type", "source_status", "deprecated"],
+    "localizations": ["localization_id", "name", "anatomy_level", "source_status", "deprecated"],
 }
 RELATIONSHIP_TABLES = [
     "disease_presentations",
@@ -100,4 +102,6 @@ RELATIONSHIP_TABLES = [
     "disease_keywords",
     "presentation_keywords",
     "disease_complications",
+    "disease_findings",
+    "finding_localizations",
 ]

@@ -1,0 +1,23 @@
+localization_id,name,anatomy_level,source_status,human_review_status,deprecated,notes
+LOC-NEUR-FRONTALLOBE,Frontal lobe,cortex,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-PARIETALLOBE,Parietal lobe,cortex,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-TEMPORALLOBE,Temporal lobe,cortex,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-OCCIPITALLOBE,Occipital lobe,cortex,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-INTERNALCAPSULE,Internal capsule,subcortical,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-BASALGANGLIA,Basal ganglia,deep gray matter,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-THALAMUS,Thalamus,deep gray matter,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-MIDBRAIN,Midbrain,brainstem,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-PONS,Pons,brainstem,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-MEDULLA,Medulla,brainstem,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-CEREBELLARHEMISPHERE,Cerebellar hemisphere,cerebellum,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-CEREBELLARVERMIS,Cerebellar vermis,cerebellum,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-DORSALCOLUMNS,Dorsal columns,spinal tract,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-SPINOTHALAMICTRACT,Spinothalamic tract,spinal tract,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-CORTICOSPINALTRACT,Corticospinal tract,spinal tract,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-SYMPATHETICPATHWAY,Sympathetic pathway,autonomic pathway,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-VISUALPATHWAY,Visual pathway,sensory pathway,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-LANGUAGENETWORK,Language network,cortical network,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-NEUROMUSCULARJUNCTIO,Neuromuscular junction,motor unit,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-MUSCLE,Muscle,motor unit,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-PERIPHERALNERVE,Peripheral nerve,peripheral nervous system,partially_source_supported,not_requested,false,Localization concept for educational inference.
+LOC-NEUR-CAUDAEQUINA,Cauda equina,peripheral nervous system,partially_source_supported,not_requested,false,Localization concept for educational inference.
