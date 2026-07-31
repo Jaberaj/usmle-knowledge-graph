@@ -56,6 +56,286 @@
     },
     {
       "table": "disease_presentations",
+      "id": "DPR-NEUR-BC27D5C45471",
+      "disease_id": "DIS-NEUR-008",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-6A374A1C7473",
+      "disease_id": "DIS-NEUR-008",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-A85E225AE234",
+      "disease_id": "DIS-NEUR-008",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-8EA167F06B58",
+      "disease_id": "DIS-NEUR-008",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-3BF3EF18A875",
+      "disease_id": "DIS-NEUR-014",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-A99A97CCE9E7",
+      "disease_id": "DIS-NEUR-014",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-E54745F0D54C",
+      "disease_id": "DIS-NEUR-014",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-135315DD52B3",
+      "disease_id": "DIS-NEUR-014",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-5E14FF4A79AE",
+      "disease_id": "DIS-NEUR-015",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-302C756915B3",
+      "disease_id": "DIS-NEUR-015",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-BE00548283E8",
+      "disease_id": "DIS-NEUR-015",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-132CB0049205",
+      "disease_id": "DIS-NEUR-015",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-F904BCAE1391",
+      "disease_id": "DIS-NEUR-018",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-F5B182AA6204",
+      "disease_id": "DIS-NEUR-018",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-D541C4ED8D30",
+      "disease_id": "DIS-NEUR-018",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-675CE66D8FF1",
+      "disease_id": "DIS-NEUR-018",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-38D61C54830C",
+      "disease_id": "DIS-NEUR-023",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-F0CD6DC614A9",
+      "disease_id": "DIS-NEUR-023",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-DF4C51945F77",
+      "disease_id": "DIS-NEUR-023",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-16F72BEF111B",
+      "disease_id": "DIS-NEUR-023",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-05AC30EDF517",
+      "disease_id": "DIS-NEUR-024",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-F32A0DB3FDBD",
+      "disease_id": "DIS-NEUR-024",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-A64F8712FC61",
+      "disease_id": "DIS-NEUR-024",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-108A43911FD3",
+      "disease_id": "DIS-NEUR-024",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-F6BD0FC4976E",
+      "disease_id": "DIS-NEUR-030",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-4BE54A6BEA14",
+      "disease_id": "DIS-NEUR-030",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-2A40BDA07AD6",
+      "disease_id": "DIS-NEUR-030",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-5F9F16C78745",
+      "disease_id": "DIS-NEUR-030",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-3874A5474B80",
+      "disease_id": "DIS-NEUR-031",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-C21A0238BEDF",
+      "disease_id": "DIS-NEUR-031",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-D98830C54B5F",
+      "disease_id": "DIS-NEUR-031",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-878237888844",
+      "disease_id": "DIS-NEUR-031",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-7F6AD58C5CF0",
+      "disease_id": "DIS-NEUR-032",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-3A6B991F8BF1",
+      "disease_id": "DIS-NEUR-032",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-C6B67CB0DB25",
+      "disease_id": "DIS-NEUR-032",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-5F7F9B8B71DF",
+      "disease_id": "DIS-NEUR-032",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-65BB44A29315",
+      "disease_id": "DIS-NEUR-033",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-92182500D2FB",
+      "disease_id": "DIS-NEUR-033",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-04541B7F8EEA",
+      "disease_id": "DIS-NEUR-033",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
+      "id": "DPR-NEUR-A49798BF1D3A",
+      "disease_id": "DIS-NEUR-033",
+      "field": "key_negative_clues",
+      "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+    },
+    {
+      "table": "disease_presentations",
       "id": "DPR-NEUR-4C090E3BC411",
       "disease_id": "DIS-NEUR-053",
       "field": "key_positive_clues",
@@ -6369,6 +6649,356 @@
       "text": "Hypotonia contributes a defined finding pattern to the explicit Dandy-Walker malformation illness script."
     },
     {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-6E3FAB79314D",
+      "disease_id": "DIS-NEUR-008",
+      "field": "explanation",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-D2EBF79E1672",
+      "disease_id": "DIS-NEUR-008",
+      "field": "explanation",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-6020AA2FE7B9",
+      "disease_id": "DIS-NEUR-008",
+      "field": "explanation",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-21FA78DC1908",
+      "disease_id": "DIS-NEUR-008",
+      "field": "explanation",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-EB173A522F29",
+      "disease_id": "DIS-NEUR-008",
+      "field": "explanation",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-FDD6CAF3DD24",
+      "disease_id": "DIS-NEUR-014",
+      "field": "explanation",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-D3F1EF8EC4D0",
+      "disease_id": "DIS-NEUR-014",
+      "field": "explanation",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-36D4D800787D",
+      "disease_id": "DIS-NEUR-014",
+      "field": "explanation",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-247D8A8FFBC2",
+      "disease_id": "DIS-NEUR-014",
+      "field": "explanation",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-4A985646FAA5",
+      "disease_id": "DIS-NEUR-014",
+      "field": "explanation",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-5FE2A6EAB1B6",
+      "disease_id": "DIS-NEUR-015",
+      "field": "explanation",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-7BBA139734EB",
+      "disease_id": "DIS-NEUR-015",
+      "field": "explanation",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-550E89FA4EA4",
+      "disease_id": "DIS-NEUR-015",
+      "field": "explanation",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-F153F33D9F65",
+      "disease_id": "DIS-NEUR-015",
+      "field": "explanation",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-CA9C80C18D29",
+      "disease_id": "DIS-NEUR-015",
+      "field": "explanation",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-C7A0E91E6263",
+      "disease_id": "DIS-NEUR-018",
+      "field": "explanation",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-5F03058FA6D5",
+      "disease_id": "DIS-NEUR-018",
+      "field": "explanation",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-77E5F768A97A",
+      "disease_id": "DIS-NEUR-018",
+      "field": "explanation",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-3865F8481E9A",
+      "disease_id": "DIS-NEUR-018",
+      "field": "explanation",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-59123CC7C0B5",
+      "disease_id": "DIS-NEUR-018",
+      "field": "explanation",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-51D111C122B5",
+      "disease_id": "DIS-NEUR-023",
+      "field": "explanation",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-2FAE5FB02EBF",
+      "disease_id": "DIS-NEUR-023",
+      "field": "explanation",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-DC754ACA6893",
+      "disease_id": "DIS-NEUR-023",
+      "field": "explanation",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-0CD408492172",
+      "disease_id": "DIS-NEUR-023",
+      "field": "explanation",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-E5E4432C2BD4",
+      "disease_id": "DIS-NEUR-023",
+      "field": "explanation",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-1CBECE4DD7B1",
+      "disease_id": "DIS-NEUR-024",
+      "field": "explanation",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The clue 'Neutrophilic CSF' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-C7C9DDE14F82",
+      "disease_id": "DIS-NEUR-024",
+      "field": "explanation",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The clue 'Low CSF glucose' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-FFEEE63B8345",
+      "disease_id": "DIS-NEUR-024",
+      "field": "explanation",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The clue 'Temporal-lobe hemorrhagic necrosis' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-35A925418B8C",
+      "disease_id": "DIS-NEUR-024",
+      "field": "explanation",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The clue 'Opening pressure' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-0EA93AC322B3",
+      "disease_id": "DIS-NEUR-024",
+      "field": "explanation",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The clue 'Ring-enhancing lesion' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-0812E4D0B594",
+      "disease_id": "DIS-NEUR-030",
+      "field": "explanation",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-9DA573843F99",
+      "disease_id": "DIS-NEUR-030",
+      "field": "explanation",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-E5AB6ED3841A",
+      "disease_id": "DIS-NEUR-030",
+      "field": "explanation",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-3C55F8C1738B",
+      "disease_id": "DIS-NEUR-030",
+      "field": "explanation",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-E545AEC4E86D",
+      "disease_id": "DIS-NEUR-030",
+      "field": "explanation",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-DA1C552C64DC",
+      "disease_id": "DIS-NEUR-031",
+      "field": "explanation",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-B7ED33DEE442",
+      "disease_id": "DIS-NEUR-031",
+      "field": "explanation",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-33DA8C0DDE05",
+      "disease_id": "DIS-NEUR-031",
+      "field": "explanation",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-73506A8D1434",
+      "disease_id": "DIS-NEUR-031",
+      "field": "explanation",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-41FDFC04FA64",
+      "disease_id": "DIS-NEUR-031",
+      "field": "explanation",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-F6C6DF6D4B29",
+      "disease_id": "DIS-NEUR-032",
+      "field": "explanation",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. The clue 'Fluctuating cognition' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-380F03696706",
+      "disease_id": "DIS-NEUR-032",
+      "field": "explanation",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. The clue 'Visual hallucinations' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-63D4CD4409BA",
+      "disease_id": "DIS-NEUR-032",
+      "field": "explanation",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. The clue 'Magnetic gait' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-4F0BB165010B",
+      "disease_id": "DIS-NEUR-032",
+      "field": "explanation",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. The clue 'Urinary incontinence' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-B030F600534F",
+      "disease_id": "DIS-NEUR-032",
+      "field": "explanation",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. The clue 'Wernicke aphasia' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-E49F8889CFA0",
+      "disease_id": "DIS-NEUR-033",
+      "field": "explanation",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. The clue 'Diffusion restriction' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-FA15F7BFE935",
+      "disease_id": "DIS-NEUR-033",
+      "field": "explanation",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. The clue 'Hyperdense MCA sign' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-35C0F1F60B13",
+      "disease_id": "DIS-NEUR-033",
+      "field": "explanation",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. The clue 'Crossed neurologic findings' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-0F98B0DF9885",
+      "disease_id": "DIS-NEUR-033",
+      "field": "explanation",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. The clue 'Pure motor stroke' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
+      "table": "disease_keywords",
+      "id": "DKW-NEUR-9D77FD8E63F0",
+      "disease_id": "DIS-NEUR-033",
+      "field": "explanation",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. The clue 'Lateral medullary syndrome' is retained only when it directly expresses that syndrome-specific pattern."
+    },
+    {
       "table": "disease_diagnostics",
       "id": "DDG-NEUR-3389828215C1",
       "disease_id": "DIS-N-0063",
@@ -6430,6 +7060,1434 @@
       "disease_id": "DIS-N-0069",
       "field": "interpretation",
       "text": "A positive or negative Brain imaging changes the probability of Delirium according to its disease mechanism and timing."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C4E41586266E",
+      "disease_id": "DIS-NEUR-008",
+      "field": "clinical_context",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C4E41586266E",
+      "disease_id": "DIS-NEUR-008",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C4E41586266E",
+      "disease_id": "DIS-NEUR-008",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C4E41586266E",
+      "disease_id": "DIS-NEUR-008",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-455B4C3DAFF5",
+      "disease_id": "DIS-NEUR-008",
+      "field": "clinical_context",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-455B4C3DAFF5",
+      "disease_id": "DIS-NEUR-008",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-455B4C3DAFF5",
+      "disease_id": "DIS-NEUR-008",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-455B4C3DAFF5",
+      "disease_id": "DIS-NEUR-008",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7880EBDC3385",
+      "disease_id": "DIS-NEUR-008",
+      "field": "clinical_context",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7880EBDC3385",
+      "disease_id": "DIS-NEUR-008",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7880EBDC3385",
+      "disease_id": "DIS-NEUR-008",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7880EBDC3385",
+      "disease_id": "DIS-NEUR-008",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-41E2CEA587FE",
+      "disease_id": "DIS-NEUR-008",
+      "field": "clinical_context",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-41E2CEA587FE",
+      "disease_id": "DIS-NEUR-008",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-41E2CEA587FE",
+      "disease_id": "DIS-NEUR-008",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-41E2CEA587FE",
+      "disease_id": "DIS-NEUR-008",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E2A4790CDADB",
+      "disease_id": "DIS-NEUR-008",
+      "field": "clinical_context",
+      "text": "Border-zone infarction follows systemic hypoperfusion and often causes bilateral proximal weakness or cortical border-zone deficits. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E2A4790CDADB",
+      "disease_id": "DIS-NEUR-008",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E2A4790CDADB",
+      "disease_id": "DIS-NEUR-008",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E2A4790CDADB",
+      "disease_id": "DIS-NEUR-008",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7ADEA7219CFE",
+      "disease_id": "DIS-NEUR-014",
+      "field": "clinical_context",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7ADEA7219CFE",
+      "disease_id": "DIS-NEUR-014",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7ADEA7219CFE",
+      "disease_id": "DIS-NEUR-014",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7ADEA7219CFE",
+      "disease_id": "DIS-NEUR-014",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-92ACB9152BE8",
+      "disease_id": "DIS-NEUR-014",
+      "field": "clinical_context",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-92ACB9152BE8",
+      "disease_id": "DIS-NEUR-014",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-92ACB9152BE8",
+      "disease_id": "DIS-NEUR-014",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-92ACB9152BE8",
+      "disease_id": "DIS-NEUR-014",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-2A4353CCAE45",
+      "disease_id": "DIS-NEUR-014",
+      "field": "clinical_context",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-2A4353CCAE45",
+      "disease_id": "DIS-NEUR-014",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-2A4353CCAE45",
+      "disease_id": "DIS-NEUR-014",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-2A4353CCAE45",
+      "disease_id": "DIS-NEUR-014",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D8FA7C60FA7F",
+      "disease_id": "DIS-NEUR-014",
+      "field": "clinical_context",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D8FA7C60FA7F",
+      "disease_id": "DIS-NEUR-014",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D8FA7C60FA7F",
+      "disease_id": "DIS-NEUR-014",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D8FA7C60FA7F",
+      "disease_id": "DIS-NEUR-014",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-090641D0B277",
+      "disease_id": "DIS-NEUR-014",
+      "field": "clinical_context",
+      "text": "A biconvex extra-axial hemorrhage after temporal trauma can follow a lucid interval and deteriorate rapidly from herniation. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-090641D0B277",
+      "disease_id": "DIS-NEUR-014",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-090641D0B277",
+      "disease_id": "DIS-NEUR-014",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-090641D0B277",
+      "disease_id": "DIS-NEUR-014",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8B10E7BAC744",
+      "disease_id": "DIS-NEUR-015",
+      "field": "clinical_context",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8B10E7BAC744",
+      "disease_id": "DIS-NEUR-015",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8B10E7BAC744",
+      "disease_id": "DIS-NEUR-015",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8B10E7BAC744",
+      "disease_id": "DIS-NEUR-015",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-65014BBB32B8",
+      "disease_id": "DIS-NEUR-015",
+      "field": "clinical_context",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-65014BBB32B8",
+      "disease_id": "DIS-NEUR-015",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-65014BBB32B8",
+      "disease_id": "DIS-NEUR-015",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-65014BBB32B8",
+      "disease_id": "DIS-NEUR-015",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7E74DBBCB7DF",
+      "disease_id": "DIS-NEUR-015",
+      "field": "clinical_context",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7E74DBBCB7DF",
+      "disease_id": "DIS-NEUR-015",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7E74DBBCB7DF",
+      "disease_id": "DIS-NEUR-015",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7E74DBBCB7DF",
+      "disease_id": "DIS-NEUR-015",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CF6CDE22B49D",
+      "disease_id": "DIS-NEUR-015",
+      "field": "clinical_context",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CF6CDE22B49D",
+      "disease_id": "DIS-NEUR-015",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CF6CDE22B49D",
+      "disease_id": "DIS-NEUR-015",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CF6CDE22B49D",
+      "disease_id": "DIS-NEUR-015",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-BF3DCC591D77",
+      "disease_id": "DIS-NEUR-015",
+      "field": "clinical_context",
+      "text": "A crescentic collection after tearing of bridging veins causes gradual confusion or focal deficit, especially in older adults or anticoagulated patients. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-BF3DCC591D77",
+      "disease_id": "DIS-NEUR-015",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-BF3DCC591D77",
+      "disease_id": "DIS-NEUR-015",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-BF3DCC591D77",
+      "disease_id": "DIS-NEUR-015",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-A542C620708C",
+      "disease_id": "DIS-NEUR-018",
+      "field": "clinical_context",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-A542C620708C",
+      "disease_id": "DIS-NEUR-018",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-A542C620708C",
+      "disease_id": "DIS-NEUR-018",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-A542C620708C",
+      "disease_id": "DIS-NEUR-018",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-412882FF48B4",
+      "disease_id": "DIS-NEUR-018",
+      "field": "clinical_context",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-412882FF48B4",
+      "disease_id": "DIS-NEUR-018",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-412882FF48B4",
+      "disease_id": "DIS-NEUR-018",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-412882FF48B4",
+      "disease_id": "DIS-NEUR-018",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-626D8734A199",
+      "disease_id": "DIS-NEUR-018",
+      "field": "clinical_context",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-626D8734A199",
+      "disease_id": "DIS-NEUR-018",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-626D8734A199",
+      "disease_id": "DIS-NEUR-018",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-626D8734A199",
+      "disease_id": "DIS-NEUR-018",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-B02AEFB01C79",
+      "disease_id": "DIS-NEUR-018",
+      "field": "clinical_context",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-B02AEFB01C79",
+      "disease_id": "DIS-NEUR-018",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-B02AEFB01C79",
+      "disease_id": "DIS-NEUR-018",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-B02AEFB01C79",
+      "disease_id": "DIS-NEUR-018",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C6DF0B55D4D0",
+      "disease_id": "DIS-NEUR-018",
+      "field": "clinical_context",
+      "text": "Recurrent lobar hemorrhage in an older adult without deep hypertensive distribution supports cerebral amyloid angiopathy. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C6DF0B55D4D0",
+      "disease_id": "DIS-NEUR-018",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C6DF0B55D4D0",
+      "disease_id": "DIS-NEUR-018",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-C6DF0B55D4D0",
+      "disease_id": "DIS-NEUR-018",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-22D302ED0091",
+      "disease_id": "DIS-NEUR-023",
+      "field": "clinical_context",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-22D302ED0091",
+      "disease_id": "DIS-NEUR-023",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-22D302ED0091",
+      "disease_id": "DIS-NEUR-023",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-22D302ED0091",
+      "disease_id": "DIS-NEUR-023",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-24CD9158BE94",
+      "disease_id": "DIS-NEUR-023",
+      "field": "clinical_context",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-24CD9158BE94",
+      "disease_id": "DIS-NEUR-023",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-24CD9158BE94",
+      "disease_id": "DIS-NEUR-023",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-24CD9158BE94",
+      "disease_id": "DIS-NEUR-023",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F71700849D76",
+      "disease_id": "DIS-NEUR-023",
+      "field": "clinical_context",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F71700849D76",
+      "disease_id": "DIS-NEUR-023",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F71700849D76",
+      "disease_id": "DIS-NEUR-023",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F71700849D76",
+      "disease_id": "DIS-NEUR-023",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-4B9B7B9998D3",
+      "disease_id": "DIS-NEUR-023",
+      "field": "clinical_context",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-4B9B7B9998D3",
+      "disease_id": "DIS-NEUR-023",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-4B9B7B9998D3",
+      "disease_id": "DIS-NEUR-023",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-4B9B7B9998D3",
+      "disease_id": "DIS-NEUR-023",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-FB29FA2B4443",
+      "disease_id": "DIS-NEUR-023",
+      "field": "clinical_context",
+      "text": "Recurrent thunderclap headaches over days with segmental arterial narrowing, often postpartum or vasoactive-drug related, support RCVS. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-FB29FA2B4443",
+      "disease_id": "DIS-NEUR-023",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-FB29FA2B4443",
+      "disease_id": "DIS-NEUR-023",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-FB29FA2B4443",
+      "disease_id": "DIS-NEUR-023",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7A57CD27563A",
+      "disease_id": "DIS-NEUR-024",
+      "field": "clinical_context",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. Blood cultures answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7A57CD27563A",
+      "disease_id": "DIS-NEUR-024",
+      "field": "expected_result",
+      "text": "For this disorder, Blood cultures is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7A57CD27563A",
+      "disease_id": "DIS-NEUR-024",
+      "field": "interpretation",
+      "text": "The result of Blood cultures is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7A57CD27563A",
+      "disease_id": "DIS-NEUR-024",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Blood cultures matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-9B8D20E05668",
+      "disease_id": "DIS-NEUR-024",
+      "field": "clinical_context",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. Lumbar puncture with CSF analysis answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-9B8D20E05668",
+      "disease_id": "DIS-NEUR-024",
+      "field": "expected_result",
+      "text": "For this disorder, Lumbar puncture with CSF analysis is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-9B8D20E05668",
+      "disease_id": "DIS-NEUR-024",
+      "field": "interpretation",
+      "text": "The result of Lumbar puncture with CSF analysis is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-9B8D20E05668",
+      "disease_id": "DIS-NEUR-024",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Lumbar puncture with CSF analysis matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-DE6DEAEA9DF7",
+      "disease_id": "DIS-NEUR-024",
+      "field": "clinical_context",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. Brain imaging before LP only for mass-effect risk answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-DE6DEAEA9DF7",
+      "disease_id": "DIS-NEUR-024",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging before LP only for mass-effect risk is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-DE6DEAEA9DF7",
+      "disease_id": "DIS-NEUR-024",
+      "field": "interpretation",
+      "text": "The result of Brain imaging before LP only for mass-effect risk is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-DE6DEAEA9DF7",
+      "disease_id": "DIS-NEUR-024",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging before LP only for mass-effect risk matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7357901B59AF",
+      "disease_id": "DIS-NEUR-024",
+      "field": "clinical_context",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. CSF PCR and microbiology answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7357901B59AF",
+      "disease_id": "DIS-NEUR-024",
+      "field": "expected_result",
+      "text": "For this disorder, CSF PCR and microbiology is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7357901B59AF",
+      "disease_id": "DIS-NEUR-024",
+      "field": "interpretation",
+      "text": "The result of CSF PCR and microbiology is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7357901B59AF",
+      "disease_id": "DIS-NEUR-024",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of CSF PCR and microbiology matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-84303F1BB8FC",
+      "disease_id": "DIS-NEUR-024",
+      "field": "clinical_context",
+      "text": "Acute hypertension, renal disease, eclampsia, or immunosuppression with seizures and posterior vasogenic edema supports PRES. Contrast-enhanced brain MRI answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-84303F1BB8FC",
+      "disease_id": "DIS-NEUR-024",
+      "field": "expected_result",
+      "text": "For this disorder, Contrast-enhanced brain MRI is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-84303F1BB8FC",
+      "disease_id": "DIS-NEUR-024",
+      "field": "interpretation",
+      "text": "The result of Contrast-enhanced brain MRI is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-84303F1BB8FC",
+      "disease_id": "DIS-NEUR-024",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Contrast-enhanced brain MRI matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-978CCFE0712C",
+      "disease_id": "DIS-NEUR-030",
+      "field": "clinical_context",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-978CCFE0712C",
+      "disease_id": "DIS-NEUR-030",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-978CCFE0712C",
+      "disease_id": "DIS-NEUR-030",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-978CCFE0712C",
+      "disease_id": "DIS-NEUR-030",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CFF064A3B48A",
+      "disease_id": "DIS-NEUR-030",
+      "field": "clinical_context",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CFF064A3B48A",
+      "disease_id": "DIS-NEUR-030",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CFF064A3B48A",
+      "disease_id": "DIS-NEUR-030",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-CFF064A3B48A",
+      "disease_id": "DIS-NEUR-030",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F2901A3D3944",
+      "disease_id": "DIS-NEUR-030",
+      "field": "clinical_context",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F2901A3D3944",
+      "disease_id": "DIS-NEUR-030",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F2901A3D3944",
+      "disease_id": "DIS-NEUR-030",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F2901A3D3944",
+      "disease_id": "DIS-NEUR-030",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D26D7F72ECC0",
+      "disease_id": "DIS-NEUR-030",
+      "field": "clinical_context",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D26D7F72ECC0",
+      "disease_id": "DIS-NEUR-030",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D26D7F72ECC0",
+      "disease_id": "DIS-NEUR-030",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-D26D7F72ECC0",
+      "disease_id": "DIS-NEUR-030",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-58E0B547A2BB",
+      "disease_id": "DIS-NEUR-030",
+      "field": "clinical_context",
+      "text": "Ipsilateral facial pain-temperature loss with contralateral body pain-temperature loss, dysphagia, and Horner syndrome localizes laterally in the medulla. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-58E0B547A2BB",
+      "disease_id": "DIS-NEUR-030",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-58E0B547A2BB",
+      "disease_id": "DIS-NEUR-030",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-58E0B547A2BB",
+      "disease_id": "DIS-NEUR-030",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-3CFB0CED7065",
+      "disease_id": "DIS-NEUR-031",
+      "field": "clinical_context",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-3CFB0CED7065",
+      "disease_id": "DIS-NEUR-031",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-3CFB0CED7065",
+      "disease_id": "DIS-NEUR-031",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-3CFB0CED7065",
+      "disease_id": "DIS-NEUR-031",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-169F69B498A0",
+      "disease_id": "DIS-NEUR-031",
+      "field": "clinical_context",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-169F69B498A0",
+      "disease_id": "DIS-NEUR-031",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-169F69B498A0",
+      "disease_id": "DIS-NEUR-031",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-169F69B498A0",
+      "disease_id": "DIS-NEUR-031",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-656F2832F0FB",
+      "disease_id": "DIS-NEUR-031",
+      "field": "clinical_context",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-656F2832F0FB",
+      "disease_id": "DIS-NEUR-031",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-656F2832F0FB",
+      "disease_id": "DIS-NEUR-031",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-656F2832F0FB",
+      "disease_id": "DIS-NEUR-031",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5B159FAE3976",
+      "disease_id": "DIS-NEUR-031",
+      "field": "clinical_context",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5B159FAE3976",
+      "disease_id": "DIS-NEUR-031",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5B159FAE3976",
+      "disease_id": "DIS-NEUR-031",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5B159FAE3976",
+      "disease_id": "DIS-NEUR-031",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8F4C3738EDC9",
+      "disease_id": "DIS-NEUR-031",
+      "field": "clinical_context",
+      "text": "Contralateral weakness and proprioceptive loss with ipsilateral tongue weakness localize to the medial medulla. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8F4C3738EDC9",
+      "disease_id": "DIS-NEUR-031",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8F4C3738EDC9",
+      "disease_id": "DIS-NEUR-031",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-8F4C3738EDC9",
+      "disease_id": "DIS-NEUR-031",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7923FBA0B9A0",
+      "disease_id": "DIS-NEUR-032",
+      "field": "clinical_context",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. Collateral cognitive and functional history answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7923FBA0B9A0",
+      "disease_id": "DIS-NEUR-032",
+      "field": "expected_result",
+      "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7923FBA0B9A0",
+      "disease_id": "DIS-NEUR-032",
+      "field": "interpretation",
+      "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7923FBA0B9A0",
+      "disease_id": "DIS-NEUR-032",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-31080B0B13BE",
+      "disease_id": "DIS-NEUR-032",
+      "field": "clinical_context",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. Medication and delirium-trigger review answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-31080B0B13BE",
+      "disease_id": "DIS-NEUR-032",
+      "field": "expected_result",
+      "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-31080B0B13BE",
+      "disease_id": "DIS-NEUR-032",
+      "field": "interpretation",
+      "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-31080B0B13BE",
+      "disease_id": "DIS-NEUR-032",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-91E4F7FC6F0D",
+      "disease_id": "DIS-NEUR-032",
+      "field": "clinical_context",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. Cognitive testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-91E4F7FC6F0D",
+      "disease_id": "DIS-NEUR-032",
+      "field": "expected_result",
+      "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-91E4F7FC6F0D",
+      "disease_id": "DIS-NEUR-032",
+      "field": "interpretation",
+      "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-91E4F7FC6F0D",
+      "disease_id": "DIS-NEUR-032",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-10D2204DD08E",
+      "disease_id": "DIS-NEUR-032",
+      "field": "clinical_context",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. Brain imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-10D2204DD08E",
+      "disease_id": "DIS-NEUR-032",
+      "field": "expected_result",
+      "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-10D2204DD08E",
+      "disease_id": "DIS-NEUR-032",
+      "field": "interpretation",
+      "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-10D2204DD08E",
+      "disease_id": "DIS-NEUR-032",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5AF148D10887",
+      "disease_id": "DIS-NEUR-032",
+      "field": "clinical_context",
+      "text": "Ventral pontine injury causes quadriplegia and anarthria with preserved consciousness and vertical eye movement. Reversible-cause laboratory testing answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5AF148D10887",
+      "disease_id": "DIS-NEUR-032",
+      "field": "expected_result",
+      "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5AF148D10887",
+      "disease_id": "DIS-NEUR-032",
+      "field": "interpretation",
+      "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-5AF148D10887",
+      "disease_id": "DIS-NEUR-032",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E7B37268D8FE",
+      "disease_id": "DIS-NEUR-033",
+      "field": "clinical_context",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. Point-of-care glucose answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E7B37268D8FE",
+      "disease_id": "DIS-NEUR-033",
+      "field": "expected_result",
+      "text": "For this disorder, Point-of-care glucose is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E7B37268D8FE",
+      "disease_id": "DIS-NEUR-033",
+      "field": "interpretation",
+      "text": "The result of Point-of-care glucose is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-E7B37268D8FE",
+      "disease_id": "DIS-NEUR-033",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Point-of-care glucose matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-97CA557FD87B",
+      "disease_id": "DIS-NEUR-033",
+      "field": "clinical_context",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. Noncontrast head CT answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-97CA557FD87B",
+      "disease_id": "DIS-NEUR-033",
+      "field": "expected_result",
+      "text": "For this disorder, Noncontrast head CT is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-97CA557FD87B",
+      "disease_id": "DIS-NEUR-033",
+      "field": "interpretation",
+      "text": "The result of Noncontrast head CT is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-97CA557FD87B",
+      "disease_id": "DIS-NEUR-033",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Noncontrast head CT matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7BDE934F28B2",
+      "disease_id": "DIS-NEUR-033",
+      "field": "clinical_context",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. CT angiography head and neck answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7BDE934F28B2",
+      "disease_id": "DIS-NEUR-033",
+      "field": "expected_result",
+      "text": "For this disorder, CT angiography head and neck is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7BDE934F28B2",
+      "disease_id": "DIS-NEUR-033",
+      "field": "interpretation",
+      "text": "The result of CT angiography head and neck is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-7BDE934F28B2",
+      "disease_id": "DIS-NEUR-033",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of CT angiography head and neck matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F77AD300C770",
+      "disease_id": "DIS-NEUR-033",
+      "field": "clinical_context",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. MRI brain with diffusion-weighted imaging answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F77AD300C770",
+      "disease_id": "DIS-NEUR-033",
+      "field": "expected_result",
+      "text": "For this disorder, MRI brain with diffusion-weighted imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F77AD300C770",
+      "disease_id": "DIS-NEUR-033",
+      "field": "interpretation",
+      "text": "The result of MRI brain with diffusion-weighted imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-F77AD300C770",
+      "disease_id": "DIS-NEUR-033",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of MRI brain with diffusion-weighted imaging matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-30682D4E04C8",
+      "disease_id": "DIS-NEUR-033",
+      "field": "clinical_context",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. ECG and rhythm monitoring answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-30682D4E04C8",
+      "disease_id": "DIS-NEUR-033",
+      "field": "expected_result",
+      "text": "For this disorder, ECG and rhythm monitoring is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-30682D4E04C8",
+      "disease_id": "DIS-NEUR-033",
+      "field": "interpretation",
+      "text": "The result of ECG and rhythm monitoring is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-30682D4E04C8",
+      "disease_id": "DIS-NEUR-033",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of ECG and rhythm monitoring matter in this disease."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-1BDD3186D19A",
+      "disease_id": "DIS-NEUR-033",
+      "field": "clinical_context",
+      "text": "Isolated contralateral motor weakness without aphasia, neglect, or visual-field loss reflects a lacunar corticospinal lesion. Vascular and cardiac mechanism evaluation answers the explicit diagnostic question for this presentation."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-1BDD3186D19A",
+      "disease_id": "DIS-NEUR-033",
+      "field": "expected_result",
+      "text": "For this disorder, Vascular and cardiac mechanism evaluation is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-1BDD3186D19A",
+      "disease_id": "DIS-NEUR-033",
+      "field": "interpretation",
+      "text": "The result of Vascular and cardiac mechanism evaluation is integrated with the concrete syndrome pattern above, not used as a generic screen."
+    },
+    {
+      "table": "disease_diagnostics",
+      "id": "DDG-NEUR-1BDD3186D19A",
+      "disease_id": "DIS-NEUR-033",
+      "field": "limitations",
+      "text": "Timing and the specific false-negative or nonspecific limitations of Vascular and cardiac mechanism evaluation matter in this disease."
     },
     {
       "table": "disease_diagnostics",
@@ -14676,6 +16734,286 @@
       "disease_id": "DIS-NEUR-DANDYWALKERMALFORMAT",
       "field": "next_test_to_distinguish",
       "text": "Use the manifest-selected diagnostic pathway that separates Dandy-Walker malformation from Tuberous sclerosis safely."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-42102B8BE587",
+      "disease_id": "DIS-NEUR-008",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-4B97B6123EE8",
+      "disease_id": "DIS-NEUR-008",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-98966B049707",
+      "disease_id": "DIS-NEUR-008",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-D08F582FB5EC",
+      "disease_id": "DIS-NEUR-008",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-CF7CA07CD693",
+      "disease_id": "DIS-NEUR-014",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-E6DF0CEEEAF3",
+      "disease_id": "DIS-NEUR-014",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-1BC543578CC4",
+      "disease_id": "DIS-NEUR-014",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-DF990DFDF926",
+      "disease_id": "DIS-NEUR-014",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-BC01E8A56C87",
+      "disease_id": "DIS-NEUR-015",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-2FDB40DD1936",
+      "disease_id": "DIS-NEUR-015",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-3C1976283FB8",
+      "disease_id": "DIS-NEUR-015",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-7B0021400D73",
+      "disease_id": "DIS-NEUR-015",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-665C01639785",
+      "disease_id": "DIS-NEUR-018",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-CEF07853C98A",
+      "disease_id": "DIS-NEUR-018",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-ABC4F2E00A39",
+      "disease_id": "DIS-NEUR-018",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-81800F7543F2",
+      "disease_id": "DIS-NEUR-018",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-1065ABD60CD5",
+      "disease_id": "DIS-NEUR-023",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-AB2AEC8C8B2C",
+      "disease_id": "DIS-NEUR-023",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-4AE3D3A5A807",
+      "disease_id": "DIS-NEUR-023",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-60AF3ABB6C17",
+      "disease_id": "DIS-NEUR-023",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-404774D9D4C3",
+      "disease_id": "DIS-NEUR-024",
+      "field": "warning_findings",
+      "text": "New signs of Seizures require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-DC706ABACFC8",
+      "disease_id": "DIS-NEUR-024",
+      "field": "warning_findings",
+      "text": "New signs of Hydrocephalus require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-FF370C8FBA6B",
+      "disease_id": "DIS-NEUR-024",
+      "field": "warning_findings",
+      "text": "New signs of Cerebral edema require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-387C2FBD5D37",
+      "disease_id": "DIS-NEUR-024",
+      "field": "warning_findings",
+      "text": "New signs of Hearing loss require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-25EF3D388827",
+      "disease_id": "DIS-NEUR-030",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-FA5413D80D56",
+      "disease_id": "DIS-NEUR-030",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-151C9DF0147F",
+      "disease_id": "DIS-NEUR-030",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-88C564C60520",
+      "disease_id": "DIS-NEUR-030",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-93DBADE5C39B",
+      "disease_id": "DIS-NEUR-031",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-4CD49E4F7587",
+      "disease_id": "DIS-NEUR-031",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-C3DA6F567940",
+      "disease_id": "DIS-NEUR-031",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-95A7FECE0EDA",
+      "disease_id": "DIS-NEUR-031",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-0110837B7DB3",
+      "disease_id": "DIS-NEUR-032",
+      "field": "warning_findings",
+      "text": "New signs of Falls require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-890B48C1FB1F",
+      "disease_id": "DIS-NEUR-032",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-613D859D1567",
+      "disease_id": "DIS-NEUR-032",
+      "field": "warning_findings",
+      "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-270E940543A6",
+      "disease_id": "DIS-NEUR-032",
+      "field": "warning_findings",
+      "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-9DF6EA62AE6D",
+      "disease_id": "DIS-NEUR-033",
+      "field": "warning_findings",
+      "text": "New signs of Cerebral edema require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-B2A6FC132A3A",
+      "disease_id": "DIS-NEUR-033",
+      "field": "warning_findings",
+      "text": "New signs of Hemorrhagic transformation require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-ECEA08FAEF27",
+      "disease_id": "DIS-NEUR-033",
+      "field": "warning_findings",
+      "text": "New signs of Aspiration require the disease-specific escalation pathway."
+    },
+    {
+      "table": "disease_complications",
+      "id": "DCP-NEUR-80621D9860C4",
+      "disease_id": "DIS-NEUR-033",
+      "field": "warning_findings",
+      "text": "New signs of Deep venous thrombosis require the disease-specific escalation pathway."
     }
   ],
   "phase4a_generic_relationship_explanations": [],
@@ -14993,6 +17331,288 @@
         "disease_id": "DIS-NEUR-CRANIOPHARYNGIOMA",
         "field": "key_positive_clues",
         "text": "Craniopharyngioma: behavioral change is linked because it is a clinically relevant syndrome anchor."
+      }
+    ],
+    [
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-BC27D5C45471",
+        "disease_id": "DIS-NEUR-008",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-6A374A1C7473",
+        "disease_id": "DIS-NEUR-008",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-A85E225AE234",
+        "disease_id": "DIS-NEUR-008",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-8EA167F06B58",
+        "disease_id": "DIS-NEUR-008",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-3BF3EF18A875",
+        "disease_id": "DIS-NEUR-014",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-A99A97CCE9E7",
+        "disease_id": "DIS-NEUR-014",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-E54745F0D54C",
+        "disease_id": "DIS-NEUR-014",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-135315DD52B3",
+        "disease_id": "DIS-NEUR-014",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-5E14FF4A79AE",
+        "disease_id": "DIS-NEUR-015",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-302C756915B3",
+        "disease_id": "DIS-NEUR-015",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-BE00548283E8",
+        "disease_id": "DIS-NEUR-015",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-132CB0049205",
+        "disease_id": "DIS-NEUR-015",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-F904BCAE1391",
+        "disease_id": "DIS-NEUR-018",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-F5B182AA6204",
+        "disease_id": "DIS-NEUR-018",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-D541C4ED8D30",
+        "disease_id": "DIS-NEUR-018",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-675CE66D8FF1",
+        "disease_id": "DIS-NEUR-018",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-38D61C54830C",
+        "disease_id": "DIS-NEUR-023",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-F0CD6DC614A9",
+        "disease_id": "DIS-NEUR-023",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-DF4C51945F77",
+        "disease_id": "DIS-NEUR-023",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-16F72BEF111B",
+        "disease_id": "DIS-NEUR-023",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-05AC30EDF517",
+        "disease_id": "DIS-NEUR-024",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-F32A0DB3FDBD",
+        "disease_id": "DIS-NEUR-024",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-A64F8712FC61",
+        "disease_id": "DIS-NEUR-024",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-108A43911FD3",
+        "disease_id": "DIS-NEUR-024",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-F6BD0FC4976E",
+        "disease_id": "DIS-NEUR-030",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-4BE54A6BEA14",
+        "disease_id": "DIS-NEUR-030",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-2A40BDA07AD6",
+        "disease_id": "DIS-NEUR-030",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-5F9F16C78745",
+        "disease_id": "DIS-NEUR-030",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-3874A5474B80",
+        "disease_id": "DIS-NEUR-031",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-C21A0238BEDF",
+        "disease_id": "DIS-NEUR-031",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-D98830C54B5F",
+        "disease_id": "DIS-NEUR-031",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-878237888844",
+        "disease_id": "DIS-NEUR-031",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-7F6AD58C5CF0",
+        "disease_id": "DIS-NEUR-032",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-3A6B991F8BF1",
+        "disease_id": "DIS-NEUR-032",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-C6B67CB0DB25",
+        "disease_id": "DIS-NEUR-032",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-5F7F9B8B71DF",
+        "disease_id": "DIS-NEUR-032",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-65BB44A29315",
+        "disease_id": "DIS-NEUR-033",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-92182500D2FB",
+        "disease_id": "DIS-NEUR-033",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-04541B7F8EEA",
+        "disease_id": "DIS-NEUR-033",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+      },
+      {
+        "table": "disease_presentations",
+        "id": "DPR-NEUR-A49798BF1D3A",
+        "disease_id": "DIS-NEUR-033",
+        "field": "key_negative_clues",
+        "text": "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
       }
     ],
     [
@@ -18793,6 +21413,876 @@
         "disease_id": "DIS-NEUR-CRANIOPHARYNGIOMA",
         "field": "interpretation",
         "text": "A positive or negative Brain imaging changes the probability of Craniopharyngioma according to its disease mechanism and timing."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-C4E41586266E",
+        "disease_id": "DIS-NEUR-008",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7ADEA7219CFE",
+        "disease_id": "DIS-NEUR-014",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-8B10E7BAC744",
+        "disease_id": "DIS-NEUR-015",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-A542C620708C",
+        "disease_id": "DIS-NEUR-018",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-22D302ED0091",
+        "disease_id": "DIS-NEUR-023",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-978CCFE0712C",
+        "disease_id": "DIS-NEUR-030",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-3CFB0CED7065",
+        "disease_id": "DIS-NEUR-031",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7923FBA0B9A0",
+        "disease_id": "DIS-NEUR-032",
+        "field": "expected_result",
+        "text": "For this disorder, Collateral cognitive and functional history is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-C4E41586266E",
+        "disease_id": "DIS-NEUR-008",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7ADEA7219CFE",
+        "disease_id": "DIS-NEUR-014",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-8B10E7BAC744",
+        "disease_id": "DIS-NEUR-015",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-A542C620708C",
+        "disease_id": "DIS-NEUR-018",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-22D302ED0091",
+        "disease_id": "DIS-NEUR-023",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-978CCFE0712C",
+        "disease_id": "DIS-NEUR-030",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-3CFB0CED7065",
+        "disease_id": "DIS-NEUR-031",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7923FBA0B9A0",
+        "disease_id": "DIS-NEUR-032",
+        "field": "interpretation",
+        "text": "The result of Collateral cognitive and functional history is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-C4E41586266E",
+        "disease_id": "DIS-NEUR-008",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7ADEA7219CFE",
+        "disease_id": "DIS-NEUR-014",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-8B10E7BAC744",
+        "disease_id": "DIS-NEUR-015",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-A542C620708C",
+        "disease_id": "DIS-NEUR-018",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-22D302ED0091",
+        "disease_id": "DIS-NEUR-023",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-978CCFE0712C",
+        "disease_id": "DIS-NEUR-030",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-3CFB0CED7065",
+        "disease_id": "DIS-NEUR-031",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7923FBA0B9A0",
+        "disease_id": "DIS-NEUR-032",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Collateral cognitive and functional history matter in this disease."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-455B4C3DAFF5",
+        "disease_id": "DIS-NEUR-008",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-92ACB9152BE8",
+        "disease_id": "DIS-NEUR-014",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-65014BBB32B8",
+        "disease_id": "DIS-NEUR-015",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-412882FF48B4",
+        "disease_id": "DIS-NEUR-018",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-24CD9158BE94",
+        "disease_id": "DIS-NEUR-023",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-CFF064A3B48A",
+        "disease_id": "DIS-NEUR-030",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-169F69B498A0",
+        "disease_id": "DIS-NEUR-031",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-31080B0B13BE",
+        "disease_id": "DIS-NEUR-032",
+        "field": "expected_result",
+        "text": "For this disorder, Medication and delirium-trigger review is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-455B4C3DAFF5",
+        "disease_id": "DIS-NEUR-008",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-92ACB9152BE8",
+        "disease_id": "DIS-NEUR-014",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-65014BBB32B8",
+        "disease_id": "DIS-NEUR-015",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-412882FF48B4",
+        "disease_id": "DIS-NEUR-018",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-24CD9158BE94",
+        "disease_id": "DIS-NEUR-023",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-CFF064A3B48A",
+        "disease_id": "DIS-NEUR-030",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-169F69B498A0",
+        "disease_id": "DIS-NEUR-031",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-31080B0B13BE",
+        "disease_id": "DIS-NEUR-032",
+        "field": "interpretation",
+        "text": "The result of Medication and delirium-trigger review is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-455B4C3DAFF5",
+        "disease_id": "DIS-NEUR-008",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-92ACB9152BE8",
+        "disease_id": "DIS-NEUR-014",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-65014BBB32B8",
+        "disease_id": "DIS-NEUR-015",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-412882FF48B4",
+        "disease_id": "DIS-NEUR-018",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-24CD9158BE94",
+        "disease_id": "DIS-NEUR-023",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-CFF064A3B48A",
+        "disease_id": "DIS-NEUR-030",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-169F69B498A0",
+        "disease_id": "DIS-NEUR-031",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-31080B0B13BE",
+        "disease_id": "DIS-NEUR-032",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Medication and delirium-trigger review matter in this disease."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7880EBDC3385",
+        "disease_id": "DIS-NEUR-008",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-2A4353CCAE45",
+        "disease_id": "DIS-NEUR-014",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7E74DBBCB7DF",
+        "disease_id": "DIS-NEUR-015",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-626D8734A199",
+        "disease_id": "DIS-NEUR-018",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-F71700849D76",
+        "disease_id": "DIS-NEUR-023",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-F2901A3D3944",
+        "disease_id": "DIS-NEUR-030",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-656F2832F0FB",
+        "disease_id": "DIS-NEUR-031",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-91E4F7FC6F0D",
+        "disease_id": "DIS-NEUR-032",
+        "field": "expected_result",
+        "text": "For this disorder, Cognitive testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7880EBDC3385",
+        "disease_id": "DIS-NEUR-008",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-2A4353CCAE45",
+        "disease_id": "DIS-NEUR-014",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7E74DBBCB7DF",
+        "disease_id": "DIS-NEUR-015",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-626D8734A199",
+        "disease_id": "DIS-NEUR-018",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-F71700849D76",
+        "disease_id": "DIS-NEUR-023",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-F2901A3D3944",
+        "disease_id": "DIS-NEUR-030",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-656F2832F0FB",
+        "disease_id": "DIS-NEUR-031",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-91E4F7FC6F0D",
+        "disease_id": "DIS-NEUR-032",
+        "field": "interpretation",
+        "text": "The result of Cognitive testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7880EBDC3385",
+        "disease_id": "DIS-NEUR-008",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-2A4353CCAE45",
+        "disease_id": "DIS-NEUR-014",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-7E74DBBCB7DF",
+        "disease_id": "DIS-NEUR-015",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-626D8734A199",
+        "disease_id": "DIS-NEUR-018",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-F71700849D76",
+        "disease_id": "DIS-NEUR-023",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-F2901A3D3944",
+        "disease_id": "DIS-NEUR-030",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-656F2832F0FB",
+        "disease_id": "DIS-NEUR-031",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-91E4F7FC6F0D",
+        "disease_id": "DIS-NEUR-032",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Cognitive testing matter in this disease."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-41E2CEA587FE",
+        "disease_id": "DIS-NEUR-008",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-D8FA7C60FA7F",
+        "disease_id": "DIS-NEUR-014",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-CF6CDE22B49D",
+        "disease_id": "DIS-NEUR-015",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-B02AEFB01C79",
+        "disease_id": "DIS-NEUR-018",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-4B9B7B9998D3",
+        "disease_id": "DIS-NEUR-023",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-D26D7F72ECC0",
+        "disease_id": "DIS-NEUR-030",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-5B159FAE3976",
+        "disease_id": "DIS-NEUR-031",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-10D2204DD08E",
+        "disease_id": "DIS-NEUR-032",
+        "field": "expected_result",
+        "text": "For this disorder, Brain imaging is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-41E2CEA587FE",
+        "disease_id": "DIS-NEUR-008",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-D8FA7C60FA7F",
+        "disease_id": "DIS-NEUR-014",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-CF6CDE22B49D",
+        "disease_id": "DIS-NEUR-015",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-B02AEFB01C79",
+        "disease_id": "DIS-NEUR-018",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-4B9B7B9998D3",
+        "disease_id": "DIS-NEUR-023",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-D26D7F72ECC0",
+        "disease_id": "DIS-NEUR-030",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-5B159FAE3976",
+        "disease_id": "DIS-NEUR-031",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-10D2204DD08E",
+        "disease_id": "DIS-NEUR-032",
+        "field": "interpretation",
+        "text": "The result of Brain imaging is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-41E2CEA587FE",
+        "disease_id": "DIS-NEUR-008",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-D8FA7C60FA7F",
+        "disease_id": "DIS-NEUR-014",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-CF6CDE22B49D",
+        "disease_id": "DIS-NEUR-015",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-B02AEFB01C79",
+        "disease_id": "DIS-NEUR-018",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-4B9B7B9998D3",
+        "disease_id": "DIS-NEUR-023",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-D26D7F72ECC0",
+        "disease_id": "DIS-NEUR-030",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-5B159FAE3976",
+        "disease_id": "DIS-NEUR-031",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-10D2204DD08E",
+        "disease_id": "DIS-NEUR-032",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Brain imaging matter in this disease."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-E2A4790CDADB",
+        "disease_id": "DIS-NEUR-008",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-090641D0B277",
+        "disease_id": "DIS-NEUR-014",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-BF3DCC591D77",
+        "disease_id": "DIS-NEUR-015",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-C6DF0B55D4D0",
+        "disease_id": "DIS-NEUR-018",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-FB29FA2B4443",
+        "disease_id": "DIS-NEUR-023",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-58E0B547A2BB",
+        "disease_id": "DIS-NEUR-030",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-8F4C3738EDC9",
+        "disease_id": "DIS-NEUR-031",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-5AF148D10887",
+        "disease_id": "DIS-NEUR-032",
+        "field": "expected_result",
+        "text": "For this disorder, Reversible-cause laboratory testing is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-E2A4790CDADB",
+        "disease_id": "DIS-NEUR-008",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-090641D0B277",
+        "disease_id": "DIS-NEUR-014",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-BF3DCC591D77",
+        "disease_id": "DIS-NEUR-015",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-C6DF0B55D4D0",
+        "disease_id": "DIS-NEUR-018",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-FB29FA2B4443",
+        "disease_id": "DIS-NEUR-023",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-58E0B547A2BB",
+        "disease_id": "DIS-NEUR-030",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-8F4C3738EDC9",
+        "disease_id": "DIS-NEUR-031",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-5AF148D10887",
+        "disease_id": "DIS-NEUR-032",
+        "field": "interpretation",
+        "text": "The result of Reversible-cause laboratory testing is integrated with the concrete syndrome pattern above, not used as a generic screen."
+      }
+    ],
+    [
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-E2A4790CDADB",
+        "disease_id": "DIS-NEUR-008",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-090641D0B277",
+        "disease_id": "DIS-NEUR-014",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-BF3DCC591D77",
+        "disease_id": "DIS-NEUR-015",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-C6DF0B55D4D0",
+        "disease_id": "DIS-NEUR-018",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-FB29FA2B4443",
+        "disease_id": "DIS-NEUR-023",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-58E0B547A2BB",
+        "disease_id": "DIS-NEUR-030",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-8F4C3738EDC9",
+        "disease_id": "DIS-NEUR-031",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
+      },
+      {
+        "table": "disease_diagnostics",
+        "id": "DDG-NEUR-5AF148D10887",
+        "disease_id": "DIS-NEUR-032",
+        "field": "limitations",
+        "text": "Timing and the specific false-negative or nonspecific limitations of Reversible-cause laboratory testing matter in this disease."
       }
     ],
     [
@@ -23460,6 +26950,273 @@
         "field": "next_test_to_distinguish",
         "text": "Use the manifest-selected diagnostic pathway that separates Dandy-Walker malformation from Tuberous sclerosis safely."
       }
+    ],
+    [
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-42102B8BE587",
+        "disease_id": "DIS-NEUR-008",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-4B97B6123EE8",
+        "disease_id": "DIS-NEUR-008",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-CF7CA07CD693",
+        "disease_id": "DIS-NEUR-014",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-E6DF0CEEEAF3",
+        "disease_id": "DIS-NEUR-014",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-BC01E8A56C87",
+        "disease_id": "DIS-NEUR-015",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-2FDB40DD1936",
+        "disease_id": "DIS-NEUR-015",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-665C01639785",
+        "disease_id": "DIS-NEUR-018",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-CEF07853C98A",
+        "disease_id": "DIS-NEUR-018",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-1065ABD60CD5",
+        "disease_id": "DIS-NEUR-023",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-AB2AEC8C8B2C",
+        "disease_id": "DIS-NEUR-023",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-404774D9D4C3",
+        "disease_id": "DIS-NEUR-024",
+        "field": "warning_findings",
+        "text": "New signs of Seizures require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-DC706ABACFC8",
+        "disease_id": "DIS-NEUR-024",
+        "field": "warning_findings",
+        "text": "New signs of Hydrocephalus require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-25EF3D388827",
+        "disease_id": "DIS-NEUR-030",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-FA5413D80D56",
+        "disease_id": "DIS-NEUR-030",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-93DBADE5C39B",
+        "disease_id": "DIS-NEUR-031",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-4CD49E4F7587",
+        "disease_id": "DIS-NEUR-031",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-0110837B7DB3",
+        "disease_id": "DIS-NEUR-032",
+        "field": "warning_findings",
+        "text": "New signs of Falls require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-890B48C1FB1F",
+        "disease_id": "DIS-NEUR-032",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-ECEA08FAEF27",
+        "disease_id": "DIS-NEUR-033",
+        "field": "warning_findings",
+        "text": "New signs of Aspiration require the disease-specific escalation pathway."
+      }
+    ],
+    [
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-98966B049707",
+        "disease_id": "DIS-NEUR-008",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-1BC543578CC4",
+        "disease_id": "DIS-NEUR-014",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-3C1976283FB8",
+        "disease_id": "DIS-NEUR-015",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-ABC4F2E00A39",
+        "disease_id": "DIS-NEUR-018",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-4AE3D3A5A807",
+        "disease_id": "DIS-NEUR-023",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-151C9DF0147F",
+        "disease_id": "DIS-NEUR-030",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-C3DA6F567940",
+        "disease_id": "DIS-NEUR-031",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-613D859D1567",
+        "disease_id": "DIS-NEUR-032",
+        "field": "warning_findings",
+        "text": "New signs of Caregiver burden require the disease-specific escalation pathway."
+      }
+    ],
+    [
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-D08F582FB5EC",
+        "disease_id": "DIS-NEUR-008",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-DF990DFDF926",
+        "disease_id": "DIS-NEUR-014",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-7B0021400D73",
+        "disease_id": "DIS-NEUR-015",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-81800F7543F2",
+        "disease_id": "DIS-NEUR-018",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-60AF3ABB6C17",
+        "disease_id": "DIS-NEUR-023",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-88C564C60520",
+        "disease_id": "DIS-NEUR-030",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-95A7FECE0EDA",
+        "disease_id": "DIS-NEUR-031",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-270E940543A6",
+        "disease_id": "DIS-NEUR-032",
+        "field": "warning_findings",
+        "text": "New signs of Medication adverse effects require the disease-specific escalation pathway."
+      }
+    ],
+    [
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-FF370C8FBA6B",
+        "disease_id": "DIS-NEUR-024",
+        "field": "warning_findings",
+        "text": "New signs of Cerebral edema require the disease-specific escalation pathway."
+      },
+      {
+        "table": "disease_complications",
+        "id": "DCP-NEUR-9DF6EA62AE6D",
+        "disease_id": "DIS-NEUR-033",
+        "field": "warning_findings",
+        "text": "New signs of Cerebral edema require the disease-specific escalation pathway."
+      }
     ]
   ],
   "differentials_without_explicit_clues": [],
@@ -23648,7 +27405,7 @@
     "manifest_disease_count": 176,
     "neurology_disease_count": 176,
     "algorithm_count": 30,
-    "relationship_template_hits": 2096,
+    "relationship_template_hits": 2430,
     "phase4a_relationship_template_hits": 0,
     "algorithm_defect_count": 0
   }

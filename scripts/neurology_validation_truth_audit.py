@@ -28,6 +28,15 @@ GENERIC = (
     "changes the probability of",
     "explicit contingency",
     "unsafe branch—do not delay",
+    "the competing diagnoses are separated by the concrete positive and negative clues",
+    "answers the explicit diagnostic question for this presentation",
+    "integrated with the concrete syndrome pattern",
+    "timing and the specific false-negative or nonspecific limitations",
+    "the anatomic, vascular, electrographic, or metabolic result described by the illness script",
+    "curated as a distinct cerebrovascular or epilepsy entity rather than a parent syndrome",
+    "retained only when it directly expresses that syndrome-specific pattern",
+    "concrete positive and negative clues",
+    "disease-specific escalation pathway",
 )
 REQUIRED = {
     "disease_id",

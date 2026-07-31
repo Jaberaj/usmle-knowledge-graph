@@ -84,7 +84,7 @@ def main() -> None:
     targets = {
         row["disease_id"]: FACTS.get(
             row["canonical_name"],
-            f"The illness script for {row['canonical_name']} is curated as a distinct cerebrovascular or epilepsy entity rather than a parent syndrome.",
+            f"{row['canonical_name']} has its own mechanism, time course, and localizing pattern in the Phase 4A curation.",
         )
         for row in diseases
         if row["canonical_name"] in phase4a_names
@@ -124,14 +124,16 @@ def main() -> None:
                 continue
             fact, label = targets[row[idfield]], labels[row[entity_field]]
             row["source_status"] = "unverified_ai_generated"
+            if "source_review_status" in row:
+                row["source_review_status"] = "draft_ai_generated"
             if filename == "disease_presentations":
                 row["key_positive_clues"] = presentation_hints.get(label, fact)
                 row["key_negative_clues"] = (
-                    "The competing diagnoses are separated by the concrete positive and negative clues in the explicit comparison."
+                    f"For {label}, absence of the characteristic pattern described here requires active evaluation of the documented alternatives."
                 )
             elif filename == "disease_keywords":
                 row["explanation"] = (
-                    f"{fact} The clue '{label}' is retained only when it directly expresses that syndrome-specific pattern."
+                    f"{fact} In this record, '{label}' is used for the stated clinical association and not as a parent-syndrome label."
                 )
             elif filename == "disease_findings":
                 row["clinical_meaning"] = (
@@ -142,16 +144,14 @@ def main() -> None:
                 )
             elif filename == "disease_diagnostics":
                 row["clinical_context"] = (
-                    f"{fact} {label} answers the explicit diagnostic question for this presentation."
+                    f"{fact} {label} is used at the clinically appropriate stage of this presentation."
                 )
                 row["expected_result"] = (
-                    f"For this disorder, {label} is evaluated for the anatomic, vascular, electrographic, or metabolic result described by the illness script."
+                    f"{label} supplies the result that confirms, excludes, or characterizes the specific pathology described for this disease."
                 )
-                row["interpretation"] = (
-                    f"The result of {label} is integrated with the concrete syndrome pattern above, not used as a generic screen."
-                )
+                row["interpretation"] = fact
                 row["limitations"] = (
-                    f"Timing and the specific false-negative or nonspecific limitations of {label} matter in this disease."
+                    f"Availability, timing, and technical quality limit {label}; the limitation is considered before delaying the urgent care named in this record."
                 )
             elif filename == "disease_treatments":
                 row["clinical_context"] = (
@@ -165,7 +165,7 @@ def main() -> None:
                     f"{fact} Risk of {label} depends on the documented disease severity and mechanism."
                 )
                 row["warning_findings"] = (
-                    f"New signs of {label} require the disease-specific escalation pathway."
+                    f"New signs of {label} during this illness require urgent reassessment because {fact}"
                 )
         write(path, fields, rows)
     dh, differentials = read(REL / "disease_differentials.csv")
@@ -186,6 +186,7 @@ def main() -> None:
                 "next_test_to_distinguish": "Choose immediate glucose and brain imaging for stroke-like deficit; EEG for a seizure-like event; or venous imaging for suspected CVST.",
                 "exam_context": "explicit Phase-4A comparison",
                 "source_status": "unverified_ai_generated",
+                "source_review_status": "draft_ai_generated",
             }
         )
     write(REL / "disease_differentials.csv", dh, differentials)
@@ -216,6 +217,8 @@ def main() -> None:
         "Morning myoclonus": "Myoclonic jerks shortly after awakening are a classic juvenile myoclonic epilepsy clue.",
         "Slow spike-and-wave": "Slow generalized spike-and-wave with drop attacks supports Lennox-Gastaut syndrome.",
         "Prolonged febrile seizures in infancy": "Prolonged recurrent fever-associated seizures beginning in infancy are a high-yield Dravet syndrome clue.",
+        "Transient negative focal deficit": "A transient negative focal deficit that has resolved by examination is the defining TIA clinical clue.",
+        "Recurrent unprovoked seizures": "Recurrent unprovoked seizures define epilepsy rather than an isolated provoked event.",
     }
     for index, (clue, meaning) in enumerate(additions.items(), 1):
         if clue in keyword_ids:
@@ -236,9 +239,71 @@ def main() -> None:
             }
         )
     write(SOURCE / "keywords.csv", kh, keywords)
-    fids = {row["name"]: row["finding_id"] for row in read(SOURCE / "findings.csv")[1]}
+    fh, findings = read(SOURCE / "findings.csv")
+    for finding in findings:
+        if finding["finding_id"].startswith("FND-NEUR-P4A-"):
+            finding["source_status"] = "unverified_ai_generated"
+            finding["human_review_status"] = "not_requested"
+    fids = {row["name"]: row["finding_id"] for row in findings}
+    # Each high-priority record has an owned, discriminating finding.  These are
+    # deliberately named observations, not a shared "seizure" or "stroke" filler.
+    finding_additions = {
+        "Leg-predominant weakness": "Contralateral leg-predominant weakness localizes to ACA territory.",
+        "Bilateral motor loss below the lesion": "Abrupt bilateral weakness below a spinal level supports anterior spinal cord ischemia.",
+        "Sudden loss of postural tone": "Abrupt loss of tone producing a head drop or fall is an atonic seizure clue.",
+        "Quadriparesis with preserved consciousness": "Quadriparesis with preserved awareness and vertical eye movements suggests ventral pontine injury.",
+        "Multiterritory cortical infarcts": "Infarcts in more than one arterial territory support an embolic source.",
+        "Partial Horner syndrome": "Ipsilateral ptosis and miosis without anhidrosis support carotid dissection.",
+        "Carotid bruit": "A carotid bruit supports turbulent flow from carotid stenosis but does not establish its severity.",
+        "Limb ataxia": "Limb dysmetria and gait ataxia support cerebellar involvement.",
+        "No identified stroke mechanism after standard evaluation": "Cryptogenic stroke remains after a standard vascular, cardiac, and rhythm evaluation is unrevealing.",
+        "Prolonged febrile seizures in infancy": "Prolonged recurrent fever-associated seizures beginning in infancy are a high-yield Dravet syndrome clue.",
+        "Fever-associated generalized convulsion": "A generalized convulsion with fever in the appropriate age range supports febrile seizure after CNS infection is considered.",
+        "Unprovoked seizure": "An unprovoked event is distinguished from acute symptomatic seizure by evaluation for immediate provoking causes.",
+        "Preserved awareness during focal event": "Preserved awareness during a stereotyped focal motor, sensory, autonomic, or psychic event supports focal aware seizure.",
+        "Focal onset before bilateral convulsions": "An aura or unilateral focal onset before bilateral convulsions supports focal-to-bilateral tonic-clonic seizure.",
+        "Deep basal ganglia hemorrhage": "Deep hemorrhage in basal ganglia, thalamus, pons, or cerebellum supports chronic hypertensive arteriopathy.",
+        "Intracerebral blood": "Acute hyperdense blood within brain parenchyma establishes intracerebral hemorrhage on noncontrast CT.",
+        "Intraventricular blood": "Hyperdense blood within the ventricular system indicates intraventricular hemorrhage or extension.",
+        "Morning myoclonic jerks": "Brief bilateral myoclonic jerks shortly after awakening support juvenile myoclonic epilepsy.",
+        "Pure motor stroke": "Isolated contralateral weakness without cortical signs supports a pure motor lacunar syndrome.",
+        "Slow spike-and-wave": "Slow generalized spike-and-wave with multiple seizure types supports Lennox-Gastaut syndrome.",
+        "Brief shock-like jerks": "Sudden brief shock-like movements without a prolonged postictal state support myoclonic seizure.",
+        "Eyes closed during event": "Persistently closed eyes during a variable prolonged event favors psychogenic nonepileptic seizures over convulsive epilepsy.",
+        "Failure to recover between seizures": "Failure to regain baseline consciousness between seizures defines an emergency status pattern.",
+        "Transient focal neurologic deficit": "A resolved negative focal neurologic deficit is the defining clinical event of transient ischemic attack.",
+        "Stepwise cognitive decline": "Stepwise loss of cognition with focal deficits supports vascular dementia.",
+        "Occipital neck pain after cervical trauma": "Occipital neck pain after minor cervical trauma supports vertebral artery dissection.",
+        "Puff-of-smoke collaterals": "Fragile basal collateral vessels on angiography support moyamoya disease.",
+        "Automatisms with impaired awareness": "Behavioral arrest with impaired awareness and oral or manual automatisms supports focal impaired-awareness seizure.",
+        "Deja vu aura": "A stereotyped déjà vu aura supports mesial temporal focal seizure onset.",
+    }
+    for index, (name, meaning) in enumerate(finding_additions.items(), 1):
+        if name in fids:
+            continue
+        ident = f"FND-NEUR-P4A-{index:03d}"
+        fids[name] = ident
+        findings.append(
+            {key: "" for key in fh}
+            | {
+                "finding_id": ident,
+                "name": name,
+                "clinical_meaning": meaning,
+                "source_status": "unverified_ai_generated",
+                "human_review_status": "not_requested",
+                "deprecated": "false",
+                "notes": "Explicit Phase-4A vascular or epilepsy finding.",
+            }
+        )
+    write(SOURCE / "findings.csv", fh, findings)
     dkh, keyword_links = read(REL / "disease_keywords.csv")
     dfh, finding_links = read(REL / "disease_findings.csv")
+    keyword_links = [
+        row for row in keyword_links if not row["disease_keyword_id"].startswith("DKW-P4A-")
+    ]
+    finding_links = [
+        row for row in finding_links if not row["disease_finding_id"].startswith("DNF-P4A-")
+    ]
     generic_id = seizure_ids.get("Seizure disorder")
     seizure_clue_ids = {
         seizure_ids[name]
@@ -287,6 +352,43 @@ def main() -> None:
         "Epidural hematoma": {"Epidural biconvex collection", "Anisocoria"},
         "Subdural hematoma": {"Crescentic subdural collection", "Midline shift"},
     }
+    priority_findings = {
+        "Anterior cerebral artery syndrome": "Leg-predominant weakness",
+        "Anterior spinal artery syndrome": "Bilateral motor loss below the lesion",
+        "Atonic seizure": "Sudden loss of postural tone",
+        "Basilar artery syndrome": "Quadriparesis with preserved consciousness",
+        "Cardioembolic stroke": "Multiterritory cortical infarcts",
+        "Carotid artery dissection": "Partial Horner syndrome",
+        "Carotid artery stenosis": "Carotid bruit",
+        "Cerebellar stroke": "Limb ataxia",
+        "Cryptogenic stroke": "No identified stroke mechanism after standard evaluation",
+        "Dravet syndrome": "Prolonged febrile seizures in infancy",
+        "Febrile seizure": "Fever-associated generalized convulsion",
+        "First unprovoked seizure": "Unprovoked seizure",
+        "Focal aware seizure": "Preserved awareness during focal event",
+        "Focal impaired-awareness seizure": "Automatisms with impaired awareness",
+        "Focal to bilateral tonic-clonic seizure": "Focal onset before bilateral convulsions",
+        "Generalized tonic-clonic seizure": "Lateral tongue biting",
+        "Hypertensive cerebral hemorrhage": "Deep basal ganglia hemorrhage",
+        "Intracerebral hemorrhage": "Intracerebral blood",
+        "Intraventricular hemorrhage": "Intraventricular blood",
+        "Juvenile myoclonic epilepsy": "Morning myoclonic jerks",
+        "Lacunar stroke": "Pure motor stroke",
+        "Large-vessel occlusion stroke": "Hyperdense MCA sign",
+        "Lennox-Gastaut syndrome": "Slow spike-and-wave",
+        "Middle cerebral artery syndrome": "Aphasia",
+        "Moyamoya disease": "Puff-of-smoke collaterals",
+        "Myoclonic seizure": "Brief shock-like jerks",
+        "Nonconvulsive status epilepticus": "Altered mental status",
+        "Posterior cerebral artery syndrome": "Visual field deficit",
+        "Psychogenic nonepileptic seizures": "Eyes closed during event",
+        "Seizure disorder": "Seizure",
+        "Status epilepticus": "Failure to recover between seizures",
+        "Temporal-lobe epilepsy": "Deja vu aura",
+        "Transient ischemic attack": "Transient focal neurologic deficit",
+        "Vascular dementia": "Stepwise cognitive decline",
+        "Vertebral artery dissection": "Occipital neck pain after cervical trauma",
+    }
     for disease, clues in vascular_findings.items():
         for clue in clues:
             if disease not in seizure_ids or clue not in fids:
@@ -307,6 +409,28 @@ def main() -> None:
                     "source_status": "unverified_ai_generated",
                 }
             )
+    for disease, clue in priority_findings.items():
+        if disease not in seizure_ids or clue not in fids:
+            continue
+        if any(row["disease_id"] == seizure_ids[disease] for row in finding_links):
+            continue
+        finding_links.append(
+            {key: "" for key in dfh}
+            | {
+                "disease_finding_id": f"DNF-P4A-{seizure_ids[disease]}-{fids[clue]}",
+                "disease_id": seizure_ids[disease],
+                "finding_id": fids[clue],
+                "presence": "present",
+                "typicality": "classic",
+                "clinical_meaning": FACTS.get(disease, finding_additions.get(clue, clue)),
+                "distinguishing_value": f"{clue} is an owned discriminating finding for {disease}.",
+                "commonly_tested": "true",
+                "step_levels": "Step 1; Step 2 CK; Step 3",
+                "subject_exams": "Neurology; Emergency Medicine",
+                "source_status": "unverified_ai_generated",
+                "source_review_status": "draft_ai_generated",
+            }
+        )
     keyword_links = [
         row
         for row in keyword_links
@@ -315,7 +439,25 @@ def main() -> None:
             and row["keyword_id"] in {keyword_ids.get(clue) for clue in special_clues}
         )
     ]
+    tia_id = seizure_ids.get("Transient ischemic attack")
+    inappropriate_tia_keywords = {
+        keyword_ids.get(clue)
+        for clue in (
+            "Diffusion restriction",
+            "Hyperdense MCA sign",
+            "Crossed neurologic findings",
+            "Pure motor stroke",
+            "Lateral medullary syndrome",
+        )
+    }
+    keyword_links = [
+        row
+        for row in keyword_links
+        if not (row["disease_id"] == tia_id and row["keyword_id"] in inappropriate_tia_keywords)
+    ]
     ownership = {
+        "Seizure disorder": "Recurrent unprovoked seizures",
+        "Transient ischemic attack": "Transient negative focal deficit",
         "Childhood absence epilepsy": "Three-hertz spike-and-wave",
         "Absence seizure": "Three-hertz spike-and-wave",
         "Infantile spasms": "Hypsarrhythmia",
@@ -344,6 +486,26 @@ def main() -> None:
         )
     write(REL / "disease_findings.csv", dfh, finding_links)
     write(REL / "disease_keywords.csv", dkh, keyword_links)
+    # Shared compatibility rule: unverified generated records never retain the
+    # legacy source-checked marker, including records outside this content scope.
+    for filename in (
+        "disease_presentations",
+        "disease_findings",
+        "disease_keywords",
+        "disease_diagnostics",
+        "disease_treatments",
+        "disease_differentials",
+        "disease_complications",
+    ):
+        path = REL / f"{filename}.csv"
+        fields, rows = read(path)
+        for row in rows:
+            if (
+                row.get("source_status") == "unverified_ai_generated"
+                and row.get("source_review_status") == "source_checked"
+            ):
+                row["source_review_status"] = "draft_ai_generated"
+        write(path, fields, rows)
     # Give all shared algorithms meaningful divergent false paths and remove the
     # ordinal padding introduced in Phase 3.
     sh, steps = read(REL / "algorithm_steps.csv")

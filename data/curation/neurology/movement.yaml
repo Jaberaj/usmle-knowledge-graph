@@ -205,7 +205,7 @@
       disease_id: DIS-N-0066
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Parkinson disease
         when its specific clinical question is present.
@@ -232,7 +232,7 @@
       disease_id: DIS-N-0066
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Parkinson
         disease when its specific clinical question is present.
@@ -260,7 +260,7 @@
       disease_id: DIS-N-0066
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Parkinson
         disease when its specific clinical question is present.
@@ -288,7 +288,7 @@
       disease_id: DIS-N-0066
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Parkinson disease when its specific clinical question is present.
@@ -330,7 +330,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Parkinson disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -368,7 +368,7 @@
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Parkinson
         disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -405,7 +405,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Parkinson disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -443,7 +443,7 @@
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Parkinson
         disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -520,7 +520,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -744,7 +744,7 @@
       disease_id: DIS-NEUR-084
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Drug-induced parkinsonism
         when its specific clinical question is present.
@@ -772,7 +772,7 @@
       disease_id: DIS-NEUR-084
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Drug-induced
         parkinsonism when its specific clinical question is present.
@@ -800,7 +800,7 @@
       disease_id: DIS-NEUR-084
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Drug-induced
         parkinsonism when its specific clinical question is present.
@@ -828,7 +828,7 @@
       disease_id: DIS-NEUR-084
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Drug-induced parkinsonism when its specific clinical question is present.
@@ -871,7 +871,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Drug-induced parkinsonism.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -909,7 +909,7 @@
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Drug-induced
         parkinsonism.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -946,7 +946,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Drug-induced parkinsonism.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -984,7 +984,7 @@
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Drug-induced
         parkinsonism.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1061,7 +1061,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -1285,7 +1285,7 @@
       disease_id: DIS-NEUR-087
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Essential tremor
         when its specific clinical question is present.
@@ -1312,7 +1312,7 @@
       disease_id: DIS-NEUR-087
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Essential
         tremor when its specific clinical question is present.
@@ -1340,7 +1340,7 @@
       disease_id: DIS-NEUR-087
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Essential
         tremor when its specific clinical question is present.
@@ -1368,7 +1368,7 @@
       disease_id: DIS-NEUR-087
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Essential tremor when its specific clinical question is present.
@@ -1410,7 +1410,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Essential tremor.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1448,7 +1448,7 @@
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Essential
         tremor.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1485,7 +1485,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Essential tremor.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1523,7 +1523,7 @@
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Essential
         tremor.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1600,7 +1600,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -1824,7 +1824,7 @@
       disease_id: DIS-NEUR-088
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Huntington disease
         when its specific clinical question is present.
@@ -1851,7 +1851,7 @@
       disease_id: DIS-NEUR-088
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Huntington
         disease when its specific clinical question is present.
@@ -1879,7 +1879,7 @@
       disease_id: DIS-NEUR-088
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Huntington
         disease when its specific clinical question is present.
@@ -1907,7 +1907,7 @@
       disease_id: DIS-NEUR-088
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Huntington disease when its specific clinical question is present.
@@ -1950,7 +1950,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Huntington disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1988,7 +1988,7 @@
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Huntington
         disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2025,7 +2025,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Huntington disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2063,7 +2063,7 @@
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Huntington
         disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2140,7 +2140,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -2364,7 +2364,7 @@
       disease_id: DIS-NEUR-089
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Wilson disease
         when its specific clinical question is present.
@@ -2391,7 +2391,7 @@
       disease_id: DIS-NEUR-089
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Wilson
         disease when its specific clinical question is present.
@@ -2419,7 +2419,7 @@
       disease_id: DIS-NEUR-089
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Wilson disease
         when its specific clinical question is present.
@@ -2446,7 +2446,7 @@
       disease_id: DIS-NEUR-089
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Wilson disease when its specific clinical question is present.
@@ -2488,7 +2488,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Wilson disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2525,7 +2525,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Wilson disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2562,7 +2562,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Wilson disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2599,7 +2599,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Wilson disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2676,7 +2676,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -2900,7 +2900,7 @@
       disease_id: DIS-NEUR-090
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Tourette disorder
         when its specific clinical question is present.
@@ -2927,7 +2927,7 @@
       disease_id: DIS-NEUR-090
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Tourette
         disorder when its specific clinical question is present.
@@ -2955,7 +2955,7 @@
       disease_id: DIS-NEUR-090
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Tourette disorder
         when its specific clinical question is present.
@@ -2983,7 +2983,7 @@
       disease_id: DIS-NEUR-090
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Tourette disorder when its specific clinical question is present.
@@ -3025,7 +3025,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Tourette disorder.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3063,7 +3063,7 @@
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Tourette
         disorder.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3100,7 +3100,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Tourette disorder.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3138,7 +3138,7 @@
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Tourette
         disorder.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3215,7 +3215,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -3439,7 +3439,7 @@
       disease_id: DIS-NEUR-091
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Tardive dyskinesia
         when its specific clinical question is present.
@@ -3466,7 +3466,7 @@
       disease_id: DIS-NEUR-091
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Tardive
         dyskinesia when its specific clinical question is present.
@@ -3494,7 +3494,7 @@
       disease_id: DIS-NEUR-091
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Tardive dyskinesia
         when its specific clinical question is present.
@@ -3522,7 +3522,7 @@
       disease_id: DIS-NEUR-091
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Tardive dyskinesia when its specific clinical question is present.
@@ -3565,7 +3565,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Tardive dyskinesia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3602,7 +3602,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Tardive dyskinesia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3639,7 +3639,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Tardive dyskinesia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3676,7 +3676,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Tardive dyskinesia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3753,7 +3753,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -3977,7 +3977,7 @@
       disease_id: DIS-NEUR-092
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Acute dystonia
         when its specific clinical question is present.
@@ -4004,7 +4004,7 @@
       disease_id: DIS-NEUR-092
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Acute
         dystonia when its specific clinical question is present.
@@ -4032,7 +4032,7 @@
       disease_id: DIS-NEUR-092
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Acute dystonia
         when its specific clinical question is present.
@@ -4059,7 +4059,7 @@
       disease_id: DIS-NEUR-092
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Acute dystonia when its specific clinical question is present.
@@ -4101,7 +4101,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Acute dystonia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4138,7 +4138,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Acute dystonia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4175,7 +4175,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Acute dystonia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4212,7 +4212,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Acute dystonia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4289,7 +4289,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -4513,7 +4513,7 @@
       disease_id: DIS-NEUR-093
       diagnostic_id: DIA-NEUR-F285CA9B1474
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication exposure review is obtained for Akathisia when
         its specific clinical question is present.
@@ -4540,7 +4540,7 @@
       disease_id: DIS-NEUR-093
       diagnostic_id: DIA-NEUR-3DF55731C6C7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused movement-disorder examination is obtained for Akathisia
         when its specific clinical question is present.
@@ -4568,7 +4568,7 @@
       disease_id: DIS-NEUR-093
       diagnostic_id: DIA-NEUR-A7836AEADC4A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI for atypical features is obtained for Akathisia
         when its specific clinical question is present.
@@ -4595,7 +4595,7 @@
       disease_id: DIS-NEUR-093
       diagnostic_id: DIA-NEUR-41C70ED5EC55
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic or genetic testing when indicated is obtained for
         Akathisia when its specific clinical question is present.
@@ -4637,7 +4637,7 @@
       board_exam_pearl: Remove or modify causative dopamine-blocking medication is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Akathisia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4674,7 +4674,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Dopaminergic or symptom-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Akathisia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4711,7 +4711,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Fall and aspiration risk reduction is distinguished from stabilization,
         rescue, prevention, and disposition steps in Akathisia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4748,7 +4748,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Physical, occupational, and speech therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Akathisia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4824,7 +4824,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -5048,7 +5048,7 @@
       disease_id: DIS-NEUR-095
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Serotonin syndrome when its specific clinical question is present.
@@ -5077,7 +5077,7 @@
       disease_id: DIS-NEUR-095
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Serotonin
         syndrome when its specific clinical question is present.
@@ -5106,7 +5106,7 @@
       disease_id: DIS-NEUR-095
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Serotonin syndrome when
         its specific clinical question is present.
@@ -5133,7 +5133,7 @@
       disease_id: DIS-NEUR-095
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Serotonin syndrome when its
         specific clinical question is present.
@@ -5173,7 +5173,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Serotonin syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5211,7 +5211,7 @@
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Serotonin
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5249,7 +5249,7 @@
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Serotonin
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5286,7 +5286,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Serotonin syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5363,7 +5363,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5396,7 +5396,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5429,7 +5429,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5462,7 +5462,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5495,7 +5495,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5528,7 +5528,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5561,7 +5561,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5786,7 +5786,7 @@
       disease_id: DIS-NEUR-112
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Malignant
         hyperthermia when its specific clinical question is present.
@@ -5814,7 +5814,7 @@
       disease_id: DIS-NEUR-112
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for Malignant
         hyperthermia when its specific clinical question is present.
@@ -5843,7 +5843,7 @@
       disease_id: DIS-NEUR-112
       diagnostic_id: DIA-NEUR-F939D0EECC19
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autoantibody testing is obtained for Malignant hyperthermia
         when its specific clinical question is present.
@@ -5870,7 +5870,7 @@
       disease_id: DIS-NEUR-112
       diagnostic_id: DIA-NEUR-76103F7093DB
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Creatine kinase is obtained for Malignant hyperthermia when
         its specific clinical question is present.
@@ -5910,7 +5910,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Airway and respiratory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in Malignant hyperthermia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5947,7 +5947,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: IVIG or plasma exchange when indicated is distinguished from
         stabilization, rescue, prevention, and disposition steps in Malignant hyperthermia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5984,7 +5984,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mechanism-specific immunotherapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in Malignant hyperthermia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6021,7 +6021,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in Malignant hyperthermia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6098,7 +6098,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6131,7 +6131,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6164,7 +6164,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6197,7 +6197,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible

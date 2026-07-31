@@ -205,7 +205,7 @@
       disease_id: DIS-NEUR-099
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Normal-pressure hydrocephalus when its specific clinical question is present.
@@ -234,7 +234,7 @@
       disease_id: DIS-NEUR-099
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Normal-pressure
         hydrocephalus when its specific clinical question is present.
@@ -263,7 +263,7 @@
       disease_id: DIS-NEUR-099
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Normal-pressure hydrocephalus
         when its specific clinical question is present.
@@ -290,7 +290,7 @@
       disease_id: DIS-NEUR-099
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Normal-pressure hydrocephalus
         when its specific clinical question is present.
@@ -331,7 +331,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Normal-pressure hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -369,7 +369,7 @@
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Normal-pressure
         hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -407,7 +407,7 @@
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Normal-pressure
         hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -444,7 +444,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Normal-pressure hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -521,7 +521,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -554,7 +554,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -588,7 +588,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -623,7 +623,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -658,7 +658,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -693,7 +693,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -917,7 +917,7 @@
       disease_id: DIS-NEUR-130
       diagnostic_id: DIA-NEUR-A685E95FF812
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: MRI brain with contrast is obtained for Oligodendroglioma
         when its specific clinical question is present.
@@ -944,7 +944,7 @@
       disease_id: DIS-NEUR-130
       diagnostic_id: DIA-NEUR-ABAF3464D3B1
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical tissue diagnosis is obtained for Oligodendroglioma
         when its specific clinical question is present.
@@ -972,7 +972,7 @@
       disease_id: DIS-NEUR-130
       diagnostic_id: DIA-NEUR-7D84631CB320
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Systemic malignancy evaluation is obtained for Oligodendroglioma
         when its specific clinical question is present.
@@ -1000,7 +1000,7 @@
       disease_id: DIS-NEUR-130
       diagnostic_id: DIA-NEUR-B1279B24F885
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Endocrine testing for sellar lesions is obtained for Oligodendroglioma
         when its specific clinical question is present.
@@ -1042,7 +1042,7 @@
       board_exam_pearl: Corticosteroids for symptomatic vasogenic edema when appropriate
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Oligodendroglioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1079,7 +1079,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Neurosurgical consultation and resection planning is distinguished
         from stabilization, rescue, prevention, and disposition steps in Oligodendroglioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1116,7 +1116,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Radiation or systemic oncologic therapy is distinguished from
         stabilization, rescue, prevention, and disposition steps in Oligodendroglioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1153,7 +1153,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment when clinically indicated is distinguished
         from stabilization, rescue, prevention, and disposition steps in Oligodendroglioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1230,7 +1230,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1263,7 +1263,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1296,7 +1296,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1330,7 +1330,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1363,7 +1363,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1396,7 +1396,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1429,7 +1429,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1638,7 +1638,7 @@
       disease_id: DIS-NEUR-132
       diagnostic_id: DIA-NEUR-A685E95FF812
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: MRI brain with contrast is obtained for Vestibular schwannoma
         when its specific clinical question is present.
@@ -1665,7 +1665,7 @@
       disease_id: DIS-NEUR-132
       diagnostic_id: DIA-NEUR-ABAF3464D3B1
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical tissue diagnosis is obtained for Vestibular
         schwannoma when its specific clinical question is present.
@@ -1693,7 +1693,7 @@
       disease_id: DIS-NEUR-132
       diagnostic_id: DIA-NEUR-7D84631CB320
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Systemic malignancy evaluation is obtained for Vestibular
         schwannoma when its specific clinical question is present.
@@ -1721,7 +1721,7 @@
       disease_id: DIS-NEUR-132
       diagnostic_id: DIA-NEUR-B1279B24F885
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Endocrine testing for sellar lesions is obtained for Vestibular
         schwannoma when its specific clinical question is present.
@@ -1764,7 +1764,7 @@
       board_exam_pearl: Corticosteroids for symptomatic vasogenic edema when appropriate
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Vestibular schwannoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1802,7 +1802,7 @@
       board_exam_pearl: Neurosurgical consultation and resection planning is distinguished
         from stabilization, rescue, prevention, and disposition steps in Vestibular
         schwannoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1839,7 +1839,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Radiation or systemic oncologic therapy is distinguished from
         stabilization, rescue, prevention, and disposition steps in Vestibular schwannoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1877,7 +1877,7 @@
       board_exam_pearl: Seizure treatment when clinically indicated is distinguished
         from stabilization, rescue, prevention, and disposition steps in Vestibular
         schwannoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1954,7 +1954,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1987,7 +1987,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2021,7 +2021,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2056,7 +2056,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2089,7 +2089,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2122,7 +2122,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2155,7 +2155,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2380,7 +2380,7 @@
       disease_id: DIS-NEUR-133
       diagnostic_id: DIA-NEUR-A685E95FF812
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: MRI brain with contrast is obtained for Pituitary adenoma
         when its specific clinical question is present.
@@ -2407,7 +2407,7 @@
       disease_id: DIS-NEUR-133
       diagnostic_id: DIA-NEUR-ABAF3464D3B1
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical tissue diagnosis is obtained for Pituitary adenoma
         when its specific clinical question is present.
@@ -2435,7 +2435,7 @@
       disease_id: DIS-NEUR-133
       diagnostic_id: DIA-NEUR-7D84631CB320
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Systemic malignancy evaluation is obtained for Pituitary adenoma
         when its specific clinical question is present.
@@ -2463,7 +2463,7 @@
       disease_id: DIS-NEUR-133
       diagnostic_id: DIA-NEUR-B1279B24F885
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Endocrine testing for sellar lesions is obtained for Pituitary
         adenoma when its specific clinical question is present.
@@ -2505,7 +2505,7 @@
       board_exam_pearl: Corticosteroids for symptomatic vasogenic edema when appropriate
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Pituitary adenoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2543,7 +2543,7 @@
       board_exam_pearl: Neurosurgical consultation and resection planning is distinguished
         from stabilization, rescue, prevention, and disposition steps in Pituitary
         adenoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2580,7 +2580,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Radiation or systemic oncologic therapy is distinguished from
         stabilization, rescue, prevention, and disposition steps in Pituitary adenoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2618,7 +2618,7 @@
       board_exam_pearl: Seizure treatment when clinically indicated is distinguished
         from stabilization, rescue, prevention, and disposition steps in Pituitary
         adenoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2695,7 +2695,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2728,7 +2728,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2761,7 +2761,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2795,7 +2795,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2828,7 +2828,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2861,7 +2861,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2894,7 +2894,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3103,7 +3103,7 @@
       disease_id: DIS-NEUR-134
       diagnostic_id: DIA-NEUR-A685E95FF812
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: MRI brain with contrast is obtained for Medulloblastoma when
         its specific clinical question is present.
@@ -3130,7 +3130,7 @@
       disease_id: DIS-NEUR-134
       diagnostic_id: DIA-NEUR-ABAF3464D3B1
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical tissue diagnosis is obtained for Medulloblastoma
         when its specific clinical question is present.
@@ -3158,7 +3158,7 @@
       disease_id: DIS-NEUR-134
       diagnostic_id: DIA-NEUR-7D84631CB320
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Systemic malignancy evaluation is obtained for Medulloblastoma
         when its specific clinical question is present.
@@ -3186,7 +3186,7 @@
       disease_id: DIS-NEUR-134
       diagnostic_id: DIA-NEUR-B1279B24F885
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Endocrine testing for sellar lesions is obtained for Medulloblastoma
         when its specific clinical question is present.
@@ -3228,7 +3228,7 @@
       board_exam_pearl: Corticosteroids for symptomatic vasogenic edema when appropriate
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Medulloblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3265,7 +3265,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Neurosurgical consultation and resection planning is distinguished
         from stabilization, rescue, prevention, and disposition steps in Medulloblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3302,7 +3302,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Radiation or systemic oncologic therapy is distinguished from
         stabilization, rescue, prevention, and disposition steps in Medulloblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3339,7 +3339,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment when clinically indicated is distinguished
         from stabilization, rescue, prevention, and disposition steps in Medulloblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3416,7 +3416,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3449,7 +3449,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3482,7 +3482,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3516,7 +3516,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3549,7 +3549,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3582,7 +3582,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3615,7 +3615,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3839,7 +3839,7 @@
       disease_id: DIS-NEUR-135
       diagnostic_id: DIA-NEUR-A685E95FF812
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: MRI brain with contrast is obtained for Primary CNS lymphoma
         when its specific clinical question is present.
@@ -3866,7 +3866,7 @@
       disease_id: DIS-NEUR-135
       diagnostic_id: DIA-NEUR-ABAF3464D3B1
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical tissue diagnosis is obtained for Primary CNS
         lymphoma when its specific clinical question is present.
@@ -3894,7 +3894,7 @@
       disease_id: DIS-NEUR-135
       diagnostic_id: DIA-NEUR-7D84631CB320
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Systemic malignancy evaluation is obtained for Primary CNS
         lymphoma when its specific clinical question is present.
@@ -3922,7 +3922,7 @@
       disease_id: DIS-NEUR-135
       diagnostic_id: DIA-NEUR-B1279B24F885
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Endocrine testing for sellar lesions is obtained for Primary
         CNS lymphoma when its specific clinical question is present.
@@ -3965,7 +3965,7 @@
       board_exam_pearl: Corticosteroids for symptomatic vasogenic edema when appropriate
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Primary CNS lymphoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4003,7 +4003,7 @@
       board_exam_pearl: Neurosurgical consultation and resection planning is distinguished
         from stabilization, rescue, prevention, and disposition steps in Primary CNS
         lymphoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4040,7 +4040,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Radiation or systemic oncologic therapy is distinguished from
         stabilization, rescue, prevention, and disposition steps in Primary CNS lymphoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4078,7 +4078,7 @@
       board_exam_pearl: Seizure treatment when clinically indicated is distinguished
         from stabilization, rescue, prevention, and disposition steps in Primary CNS
         lymphoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4155,7 +4155,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4188,7 +4188,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4222,7 +4222,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4257,7 +4257,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4290,7 +4290,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4323,7 +4323,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4356,7 +4356,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4581,7 +4581,7 @@
       disease_id: DIS-NEUR-136
       diagnostic_id: DIA-NEUR-A685E95FF812
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: MRI brain with contrast is obtained for Brain metastases when
         its specific clinical question is present.
@@ -4608,7 +4608,7 @@
       disease_id: DIS-NEUR-136
       diagnostic_id: DIA-NEUR-ABAF3464D3B1
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical tissue diagnosis is obtained for Brain metastases
         when its specific clinical question is present.
@@ -4636,7 +4636,7 @@
       disease_id: DIS-NEUR-136
       diagnostic_id: DIA-NEUR-7D84631CB320
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Systemic malignancy evaluation is obtained for Brain metastases
         when its specific clinical question is present.
@@ -4664,7 +4664,7 @@
       disease_id: DIS-NEUR-136
       diagnostic_id: DIA-NEUR-B1279B24F885
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Endocrine testing for sellar lesions is obtained for Brain
         metastases when its specific clinical question is present.
@@ -4706,7 +4706,7 @@
       board_exam_pearl: Corticosteroids for symptomatic vasogenic edema when appropriate
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Brain metastases.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4743,7 +4743,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Neurosurgical consultation and resection planning is distinguished
         from stabilization, rescue, prevention, and disposition steps in Brain metastases.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4780,7 +4780,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Radiation or systemic oncologic therapy is distinguished from
         stabilization, rescue, prevention, and disposition steps in Brain metastases.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4817,7 +4817,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment when clinically indicated is distinguished
         from stabilization, rescue, prevention, and disposition steps in Brain metastases.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4894,7 +4894,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4927,7 +4927,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4960,7 +4960,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4994,7 +4994,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5027,7 +5027,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5060,7 +5060,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5357,7 +5357,7 @@
       disease_id: DIS-NEUR-137
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Increased intracranial pressure when its specific clinical question is present.
@@ -5386,7 +5386,7 @@
       disease_id: DIS-NEUR-137
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Increased
         intracranial pressure when its specific clinical question is present.
@@ -5415,7 +5415,7 @@
       disease_id: DIS-NEUR-137
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Increased intracranial pressure
         when its specific clinical question is present.
@@ -5443,7 +5443,7 @@
       disease_id: DIS-NEUR-137
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Increased intracranial pressure
         when its specific clinical question is present.
@@ -5471,7 +5471,7 @@
       disease_id: DIS-NEUR-137
       diagnostic_id: DIA-NEUR-2807ECD2ED52
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Reversible-cause laboratory testing is obtained for Increased
         intracranial pressure when its specific clinical question is present.
@@ -5514,7 +5514,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Increased intracranial pressure.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5552,7 +5552,7 @@
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Increased
         intracranial pressure.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5590,7 +5590,7 @@
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Increased
         intracranial pressure.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5627,7 +5627,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Increased intracranial pressure.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5664,7 +5664,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Advance-care and support planning is distinguished from stabilization,
         rescue, prevention, and disposition steps in Increased intracranial pressure.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5782,7 +5782,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5816,7 +5816,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5850,7 +5850,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5885,7 +5885,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5920,7 +5920,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5956,7 +5956,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5992,7 +5992,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6289,7 +6289,7 @@
       disease_id: DIS-NEUR-138
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Obstructive hydrocephalus when its specific clinical question is present.
@@ -6318,7 +6318,7 @@
       disease_id: DIS-NEUR-138
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Obstructive
         hydrocephalus when its specific clinical question is present.
@@ -6347,7 +6347,7 @@
       disease_id: DIS-NEUR-138
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Obstructive hydrocephalus
         when its specific clinical question is present.
@@ -6374,7 +6374,7 @@
       disease_id: DIS-NEUR-138
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Obstructive hydrocephalus when
         its specific clinical question is present.
@@ -6401,7 +6401,7 @@
       disease_id: DIS-NEUR-138
       diagnostic_id: DIA-NEUR-2807ECD2ED52
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Reversible-cause laboratory testing is obtained for Obstructive
         hydrocephalus when its specific clinical question is present.
@@ -6444,7 +6444,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Obstructive hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6482,7 +6482,7 @@
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Obstructive
         hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6520,7 +6520,7 @@
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Obstructive
         hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6557,7 +6557,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Obstructive hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6594,7 +6594,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Advance-care and support planning is distinguished from stabilization,
         rescue, prevention, and disposition steps in Obstructive hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6711,7 +6711,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6744,7 +6744,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6777,7 +6777,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6811,7 +6811,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6846,7 +6846,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6881,7 +6881,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6916,7 +6916,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7213,7 +7213,7 @@
       disease_id: DIS-NEUR-139
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Communicating hydrocephalus when its specific clinical question is present.
@@ -7242,7 +7242,7 @@
       disease_id: DIS-NEUR-139
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Communicating
         hydrocephalus when its specific clinical question is present.
@@ -7271,7 +7271,7 @@
       disease_id: DIS-NEUR-139
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Communicating hydrocephalus
         when its specific clinical question is present.
@@ -7298,7 +7298,7 @@
       disease_id: DIS-NEUR-139
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Communicating hydrocephalus
         when its specific clinical question is present.
@@ -7325,7 +7325,7 @@
       disease_id: DIS-NEUR-139
       diagnostic_id: DIA-NEUR-2807ECD2ED52
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Reversible-cause laboratory testing is obtained for Communicating
         hydrocephalus when its specific clinical question is present.
@@ -7368,7 +7368,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Communicating hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7406,7 +7406,7 @@
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Communicating
         hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7444,7 +7444,7 @@
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Communicating
         hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7481,7 +7481,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Communicating hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7518,7 +7518,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Advance-care and support planning is distinguished from stabilization,
         rescue, prevention, and disposition steps in Communicating hydrocephalus.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7635,7 +7635,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7668,7 +7668,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7702,7 +7702,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7736,7 +7736,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7771,7 +7771,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7806,7 +7806,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7841,7 +7841,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8138,7 +8138,7 @@
       disease_id: DIS-NEUR-140
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Uncal herniation when its specific clinical question is present.
@@ -8166,7 +8166,7 @@
       disease_id: DIS-NEUR-140
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Uncal
         herniation when its specific clinical question is present.
@@ -8194,7 +8194,7 @@
       disease_id: DIS-NEUR-140
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Uncal herniation when its
         specific clinical question is present.
@@ -8221,7 +8221,7 @@
       disease_id: DIS-NEUR-140
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Uncal herniation when its specific
         clinical question is present.
@@ -8247,7 +8247,7 @@
       disease_id: DIS-NEUR-140
       diagnostic_id: DIA-NEUR-2807ECD2ED52
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Reversible-cause laboratory testing is obtained for Uncal
         herniation when its specific clinical question is present.
@@ -8289,7 +8289,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Uncal herniation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8326,7 +8326,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Uncal herniation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8363,7 +8363,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Uncal herniation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8400,7 +8400,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Uncal herniation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8437,7 +8437,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Advance-care and support planning is distinguished from stabilization,
         rescue, prevention, and disposition steps in Uncal herniation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8554,7 +8554,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8587,7 +8587,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8620,7 +8620,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8653,7 +8653,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8686,7 +8686,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8719,7 +8719,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8752,7 +8752,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9049,7 +9049,7 @@
       disease_id: DIS-NEUR-141
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Papilledema when its specific clinical question is present.
@@ -9077,7 +9077,7 @@
       disease_id: DIS-NEUR-141
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Papilledema
         when its specific clinical question is present.
@@ -9105,7 +9105,7 @@
       disease_id: DIS-NEUR-141
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Papilledema when its specific
         clinical question is present.
@@ -9131,7 +9131,7 @@
       disease_id: DIS-NEUR-141
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Papilledema when its specific
         clinical question is present.
@@ -9157,7 +9157,7 @@
       disease_id: DIS-NEUR-141
       diagnostic_id: DIA-NEUR-2807ECD2ED52
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Reversible-cause laboratory testing is obtained for Papilledema
         when its specific clinical question is present.
@@ -9198,7 +9198,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Papilledema.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9235,7 +9235,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Papilledema.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9272,7 +9272,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Papilledema.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9309,7 +9309,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Papilledema.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9346,7 +9346,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Advance-care and support planning is distinguished from stabilization,
         rescue, prevention, and disposition steps in Papilledema.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9463,7 +9463,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9496,7 +9496,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9529,7 +9529,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9562,7 +9562,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9595,7 +9595,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9628,7 +9628,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9661,7 +9661,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9885,7 +9885,7 @@
       disease_id: DIS-NEUR-DIFFUSEASTROCYTOMA
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Diffuse astrocytoma when its specific clinical question is present.
@@ -9914,7 +9914,7 @@
       disease_id: DIS-NEUR-DIFFUSEASTROCYTOMA
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Diffuse
         astrocytoma when its specific clinical question is present.
@@ -9943,7 +9943,7 @@
       disease_id: DIS-NEUR-DIFFUSEASTROCYTOMA
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Diffuse astrocytoma when
         its specific clinical question is present.
@@ -9970,7 +9970,7 @@
       disease_id: DIS-NEUR-DIFFUSEASTROCYTOMA
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Diffuse astrocytoma when its
         specific clinical question is present.
@@ -10010,7 +10010,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Diffuse astrocytoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10047,7 +10047,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Diffuse astrocytoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10084,7 +10084,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Diffuse astrocytoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10121,7 +10121,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Diffuse astrocytoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10198,7 +10198,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10231,7 +10231,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10264,7 +10264,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10297,7 +10297,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10330,7 +10330,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10363,7 +10363,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10396,7 +10396,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10605,7 +10605,7 @@
       disease_id: DIS-NEUR-EPENDYMOMA
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Ependymoma when its specific clinical question is present.
@@ -10633,7 +10633,7 @@
       disease_id: DIS-NEUR-EPENDYMOMA
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Ependymoma
         when its specific clinical question is present.
@@ -10661,7 +10661,7 @@
       disease_id: DIS-NEUR-EPENDYMOMA
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Ependymoma when its specific
         clinical question is present.
@@ -10687,7 +10687,7 @@
       disease_id: DIS-NEUR-EPENDYMOMA
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Ependymoma when its specific
         clinical question is present.
@@ -10727,7 +10727,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Ependymoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10764,7 +10764,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Ependymoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10801,7 +10801,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Ependymoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10837,7 +10837,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Ependymoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10913,7 +10913,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10945,7 +10945,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10978,7 +10978,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11010,7 +11010,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11043,7 +11043,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11076,7 +11076,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11108,7 +11108,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11332,7 +11332,7 @@
       disease_id: DIS-NEUR-HEMANGIOBLASTOMA
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Hemangioblastoma when its specific clinical question is present.
@@ -11360,7 +11360,7 @@
       disease_id: DIS-NEUR-HEMANGIOBLASTOMA
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Hemangioblastoma
         when its specific clinical question is present.
@@ -11388,7 +11388,7 @@
       disease_id: DIS-NEUR-HEMANGIOBLASTOMA
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Hemangioblastoma when its
         specific clinical question is present.
@@ -11415,7 +11415,7 @@
       disease_id: DIS-NEUR-HEMANGIOBLASTOMA
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Hemangioblastoma when its specific
         clinical question is present.
@@ -11455,7 +11455,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Hemangioblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11492,7 +11492,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Hemangioblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11529,7 +11529,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Hemangioblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11566,7 +11566,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Hemangioblastoma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11643,7 +11643,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11676,7 +11676,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11709,7 +11709,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11742,7 +11742,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11775,7 +11775,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11808,7 +11808,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11841,7 +11841,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12065,7 +12065,7 @@
       disease_id: DIS-NEUR-CRANIOPHARYNGIOMA
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Craniopharyngioma when its specific clinical question is present.
@@ -12093,7 +12093,7 @@
       disease_id: DIS-NEUR-CRANIOPHARYNGIOMA
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Craniopharyngioma
         when its specific clinical question is present.
@@ -12121,7 +12121,7 @@
       disease_id: DIS-NEUR-CRANIOPHARYNGIOMA
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Craniopharyngioma when its
         specific clinical question is present.
@@ -12148,7 +12148,7 @@
       disease_id: DIS-NEUR-CRANIOPHARYNGIOMA
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Craniopharyngioma when its specific
         clinical question is present.
@@ -12188,7 +12188,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Craniopharyngioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12225,7 +12225,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Craniopharyngioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12262,7 +12262,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Craniopharyngioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12299,7 +12299,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Craniopharyngioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12376,7 +12376,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12409,7 +12409,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12442,7 +12442,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12475,7 +12475,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12508,7 +12508,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12541,7 +12541,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12574,7 +12574,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible

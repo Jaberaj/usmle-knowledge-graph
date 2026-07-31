@@ -2730,11 +2730,7 @@
       "priority": 1,
       "search_keywords": [
         "transient ischemic attack",
-        "diffusion restriction",
-        "hyperdense mca sign",
-        "crossed neurologic findings",
-        "pure motor stroke",
-        "lateral medullary syndrome"
+        "transient negative focal deficit"
       ],
       "source_status": "partially_source_supported"
     },
@@ -2749,7 +2745,8 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "seizure disorder"
+        "seizure disorder",
+        "recurrent unprovoked seizures"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3482,7 +3479,6 @@
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
         "todd paralysis",
-        "three-hertz spike-and-wave",
         "three-hertz spike-and-wave"
       ],
       "source_status": "partially_source_supported"
@@ -3544,7 +3540,6 @@
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
         "todd paralysis",
-        "hypsarrhythmia",
         "hypsarrhythmia"
       ],
       "source_status": "partially_source_supported"
@@ -3644,7 +3639,6 @@
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
         "todd paralysis",
-        "morning myoclonus",
         "morning myoclonus"
       ],
       "source_status": "partially_source_supported"
@@ -3666,7 +3660,6 @@
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
         "todd paralysis",
-        "three-hertz spike-and-wave",
         "three-hertz spike-and-wave"
       ],
       "source_status": "partially_source_supported"
@@ -3688,7 +3681,6 @@
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
         "todd paralysis",
-        "deja vu aura",
         "deja vu aura"
       ],
       "source_status": "partially_source_supported"
@@ -3710,7 +3702,6 @@
         "magnetic gait",
         "urinary incontinence",
         "wernicke aphasia",
-        "slow spike-and-wave",
         "slow spike-and-wave"
       ],
       "source_status": "partially_source_supported"
@@ -3732,7 +3723,6 @@
         "magnetic gait",
         "urinary incontinence",
         "wernicke aphasia",
-        "hypsarrhythmia",
         "hypsarrhythmia"
       ],
       "source_status": "partially_source_supported"
@@ -3754,7 +3744,6 @@
         "magnetic gait",
         "urinary incontinence",
         "wernicke aphasia",
-        "prolonged febrile seizures in infancy",
         "prolonged febrile seizures in infancy"
       ],
       "source_status": "partially_source_supported"

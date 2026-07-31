@@ -7,9 +7,9 @@
 - diagnostics: 100
 - algorithms: 127
 - references: 24
-- keywords: 132
+- keywords: 134
 - complications: 74
-- findings: 80
+- findings: 109
 - localizations: 63
 - disease_presentations: 1129
 - disease_treatments: 1466
@@ -17,8 +17,8 @@
 - disease_diagnostics: 1395
 - algorithm_steps: 1207
 - entity_references: 706
-- disease_keywords: 676
+- disease_keywords: 665
 - presentation_keywords: 4
 - disease_complications: 499
-- disease_findings: 583
+- disease_findings: 618
 - finding_localizations: 147

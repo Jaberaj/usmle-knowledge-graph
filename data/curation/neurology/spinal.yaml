@@ -299,7 +299,7 @@
       disease_id: DIS-NEUR-126
       diagnostic_id: DIA-NEUR-9CB4D4022C3A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Urgent MRI spine is obtained for Brown-Sequard syndrome when
         its specific clinical question is present.
@@ -326,7 +326,7 @@
       disease_id: DIS-NEUR-126
       diagnostic_id: DIA-NEUR-89052CF57120
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused sensory, reflex, and sphincter examination is obtained
         for Brown-Sequard syndrome when its specific clinical question is present.
@@ -355,7 +355,7 @@
       disease_id: DIS-NEUR-126
       diagnostic_id: DIA-NEUR-414EA5C43553
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Inflammatory and infectious testing is obtained for Brown-Sequard
         syndrome when its specific clinical question is present.
@@ -384,7 +384,7 @@
       disease_id: DIS-NEUR-126
       diagnostic_id: DIA-NEUR-236FDF4891F8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical evaluation for compression is obtained for Brown-Sequard
         syndrome when its specific clinical question is present.
@@ -427,7 +427,7 @@
       board_exam_pearl: Urgent decompression or cause-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Brown-Sequard
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -465,7 +465,7 @@
       board_exam_pearl: Spinal-cord protection and hemodynamic support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Brown-Sequard
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -502,7 +502,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Bladder and bowel management is distinguished from stabilization,
         rescue, prevention, and disposition steps in Brown-Sequard syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -539,7 +539,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT and pressure-injury prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Brown-Sequard syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -577,7 +577,7 @@
       board_exam_pearl: Rehabilitation and mobility planning is distinguished from
         stabilization, rescue, prevention, and disposition steps in Brown-Sequard
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -694,7 +694,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -1012,7 +1012,7 @@
       disease_id: DIS-NEUR-127
       diagnostic_id: DIA-NEUR-9CB4D4022C3A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Urgent MRI spine is obtained for Syringomyelia when its specific
         clinical question is present.
@@ -1038,7 +1038,7 @@
       disease_id: DIS-NEUR-127
       diagnostic_id: DIA-NEUR-89052CF57120
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused sensory, reflex, and sphincter examination is obtained
         for Syringomyelia when its specific clinical question is present.
@@ -1067,7 +1067,7 @@
       disease_id: DIS-NEUR-127
       diagnostic_id: DIA-NEUR-414EA5C43553
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Inflammatory and infectious testing is obtained for Syringomyelia
         when its specific clinical question is present.
@@ -1094,7 +1094,7 @@
       disease_id: DIS-NEUR-127
       diagnostic_id: DIA-NEUR-236FDF4891F8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical evaluation for compression is obtained for Syringomyelia
         when its specific clinical question is present.
@@ -1135,7 +1135,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Urgent decompression or cause-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Syringomyelia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1172,7 +1172,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Spinal-cord protection and hemodynamic support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Syringomyelia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1209,7 +1209,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Bladder and bowel management is distinguished from stabilization,
         rescue, prevention, and disposition steps in Syringomyelia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1246,7 +1246,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT and pressure-injury prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Syringomyelia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1283,7 +1283,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Rehabilitation and mobility planning is distinguished from
         stabilization, rescue, prevention, and disposition steps in Syringomyelia.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1400,7 +1400,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -1624,7 +1624,7 @@
       disease_id: DIS-NEUR-CENTRALCORDSYNDROME
       diagnostic_id: DIA-NEUR-9CB4D4022C3A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Urgent MRI spine is obtained for Central cord syndrome when
         its specific clinical question is present.
@@ -1651,7 +1651,7 @@
       disease_id: DIS-NEUR-CENTRALCORDSYNDROME
       diagnostic_id: DIA-NEUR-89052CF57120
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused sensory, reflex, and sphincter examination is obtained
         for Central cord syndrome when its specific clinical question is present.
@@ -1680,7 +1680,7 @@
       disease_id: DIS-NEUR-CENTRALCORDSYNDROME
       diagnostic_id: DIA-NEUR-414EA5C43553
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Inflammatory and infectious testing is obtained for Central
         cord syndrome when its specific clinical question is present.
@@ -1709,7 +1709,7 @@
       disease_id: DIS-NEUR-CENTRALCORDSYNDROME
       diagnostic_id: DIA-NEUR-236FDF4891F8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical evaluation for compression is obtained for Central
         cord syndrome when its specific clinical question is present.
@@ -1752,7 +1752,7 @@
       board_exam_pearl: Urgent decompression or cause-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Central cord
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1790,7 +1790,7 @@
       board_exam_pearl: Spinal-cord protection and hemodynamic support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Central cord
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1827,7 +1827,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Bladder and bowel management is distinguished from stabilization,
         rescue, prevention, and disposition steps in Central cord syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1864,7 +1864,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT and pressure-injury prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Central cord syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1941,7 +1941,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -2165,7 +2165,7 @@
       disease_id: DIS-NEUR-POSTERIORCORDSYNDROM
       diagnostic_id: DIA-NEUR-9CB4D4022C3A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Urgent MRI spine is obtained for Posterior cord syndrome when
         its specific clinical question is present.
@@ -2192,7 +2192,7 @@
       disease_id: DIS-NEUR-POSTERIORCORDSYNDROM
       diagnostic_id: DIA-NEUR-89052CF57120
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused sensory, reflex, and sphincter examination is obtained
         for Posterior cord syndrome when its specific clinical question is present.
@@ -2221,7 +2221,7 @@
       disease_id: DIS-NEUR-POSTERIORCORDSYNDROM
       diagnostic_id: DIA-NEUR-414EA5C43553
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Inflammatory and infectious testing is obtained for Posterior
         cord syndrome when its specific clinical question is present.
@@ -2250,7 +2250,7 @@
       disease_id: DIS-NEUR-POSTERIORCORDSYNDROM
       diagnostic_id: DIA-NEUR-236FDF4891F8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical evaluation for compression is obtained for Posterior
         cord syndrome when its specific clinical question is present.
@@ -2293,7 +2293,7 @@
       board_exam_pearl: Urgent decompression or cause-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Posterior
         cord syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2331,7 +2331,7 @@
       board_exam_pearl: Spinal-cord protection and hemodynamic support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Posterior
         cord syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2368,7 +2368,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Bladder and bowel management is distinguished from stabilization,
         rescue, prevention, and disposition steps in Posterior cord syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2405,7 +2405,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT and pressure-injury prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Posterior cord syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2482,7 +2482,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible

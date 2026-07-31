@@ -299,7 +299,7 @@
       disease_id: DIS-N-0063
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Meningitis when its specific
         clinical question is present.
@@ -325,7 +325,7 @@
       disease_id: DIS-N-0063
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Meningitis
         when its specific clinical question is present.
@@ -352,7 +352,7 @@
       disease_id: DIS-N-0063
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Meningitis when its specific clinical question is present.
@@ -381,7 +381,7 @@
       disease_id: DIS-N-0063
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Meningitis when its
         specific clinical question is present.
@@ -408,7 +408,7 @@
       disease_id: DIS-N-0063
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Meningitis when
         its specific clinical question is present.
@@ -449,7 +449,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -486,7 +486,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -524,7 +524,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -561,7 +561,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -599,7 +599,7 @@
       board_exam_pearl: Intracranial-pressure monitoring and specialty consultation
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -716,7 +716,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -749,7 +749,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -782,7 +782,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -814,7 +814,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -847,7 +847,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -880,7 +880,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -913,7 +913,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -945,7 +945,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -978,7 +978,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1011,7 +1011,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1044,7 +1044,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1077,7 +1077,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1110,7 +1110,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1143,7 +1143,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1168,7 +1168,7 @@
       disease_presentation_id: DPR-NEUR-05AC30EDF517
       disease_id: DIS-NEUR-024
       presentation_id: PRS-006
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       relationship_role: classic
       typicality: typical
@@ -1190,7 +1190,7 @@
       disease_presentation_id: DPR-NEUR-F32A0DB3FDBD
       disease_id: DIS-NEUR-024
       presentation_id: PRS-007
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       relationship_role: common
       typicality: typical
@@ -1212,7 +1212,7 @@
       disease_presentation_id: DPR-NEUR-A64F8712FC61
       disease_id: DIS-NEUR-024
       presentation_id: PRS-NEUR-063
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       relationship_role: common
       typicality: typical
@@ -1235,7 +1235,7 @@
       disease_presentation_id: DPR-NEUR-108A43911FD3
       disease_id: DIS-NEUR-024
       presentation_id: PRS-NEUR-051
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       relationship_role: common
       typicality: typical
@@ -1473,7 +1473,7 @@
       disease_id: DIS-NEUR-024
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Acute hypertension, renal disease, eclampsia, or immunosuppression
         with seizures and posterior vasogenic edema supports PRES. Blood cultures
@@ -1500,7 +1500,7 @@
       disease_id: DIS-NEUR-024
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Acute hypertension, renal disease, eclampsia, or immunosuppression
         with seizures and posterior vasogenic edema supports PRES. Lumbar puncture
@@ -1528,7 +1528,7 @@
       disease_id: DIS-NEUR-024
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Acute hypertension, renal disease, eclampsia, or immunosuppression
         with seizures and posterior vasogenic edema supports PRES. Brain imaging before
@@ -1558,7 +1558,7 @@
       disease_id: DIS-NEUR-024
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Acute hypertension, renal disease, eclampsia, or immunosuppression
         with seizures and posterior vasogenic edema supports PRES. CSF PCR and microbiology
@@ -1586,7 +1586,7 @@
       disease_id: DIS-NEUR-024
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Acute hypertension, renal disease, eclampsia, or immunosuppression
         with seizures and posterior vasogenic edema supports PRES. Contrast-enhanced
@@ -1629,7 +1629,7 @@
       board_exam_pearl: The timing of Immediate empiric antimicrobial therapy when
         indicated follows the defining emergency and mechanism of this disease, rather
         than list order.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1667,7 +1667,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: The timing of Acyclovir for suspected HSV encephalitis follows
         the defining emergency and mechanism of this disease, rather than list order.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1706,7 +1706,7 @@
       board_exam_pearl: The timing of Dexamethasone in appropriate bacterial meningitis
         context follows the defining emergency and mechanism of this disease, rather
         than list order.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1745,7 +1745,7 @@
       board_exam_pearl: The timing of Source control or drainage for brain abscess
         follows the defining emergency and mechanism of this disease, rather than
         list order.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1784,7 +1784,7 @@
       board_exam_pearl: The timing of Intracranial-pressure monitoring and specialty
         consultation follows the defining emergency and mechanism of this disease,
         rather than list order.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1906,7 +1906,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1942,7 +1942,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1978,7 +1978,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2014,7 +2014,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2050,7 +2050,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2086,7 +2086,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2122,7 +2122,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2158,7 +2158,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2192,7 +2192,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2228,7 +2228,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2264,7 +2264,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2300,7 +2300,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2336,7 +2336,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2372,7 +2372,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2662,7 +2662,7 @@
       disease_id: DIS-NEUR-062
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Acute bacterial meningitis
         when its specific clinical question is present.
@@ -2689,7 +2689,7 @@
       disease_id: DIS-NEUR-062
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Acute bacterial
         meningitis when its specific clinical question is present.
@@ -2717,7 +2717,7 @@
       disease_id: DIS-NEUR-062
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Acute bacterial meningitis when its specific clinical question is present.
@@ -2746,7 +2746,7 @@
       disease_id: DIS-NEUR-062
       diagnostic_id: DIA-NEUR-E30595E6F4C1
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF Gram stain and culture is obtained for Acute bacterial
         meningitis when its specific clinical question is present.
@@ -2788,7 +2788,7 @@
       board_exam_pearl: Immediate empiric antibiotics without unnecessary delay is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Acute bacterial meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2826,7 +2826,7 @@
       board_exam_pearl: Dexamethasone in appropriate context is distinguished from
         stabilization, rescue, prevention, and disposition steps in Acute bacterial
         meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2864,7 +2864,7 @@
       board_exam_pearl: Droplet precautions and public-health measures when indicated
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Acute bacterial meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2902,7 +2902,7 @@
       board_exam_pearl: Raised-intracranial-pressure management is distinguished from
         stabilization, rescue, prevention, and disposition steps in Acute bacterial
         meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3019,7 +3019,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3052,7 +3052,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3087,7 +3087,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3122,7 +3122,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3155,7 +3155,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3188,7 +3188,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3222,7 +3222,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3256,7 +3256,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3289,7 +3289,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3323,7 +3323,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3358,7 +3358,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3393,7 +3393,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3426,7 +3426,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3460,7 +3460,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3779,7 +3779,7 @@
       disease_id: DIS-NEUR-063
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Viral meningitis when its specific
         clinical question is present.
@@ -3805,7 +3805,7 @@
       disease_id: DIS-NEUR-063
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Viral meningitis
         when its specific clinical question is present.
@@ -3833,7 +3833,7 @@
       disease_id: DIS-NEUR-063
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Viral meningitis when its specific clinical question is present.
@@ -3862,7 +3862,7 @@
       disease_id: DIS-NEUR-063
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Viral meningitis
         when its specific clinical question is present.
@@ -3889,7 +3889,7 @@
       disease_id: DIS-NEUR-063
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Viral meningitis
         when its specific clinical question is present.
@@ -3930,7 +3930,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Viral meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3967,7 +3967,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Viral meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4005,7 +4005,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Viral meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4042,7 +4042,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Viral meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4080,7 +4080,7 @@
       board_exam_pearl: Intracranial-pressure monitoring and specialty consultation
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Viral meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4197,7 +4197,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4230,7 +4230,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4263,7 +4263,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4297,7 +4297,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4330,7 +4330,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4363,7 +4363,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4396,7 +4396,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4429,7 +4429,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4462,7 +4462,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4495,7 +4495,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4528,7 +4528,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4561,7 +4561,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4594,7 +4594,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4627,7 +4627,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4945,7 +4945,7 @@
       disease_id: DIS-NEUR-064
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Tuberculous meningitis when
         its specific clinical question is present.
@@ -4972,7 +4972,7 @@
       disease_id: DIS-NEUR-064
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Tuberculous
         meningitis when its specific clinical question is present.
@@ -5000,7 +5000,7 @@
       disease_id: DIS-NEUR-064
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Tuberculous meningitis when its specific clinical question is present.
@@ -5029,7 +5029,7 @@
       disease_id: DIS-NEUR-064
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Tuberculous meningitis
         when its specific clinical question is present.
@@ -5057,7 +5057,7 @@
       disease_id: DIS-NEUR-064
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Tuberculous meningitis
         when its specific clinical question is present.
@@ -5099,7 +5099,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Tuberculous meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5137,7 +5137,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Tuberculous
         meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5175,7 +5175,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Tuberculous meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5213,7 +5213,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Tuberculous
         meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5251,7 +5251,7 @@
       board_exam_pearl: Intracranial-pressure monitoring and specialty consultation
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Tuberculous meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5368,7 +5368,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5401,7 +5401,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5435,7 +5435,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5470,7 +5470,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5503,7 +5503,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5536,7 +5536,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5569,7 +5569,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5603,7 +5603,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5636,7 +5636,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5669,7 +5669,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5703,7 +5703,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5737,7 +5737,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5770,7 +5770,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5803,7 +5803,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6121,7 +6121,7 @@
       disease_id: DIS-NEUR-065
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Cryptococcal meningitis when
         its specific clinical question is present.
@@ -6148,7 +6148,7 @@
       disease_id: DIS-NEUR-065
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Cryptococcal
         meningitis when its specific clinical question is present.
@@ -6176,7 +6176,7 @@
       disease_id: DIS-NEUR-065
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Cryptococcal meningitis when its specific clinical question is present.
@@ -6205,7 +6205,7 @@
       disease_id: DIS-NEUR-065
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Cryptococcal meningitis
         when its specific clinical question is present.
@@ -6233,7 +6233,7 @@
       disease_id: DIS-NEUR-065
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Cryptococcal meningitis
         when its specific clinical question is present.
@@ -6275,7 +6275,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Cryptococcal meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6313,7 +6313,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Cryptococcal
         meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6351,7 +6351,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Cryptococcal meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6389,7 +6389,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Cryptococcal
         meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6427,7 +6427,7 @@
       board_exam_pearl: Intracranial-pressure monitoring and specialty consultation
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Cryptococcal meningitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6544,7 +6544,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6577,7 +6577,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6612,7 +6612,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6647,7 +6647,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6680,7 +6680,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6713,7 +6713,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6746,7 +6746,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6780,7 +6780,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6813,7 +6813,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6846,7 +6846,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6880,7 +6880,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6914,7 +6914,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6947,7 +6947,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6980,7 +6980,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7299,7 +7299,7 @@
       disease_id: DIS-N-0064
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Encephalitis when its specific
         clinical question is present.
@@ -7325,7 +7325,7 @@
       disease_id: DIS-N-0064
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Encephalitis
         when its specific clinical question is present.
@@ -7352,7 +7352,7 @@
       disease_id: DIS-N-0064
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Encephalitis when its specific clinical question is present.
@@ -7381,7 +7381,7 @@
       disease_id: DIS-N-0064
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Encephalitis when
         its specific clinical question is present.
@@ -7408,7 +7408,7 @@
       disease_id: DIS-N-0064
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Encephalitis when
         its specific clinical question is present.
@@ -7449,7 +7449,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7486,7 +7486,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7524,7 +7524,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7561,7 +7561,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7599,7 +7599,7 @@
       board_exam_pearl: Intracranial-pressure monitoring and specialty consultation
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -7716,7 +7716,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7749,7 +7749,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7782,7 +7782,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7816,7 +7816,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7849,7 +7849,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7882,7 +7882,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7915,7 +7915,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7947,7 +7947,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -7980,7 +7980,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8013,7 +8013,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8046,7 +8046,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8079,7 +8079,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8112,7 +8112,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8145,7 +8145,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8391,7 +8391,7 @@
       disease_id: DIS-NEUR-067
       diagnostic_id: DIA-NEUR-FC9D9ABE1F22
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF HSV PCR is obtained for HSV encephalitis
         when its specific clinical question is present.
@@ -8419,7 +8419,7 @@
       disease_id: DIS-NEUR-067
       diagnostic_id: DIA-NEUR-6C139C5F6395
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain MRI with temporal-lobe assessment is obtained for HSV
         encephalitis when its specific clinical question is present.
@@ -8447,7 +8447,7 @@
       disease_id: DIS-NEUR-067
       diagnostic_id: DIA-NEUR-C1BFAA8F249E
       role: electrophysiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: EEG for focal or nonconvulsive seizure is obtained for HSV
         encephalitis when its specific clinical question is present.
@@ -8488,7 +8488,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Immediate intravenous acyclovir is distinguished from stabilization,
         rescue, prevention, and disposition steps in HSV encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8525,7 +8525,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment and EEG monitoring is distinguished from
         stabilization, rescue, prevention, and disposition steps in HSV encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8562,7 +8562,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Intracranial-pressure and ICU support when severe is distinguished
         from stabilization, rescue, prevention, and disposition steps in HSV encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -8679,7 +8679,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8712,7 +8712,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8745,7 +8745,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8779,7 +8779,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8812,7 +8812,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8845,7 +8845,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8878,7 +8878,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8911,7 +8911,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8944,7 +8944,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -8977,7 +8977,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9010,7 +9010,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9043,7 +9043,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9076,7 +9076,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9364,7 +9364,7 @@
       disease_id: DIS-NEUR-068
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Brain abscess
         when its specific clinical question is present.
@@ -9391,7 +9391,7 @@
       disease_id: DIS-NEUR-068
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Brain abscess when its specific
         clinical question is present.
@@ -9417,7 +9417,7 @@
       disease_id: DIS-NEUR-068
       diagnostic_id: DIA-NEUR-40106ED519DA
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical drainage or sampling is obtained for Brain abscess
         when its specific clinical question is present.
@@ -9444,7 +9444,7 @@
       disease_id: DIS-NEUR-068
       diagnostic_id: DIA-NEUR-75D9C172C299
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Search for contiguous or hematogenous source is obtained for
         Brain abscess when its specific clinical question is present.
@@ -9485,7 +9485,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Empiric antimicrobial therapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in Brain abscess.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9522,7 +9522,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Neurosurgical source control is distinguished from stabilization,
         rescue, prevention, and disposition steps in Brain abscess.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9559,7 +9559,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Raised-intracranial-pressure management is distinguished from
         stabilization, rescue, prevention, and disposition steps in Brain abscess.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9596,7 +9596,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Avoid routine lumbar puncture with mass lesion is distinguished
         from stabilization, rescue, prevention, and disposition steps in Brain abscess.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -9713,7 +9713,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9746,7 +9746,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9779,7 +9779,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9813,7 +9813,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9846,7 +9846,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9879,7 +9879,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9912,7 +9912,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9944,7 +9944,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -9977,7 +9977,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10010,7 +10010,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10043,7 +10043,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10076,7 +10076,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10109,7 +10109,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10142,7 +10142,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10460,7 +10460,7 @@
       disease_id: DIS-NEUR-070
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Neurosyphilis when its specific
         clinical question is present.
@@ -10486,7 +10486,7 @@
       disease_id: DIS-NEUR-070
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Neurosyphilis
         when its specific clinical question is present.
@@ -10513,7 +10513,7 @@
       disease_id: DIS-NEUR-070
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Neurosyphilis when its specific clinical question is present.
@@ -10542,7 +10542,7 @@
       disease_id: DIS-NEUR-070
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Neurosyphilis when
         its specific clinical question is present.
@@ -10569,7 +10569,7 @@
       disease_id: DIS-NEUR-070
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Neurosyphilis
         when its specific clinical question is present.
@@ -10610,7 +10610,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Neurosyphilis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10647,7 +10647,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Neurosyphilis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10685,7 +10685,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Neurosyphilis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10722,7 +10722,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Neurosyphilis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10760,7 +10760,7 @@
       board_exam_pearl: Intracranial-pressure monitoring and specialty consultation
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Neurosyphilis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -10877,7 +10877,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10910,7 +10910,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10943,7 +10943,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -10977,7 +10977,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11010,7 +11010,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11043,7 +11043,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11076,7 +11076,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11108,7 +11108,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11141,7 +11141,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11174,7 +11174,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11207,7 +11207,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11240,7 +11240,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11273,7 +11273,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11306,7 +11306,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -11628,7 +11628,7 @@
       disease_id: DIS-NEUR-071
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Progressive multifocal leukoencephalopathy
         when its specific clinical question is present.
@@ -11656,7 +11656,7 @@
       disease_id: DIS-NEUR-071
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Progressive
         multifocal leukoencephalopathy when its specific clinical question is present.
@@ -11684,7 +11684,7 @@
       disease_id: DIS-NEUR-071
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Progressive multifocal leukoencephalopathy when its specific clinical
@@ -11714,7 +11714,7 @@
       disease_id: DIS-NEUR-071
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Progressive multifocal
         leukoencephalopathy when its specific clinical question is present.
@@ -11742,7 +11742,7 @@
       disease_id: DIS-NEUR-071
       diagnostic_id: DIA-NEUR-AE085F846861
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Contrast-enhanced brain MRI is obtained for Progressive multifocal
         leukoencephalopathy when its specific clinical question is present.
@@ -11784,7 +11784,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Progressive multifocal leukoencephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11822,7 +11822,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Progressive
         multifocal leukoencephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11860,7 +11860,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Progressive multifocal leukoencephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11898,7 +11898,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Progressive
         multifocal leukoencephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -11936,7 +11936,7 @@
       board_exam_pearl: Intracranial-pressure monitoring and specialty consultation
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Progressive multifocal leukoencephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12054,7 +12054,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12089,7 +12089,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12125,7 +12125,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12161,7 +12161,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12196,7 +12196,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12231,7 +12231,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12266,7 +12266,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12302,7 +12302,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12336,7 +12336,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12371,7 +12371,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12407,7 +12407,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12443,7 +12443,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12478,7 +12478,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12513,7 +12513,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -12739,7 +12739,7 @@
       disease_id: DIS-NEUR-076
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Acute disseminated encephalomyelitis
         when its specific clinical question is present.
@@ -12767,7 +12767,7 @@
       disease_id: DIS-NEUR-076
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Acute disseminated
         encephalomyelitis when its specific clinical question is present.
@@ -12795,7 +12795,7 @@
       disease_id: DIS-NEUR-076
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Acute disseminated encephalomyelitis when its specific clinical question
@@ -12825,7 +12825,7 @@
       disease_id: DIS-NEUR-076
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Acute disseminated
         encephalomyelitis when its specific clinical question is present.
@@ -12867,7 +12867,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Acute disseminated encephalomyelitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12905,7 +12905,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Acute disseminated
         encephalomyelitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12943,7 +12943,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Acute disseminated encephalomyelitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -12981,7 +12981,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Acute disseminated
         encephalomyelitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -13059,7 +13059,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13093,7 +13093,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13128,7 +13128,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13164,7 +13164,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13200,7 +13200,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13235,7 +13235,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13269,7 +13269,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13495,7 +13495,7 @@
       disease_id: DIS-NEUR-081
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Autoimmune encephalitis when
         its specific clinical question is present.
@@ -13522,7 +13522,7 @@
       disease_id: DIS-NEUR-081
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Autoimmune
         encephalitis when its specific clinical question is present.
@@ -13550,7 +13550,7 @@
       disease_id: DIS-NEUR-081
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Autoimmune encephalitis when its specific clinical question is present.
@@ -13579,7 +13579,7 @@
       disease_id: DIS-NEUR-081
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Autoimmune encephalitis
         when its specific clinical question is present.
@@ -13621,7 +13621,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Autoimmune encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -13659,7 +13659,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Autoimmune
         encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -13697,7 +13697,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Autoimmune encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -13735,7 +13735,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Autoimmune
         encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -13812,7 +13812,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13845,7 +13845,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13878,7 +13878,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13912,7 +13912,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13946,7 +13946,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -13979,7 +13979,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14012,7 +14012,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14237,7 +14237,7 @@
       disease_id: DIS-NEUR-082
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Anti-NMDA receptor encephalitis
         when its specific clinical question is present.
@@ -14265,7 +14265,7 @@
       disease_id: DIS-NEUR-082
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Anti-NMDA
         receptor encephalitis when its specific clinical question is present.
@@ -14293,7 +14293,7 @@
       disease_id: DIS-NEUR-082
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Anti-NMDA receptor encephalitis when its specific clinical question is
@@ -14323,7 +14323,7 @@
       disease_id: DIS-NEUR-082
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Anti-NMDA receptor
         encephalitis when its specific clinical question is present.
@@ -14365,7 +14365,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Anti-NMDA receptor encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -14403,7 +14403,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Anti-NMDA
         receptor encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -14441,7 +14441,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Anti-NMDA receptor encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -14479,7 +14479,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Anti-NMDA
         receptor encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -14556,7 +14556,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14590,7 +14590,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14624,7 +14624,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14660,7 +14660,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14696,7 +14696,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14730,7 +14730,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14764,7 +14764,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -14989,7 +14989,7 @@
       disease_id: DIS-NEUR-101
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Wernicke encephalopathy when
         its specific clinical question is present.
@@ -15016,7 +15016,7 @@
       disease_id: DIS-NEUR-101
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Wernicke
         encephalopathy when its specific clinical question is present.
@@ -15044,7 +15044,7 @@
       disease_id: DIS-NEUR-101
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Wernicke encephalopathy when its specific clinical question is present.
@@ -15073,7 +15073,7 @@
       disease_id: DIS-NEUR-101
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Wernicke encephalopathy
         when its specific clinical question is present.
@@ -15115,7 +15115,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Wernicke encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -15153,7 +15153,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Wernicke
         encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -15191,7 +15191,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Wernicke encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -15229,7 +15229,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Wernicke
         encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -15306,7 +15306,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -15339,7 +15339,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -15372,7 +15372,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -15406,7 +15406,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -15440,7 +15440,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -15473,7 +15473,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -15506,7 +15506,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -15730,7 +15730,7 @@
       disease_id: DIS-NEUR-131
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Meningioma when its specific
         clinical question is present.
@@ -15756,7 +15756,7 @@
       disease_id: DIS-NEUR-131
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Meningioma
         when its specific clinical question is present.
@@ -15783,7 +15783,7 @@
       disease_id: DIS-NEUR-131
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Meningioma when its specific clinical question is present.
@@ -15812,7 +15812,7 @@
       disease_id: DIS-NEUR-131
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Meningioma when its
         specific clinical question is present.
@@ -15853,7 +15853,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Meningioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -15890,7 +15890,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Meningioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -15928,7 +15928,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Meningioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -15965,7 +15965,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Meningioma.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -16041,7 +16041,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16074,7 +16074,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16107,7 +16107,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16140,7 +16140,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16173,7 +16173,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16206,7 +16206,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16239,7 +16239,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16463,7 +16463,7 @@
       disease_id: DIS-NEUR-155
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Hepatic encephalopathy when
         its specific clinical question is present.
@@ -16490,7 +16490,7 @@
       disease_id: DIS-NEUR-155
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Hepatic
         encephalopathy when its specific clinical question is present.
@@ -16518,7 +16518,7 @@
       disease_id: DIS-NEUR-155
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Hepatic encephalopathy when its specific clinical question is present.
@@ -16547,7 +16547,7 @@
       disease_id: DIS-NEUR-155
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Hepatic encephalopathy
         when its specific clinical question is present.
@@ -16589,7 +16589,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Hepatic encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -16626,7 +16626,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Hepatic encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -16664,7 +16664,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Hepatic encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -16701,7 +16701,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Hepatic encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -16778,7 +16778,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16811,7 +16811,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16845,7 +16845,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16879,7 +16879,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16912,7 +16912,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -16945,7 +16945,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -17169,7 +17169,7 @@
       disease_id: DIS-NEUR-156
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Hyponatremic encephalopathy
         when its specific clinical question is present.
@@ -17196,7 +17196,7 @@
       disease_id: DIS-NEUR-156
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Hyponatremic
         encephalopathy when its specific clinical question is present.
@@ -17224,7 +17224,7 @@
       disease_id: DIS-NEUR-156
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Hyponatremic encephalopathy when its specific clinical question is present.
@@ -17253,7 +17253,7 @@
       disease_id: DIS-NEUR-156
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Hyponatremic encephalopathy
         when its specific clinical question is present.
@@ -17295,7 +17295,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Hyponatremic encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -17333,7 +17333,7 @@
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Hyponatremic
         encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -17371,7 +17371,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Hyponatremic encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -17409,7 +17409,7 @@
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Hyponatremic
         encephalopathy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -17486,7 +17486,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -17519,7 +17519,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -17553,7 +17553,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -17588,7 +17588,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -17621,7 +17621,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -17655,7 +17655,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -17880,7 +17880,7 @@
       disease_id: DIS-NEUR-NEUROBORRELIOSIS
       diagnostic_id: DIA-NEUR-1335DB2E73DD
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Collateral cognitive and functional history is obtained for
         Neuroborreliosis when its specific clinical question is present.
@@ -17908,7 +17908,7 @@
       disease_id: DIS-NEUR-NEUROBORRELIOSIS
       diagnostic_id: DIA-NEUR-D334007F3A48
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Medication and delirium-trigger review is obtained for Neuroborreliosis
         when its specific clinical question is present.
@@ -17936,7 +17936,7 @@
       disease_id: DIS-NEUR-NEUROBORRELIOSIS
       diagnostic_id: DIA-NEUR-3C182F8B3CD0
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Cognitive testing is obtained for Neuroborreliosis when its
         specific clinical question is present.
@@ -17963,7 +17963,7 @@
       disease_id: DIS-NEUR-NEUROBORRELIOSIS
       diagnostic_id: DIA-NEUR-01BA5ED5FDF3
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging is obtained for Neuroborreliosis when its specific
         clinical question is present.
@@ -18003,7 +18003,7 @@
       board_exam_pearl: Treat delirium triggers and avoid deliriogenic medication
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Neuroborreliosis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18040,7 +18040,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Safety, caregiver, and driving assessment is distinguished
         from stabilization, rescue, prevention, and disposition steps in Neuroborreliosis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18077,7 +18077,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Cognitive symptom treatment when appropriate is distinguished
         from stabilization, rescue, prevention, and disposition steps in Neuroborreliosis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18114,7 +18114,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mobility and fall prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Neuroborreliosis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18191,7 +18191,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18224,7 +18224,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18257,7 +18257,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18290,7 +18290,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18323,7 +18323,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18356,7 +18356,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18389,7 +18389,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18613,7 +18613,7 @@
       disease_id: DIS-NEUR-RABIESENCEPHALITIS
       diagnostic_id: DIA-008
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Blood cultures is obtained for Rabies encephalitis when its
         specific clinical question is present.
@@ -18640,7 +18640,7 @@
       disease_id: DIS-NEUR-RABIESENCEPHALITIS
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Rabies encephalitis
         when its specific clinical question is present.
@@ -18668,7 +18668,7 @@
       disease_id: DIS-NEUR-RABIESENCEPHALITIS
       diagnostic_id: DIA-NEUR-250D94F8E617
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain imaging before LP only for mass-effect risk is obtained
         for Rabies encephalitis when its specific clinical question is present.
@@ -18697,7 +18697,7 @@
       disease_id: DIS-NEUR-RABIESENCEPHALITIS
       diagnostic_id: DIA-NEUR-A48D782AC10B
       role: microbiologic_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: CSF PCR and microbiology is obtained for Rabies encephalitis
         when its specific clinical question is present.
@@ -18739,7 +18739,7 @@
       board_exam_pearl: Immediate empiric antimicrobial therapy when indicated is
         distinguished from stabilization, rescue, prevention, and disposition steps
         in Rabies encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18776,7 +18776,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Acyclovir for suspected HSV encephalitis is distinguished
         from stabilization, rescue, prevention, and disposition steps in Rabies encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18814,7 +18814,7 @@
       board_exam_pearl: Dexamethasone in appropriate bacterial meningitis context
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Rabies encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18851,7 +18851,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Source control or drainage for brain abscess is distinguished
         from stabilization, rescue, prevention, and disposition steps in Rabies encephalitis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -18928,7 +18928,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18961,7 +18961,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -18994,7 +18994,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -19027,7 +19027,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -19060,7 +19060,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -19093,7 +19093,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -19126,7 +19126,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible

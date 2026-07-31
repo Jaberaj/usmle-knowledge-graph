@@ -9816,7 +9816,9 @@
     },
     {
       "disease_id": "DIS-N-0061",
-      "keyword_ids": [],
+      "keyword_ids": [
+        "KEY-NEUR-P4A-005"
+      ],
       "source_status": "partially_source_supported"
     },
     {
@@ -9898,11 +9900,7 @@
     {
       "disease_id": "DIS-NEUR-001",
       "keyword_ids": [
-        "KEY-NEUR-CA4132E50100",
-        "KEY-NEUR-F5CD5E9A7EB1",
-        "KEY-NEUR-8A3D2C68E664",
-        "KEY-NEUR-77F977CCF7F2",
-        "KEY-NEUR-14920347C819"
+        "KEY-NEUR-P4A-004"
       ],
       "source_status": "partially_source_supported"
     },
@@ -10252,7 +10250,6 @@
         "KEY-NEUR-DEBB25411A88",
         "KEY-NEUR-B477B6F977D7",
         "KEY-NEUR-0183C82D25E7",
-        "KEY-NEUR-DEBB25411A88",
         "KEY-NEUR-DEBB25411A88"
       ],
       "source_status": "partially_source_supported"
@@ -10287,7 +10284,6 @@
         "KEY-NEUR-DEBB25411A88",
         "KEY-NEUR-B477B6F977D7",
         "KEY-NEUR-0183C82D25E7",
-        "KEY-NEUR-B477B6F977D7",
         "KEY-NEUR-B477B6F977D7"
       ],
       "source_status": "partially_source_supported"
@@ -10322,7 +10318,6 @@
         "KEY-NEUR-DEBB25411A88",
         "KEY-NEUR-B477B6F977D7",
         "KEY-NEUR-0183C82D25E7",
-        "KEY-NEUR-P4A-001",
         "KEY-NEUR-P4A-001"
       ],
       "source_status": "partially_source_supported"
@@ -10335,7 +10330,6 @@
         "KEY-NEUR-DEBB25411A88",
         "KEY-NEUR-B477B6F977D7",
         "KEY-NEUR-0183C82D25E7",
-        "KEY-NEUR-DEBB25411A88",
         "KEY-NEUR-DEBB25411A88"
       ],
       "source_status": "partially_source_supported"
@@ -10348,7 +10342,6 @@
         "KEY-NEUR-DEBB25411A88",
         "KEY-NEUR-B477B6F977D7",
         "KEY-NEUR-0183C82D25E7",
-        "KEY-NEUR-141F5C9E3075",
         "KEY-NEUR-141F5C9E3075"
       ],
       "source_status": "partially_source_supported"
@@ -10361,7 +10354,6 @@
         "KEY-NEUR-A84B7C1803D9",
         "KEY-NEUR-0524D11DE4B6",
         "KEY-NEUR-F01E21128D10",
-        "KEY-NEUR-P4A-002",
         "KEY-NEUR-P4A-002"
       ],
       "source_status": "partially_source_supported"
@@ -10374,7 +10366,6 @@
         "KEY-NEUR-A84B7C1803D9",
         "KEY-NEUR-0524D11DE4B6",
         "KEY-NEUR-F01E21128D10",
-        "KEY-NEUR-B477B6F977D7",
         "KEY-NEUR-B477B6F977D7"
       ],
       "source_status": "partially_source_supported"
@@ -10387,7 +10378,6 @@
         "KEY-NEUR-A84B7C1803D9",
         "KEY-NEUR-0524D11DE4B6",
         "KEY-NEUR-F01E21128D10",
-        "KEY-NEUR-P4A-003",
         "KEY-NEUR-P4A-003"
       ],
       "source_status": "partially_source_supported"

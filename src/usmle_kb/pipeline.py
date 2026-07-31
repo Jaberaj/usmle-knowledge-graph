@@ -129,6 +129,18 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
             if signature in seen:
                 errors.append(f"{table}: duplicate relationship")
             seen.add(signature)
+        if rows:
+            stable_field = next(iter(rows[0]))
+            stable_ids = [row.get(stable_field, "") for row in rows]
+            if len(stable_ids) != len(set(stable_ids)):
+                errors.append(f"{table}: duplicate relationship ID")
+        for row in rows:
+            status = row.get("source_status")
+            legacy = row.get("source_review_status")
+            if status == "unverified_ai_generated" and legacy == "source_checked":
+                errors.append(f"{table}: contradictory unverified/source_checked status")
+            if status == "source_supported" and legacy != "source_checked":
+                errors.append(f"{table}: contradictory supported source status")
     for algorithm in tables["algorithms"]:
         nodes = {
             r["node_id"]

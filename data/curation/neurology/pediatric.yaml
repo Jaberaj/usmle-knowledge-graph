@@ -205,7 +205,7 @@
       disease_id: DIS-NEUR-153
       diagnostic_id: DIA-NEUR-7B78BEA71D6C
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Developmental and family history is obtained for Neurofibromatosis
         type 1 when its specific clinical question is present.
@@ -233,7 +233,7 @@
       disease_id: DIS-NEUR-153
       diagnostic_id: DIA-NEUR-62556AB6C26D
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain and spine MRI is obtained for Neurofibromatosis type
         1 when its specific clinical question is present.
@@ -260,7 +260,7 @@
       disease_id: DIS-NEUR-153
       diagnostic_id: DIA-NEUR-4EB4A1D80CF7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Genetic testing and counseling is obtained for Neurofibromatosis
         type 1 when its specific clinical question is present.
@@ -288,7 +288,7 @@
       disease_id: DIS-NEUR-153
       diagnostic_id: DIA-NEUR-2353DBAC46E8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic testing is obtained for Neurofibromatosis type 1
         when its specific clinical question is present.
@@ -329,7 +329,7 @@
       board_exam_pearl: Developmental and multidisciplinary support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Neurofibromatosis
         type 1.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -367,7 +367,7 @@
       board_exam_pearl: Disease-specific genetic or metabolic therapy when available
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Neurofibromatosis type 1.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -404,7 +404,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment when indicated is distinguished from stabilization,
         rescue, prevention, and disposition steps in Neurofibromatosis type 1.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -442,7 +442,7 @@
       board_exam_pearl: Feeding, respiratory, and mobility support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Neurofibromatosis
         type 1.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -519,7 +519,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -742,7 +742,7 @@
       disease_id: DIS-NEUR-154
       diagnostic_id: DIA-NEUR-7B78BEA71D6C
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Developmental and family history is obtained for Rett syndrome
         when its specific clinical question is present.
@@ -769,7 +769,7 @@
       disease_id: DIS-NEUR-154
       diagnostic_id: DIA-NEUR-62556AB6C26D
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain and spine MRI is obtained for Rett syndrome when its
         specific clinical question is present.
@@ -795,7 +795,7 @@
       disease_id: DIS-NEUR-154
       diagnostic_id: DIA-NEUR-4EB4A1D80CF7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Genetic testing and counseling is obtained for Rett syndrome
         when its specific clinical question is present.
@@ -822,7 +822,7 @@
       disease_id: DIS-NEUR-154
       diagnostic_id: DIA-NEUR-2353DBAC46E8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic testing is obtained for Rett syndrome when its specific
         clinical question is present.
@@ -861,7 +861,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Developmental and multidisciplinary support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Rett syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -899,7 +899,7 @@
       board_exam_pearl: Disease-specific genetic or metabolic therapy when available
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Rett syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -936,7 +936,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment when indicated is distinguished from stabilization,
         rescue, prevention, and disposition steps in Rett syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -973,7 +973,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Feeding, respiratory, and mobility support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Rett syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1050,7 +1050,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -1274,7 +1274,7 @@
       disease_id: DIS-NEUR-CHIARIMALFORMATION
       diagnostic_id: DIA-NEUR-7B78BEA71D6C
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Developmental and family history is obtained for Chiari malformation
         when its specific clinical question is present.
@@ -1302,7 +1302,7 @@
       disease_id: DIS-NEUR-CHIARIMALFORMATION
       diagnostic_id: DIA-NEUR-62556AB6C26D
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain and spine MRI is obtained for Chiari malformation when
         its specific clinical question is present.
@@ -1329,7 +1329,7 @@
       disease_id: DIS-NEUR-CHIARIMALFORMATION
       diagnostic_id: DIA-NEUR-4EB4A1D80CF7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Genetic testing and counseling is obtained for Chiari malformation
         when its specific clinical question is present.
@@ -1357,7 +1357,7 @@
       disease_id: DIS-NEUR-CHIARIMALFORMATION
       diagnostic_id: DIA-NEUR-2353DBAC46E8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic testing is obtained for Chiari malformation when
         its specific clinical question is present.
@@ -1397,7 +1397,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Developmental and multidisciplinary support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Chiari malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1435,7 +1435,7 @@
       board_exam_pearl: Disease-specific genetic or metabolic therapy when available
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Chiari malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1472,7 +1472,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment when indicated is distinguished from stabilization,
         rescue, prevention, and disposition steps in Chiari malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1509,7 +1509,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Feeding, respiratory, and mobility support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Chiari malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1586,7 +1586,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -1810,7 +1810,7 @@
       disease_id: DIS-NEUR-DANDYWALKERMALFORMAT
       diagnostic_id: DIA-NEUR-7B78BEA71D6C
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Developmental and family history is obtained for Dandy-Walker
         malformation when its specific clinical question is present.
@@ -1838,7 +1838,7 @@
       disease_id: DIS-NEUR-DANDYWALKERMALFORMAT
       diagnostic_id: DIA-NEUR-62556AB6C26D
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Brain and spine MRI is obtained for Dandy-Walker malformation
         when its specific clinical question is present.
@@ -1865,7 +1865,7 @@
       disease_id: DIS-NEUR-DANDYWALKERMALFORMAT
       diagnostic_id: DIA-NEUR-4EB4A1D80CF7
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Genetic testing and counseling is obtained for Dandy-Walker
         malformation when its specific clinical question is present.
@@ -1893,7 +1893,7 @@
       disease_id: DIS-NEUR-DANDYWALKERMALFORMAT
       diagnostic_id: DIA-NEUR-2353DBAC46E8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Metabolic testing is obtained for Dandy-Walker malformation
         when its specific clinical question is present.
@@ -1934,7 +1934,7 @@
       board_exam_pearl: Developmental and multidisciplinary support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Dandy-Walker
         malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1972,7 +1972,7 @@
       board_exam_pearl: Disease-specific genetic or metabolic therapy when available
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Dandy-Walker malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2009,7 +2009,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Seizure treatment when indicated is distinguished from stabilization,
         rescue, prevention, and disposition steps in Dandy-Walker malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2047,7 +2047,7 @@
       board_exam_pearl: Feeding, respiratory, and mobility support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Dandy-Walker
         malformation.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2124,7 +2124,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible

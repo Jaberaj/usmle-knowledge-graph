@@ -206,7 +206,7 @@
       disease_id: DIS-N-0068
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Guillain-Barre
         syndrome when its specific clinical question is present.
@@ -234,7 +234,7 @@
       disease_id: DIS-N-0068
       diagnostic_id: DIA-NEUR-D793FB579BDF
       role: csf_confirmation
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Lumbar puncture with CSF analysis is obtained for Guillain-Barre
         syndrome when its specific clinical question is present.
@@ -262,7 +262,7 @@
       disease_id: DIS-N-0068
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for Guillain-Barre
         syndrome when its specific clinical question is present.
@@ -291,7 +291,7 @@
       disease_id: DIS-N-0068
       diagnostic_id: DIA-NEUR-65636DEF5EDC
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autonomic monitoring is obtained for Guillain-Barre syndrome
         when its specific clinical question is present.
@@ -332,7 +332,7 @@
       board_exam_pearl: Respiratory monitoring and critical-care escalation is distinguished
         from stabilization, rescue, prevention, and disposition steps in Guillain-Barre
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -368,7 +368,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: IVIG is distinguished from stabilization, rescue, prevention,
         and disposition steps in Guillain-Barre syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -404,7 +404,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Plasma exchange is distinguished from stabilization, rescue,
         prevention, and disposition steps in Guillain-Barre syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -441,7 +441,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in Guillain-Barre syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -479,7 +479,7 @@
       board_exam_pearl: Neuropathic pain and dysautonomia management is distinguished
         from stabilization, rescue, prevention, and disposition steps in Guillain-Barre
         syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -517,7 +517,7 @@
       board_exam_pearl: Avoid corticosteroids because they are ineffective for typical
         GBS is distinguished from stabilization, rescue, prevention, and disposition
         steps in Guillain-Barre syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -594,7 +594,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -627,7 +627,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -660,7 +660,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -884,7 +884,7 @@
       disease_id: DIS-N-0067
       diagnostic_id: DIA-NEUR-0D24BE15B5CA
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Acetylcholine-receptor antibody testing is obtained for Myasthenia
         gravis when its specific clinical question is present.
@@ -912,7 +912,7 @@
       disease_id: DIS-N-0067
       diagnostic_id: DIA-NEUR-EAE726FF5104
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: MuSK antibody testing when AChR negative is obtained for Myasthenia
         gravis when its specific clinical question is present.
@@ -940,7 +940,7 @@
       disease_id: DIS-N-0067
       diagnostic_id: DIA-NEUR-5529C25C8C4D
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Repetitive nerve stimulation or single-fiber EMG is obtained
         for Myasthenia gravis when its specific clinical question is present.
@@ -969,7 +969,7 @@
       disease_id: DIS-N-0067
       diagnostic_id: DIA-NEUR-D46C094CF745
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Chest imaging for thymoma is obtained for Myasthenia gravis
         when its specific clinical question is present.
@@ -1009,7 +1009,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Pyridostigmine for symptomatic control is distinguished from
         stabilization, rescue, prevention, and disposition steps in Myasthenia gravis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1046,7 +1046,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Immunotherapy for generalized disease is distinguished from
         stabilization, rescue, prevention, and disposition steps in Myasthenia gravis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1083,7 +1083,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Thymectomy evaluation when appropriate is distinguished from
         stabilization, rescue, prevention, and disposition steps in Myasthenia gravis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1120,7 +1120,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Avoid medication-induced exacerbation is distinguished from
         stabilization, rescue, prevention, and disposition steps in Myasthenia gravis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1197,7 +1197,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1230,7 +1230,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1263,7 +1263,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1487,7 +1487,7 @@
       disease_id: DIS-NEUR-104
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Myasthenic
         crisis when its specific clinical question is present.
@@ -1515,7 +1515,7 @@
       disease_id: DIS-NEUR-104
       diagnostic_id: DIA-NEUR-26C7A65C2C39
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Trigger evaluation for infection or medication exposure is
         obtained for Myasthenic crisis when its specific clinical question is present.
@@ -1544,7 +1544,7 @@
       disease_id: DIS-NEUR-104
       diagnostic_id: DIA-NEUR-E6C73B90ED58
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Bedside bulbar and cough assessment is obtained for Myasthenic
         crisis when its specific clinical question is present.
@@ -1585,7 +1585,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Airway and ventilatory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in Myasthenic crisis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1622,7 +1622,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: IVIG or plasma exchange is distinguished from stabilization,
         rescue, prevention, and disposition steps in Myasthenic crisis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1659,7 +1659,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Treat precipitating trigger is distinguished from stabilization,
         rescue, prevention, and disposition steps in Myasthenic crisis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1697,7 +1697,7 @@
       board_exam_pearl: Medication review including acetylcholinesterase management
         is distinguished from stabilization, rescue, prevention, and disposition steps
         in Myasthenic crisis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -1774,7 +1774,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1807,7 +1807,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1840,7 +1840,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -1873,7 +1873,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2098,7 +2098,7 @@
       disease_id: DIS-NEUR-106
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Lambert-Eaton
         myasthenic syndrome when its specific clinical question is present.
@@ -2126,7 +2126,7 @@
       disease_id: DIS-NEUR-106
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for Lambert-Eaton
         myasthenic syndrome when its specific clinical question is present.
@@ -2155,7 +2155,7 @@
       disease_id: DIS-NEUR-106
       diagnostic_id: DIA-NEUR-F939D0EECC19
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autoantibody testing is obtained for Lambert-Eaton myasthenic
         syndrome when its specific clinical question is present.
@@ -2183,7 +2183,7 @@
       disease_id: DIS-NEUR-106
       diagnostic_id: DIA-NEUR-76103F7093DB
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Creatine kinase is obtained for Lambert-Eaton myasthenic syndrome
         when its specific clinical question is present.
@@ -2224,7 +2224,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Airway and respiratory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in Lambert-Eaton myasthenic syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2262,7 +2262,7 @@
       board_exam_pearl: IVIG or plasma exchange when indicated is distinguished from
         stabilization, rescue, prevention, and disposition steps in Lambert-Eaton
         myasthenic syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2299,7 +2299,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mechanism-specific immunotherapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in Lambert-Eaton myasthenic syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2336,7 +2336,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in Lambert-Eaton myasthenic syndrome.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2414,7 +2414,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2449,7 +2449,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2483,7 +2483,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2517,7 +2517,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -2743,7 +2743,7 @@
       disease_id: DIS-NEUR-108
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Duchenne muscular
         dystrophy when its specific clinical question is present.
@@ -2771,7 +2771,7 @@
       disease_id: DIS-NEUR-108
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for Duchenne
         muscular dystrophy when its specific clinical question is present.
@@ -2800,7 +2800,7 @@
       disease_id: DIS-NEUR-108
       diagnostic_id: DIA-NEUR-F939D0EECC19
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autoantibody testing is obtained for Duchenne muscular dystrophy
         when its specific clinical question is present.
@@ -2827,7 +2827,7 @@
       disease_id: DIS-NEUR-108
       diagnostic_id: DIA-NEUR-76103F7093DB
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Creatine kinase is obtained for Duchenne muscular dystrophy
         when its specific clinical question is present.
@@ -2867,7 +2867,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Airway and respiratory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in Duchenne muscular dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2905,7 +2905,7 @@
       board_exam_pearl: IVIG or plasma exchange when indicated is distinguished from
         stabilization, rescue, prevention, and disposition steps in Duchenne muscular
         dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2942,7 +2942,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mechanism-specific immunotherapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in Duchenne muscular dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -2979,7 +2979,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in Duchenne muscular dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3056,7 +3056,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3090,7 +3090,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3123,7 +3123,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3156,7 +3156,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3380,7 +3380,7 @@
       disease_id: DIS-NEUR-111
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Rhabdomyolysis
         when its specific clinical question is present.
@@ -3407,7 +3407,7 @@
       disease_id: DIS-NEUR-111
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for Rhabdomyolysis
         when its specific clinical question is present.
@@ -3434,7 +3434,7 @@
       disease_id: DIS-NEUR-111
       diagnostic_id: DIA-NEUR-F939D0EECC19
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autoantibody testing is obtained for Rhabdomyolysis when its
         specific clinical question is present.
@@ -3461,7 +3461,7 @@
       disease_id: DIS-NEUR-111
       diagnostic_id: DIA-NEUR-76103F7093DB
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Creatine kinase is obtained for Rhabdomyolysis when its specific
         clinical question is present.
@@ -3500,7 +3500,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Airway and respiratory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in Rhabdomyolysis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3537,7 +3537,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: IVIG or plasma exchange when indicated is distinguished from
         stabilization, rescue, prevention, and disposition steps in Rhabdomyolysis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3574,7 +3574,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mechanism-specific immunotherapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in Rhabdomyolysis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3611,7 +3611,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in Rhabdomyolysis.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -3688,7 +3688,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3721,7 +3721,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3753,7 +3753,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -3786,7 +3786,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4010,7 +4010,7 @@
       disease_id: DIS-NEUR-151
       diagnostic_id: DIA-NEUR-9CB4D4022C3A
       role: anatomic_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Urgent MRI spine is obtained for Spinal muscular atrophy when
         its specific clinical question is present.
@@ -4037,7 +4037,7 @@
       disease_id: DIS-NEUR-151
       diagnostic_id: DIA-NEUR-89052CF57120
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Focused sensory, reflex, and sphincter examination is obtained
         for Spinal muscular atrophy when its specific clinical question is present.
@@ -4066,7 +4066,7 @@
       disease_id: DIS-NEUR-151
       diagnostic_id: DIA-NEUR-414EA5C43553
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Inflammatory and infectious testing is obtained for Spinal
         muscular atrophy when its specific clinical question is present.
@@ -4095,7 +4095,7 @@
       disease_id: DIS-NEUR-151
       diagnostic_id: DIA-NEUR-236FDF4891F8
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Neurosurgical evaluation for compression is obtained for Spinal
         muscular atrophy when its specific clinical question is present.
@@ -4138,7 +4138,7 @@
       board_exam_pearl: Urgent decompression or cause-directed therapy is distinguished
         from stabilization, rescue, prevention, and disposition steps in Spinal muscular
         atrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4176,7 +4176,7 @@
       board_exam_pearl: Spinal-cord protection and hemodynamic support is distinguished
         from stabilization, rescue, prevention, and disposition steps in Spinal muscular
         atrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4213,7 +4213,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Bladder and bowel management is distinguished from stabilization,
         rescue, prevention, and disposition steps in Spinal muscular atrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4250,7 +4250,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT and pressure-injury prevention is distinguished from stabilization,
         rescue, prevention, and disposition steps in Spinal muscular atrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4327,7 +4327,7 @@
       age_context: condition-specific
       rotation_context: Neurology
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: plausible
@@ -4553,7 +4553,7 @@
       disease_id: DIS-NEUR-FACIOSCAPULOHUMERALM
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Facioscapulohumeral
         muscular dystrophy when its specific clinical question is present.
@@ -4582,7 +4582,7 @@
       disease_id: DIS-NEUR-FACIOSCAPULOHUMERALM
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for Facioscapulohumeral
         muscular dystrophy when its specific clinical question is present.
@@ -4611,7 +4611,7 @@
       disease_id: DIS-NEUR-FACIOSCAPULOHUMERALM
       diagnostic_id: DIA-NEUR-F939D0EECC19
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autoantibody testing is obtained for Facioscapulohumeral muscular
         dystrophy when its specific clinical question is present.
@@ -4640,7 +4640,7 @@
       disease_id: DIS-NEUR-FACIOSCAPULOHUMERALM
       diagnostic_id: DIA-NEUR-76103F7093DB
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Creatine kinase is obtained for Facioscapulohumeral muscular
         dystrophy when its specific clinical question is present.
@@ -4683,7 +4683,7 @@
       board_exam_pearl: Airway and respiratory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in Facioscapulohumeral muscular
         dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4721,7 +4721,7 @@
       board_exam_pearl: IVIG or plasma exchange when indicated is distinguished from
         stabilization, rescue, prevention, and disposition steps in Facioscapulohumeral
         muscular dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4759,7 +4759,7 @@
       board_exam_pearl: Mechanism-specific immunotherapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in Facioscapulohumeral muscular
         dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4797,7 +4797,7 @@
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in Facioscapulohumeral muscular
         dystrophy.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -4875,7 +4875,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4911,7 +4911,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4947,7 +4947,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -4981,7 +4981,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5206,7 +5206,7 @@
       disease_id: DIS-NEUR-MCARDLEDISEASE
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for McArdle disease
         when its specific clinical question is present.
@@ -5234,7 +5234,7 @@
       disease_id: DIS-NEUR-MCARDLEDISEASE
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for McArdle disease
         when its specific clinical question is present.
@@ -5262,7 +5262,7 @@
       disease_id: DIS-NEUR-MCARDLEDISEASE
       diagnostic_id: DIA-NEUR-F939D0EECC19
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autoantibody testing is obtained for McArdle disease when
         its specific clinical question is present.
@@ -5289,7 +5289,7 @@
       disease_id: DIS-NEUR-MCARDLEDISEASE
       diagnostic_id: DIA-NEUR-76103F7093DB
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Creatine kinase is obtained for McArdle disease when its specific
         clinical question is present.
@@ -5328,7 +5328,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Airway and respiratory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in McArdle disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5365,7 +5365,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: IVIG or plasma exchange when indicated is distinguished from
         stabilization, rescue, prevention, and disposition steps in McArdle disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5402,7 +5402,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mechanism-specific immunotherapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in McArdle disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5439,7 +5439,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in McArdle disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5516,7 +5516,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5549,7 +5549,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5581,7 +5581,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5614,7 +5614,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -5838,7 +5838,7 @@
       disease_id: DIS-NEUR-POMPEDISEASE
       diagnostic_id: DIA-NEUR-BDC096901008
       role: physiologic_safety_monitoring
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Serial respiratory measurements is obtained for Pompe disease
         when its specific clinical question is present.
@@ -5865,7 +5865,7 @@
       disease_id: DIS-NEUR-POMPEDISEASE
       diagnostic_id: DIA-NEUR-AE1592F68045
       role: neuromuscular_localization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Nerve-conduction studies and EMG is obtained for Pompe disease
         when its specific clinical question is present.
@@ -5892,7 +5892,7 @@
       disease_id: DIS-NEUR-POMPEDISEASE
       diagnostic_id: DIA-NEUR-F939D0EECC19
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Autoantibody testing is obtained for Pompe disease when its
         specific clinical question is present.
@@ -5919,7 +5919,7 @@
       disease_id: DIS-NEUR-POMPEDISEASE
       diagnostic_id: DIA-NEUR-76103F7093DB
       role: disease_specific_characterization
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Creatine kinase is obtained for Pompe disease when its specific
         clinical question is present.
@@ -5958,7 +5958,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Airway and respiratory support is distinguished from stabilization,
         rescue, prevention, and disposition steps in Pompe disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -5995,7 +5995,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: IVIG or plasma exchange when indicated is distinguished from
         stabilization, rescue, prevention, and disposition steps in Pompe disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6032,7 +6032,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: Mechanism-specific immunotherapy is distinguished from stabilization,
         rescue, prevention, and disposition steps in Pompe disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6069,7 +6069,7 @@
         emergency stabilization for lower-priority testing.
       board_exam_pearl: DVT prophylaxis and rehabilitation is distinguished from stabilization,
         rescue, prevention, and disposition steps in Pompe disease.
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
@@ -6146,7 +6146,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6179,7 +6179,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6211,7 +6211,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
@@ -6244,7 +6244,7 @@
       age_context: age-specific alternatives included when relevant
       rotation_context: Neurology; Emergency Medicine
       exam_context: explicit disease-level comparison
-      source_review_status: source_checked
+      source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       notes: ''
       commonness: common or plausible
