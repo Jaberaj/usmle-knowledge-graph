@@ -141,6 +141,30 @@ def validate(tables: dict[str, list[dict[str, str]]] | None = None) -> list[str]
                 errors.append(f"{table}: contradictory unverified/source_checked status")
             if status == "source_supported" and legacy != "source_checked":
                 errors.append(f"{table}: contradictory supported source status")
+    disease_ids_by_name = {row["canonical_name"]: row["disease_id"] for row in tables["diseases"]}
+    finding_ids_by_name = {row["name"]: row["finding_id"] for row in tables["findings"]}
+    migraine_id = disease_ids_by_name.get("Migraine without aura")
+    ms_id = disease_ids_by_name.get("Multiple sclerosis")
+    prohibited_migraine_findings = {
+        finding_ids_by_name.get(name)
+        for name in ("Papilledema", "Xanthochromia", "Elevated opening pressure", "Meningismus")
+    }
+    for row in tables["disease_findings"]:
+        if (
+            row["disease_id"] == migraine_id
+            and row["finding_id"] in prohibited_migraine_findings
+            and (row.get("presence") == "present" or row.get("relationship_role") != "red_flag")
+        ):
+            errors.append("disease_findings: migraine red flag encoded as characteristic")
+        if (
+            row["disease_id"] == ms_id
+            and row["finding_id"] == finding_ids_by_name.get("Aquaporin-4 antibodies")
+            and (
+                row.get("presence") == "present"
+                or row.get("relationship_role") != "favors_competitor"
+            )
+        ):
+            errors.append("disease_findings: aquaporin-4 incorrectly supports multiple sclerosis")
     for algorithm in tables["algorithms"]:
         nodes = {
             r["node_id"]

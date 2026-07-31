@@ -2003,7 +2003,6 @@
         "DIS-NEUR-028",
         "DIS-NEUR-029",
         "DIS-NEUR-033",
-        "DIS-NEUR-053",
         "DIS-NEUR-054",
         "DIS-NEUR-055",
         "DIS-NEUR-056",
@@ -3222,7 +3221,6 @@
     },
     {
       "common_differential_disease_ids": [
-        "DIS-NEUR-053",
         "DIS-NEUR-054",
         "DIS-NEUR-056",
         "DIS-NEUR-057",

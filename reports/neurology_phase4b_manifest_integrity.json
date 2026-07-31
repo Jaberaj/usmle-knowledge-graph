@@ -1,0 +1,48 @@
+{
+  "manifests": [
+    {
+      "source_file": "data/curation/neurology/headache.yaml",
+      "file_exists": true,
+      "file_size_bytes": 435226,
+      "valid_yaml": true,
+      "top_level_record_count": 13,
+      "unique_disease_count": 13,
+      "duplicate_disease_ids": [],
+      "empty_file": false,
+      "empty_records": [],
+      "missing_required_sections": []
+    },
+    {
+      "source_file": "data/curation/neurology/infection.yaml",
+      "file_exists": true,
+      "file_size_bytes": 1113659,
+      "valid_yaml": true,
+      "top_level_record_count": 20,
+      "unique_disease_count": 20,
+      "duplicate_disease_ids": [],
+      "empty_file": false,
+      "empty_records": [],
+      "missing_required_sections": []
+    },
+    {
+      "source_file": "data/curation/neurology/demyelinating.yaml",
+      "file_exists": true,
+      "file_size_bytes": 325324,
+      "valid_yaml": true,
+      "top_level_record_count": 10,
+      "unique_disease_count": 10,
+      "duplicate_disease_ids": [],
+      "empty_file": false,
+      "empty_records": [],
+      "missing_required_sections": []
+    }
+  ],
+  "source_manifest_bundle_count_mismatches": [],
+  "failures": [],
+  "computed_summary": {
+    "headache_manifest_empty": false,
+    "infection_manifest_empty": false,
+    "demyelinating_manifest_empty": false,
+    "source_manifest_bundle_count_mismatches": 0
+  }
+}

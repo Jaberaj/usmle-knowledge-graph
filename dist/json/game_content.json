@@ -5183,20 +5183,6 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-PROGRESSIVEHEADACHE",
-      "source_status": "partially_source_supported",
-      "target_disease_id": "DIS-NEUR-053"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
-      "presentation_id": "PRS-NEUR-074",
-      "source_status": "partially_source_supported",
-      "target_disease_id": "DIS-NEUR-053"
-    },
-    {
-      "cannot_miss_disease_ids": [],
-      "competing_disease_ids": [],
       "presentation_id": "PRS-007",
       "source_status": "partially_source_supported",
       "target_disease_id": "DIS-NEUR-054"

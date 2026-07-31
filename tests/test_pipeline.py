@@ -228,3 +228,32 @@ def test_phase4b_headache_infection_and_inflammation_ownership(
     disease_ids, links = _neurology_links()
     assert expected in links[kind + disease_ids[disease]]
     assert links[kind + disease_ids[disease]][expected]
+
+
+def test_phase4b_red_flags_are_not_characteristic_migraine_findings() -> None:
+    tables = load()
+    diseases = {row["canonical_name"]: row["disease_id"] for row in tables["diseases"]}
+    findings = {row["name"]: row["finding_id"] for row in tables["findings"]}
+    migraine_rows = [
+        row
+        for row in tables["disease_findings"]
+        if row["disease_id"] == diseases["Migraine without aura"]
+        and row["finding_id"]
+        in {findings[name] for name in ("Papilledema", "Xanthochromia", "Elevated opening pressure", "Meningismus")}
+    ]
+    assert migraine_rows
+    assert all(row["presence"] != "present" and row["relationship_role"] == "red_flag" for row in migraine_rows)
+
+
+def test_phase4b_aquaporin_four_favors_nmosd_not_multiple_sclerosis() -> None:
+    tables = load()
+    diseases = {row["canonical_name"]: row["disease_id"] for row in tables["diseases"]}
+    findings = {row["name"]: row["finding_id"] for row in tables["findings"]}
+    rows = [
+        row
+        for row in tables["disease_findings"]
+        if row["disease_id"] == diseases["Multiple sclerosis"]
+        and row["finding_id"] == findings["Aquaporin-4 antibodies"]
+    ]
+    assert rows and rows[0]["presence"] != "present"
+    assert rows[0]["relationship_role"] == "favors_competitor"

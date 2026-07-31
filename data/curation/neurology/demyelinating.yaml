@@ -17,10 +17,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. The linked presentation 'Vision loss' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For Multiple sclerosis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        multiple sclerosis. The linked presentation 'Vision loss' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Multiple sclerosis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -41,10 +41,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. The linked presentation 'Sensory level' is clinically
-        meaningful only in that stated pattern.
-      key_negative_clues: For Multiple sclerosis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        multiple sclerosis. The linked presentation 'Sensory level' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Multiple sclerosis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -65,10 +65,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. The linked presentation 'Weakness' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For Multiple sclerosis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        multiple sclerosis. The linked presentation 'Weakness' is linked because its
+        timing and associated examination findings match this illness script.
+      key_negative_clues: For Multiple sclerosis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -92,34 +92,34 @@
         multiple sclerosis. Here, 'Oligoclonal bands' is interpreted as an explicit
         disease-level finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish Multiple sclerosis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-DACEBC1F3094
       disease_id: DIS-N-0065
       finding_id: FND-NEUR-AQUAPORIN4ANTIBODIES
-      presence: present
-      typicality: supportive
+      presence: negative
+      typicality: atypical
       sensitivity_context: Timing and phenotype determine sensitivity of aquaporin-4
         antibodies in Multiple sclerosis.
       specificity_context: Aquaporin-4 antibodies is interpreted against the disease-specific
         mimics of Multiple sclerosis.
       disease_stage: condition-specific
       age_context: condition-specific
-      clinical_meaning: Dissemination of CNS deficits in time and space with typical
-        periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. Here, 'Aquaporin-4 antibodies' is interpreted as an explicit
-        disease-level finding.
-      distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish Multiple
-        sclerosis from the named mimics when interpreted with onset and examination.'
+      clinical_meaning: Aquaporin-4 IgG favors NMOSD rather than supporting multiple
+        sclerosis.
+      distinguishing_value: A positive aquaporin-4 result should trigger NMOSD-directed
+        evaluation and treatment planning.
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: favors_competitor
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-62BEB5DF5154
@@ -138,11 +138,12 @@
         multiple sclerosis. Here, 'Dawson fingers' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Dawson fingers'' helps distinguish Multiple sclerosis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-570511B42EDA
@@ -161,11 +162,12 @@
         multiple sclerosis. Here, 'Internuclear ophthalmoplegia' is interpreted as
         an explicit disease-level finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish Multiple
-        sclerosis from the named mimics when interpreted with onset and examination.'
+        sclerosis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Dawson fingers
     relationship:
@@ -223,20 +225,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. 'MRI brain and spinal cord with contrast' has a defined
-        role in this disease rather than serving as routine screening.
+        multiple sclerosis. 'MRI brain and spinal cord with contrast' is ordered only
+        for the concrete diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Multiple sclerosis, 'MRI brain and spinal cord with contrast'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
         multiple sclerosis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -254,18 +255,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. 'CSF oligoclonal bands' has a defined role in this disease
-        rather than serving as routine screening.
+        multiple sclerosis. 'CSF oligoclonal bands' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Multiple sclerosis, 'CSF oligoclonal bands' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Multiple sclerosis, 'CSF oligoclonal bands' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
         multiple sclerosis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -283,20 +285,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. 'Aquaporin-4 and MOG antibody testing' has a defined role
-        in this disease rather than serving as routine screening.
+        multiple sclerosis. 'Aquaporin-4 and MOG antibody testing' is ordered only
+        for the concrete diagnostic question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Multiple sclerosis, 'Aquaporin-4 and MOG antibody testing'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
         multiple sclerosis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -314,18 +315,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
-        multiple sclerosis. 'Visual evoked potentials' has a defined role in this
-        disease rather than serving as routine screening.
+        multiple sclerosis. 'Visual evoked potentials' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Multiple sclerosis, 'Visual evoked potentials' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Multiple sclerosis, 'Visual evoked potentials' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Dissemination of CNS deficits in time and space with typical
         periventricular lesions, Dawson fingers, or CSF oligoclonal bands supports
         multiple sclerosis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -594,9 +596,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Severe optic neuritis, longitudinally extensive myelitis,
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. The linked
-        presentation 'Vision loss' is clinically meaningful only in that stated pattern.
+        presentation 'Vision loss' is linked because its timing and associated examination
+        findings match this illness script.
       key_negative_clues: For Neuromyelitis optica spectrum disorder, absence of the
-        defining pattern above redirects evaluation to its documented alternatives.
+        expected syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -617,10 +620,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Severe optic neuritis, longitudinally extensive myelitis,
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. The linked
-        presentation 'Sensory level' is clinically meaningful only in that stated
-        pattern.
+        presentation 'Sensory level' is linked because its timing and associated examination
+        findings match this illness script.
       key_negative_clues: For Neuromyelitis optica spectrum disorder, absence of the
-        defining pattern above redirects evaluation to its documented alternatives.
+        expected syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -641,9 +644,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Severe optic neuritis, longitudinally extensive myelitis,
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. The linked
-        presentation 'Weakness' is clinically meaningful only in that stated pattern.
+        presentation 'Weakness' is linked because its timing and associated examination
+        findings match this illness script.
       key_negative_clues: For Neuromyelitis optica spectrum disorder, absence of the
-        defining pattern above redirects evaluation to its documented alternatives.
+        expected syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -666,12 +670,12 @@
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. Here,
         'Oligoclonal bands' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish Neuromyelitis
-        optica spectrum disorder from the named mimics when interpreted with onset
-        and examination.'
+        optica spectrum disorder when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-7478263E674F
@@ -689,12 +693,12 @@
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. Here,
         'Aquaporin-4 antibodies' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish Neuromyelitis
-        optica spectrum disorder from the named mimics when interpreted with onset
-        and examination.'
+        optica spectrum disorder when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-1504360D70AC
@@ -712,11 +716,12 @@
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. Here,
         'Dawson fingers' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Dawson fingers'' helps distinguish Neuromyelitis optica
-        spectrum disorder from the named mimics when interpreted with onset and examination.'
+        spectrum disorder when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-08C68C51876C
@@ -735,12 +740,12 @@
         'Internuclear ophthalmoplegia' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish Neuromyelitis
-        optica spectrum disorder from the named mimics when interpreted with onset
-        and examination.'
+        optica spectrum disorder when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Aquaporin-4 antibodies
     relationship:
@@ -798,19 +803,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Severe optic neuritis, longitudinally extensive myelitis,
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. 'MRI brain
-        and spinal cord with contrast' has a defined role in this disease rather than
-        serving as routine screening.
+        and spinal cord with contrast' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Neuromyelitis optica spectrum disorder, 'MRI brain and
-        spinal cord with contrast' is assessed for the characteristic result described
-        in the illness script above.
+        spinal cord with contrast' is expected to provide the disease-specific result
+        stated in its interpretation.
       interpretation: Severe optic neuritis, longitudinally extensive myelitis, or
         area-postrema syndrome with aquaporin-4 antibody supports NMOSD.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -828,17 +833,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Severe optic neuritis, longitudinally extensive myelitis,
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. 'CSF oligoclonal
-        bands' has a defined role in this disease rather than serving as routine screening.
+        bands' is ordered only for the concrete diagnostic question stated in the
+        clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Neuromyelitis optica spectrum disorder, 'CSF oligoclonal
-        bands' is assessed for the characteristic result described in the illness
-        script above.
+        bands' is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Severe optic neuritis, longitudinally extensive myelitis, or
         area-postrema syndrome with aquaporin-4 antibody supports NMOSD.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -856,19 +862,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Severe optic neuritis, longitudinally extensive myelitis,
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. 'Aquaporin-4
-        and MOG antibody testing' has a defined role in this disease rather than serving
-        as routine screening.
+        and MOG antibody testing' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Neuromyelitis optica spectrum disorder, 'Aquaporin-4 and
-        MOG antibody testing' is assessed for the characteristic result described
-        in the illness script above.
+        MOG antibody testing' is expected to provide the disease-specific result stated
+        in its interpretation.
       interpretation: Severe optic neuritis, longitudinally extensive myelitis, or
         area-postrema syndrome with aquaporin-4 antibody supports NMOSD.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -886,18 +892,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Severe optic neuritis, longitudinally extensive myelitis,
         or area-postrema syndrome with aquaporin-4 antibody supports NMOSD. 'Visual
-        evoked potentials' has a defined role in this disease rather than serving
-        as routine screening.
+        evoked potentials' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Neuromyelitis optica spectrum disorder, 'Visual evoked
-        potentials' is assessed for the characteristic result described in the illness
-        script above.
+        potentials' is expected to provide the disease-specific result stated in its
+        interpretation.
       interpretation: Severe optic neuritis, longitudinally extensive myelitis, or
         area-postrema syndrome with aquaporin-4 antibody supports NMOSD.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1161,10 +1168,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Optic neuritis, myelitis, or ADEM-like disease with serum
         MOG antibody, often bilateral optic neuritis in children, supports MOG-associated
-        disease. The linked presentation 'Vision loss' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For MOG antibody-associated disease, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        disease. The linked presentation 'Vision loss' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For MOG antibody-associated disease, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1185,10 +1192,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Optic neuritis, myelitis, or ADEM-like disease with serum
         MOG antibody, often bilateral optic neuritis in children, supports MOG-associated
-        disease. The linked presentation 'Sensory level' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For MOG antibody-associated disease, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        disease. The linked presentation 'Sensory level' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For MOG antibody-associated disease, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1209,10 +1216,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Optic neuritis, myelitis, or ADEM-like disease with serum
         MOG antibody, often bilateral optic neuritis in children, supports MOG-associated
-        disease. The linked presentation 'Weakness' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For MOG antibody-associated disease, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        disease. The linked presentation 'Weakness' is linked because its timing and
+        associated examination findings match this illness script.
+      key_negative_clues: For MOG antibody-associated disease, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1236,11 +1243,12 @@
         disease. Here, 'Oligoclonal bands' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish MOG antibody-associated
-        disease from the named mimics when interpreted with onset and examination.'
+        disease when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-391ED43ACD45
@@ -1259,11 +1267,12 @@
         disease. Here, 'Aquaporin-4 antibodies' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish MOG antibody-associated
-        disease from the named mimics when interpreted with onset and examination.'
+        disease when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-CFB9AE27D24C
@@ -1282,11 +1291,12 @@
         disease. Here, 'Dawson fingers' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Dawson fingers'' helps distinguish MOG antibody-associated
-        disease from the named mimics when interpreted with onset and examination.'
+        disease when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-C0E627051FB3
@@ -1305,12 +1315,12 @@
         disease. Here, 'Internuclear ophthalmoplegia' is interpreted as an explicit
         disease-level finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish MOG
-        antibody-associated disease from the named mimics when interpreted with onset
-        and examination.'
+        antibody-associated disease when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -1368,20 +1378,20 @@
       medical_review_status: needs_medical_review
       clinical_context: Optic neuritis, myelitis, or ADEM-like disease with serum
         MOG antibody, often bilateral optic neuritis in children, supports MOG-associated
-        disease. 'MRI brain and spinal cord with contrast' has a defined role in this
-        disease rather than serving as routine screening.
+        disease. 'MRI brain and spinal cord with contrast' is ordered only for the
+        concrete diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For MOG antibody-associated disease, 'MRI brain and spinal
-        cord with contrast' is assessed for the characteristic result described in
-        the illness script above.
+        cord with contrast' is expected to provide the disease-specific result stated
+        in its interpretation.
       interpretation: Optic neuritis, myelitis, or ADEM-like disease with serum MOG
         antibody, often bilateral optic neuritis in children, supports MOG-associated
         disease.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1399,19 +1409,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Optic neuritis, myelitis, or ADEM-like disease with serum
         MOG antibody, often bilateral optic neuritis in children, supports MOG-associated
-        disease. 'CSF oligoclonal bands' has a defined role in this disease rather
-        than serving as routine screening.
+        disease. 'CSF oligoclonal bands' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For MOG antibody-associated disease, 'CSF oligoclonal bands'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Optic neuritis, myelitis, or ADEM-like disease with serum MOG
         antibody, often bilateral optic neuritis in children, supports MOG-associated
         disease.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1429,20 +1439,20 @@
       medical_review_status: needs_medical_review
       clinical_context: Optic neuritis, myelitis, or ADEM-like disease with serum
         MOG antibody, often bilateral optic neuritis in children, supports MOG-associated
-        disease. 'Aquaporin-4 and MOG antibody testing' has a defined role in this
-        disease rather than serving as routine screening.
+        disease. 'Aquaporin-4 and MOG antibody testing' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For MOG antibody-associated disease, 'Aquaporin-4 and MOG antibody
-        testing' is assessed for the characteristic result described in the illness
-        script above.
+        testing' is expected to provide the disease-specific result stated in its
+        interpretation.
       interpretation: Optic neuritis, myelitis, or ADEM-like disease with serum MOG
         antibody, often bilateral optic neuritis in children, supports MOG-associated
         disease.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1460,19 +1470,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Optic neuritis, myelitis, or ADEM-like disease with serum
         MOG antibody, often bilateral optic neuritis in children, supports MOG-associated
-        disease. 'Visual evoked potentials' has a defined role in this disease rather
-        than serving as routine screening.
+        disease. 'Visual evoked potentials' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For MOG antibody-associated disease, 'Visual evoked potentials'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Optic neuritis, myelitis, or ADEM-like disease with serum MOG
         antibody, often bilateral optic neuritis in children, supports MOG-associated
         disease.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1741,10 +1751,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Subacute bilateral motor, sensory, and autonomic deficits
         with a spinal sensory level require urgent MRI to exclude compression before
-        inflammatory treatment. The linked presentation 'Vision loss' is clinically
-        meaningful only in that stated pattern.
-      key_negative_clues: For Transverse myelitis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        inflammatory treatment. The linked presentation 'Vision loss' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Transverse myelitis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1765,10 +1775,11 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Subacute bilateral motor, sensory, and autonomic deficits
         with a spinal sensory level require urgent MRI to exclude compression before
-        inflammatory treatment. The linked presentation 'Sensory level' is clinically
-        meaningful only in that stated pattern.
-      key_negative_clues: For Transverse myelitis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        inflammatory treatment. The linked presentation 'Sensory level' is linked
+        because its timing and associated examination findings match this illness
+        script.
+      key_negative_clues: For Transverse myelitis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1789,10 +1800,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Subacute bilateral motor, sensory, and autonomic deficits
         with a spinal sensory level require urgent MRI to exclude compression before
-        inflammatory treatment. The linked presentation 'Weakness' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For Transverse myelitis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        inflammatory treatment. The linked presentation 'Weakness' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Transverse myelitis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1816,11 +1827,12 @@
         inflammatory treatment. Here, 'Oligoclonal bands' is interpreted as an explicit
         disease-level finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish Transverse myelitis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-7ADDED4ED1AD
@@ -1839,11 +1851,12 @@
         inflammatory treatment. Here, 'Aquaporin-4 antibodies' is interpreted as an
         explicit disease-level finding.
       distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish Transverse
-        myelitis from the named mimics when interpreted with onset and examination.'
+        myelitis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-B9159DBB324D
@@ -1862,11 +1875,12 @@
         inflammatory treatment. Here, 'Dawson fingers' is interpreted as an explicit
         disease-level finding.
       distinguishing_value: '''Dawson fingers'' helps distinguish Transverse myelitis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-DE00820C4499
@@ -1885,11 +1899,12 @@
         inflammatory treatment. Here, 'Internuclear ophthalmoplegia' is interpreted
         as an explicit disease-level finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish Transverse
-        myelitis from the named mimics when interpreted with onset and examination.'
+        myelitis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -1948,20 +1963,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Subacute bilateral motor, sensory, and autonomic deficits
         with a spinal sensory level require urgent MRI to exclude compression before
-        inflammatory treatment. 'MRI brain and spinal cord with contrast' has a defined
-        role in this disease rather than serving as routine screening.
+        inflammatory treatment. 'MRI brain and spinal cord with contrast' is ordered
+        only for the concrete diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Transverse myelitis, 'MRI brain and spinal cord with contrast'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Subacute bilateral motor, sensory, and autonomic deficits with
         a spinal sensory level require urgent MRI to exclude compression before inflammatory
         treatment.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1979,18 +1993,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Subacute bilateral motor, sensory, and autonomic deficits
         with a spinal sensory level require urgent MRI to exclude compression before
-        inflammatory treatment. 'CSF oligoclonal bands' has a defined role in this
-        disease rather than serving as routine screening.
+        inflammatory treatment. 'CSF oligoclonal bands' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Transverse myelitis, 'CSF oligoclonal bands' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Transverse myelitis, 'CSF oligoclonal bands' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Subacute bilateral motor, sensory, and autonomic deficits with
         a spinal sensory level require urgent MRI to exclude compression before inflammatory
         treatment.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2008,20 +2023,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Subacute bilateral motor, sensory, and autonomic deficits
         with a spinal sensory level require urgent MRI to exclude compression before
-        inflammatory treatment. 'Aquaporin-4 and MOG antibody testing' has a defined
-        role in this disease rather than serving as routine screening.
+        inflammatory treatment. 'Aquaporin-4 and MOG antibody testing' is ordered
+        only for the concrete diagnostic question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Transverse myelitis, 'Aquaporin-4 and MOG antibody testing'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Subacute bilateral motor, sensory, and autonomic deficits with
         a spinal sensory level require urgent MRI to exclude compression before inflammatory
         treatment.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2039,18 +2053,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Subacute bilateral motor, sensory, and autonomic deficits
         with a spinal sensory level require urgent MRI to exclude compression before
-        inflammatory treatment. 'Visual evoked potentials' has a defined role in this
-        disease rather than serving as routine screening.
+        inflammatory treatment. 'Visual evoked potentials' is ordered only for the
+        concrete diagnostic question stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Transverse myelitis, 'Visual evoked potentials' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Transverse myelitis, 'Visual evoked potentials' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Subacute bilateral motor, sensory, and autonomic deficits with
         a spinal sensory level require urgent MRI to exclude compression before inflammatory
         treatment.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2319,9 +2334,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Painful monocular visual loss with an afferent pupillary
         defect and impaired color vision supports optic neuritis. The linked presentation
-        'Vision loss' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Optic neuritis, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        'Vision loss' is linked because its timing and associated examination findings
+        match this illness script.
+      key_negative_clues: For Optic neuritis, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2342,9 +2358,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Painful monocular visual loss with an afferent pupillary
         defect and impaired color vision supports optic neuritis. The linked presentation
-        'Sensory level' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Optic neuritis, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        'Sensory level' is linked because its timing and associated examination findings
+        match this illness script.
+      key_negative_clues: For Optic neuritis, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2365,9 +2382,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Painful monocular visual loss with an afferent pupillary
         defect and impaired color vision supports optic neuritis. The linked presentation
-        'Weakness' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Optic neuritis, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        'Weakness' is linked because its timing and associated examination findings
+        match this illness script.
+      key_negative_clues: For Optic neuritis, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2390,11 +2408,12 @@
         and impaired color vision supports optic neuritis. Here, 'Oligoclonal bands'
         is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish Optic neuritis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-E4C1027DCB86
@@ -2412,11 +2431,12 @@
         and impaired color vision supports optic neuritis. Here, 'Aquaporin-4 antibodies'
         is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish Optic neuritis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-2B3FE6EB2E9A
@@ -2433,12 +2453,13 @@
       clinical_meaning: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis. Here, 'Dawson fingers'
         is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Dawson fingers'' helps distinguish Optic neuritis from
-        the named mimics when interpreted with onset and examination.'
+      distinguishing_value: '''Dawson fingers'' helps distinguish Optic neuritis when
+        evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-0AE48C9BBDB2
@@ -2456,11 +2477,12 @@
         and impaired color vision supports optic neuritis. Here, 'Internuclear ophthalmoplegia'
         is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish Optic
-        neuritis from the named mimics when interpreted with onset and examination.'
+        neuritis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -2518,19 +2540,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis. 'MRI brain and spinal cord
-        with contrast' has a defined role in this disease rather than serving as routine
-        screening.
+        with contrast' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Optic neuritis, 'MRI brain and spinal cord with contrast'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2548,16 +2569,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis. 'CSF oligoclonal bands'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Optic neuritis, 'CSF oligoclonal bands' is assessed for
-        the characteristic result described in the illness script above.
+      expected_result: For Optic neuritis, 'CSF oligoclonal bands' is expected to
+        provide the disease-specific result stated in its interpretation.
       interpretation: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2575,19 +2598,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis. 'Aquaporin-4 and MOG antibody
-        testing' has a defined role in this disease rather than serving as routine
-        screening.
+        testing' is ordered only for the concrete diagnostic question stated in the
+        clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Optic neuritis, 'Aquaporin-4 and MOG antibody testing'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2605,16 +2627,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis. 'Visual evoked potentials'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Optic neuritis, 'Visual evoked potentials' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Optic neuritis, 'Visual evoked potentials' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Painful monocular visual loss with an afferent pupillary defect
         and impaired color vision supports optic neuritis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2877,10 +2901,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Progressive or relapsing symmetric weakness and sensory
         loss beyond eight weeks with areflexia suggests CIDP rather than acute GBS.
-        The linked presentation 'Vision loss' is clinically meaningful only in that
-        stated pattern.
+        The linked presentation 'Vision loss' is linked because its timing and associated
+        examination findings match this illness script.
       key_negative_clues: For Chronic inflammatory demyelinating polyneuropathy, absence
-        of the defining pattern above redirects evaluation to its documented alternatives.
+        of the expected syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2901,10 +2925,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Progressive or relapsing symmetric weakness and sensory
         loss beyond eight weeks with areflexia suggests CIDP rather than acute GBS.
-        The linked presentation 'Sensory level' is clinically meaningful only in that
-        stated pattern.
+        The linked presentation 'Sensory level' is linked because its timing and associated
+        examination findings match this illness script.
       key_negative_clues: For Chronic inflammatory demyelinating polyneuropathy, absence
-        of the defining pattern above redirects evaluation to its documented alternatives.
+        of the expected syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2925,10 +2949,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Progressive or relapsing symmetric weakness and sensory
         loss beyond eight weeks with areflexia suggests CIDP rather than acute GBS.
-        The linked presentation 'Weakness' is clinically meaningful only in that stated
-        pattern.
+        The linked presentation 'Weakness' is linked because its timing and associated
+        examination findings match this illness script.
       key_negative_clues: For Chronic inflammatory demyelinating polyneuropathy, absence
-        of the defining pattern above redirects evaluation to its documented alternatives.
+        of the expected syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2951,12 +2975,12 @@
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS. Here,
         'Oligoclonal bands' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish Chronic inflammatory
-        demyelinating polyneuropathy from the named mimics when interpreted with onset
-        and examination.'
+        demyelinating polyneuropathy when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-C3352A2522B4
@@ -2974,12 +2998,13 @@
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS. Here,
         'Aquaporin-4 antibodies' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish Chronic
-        inflammatory demyelinating polyneuropathy from the named mimics when interpreted
-        with onset and examination.'
+        inflammatory demyelinating polyneuropathy when evaluated with the actual onset
+        and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-94A2BF878BC4
@@ -2997,12 +3022,12 @@
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS. Here,
         'Dawson fingers' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Dawson fingers'' helps distinguish Chronic inflammatory
-        demyelinating polyneuropathy from the named mimics when interpreted with onset
-        and examination.'
+        demyelinating polyneuropathy when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-189CDA24B1FD
@@ -3021,12 +3046,13 @@
         'Internuclear ophthalmoplegia' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish Chronic
-        inflammatory demyelinating polyneuropathy from the named mimics when interpreted
-        with onset and examination.'
+        inflammatory demyelinating polyneuropathy when evaluated with the actual onset
+        and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -3084,19 +3110,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS. 'MRI
-        brain and spinal cord with contrast' has a defined role in this disease rather
-        than serving as routine screening.
+        brain and spinal cord with contrast' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Chronic inflammatory demyelinating polyneuropathy, 'MRI
-        brain and spinal cord with contrast' is assessed for the characteristic result
-        described in the illness script above.
+        brain and spinal cord with contrast' is expected to provide the disease-specific
+        result stated in its interpretation.
       interpretation: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3114,18 +3140,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS. 'CSF
-        oligoclonal bands' has a defined role in this disease rather than serving
-        as routine screening.
+        oligoclonal bands' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Chronic inflammatory demyelinating polyneuropathy, 'CSF
-        oligoclonal bands' is assessed for the characteristic result described in
-        the illness script above.
+        oligoclonal bands' is expected to provide the disease-specific result stated
+        in its interpretation.
       interpretation: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3143,19 +3170,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS. 'Aquaporin-4
-        and MOG antibody testing' has a defined role in this disease rather than serving
-        as routine screening.
+        and MOG antibody testing' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Chronic inflammatory demyelinating polyneuropathy, 'Aquaporin-4
-        and MOG antibody testing' is assessed for the characteristic result described
-        in the illness script above.
+        and MOG antibody testing' is expected to provide the disease-specific result
+        stated in its interpretation.
       interpretation: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3173,18 +3200,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS. 'Visual
-        evoked potentials' has a defined role in this disease rather than serving
-        as routine screening.
+        evoked potentials' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Chronic inflammatory demyelinating polyneuropathy, 'Visual
-        evoked potentials' is assessed for the characteristic result described in
-        the illness script above.
+        evoked potentials' is expected to provide the disease-specific result stated
+        in its interpretation.
       interpretation: Progressive or relapsing symmetric weakness and sensory loss
         beyond eight weeks with areflexia suggests CIDP rather than acute GBS.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3448,10 +3476,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        The linked presentation 'Memory loss' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        The linked presentation 'Memory loss' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3472,10 +3500,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        The linked presentation 'Delirium' is clinically meaningful only in that stated
-        pattern.
-      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        The linked presentation 'Delirium' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3496,10 +3524,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        The linked presentation 'Behavioral change' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        The linked presentation 'Behavioral change' is linked because its timing and
+        associated examination findings match this illness script.
+      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3520,10 +3548,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        The linked presentation 'Gait disturbance' is clinically meaningful only in
-        that stated pattern.
-      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        The linked presentation 'Gait disturbance' is linked because its timing and
+        associated examination findings match this illness script.
+      key_negative_clues: For Amyotrophic lateral sclerosis, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3547,11 +3575,12 @@
         Here, 'Neurofibrillary tangles' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Neurofibrillary tangles'' helps distinguish Amyotrophic
-        lateral sclerosis from the named mimics when interpreted with onset and examination.'
+        lateral sclerosis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-33678D999352
@@ -3569,11 +3598,12 @@
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
         Here, 'Lewy bodies' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Lewy bodies'' helps distinguish Amyotrophic lateral
-        sclerosis from the named mimics when interpreted with onset and examination.'
+        sclerosis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-BF0F1B5BA288
@@ -3591,11 +3621,12 @@
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
         Here, 'Ventriculomegaly' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Ventriculomegaly'' helps distinguish Amyotrophic lateral
-        sclerosis from the named mimics when interpreted with onset and examination.'
+        sclerosis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-6A1C4B26B207
@@ -3614,11 +3645,12 @@
         Here, 'Fluctuating attention' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Fluctuating attention'' helps distinguish Amyotrophic
-        lateral sclerosis from the named mimics when interpreted with onset and examination.'
+        lateral sclerosis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-D2F30524E3B2
@@ -3637,11 +3669,12 @@
         Here, 'Visual hallucinations' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Visual hallucinations'' helps distinguish Amyotrophic
-        lateral sclerosis from the named mimics when interpreted with onset and examination.'
+        lateral sclerosis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -3729,19 +3762,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        'Collateral cognitive and functional history' has a defined role in this disease
-        rather than serving as routine screening.
+        'Collateral cognitive and functional history' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Amyotrophic lateral sclerosis, 'Collateral cognitive and
-        functional history' is assessed for the characteristic result described in
-        the illness script above.
+        functional history' is expected to provide the disease-specific result stated
+        in its interpretation.
       interpretation: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Collateral cognitive and functional history'; urgent treatment is not
-        delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Collateral cognitive and functional history'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3759,19 +3792,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        'Medication and delirium-trigger review' has a defined role in this disease
-        rather than serving as routine screening.
+        'Medication and delirium-trigger review' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Amyotrophic lateral sclerosis, 'Medication and delirium-trigger
-        review' is assessed for the characteristic result described in the illness
-        script above.
+        review' is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Medication and delirium-trigger review'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Medication and delirium-trigger review'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3789,17 +3821,17 @@
       medical_review_status: needs_medical_review
       clinical_context: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        'Cognitive testing' has a defined role in this disease rather than serving
-        as routine screening.
+        'Cognitive testing' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Amyotrophic lateral sclerosis, 'Cognitive testing' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Amyotrophic lateral sclerosis, 'Cognitive testing' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Cognitive testing'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Cognitive testing'; urgent treatment is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3817,17 +3849,17 @@
       medical_review_status: needs_medical_review
       clinical_context: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        'Brain imaging' has a defined role in this disease rather than serving as
-        routine screening.
+        'Brain imaging' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Amyotrophic lateral sclerosis, 'Brain imaging' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Amyotrophic lateral sclerosis, 'Brain imaging' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Brain imaging'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Brain imaging'; urgent treatment is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3845,19 +3877,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-        'Reversible-cause laboratory testing' has a defined role in this disease rather
-        than serving as routine screening.
+        'Reversible-cause laboratory testing' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '5'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Amyotrophic lateral sclerosis, 'Reversible-cause laboratory
-        testing' is assessed for the characteristic result described in the illness
-        script above.
+        testing' is expected to provide the disease-specific result stated in its
+        interpretation.
       interpretation: Combined upper- and lower-motor-neuron signs without sensory
         loss support ALS, an important motor-predominant mimic of inflammatory neuropathy.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Reversible-cause laboratory testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Reversible-cause laboratory testing'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4427,9 +4459,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. The linked presentation
-        'Developmental regression' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Tuberous sclerosis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        'Developmental regression' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Tuberous sclerosis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -4450,9 +4483,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. The linked presentation
-        'Neonatal hypotonia' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Tuberous sclerosis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        'Neonatal hypotonia' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Tuberous sclerosis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -4473,9 +4507,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. The linked presentation
-        'First seizure' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Tuberous sclerosis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        'First seizure' is linked because its timing and associated examination findings
+        match this illness script.
+      key_negative_clues: For Tuberous sclerosis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -4498,11 +4533,12 @@
         tuberous sclerosis rather than acquired CNS inflammation. Here, 'Developmental
         regression' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Developmental regression'' helps distinguish Tuberous
-        sclerosis from the named mimics when interpreted with onset and examination.'
+        sclerosis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Neonatal hypotonia
     relationship:
       disease_finding_id: DNF-NEUR-870B768168C4
@@ -4520,11 +4556,12 @@
         tuberous sclerosis rather than acquired CNS inflammation. Here, 'Neonatal
         hypotonia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Neonatal hypotonia'' helps distinguish Tuberous sclerosis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Macrocephaly
     relationship:
       disease_finding_id: DNF-NEUR-3F4056C1F223
@@ -4542,11 +4579,12 @@
         tuberous sclerosis rather than acquired CNS inflammation. Here, 'Macrocephaly'
         is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Macrocephaly'' helps distinguish Tuberous sclerosis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Hypotonia
     relationship:
       disease_finding_id: DNF-NEUR-86653527BC09
@@ -4563,12 +4601,13 @@
       clinical_meaning: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. Here, 'Hypotonia'
         is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Hypotonia'' helps distinguish Tuberous sclerosis from
-        the named mimics when interpreted with onset and examination.'
+      distinguishing_value: '''Hypotonia'' helps distinguish Tuberous sclerosis when
+        evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Developmental regression
     relationship:
@@ -4626,19 +4665,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. 'Developmental and
-        family history' has a defined role in this disease rather than serving as
-        routine screening.
+        family history' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Tuberous sclerosis, 'Developmental and family history'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Developmental and family history'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Developmental and family history'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4656,16 +4694,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. 'Brain and spine
-        MRI' has a defined role in this disease rather than serving as routine screening.
+        MRI' is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Tuberous sclerosis, 'Brain and spine MRI' is assessed for
-        the characteristic result described in the illness script above.
+      expected_result: For Tuberous sclerosis, 'Brain and spine MRI' is expected to
+        provide the disease-specific result stated in its interpretation.
       interpretation: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Brain and spine MRI'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Brain and spine MRI'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4683,18 +4723,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. 'Genetic testing
-        and counseling' has a defined role in this disease rather than serving as
-        routine screening.
+        and counseling' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Tuberous sclerosis, 'Genetic testing and counseling' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Genetic testing and counseling'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Genetic testing and counseling'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4712,16 +4752,17 @@
       medical_review_status: needs_medical_review
       clinical_context: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation. 'Metabolic testing'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Tuberous sclerosis, 'Metabolic testing' is assessed for
-        the characteristic result described in the illness script above.
+      expected_result: For Tuberous sclerosis, 'Metabolic testing' is expected to
+        provide the disease-specific result stated in its interpretation.
       interpretation: Cortical tubers, seizures, and multisystem hamartomas suggest
         tuberous sclerosis rather than acquired CNS inflammation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Metabolic testing'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Metabolic testing'; urgent treatment is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4984,10 +5025,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Delayed dysarthria, dysphagia, quadriparesis, or altered
         consciousness after overly rapid correction of chronic hyponatremia suggests
-        osmotic demyelination. The linked presentation 'Vision loss' is clinically
-        meaningful only in that stated pattern.
-      key_negative_clues: For Osmotic demyelination syndrome, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        osmotic demyelination. The linked presentation 'Vision loss' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Osmotic demyelination syndrome, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5008,10 +5049,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Delayed dysarthria, dysphagia, quadriparesis, or altered
         consciousness after overly rapid correction of chronic hyponatremia suggests
-        osmotic demyelination. The linked presentation 'Sensory level' is clinically
-        meaningful only in that stated pattern.
-      key_negative_clues: For Osmotic demyelination syndrome, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        osmotic demyelination. The linked presentation 'Sensory level' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Osmotic demyelination syndrome, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5032,10 +5073,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Delayed dysarthria, dysphagia, quadriparesis, or altered
         consciousness after overly rapid correction of chronic hyponatremia suggests
-        osmotic demyelination. The linked presentation 'Weakness' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For Osmotic demyelination syndrome, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        osmotic demyelination. The linked presentation 'Weakness' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Osmotic demyelination syndrome, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5058,11 +5099,12 @@
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
         Here, 'Oligoclonal bands' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish Osmotic demyelination
-        syndrome from the named mimics when interpreted with onset and examination.'
+        syndrome when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-0A09153CB944
@@ -5081,12 +5123,12 @@
         Here, 'Aquaporin-4 antibodies' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish Osmotic
-        demyelination syndrome from the named mimics when interpreted with onset and
-        examination.'
+        demyelination syndrome when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-5FD3FC320134
@@ -5104,11 +5146,12 @@
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
         Here, 'Dawson fingers' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Dawson fingers'' helps distinguish Osmotic demyelination
-        syndrome from the named mimics when interpreted with onset and examination.'
+        syndrome when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-D1482D20C99A
@@ -5127,12 +5170,12 @@
         Here, 'Internuclear ophthalmoplegia' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish Osmotic
-        demyelination syndrome from the named mimics when interpreted with onset and
-        examination.'
+        demyelination syndrome when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -5204,19 +5247,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-        'MRI brain and spinal cord with contrast' has a defined role in this disease
-        rather than serving as routine screening.
+        'MRI brain and spinal cord with contrast' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Osmotic demyelination syndrome, 'MRI brain and spinal cord
-        with contrast' is assessed for the characteristic result described in the
-        illness script above.
+        with contrast' is expected to provide the disease-specific result stated in
+        its interpretation.
       interpretation: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5234,18 +5277,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-        'CSF oligoclonal bands' has a defined role in this disease rather than serving
-        as routine screening.
+        'CSF oligoclonal bands' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Osmotic demyelination syndrome, 'CSF oligoclonal bands'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5263,19 +5306,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-        'Aquaporin-4 and MOG antibody testing' has a defined role in this disease
-        rather than serving as routine screening.
+        'Aquaporin-4 and MOG antibody testing' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Osmotic demyelination syndrome, 'Aquaporin-4 and MOG antibody
-        testing' is assessed for the characteristic result described in the illness
-        script above.
+        testing' is expected to provide the disease-specific result stated in its
+        interpretation.
       interpretation: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5293,18 +5336,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-        'Visual evoked potentials' has a defined role in this disease rather than
-        serving as routine screening.
+        'Visual evoked potentials' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Osmotic demyelination syndrome, 'Visual evoked potentials'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness
         after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5569,10 +5612,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
-        myelitis. The linked presentation 'Vision loss' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Acute flaccid myelitis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        myelitis. The linked presentation 'Vision loss' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Acute flaccid myelitis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5593,10 +5636,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
-        myelitis. The linked presentation 'Sensory level' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For Acute flaccid myelitis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        myelitis. The linked presentation 'Sensory level' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Acute flaccid myelitis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5617,10 +5660,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
-        myelitis. The linked presentation 'Weakness' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Acute flaccid myelitis, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        myelitis. The linked presentation 'Weakness' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Acute flaccid myelitis, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5644,11 +5687,12 @@
         myelitis. Here, 'Oligoclonal bands' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Oligoclonal bands'' helps distinguish Acute flaccid
-        myelitis from the named mimics when interpreted with onset and examination.'
+        myelitis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-714DB9BF91F5
@@ -5667,11 +5711,12 @@
         myelitis. Here, 'Aquaporin-4 antibodies' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Aquaporin-4 antibodies'' helps distinguish Acute flaccid
-        myelitis from the named mimics when interpreted with onset and examination.'
+        myelitis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-434EA64CB94D
@@ -5690,11 +5735,12 @@
         myelitis. Here, 'Dawson fingers' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Dawson fingers'' helps distinguish Acute flaccid myelitis
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-9992BDA1A445
@@ -5713,11 +5759,12 @@
         myelitis. Here, 'Internuclear ophthalmoplegia' is interpreted as an explicit
         disease-level finding.
       distinguishing_value: '''Internuclear ophthalmoplegia'' helps distinguish Acute
-        flaccid myelitis from the named mimics when interpreted with onset and examination.'
+        flaccid myelitis when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -5776,20 +5823,20 @@
       medical_review_status: needs_medical_review
       clinical_context: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
-        myelitis. 'MRI brain and spinal cord with contrast' has a defined role in
-        this disease rather than serving as routine screening.
+        myelitis. 'MRI brain and spinal cord with contrast' is ordered only for the
+        concrete diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Acute flaccid myelitis, 'MRI brain and spinal cord with
-        contrast' is assessed for the characteristic result described in the illness
-        script above.
+        contrast' is expected to provide the disease-specific result stated in its
+        interpretation.
       interpretation: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
         myelitis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain and spinal cord with contrast'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain and spinal cord with contrast'; urgent treatment
+        is not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5807,18 +5854,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
-        myelitis. 'CSF oligoclonal bands' has a defined role in this disease rather
-        than serving as routine screening.
+        myelitis. 'CSF oligoclonal bands' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Acute flaccid myelitis, 'CSF oligoclonal bands' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Acute flaccid myelitis, 'CSF oligoclonal bands' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
         myelitis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CSF oligoclonal bands'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CSF oligoclonal bands'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5836,20 +5884,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
-        myelitis. 'Aquaporin-4 and MOG antibody testing' has a defined role in this
-        disease rather than serving as routine screening.
+        myelitis. 'Aquaporin-4 and MOG antibody testing' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Acute flaccid myelitis, 'Aquaporin-4 and MOG antibody testing'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
         myelitis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Aquaporin-4 and MOG antibody testing'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Aquaporin-4 and MOG antibody testing'; urgent treatment is
+        not delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5867,18 +5914,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
-        myelitis. 'Visual evoked potentials' has a defined role in this disease rather
-        than serving as routine screening.
+        myelitis. 'Visual evoked potentials' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Acute flaccid myelitis, 'Visual evoked potentials' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Acute flaccid myelitis, 'Visual evoked potentials' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Acute asymmetric flaccid limb weakness with anterior-horn-cell
         spinal MRI abnormalities, often after viral illness, supports acute flaccid
         myelitis.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Visual evoked potentials'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Visual evoked potentials'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific

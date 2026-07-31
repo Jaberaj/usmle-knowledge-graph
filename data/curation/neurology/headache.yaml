@@ -15,58 +15,12 @@
       age_context: condition-specific
       pregnancy_context: consider only when clinically relevant
       clinical_setting: emergency for acute instability; otherwise context-specific
-      key_positive_clues: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. The linked
-        presentation 'Headache' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Migraine without aura, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
-      cannot_miss: 'false'
-      step_levels: Step 1; Step 2 CK; Step 3
-      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
-      source_status: unverified_ai_generated
-  - entity: Progressive headache
-    relationship:
-      disease_presentation_id: DPR-NEUR-C453CF5EE4C3
-      disease_id: DIS-NEUR-053
-      presentation_id: PRS-NEUR-PROGRESSIVEHEADACHE
-      source_review_status: draft_ai_generated
-      medical_review_status: needs_medical_review
-      relationship_role: common
-      typicality: typical
-      frequency_category: common
-      acuity: variable
-      age_context: condition-specific
-      pregnancy_context: consider only when clinically relevant
-      clinical_setting: emergency for acute instability; otherwise context-specific
-      key_positive_clues: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. The linked
-        presentation 'Progressive headache' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Migraine without aura, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
-      cannot_miss: 'false'
-      step_levels: Step 1; Step 2 CK; Step 3
-      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
-      source_status: unverified_ai_generated
-  - entity: Vision loss
-    relationship:
-      disease_presentation_id: DPR-NEUR-0377366BC322
-      disease_id: DIS-NEUR-053
-      presentation_id: PRS-NEUR-074
-      source_review_status: draft_ai_generated
-      medical_review_status: needs_medical_review
-      relationship_role: common
-      typicality: typical
-      frequency_category: common
-      acuity: variable
-      age_context: condition-specific
-      pregnancy_context: consider only when clinically relevant
-      clinical_setting: emergency for acute instability; otherwise context-specific
-      key_positive_clues: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. The linked
-        presentation 'Vision loss' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Migraine without aura, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+      key_positive_clues: Recurrent episodic pulsatile headache lasting hours with
+        nausea, photophobia, or phonophobia and a normal neurologic examination between
+        attacks supports migraine without aura.
+      key_negative_clues: No gradually spreading focal aura, persistent deficit, fever,
+        papilledema, or meningismus is expected in uncomplicated migraine without
+        aura.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -77,89 +31,93 @@
       disease_finding_id: DNF-NEUR-BA1BAA4A4E9C
       disease_id: DIS-NEUR-053
       finding_id: FND-NEUR-PAPILLEDEMA
-      presence: present
-      typicality: classic
+      presence: negative
+      typicality: atypical
       sensitivity_context: Timing and phenotype determine sensitivity of papilledema
         in Migraine without aura.
       specificity_context: Papilledema is interpreted against the disease-specific
         mimics of Migraine without aura.
       disease_stage: condition-specific
       age_context: condition-specific
-      clinical_meaning: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. Here, 'Papilledema'
-        is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Papilledema'' helps distinguish Migraine without aura
-        from the named mimics when interpreted with onset and examination.'
+      clinical_meaning: This is not a typical migraine finding; it requires evaluation
+        for secondary headache, including raised intracranial pressure, hemorrhage,
+        or infection as appropriate.
+      distinguishing_value: A positive finding redirects the diagnosis away from uncomplicated
+        migraine without aura.
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: red_flag
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-4C4DD41E63CD
       disease_id: DIS-NEUR-053
       finding_id: FND-NEUR-XANTHOCHROMIA
-      presence: present
-      typicality: supportive
+      presence: negative
+      typicality: atypical
       sensitivity_context: Timing and phenotype determine sensitivity of xanthochromia
         in Migraine without aura.
       specificity_context: Xanthochromia is interpreted against the disease-specific
         mimics of Migraine without aura.
       disease_stage: condition-specific
       age_context: condition-specific
-      clinical_meaning: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. Here, 'Xanthochromia'
-        is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Xanthochromia'' helps distinguish Migraine without
-        aura from the named mimics when interpreted with onset and examination.'
+      clinical_meaning: This is not a typical migraine finding; it requires evaluation
+        for secondary headache, including raised intracranial pressure, hemorrhage,
+        or infection as appropriate.
+      distinguishing_value: A positive finding redirects the diagnosis away from uncomplicated
+        migraine without aura.
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: red_flag
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-5B8EB50B6608
       disease_id: DIS-NEUR-053
       finding_id: FND-NEUR-ELEVATEDOPENINGPRESS
-      presence: present
-      typicality: supportive
+      presence: negative
+      typicality: atypical
       sensitivity_context: Timing and phenotype determine sensitivity of elevated
         opening pressure in Migraine without aura.
       specificity_context: Elevated opening pressure is interpreted against the disease-specific
         mimics of Migraine without aura.
       disease_stage: condition-specific
       age_context: condition-specific
-      clinical_meaning: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. Here, 'Elevated
-        opening pressure' is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Elevated opening pressure'' helps distinguish Migraine
-        without aura from the named mimics when interpreted with onset and examination.'
+      clinical_meaning: This is not a typical migraine finding; it requires evaluation
+        for secondary headache, including raised intracranial pressure, hemorrhage,
+        or infection as appropriate.
+      distinguishing_value: A positive finding redirects the diagnosis away from uncomplicated
+        migraine without aura.
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: red_flag
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-BD2C50B01B4C
       disease_id: DIS-NEUR-053
       finding_id: FND-NEUR-MENINGISMUS
-      presence: present
-      typicality: supportive
+      presence: negative
+      typicality: atypical
       sensitivity_context: Timing and phenotype determine sensitivity of meningismus
         in Migraine without aura.
       specificity_context: Meningismus is interpreted against the disease-specific
         mimics of Migraine without aura.
       disease_stage: condition-specific
       age_context: condition-specific
-      clinical_meaning: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. Here, 'Meningismus'
-        is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Meningismus'' helps distinguish Migraine without aura
-        from the named mimics when interpreted with onset and examination.'
+      clinical_meaning: This is not a typical migraine finding; it requires evaluation
+        for secondary headache, including raised intracranial pressure, hemorrhage,
+        or infection as appropriate.
+      distinguishing_value: A positive finding redirects the diagnosis away from uncomplicated
+        migraine without aura.
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: red_flag
   keywords:
   - entity: Photophobia with nausea
     relationship:
@@ -181,24 +139,24 @@
       disease_diagnostic_id: DDG-NEUR-CC2C6733D1FB
       disease_id: DIS-NEUR-053
       diagnostic_id: DIA-NEUR-AD3E74CEC54D
-      role: initial_hemorrhage_exclusion
+      role: secondary_cause_evaluation
       source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
-      clinical_context: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. 'Noncontrast
-        head CT' has a defined role in this disease rather than serving as routine
-        screening.
+      clinical_context: Use only for sudden maximal-onset headache, trauma, altered
+        consciousness, focal deficit, fever/meningismus, papilledema, or another concern
+        for secondary headache; it is unnecessary for stable recurrent migraine with
+        a normal examination.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Migraine without aura, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
-      interpretation: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
-      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
-        or instability is suspected.
+      expected_result: In uncomplicated migraine, Noncontrast head CT is expected
+        to show no secondary structural, hemorrhagic, vascular, or CSF explanation.
+      interpretation: A positive result redirects management to the demonstrated secondary
+        disorder rather than confirming migraine.
+      limitations: A normal study does not override a concerning evolving examination;
+        test selection follows the specific red flag.
+      test_to_avoid: Do not order this routinely for typical recurrent migraine with
+        a normal examination.
       age_context: condition-specific
       pregnancy_context: use safety-aware alternatives when relevant
       step_levels: Step 1; Step 2 CK; Step 3
@@ -209,25 +167,24 @@
       disease_diagnostic_id: DDG-NEUR-BBB1A8F83A1F
       disease_id: DIS-NEUR-053
       diagnostic_id: DIA-NEUR-BA3198A14E32
-      role: vascular_characterization
+      role: secondary_cause_evaluation
       source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
-      clinical_context: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. 'CT angiography
-        head and neck' has a defined role in this disease rather than serving as routine
-        screening.
+      clinical_context: Use only for sudden maximal-onset headache, trauma, altered
+        consciousness, focal deficit, fever/meningismus, papilledema, or another concern
+        for secondary headache; it is unnecessary for stable recurrent migraine with
+        a normal examination.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Migraine without aura, 'CT angiography head and neck' is
-        assessed for the characteristic result described in the illness script above.
-      interpretation: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
-      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
-        or instability is suspected.
+      expected_result: In uncomplicated migraine, CT angiography head and neck is
+        expected to show no secondary structural, hemorrhagic, vascular, or CSF explanation.
+      interpretation: A positive result redirects management to the demonstrated secondary
+        disorder rather than confirming migraine.
+      limitations: A normal study does not override a concerning evolving examination;
+        test selection follows the specific red flag.
+      test_to_avoid: Do not order this routinely for typical recurrent migraine with
+        a normal examination.
       age_context: condition-specific
       pregnancy_context: use safety-aware alternatives when relevant
       step_levels: Step 1; Step 2 CK; Step 3
@@ -238,26 +195,25 @@
       disease_diagnostic_id: DDG-NEUR-CF0E429E53C0
       disease_id: DIS-NEUR-053
       diagnostic_id: DIA-NEUR-D793FB579BDF
-      role: csf_confirmation
+      role: secondary_cause_evaluation
       source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
-      clinical_context: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. 'Lumbar puncture
-        with CSF analysis' has a defined role in this disease rather than serving
-        as routine screening.
+      clinical_context: Use only for sudden maximal-onset headache, trauma, altered
+        consciousness, focal deficit, fever/meningismus, papilledema, or another concern
+        for secondary headache; it is unnecessary for stable recurrent migraine with
+        a normal examination.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Migraine without aura, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
-      interpretation: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
-      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
-        or instability is suspected.
+      expected_result: In uncomplicated migraine, Lumbar puncture with CSF analysis
+        is expected to show no secondary structural, hemorrhagic, vascular, or CSF
+        explanation.
+      interpretation: A positive result redirects management to the demonstrated secondary
+        disorder rather than confirming migraine.
+      limitations: A normal study does not override a concerning evolving examination;
+        test selection follows the specific red flag.
+      test_to_avoid: Do not order this routinely for typical recurrent migraine with
+        a normal examination.
       age_context: condition-specific
       pregnancy_context: use safety-aware alternatives when relevant
       step_levels: Step 1; Step 2 CK; Step 3
@@ -268,24 +224,24 @@
       disease_diagnostic_id: DDG-NEUR-C020F008A928
       disease_id: DIS-NEUR-053
       diagnostic_id: DIA-NEUR-A685E95FF812
-      role: anatomic_characterization
+      role: secondary_cause_evaluation
       source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
-      clinical_context: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura. 'MRI brain
-        with contrast' has a defined role in this disease rather than serving as routine
-        screening.
+      clinical_context: Use only for sudden maximal-onset headache, trauma, altered
+        consciousness, focal deficit, fever/meningismus, papilledema, or another concern
+        for secondary headache; it is unnecessary for stable recurrent migraine with
+        a normal examination.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Migraine without aura, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
-      interpretation: Recurrent attacks of pulsatile disabling headache with nausea
-        and photo- or phonophobia occur without a preceding focal aura.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
-      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
-        or instability is suspected.
+      expected_result: In uncomplicated migraine, MRI brain with contrast is expected
+        to show no secondary structural, hemorrhagic, vascular, or CSF explanation.
+      interpretation: A positive result redirects management to the demonstrated secondary
+        disorder rather than confirming migraine.
+      limitations: A normal study does not override a concerning evolving examination;
+        test selection follows the specific red flag.
+      test_to_avoid: Do not order this routinely for typical recurrent migraine with
+        a normal examination.
       age_context: condition-specific
       pregnancy_context: use safety-aware alternatives when relevant
       step_levels: Step 1; Step 2 CK; Step 3
@@ -547,9 +503,10 @@
       key_positive_clues: Gradually spreading positive visual, sensory, or language
         symptoms that evolve over minutes and may precede headache support migraine
         aura rather than abrupt negative TIA symptoms. The linked presentation 'Headache'
-        is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Migraine with aura, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        is linked because its timing and associated examination findings match this
+        illness script.
+      key_negative_clues: For Migraine with aura, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -571,9 +528,10 @@
       key_positive_clues: Gradually spreading positive visual, sensory, or language
         symptoms that evolve over minutes and may precede headache support migraine
         aura rather than abrupt negative TIA symptoms. The linked presentation 'Progressive
-        headache' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Migraine with aura, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        headache' is linked because its timing and associated examination findings
+        match this illness script.
+      key_negative_clues: For Migraine with aura, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -595,9 +553,10 @@
       key_positive_clues: Gradually spreading positive visual, sensory, or language
         symptoms that evolve over minutes and may precede headache support migraine
         aura rather than abrupt negative TIA symptoms. The linked presentation 'Vision
-        loss' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Migraine with aura, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        loss' is linked because its timing and associated examination findings match
+        this illness script.
+      key_negative_clues: For Migraine with aura, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -621,11 +580,12 @@
         aura rather than abrupt negative TIA symptoms. Here, 'Papilledema' is interpreted
         as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Migraine with aura
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-939B73343A2F
@@ -644,11 +604,12 @@
         aura rather than abrupt negative TIA symptoms. Here, 'Xanthochromia' is interpreted
         as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Migraine with aura
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-B077449EA5C9
@@ -667,11 +628,12 @@
         aura rather than abrupt negative TIA symptoms. Here, 'Elevated opening pressure'
         is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Migraine
-        with aura from the named mimics when interpreted with onset and examination.'
+        with aura when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-6721AB80EF7E
@@ -690,11 +652,12 @@
         aura rather than abrupt negative TIA symptoms. Here, 'Meningismus' is interpreted
         as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Migraine with aura
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Gradually spreading positive aura
     relationship:
@@ -722,18 +685,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Gradually spreading positive visual, sensory, or language
         symptoms that evolve over minutes and may precede headache support migraine
-        aura rather than abrupt negative TIA symptoms. 'Noncontrast head CT' has a
-        defined role in this disease rather than serving as routine screening.
+        aura rather than abrupt negative TIA symptoms. 'Noncontrast head CT' is ordered
+        only for the concrete diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Migraine with aura, 'Noncontrast head CT' is assessed for
-        the characteristic result described in the illness script above.
+      expected_result: For Migraine with aura, 'Noncontrast head CT' is expected to
+        provide the disease-specific result stated in its interpretation.
       interpretation: Gradually spreading positive visual, sensory, or language symptoms
         that evolve over minutes and may precede headache support migraine aura rather
         than abrupt negative TIA symptoms.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -752,18 +716,19 @@
       clinical_context: Gradually spreading positive visual, sensory, or language
         symptoms that evolve over minutes and may precede headache support migraine
         aura rather than abrupt negative TIA symptoms. 'CT angiography head and neck'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Migraine with aura, 'CT angiography head and neck' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Migraine with aura, 'CT angiography head and neck' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Gradually spreading positive visual, sensory, or language symptoms
         that evolve over minutes and may precede headache support migraine aura rather
         than abrupt negative TIA symptoms.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -782,19 +747,19 @@
       clinical_context: Gradually spreading positive visual, sensory, or language
         symptoms that evolve over minutes and may precede headache support migraine
         aura rather than abrupt negative TIA symptoms. 'Lumbar puncture with CSF analysis'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Migraine with aura, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Gradually spreading positive visual, sensory, or language symptoms
         that evolve over minutes and may precede headache support migraine aura rather
         than abrupt negative TIA symptoms.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -812,18 +777,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Gradually spreading positive visual, sensory, or language
         symptoms that evolve over minutes and may precede headache support migraine
-        aura rather than abrupt negative TIA symptoms. 'MRI brain with contrast' has
-        a defined role in this disease rather than serving as routine screening.
+        aura rather than abrupt negative TIA symptoms. 'MRI brain with contrast' is
+        ordered only for the concrete diagnostic question stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Migraine with aura, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Migraine with aura, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Gradually spreading positive visual, sensory, or language symptoms
         that evolve over minutes and may precede headache support migraine aura rather
         than abrupt negative TIA symptoms.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1093,10 +1059,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-        The linked presentation 'Headache' is clinically meaningful only in that stated
-        pattern.
-      key_negative_clues: For Hemiplegic migraine, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        The linked presentation 'Headache' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Hemiplegic migraine, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1117,10 +1083,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-        The linked presentation 'Thunderclap headache' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Hemiplegic migraine, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        The linked presentation 'Thunderclap headache' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Hemiplegic migraine, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1141,10 +1107,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-        The linked presentation 'Vision loss' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Hemiplegic migraine, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        The linked presentation 'Vision loss' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Hemiplegic migraine, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1167,11 +1133,12 @@
         aura requires exclusion of acute stroke at a first or atypical presentation.
         Here, 'Papilledema' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Hemiplegic migraine
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-FD39E736057F
@@ -1189,11 +1156,12 @@
         aura requires exclusion of acute stroke at a first or atypical presentation.
         Here, 'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Hemiplegic migraine
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-28031CE058BD
@@ -1212,11 +1180,12 @@
         Here, 'Elevated opening pressure' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Hemiplegic
-        migraine from the named mimics when interpreted with onset and examination.'
+        migraine when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-3AEAB384FD70
@@ -1234,11 +1203,12 @@
         aura requires exclusion of acute stroke at a first or atypical presentation.
         Here, 'Meningismus' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Hemiplegic migraine
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Reversible unilateral weakness with aura
     relationship:
@@ -1265,17 +1235,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-        'Noncontrast head CT' has a defined role in this disease rather than serving
-        as routine screening.
+        'Noncontrast head CT' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Hemiplegic migraine, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Hemiplegic migraine, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1293,18 +1264,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-        'CT angiography head and neck' has a defined role in this disease rather than
-        serving as routine screening.
+        'CT angiography head and neck' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Hemiplegic migraine, 'CT angiography head and neck' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1322,19 +1293,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-        'Lumbar puncture with CSF analysis' has a defined role in this disease rather
-        than serving as routine screening.
+        'Lumbar puncture with CSF analysis' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Hemiplegic migraine, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1352,17 +1322,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-        'MRI brain with contrast' has a defined role in this disease rather than serving
-        as routine screening.
+        'MRI brain with contrast' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Hemiplegic migraine, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Hemiplegic migraine, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Reversible unilateral motor weakness evolving with migraine
         aura requires exclusion of acute stroke at a first or atypical presentation.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -1838,10 +1809,11 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
-        trigeminal autonomic cephalalgia. The linked presentation 'Headache' is clinically
-        meaningful only in that stated pattern.
-      key_negative_clues: For Cluster headache, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        trigeminal autonomic cephalalgia. The linked presentation 'Headache' is linked
+        because its timing and associated examination findings match this illness
+        script.
+      key_negative_clues: For Cluster headache, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1863,9 +1835,10 @@
       key_positive_clues: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia. The linked presentation 'Progressive headache'
-        is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Cluster headache, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        is linked because its timing and associated examination findings match this
+        illness script.
+      key_negative_clues: For Cluster headache, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1887,9 +1860,10 @@
       key_positive_clues: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia. The linked presentation 'Vision loss' is
-        clinically meaningful only in that stated pattern.
-      key_negative_clues: For Cluster headache, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        linked because its timing and associated examination findings match this illness
+        script.
+      key_negative_clues: For Cluster headache, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -1912,12 +1886,13 @@
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia. Here, 'Papilledema' is interpreted as an
         explicit disease-level finding.
-      distinguishing_value: '''Papilledema'' helps distinguish Cluster headache from
-        the named mimics when interpreted with onset and examination.'
+      distinguishing_value: '''Papilledema'' helps distinguish Cluster headache when
+        evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-E0F44C3C6672
@@ -1936,11 +1911,12 @@
         trigeminal autonomic cephalalgia. Here, 'Xanthochromia' is interpreted as
         an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Cluster headache
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-C318250C6563
@@ -1959,11 +1935,12 @@
         trigeminal autonomic cephalalgia. Here, 'Elevated opening pressure' is interpreted
         as an explicit disease-level finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Cluster
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-5B62AB5ED5FE
@@ -1981,12 +1958,13 @@
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia. Here, 'Meningismus' is interpreted as an
         explicit disease-level finding.
-      distinguishing_value: '''Meningismus'' helps distinguish Cluster headache from
-        the named mimics when interpreted with onset and examination.'
+      distinguishing_value: '''Meningismus'' helps distinguish Cluster headache when
+        evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Unilateral autonomic headache with restlessness
     relationship:
@@ -2014,18 +1992,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
-        trigeminal autonomic cephalalgia. 'Noncontrast head CT' has a defined role
-        in this disease rather than serving as routine screening.
+        trigeminal autonomic cephalalgia. 'Noncontrast head CT' is ordered only for
+        the concrete diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Cluster headache, 'Noncontrast head CT' is assessed for
-        the characteristic result described in the illness script above.
+      expected_result: For Cluster headache, 'Noncontrast head CT' is expected to
+        provide the disease-specific result stated in its interpretation.
       interpretation: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2043,19 +2022,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
-        trigeminal autonomic cephalalgia. 'CT angiography head and neck' has a defined
-        role in this disease rather than serving as routine screening.
+        trigeminal autonomic cephalalgia. 'CT angiography head and neck' is ordered
+        only for the concrete diagnostic question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Cluster headache, 'CT angiography head and neck' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Cluster headache, 'CT angiography head and neck' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2073,19 +2052,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
-        trigeminal autonomic cephalalgia. 'Lumbar puncture with CSF analysis' has
-        a defined role in this disease rather than serving as routine screening.
+        trigeminal autonomic cephalalgia. 'Lumbar puncture with CSF analysis' is ordered
+        only for the concrete diagnostic question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Cluster headache, 'Lumbar puncture with CSF analysis' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2103,18 +2082,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
-        trigeminal autonomic cephalalgia. 'MRI brain with contrast' has a defined
-        role in this disease rather than serving as routine screening.
+        trigeminal autonomic cephalalgia. 'MRI brain with contrast' is ordered only
+        for the concrete diagnostic question stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Cluster headache, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Cluster headache, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Short attacks of severe unilateral orbital or temporal pain
         with ipsilateral lacrimation, nasal congestion, and restlessness define a
         trigeminal autonomic cephalalgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2384,10 +2364,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Brief electric shock-like unilateral facial pain triggered
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
-        The linked presentation 'Thunderclap headache' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Trigeminal neuralgia, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        The linked presentation 'Thunderclap headache' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Trigeminal neuralgia, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2408,10 +2388,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Brief electric shock-like unilateral facial pain triggered
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
-        The linked presentation 'Progressive headache' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Trigeminal neuralgia, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        The linked presentation 'Progressive headache' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Trigeminal neuralgia, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2432,10 +2412,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Brief electric shock-like unilateral facial pain triggered
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
-        The linked presentation 'Vision loss' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Trigeminal neuralgia, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        The linked presentation 'Vision loss' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Trigeminal neuralgia, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -2458,11 +2438,12 @@
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
         Here, 'Papilledema' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Trigeminal neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-8BF050BBEADD
@@ -2480,11 +2461,12 @@
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
         Here, 'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Trigeminal neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-AF7535DF148F
@@ -2503,11 +2485,12 @@
         Here, 'Elevated opening pressure' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Trigeminal
-        neuralgia from the named mimics when interpreted with onset and examination.'
+        neuralgia when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-64A15AD8802F
@@ -2525,11 +2508,12 @@
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
         Here, 'Meningismus' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Trigeminal neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Touch-triggered electric facial pain
     relationship:
@@ -2556,17 +2540,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric shock-like unilateral facial pain triggered
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
-        'Noncontrast head CT' has a defined role in this disease rather than serving
-        as routine screening.
+        'Noncontrast head CT' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Trigeminal neuralgia, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Trigeminal neuralgia, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric shock-like unilateral facial pain triggered by
         light touch, chewing, or brushing teeth follows a trigeminal distribution.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2584,18 +2569,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric shock-like unilateral facial pain triggered
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
-        'CT angiography head and neck' has a defined role in this disease rather than
-        serving as routine screening.
+        'CT angiography head and neck' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Trigeminal neuralgia, 'CT angiography head and neck' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric shock-like unilateral facial pain triggered by
         light touch, chewing, or brushing teeth follows a trigeminal distribution.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2613,19 +2598,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric shock-like unilateral facial pain triggered
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
-        'Lumbar puncture with CSF analysis' has a defined role in this disease rather
-        than serving as routine screening.
+        'Lumbar puncture with CSF analysis' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Trigeminal neuralgia, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric shock-like unilateral facial pain triggered by
         light touch, chewing, or brushing teeth follows a trigeminal distribution.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -2643,17 +2627,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric shock-like unilateral facial pain triggered
         by light touch, chewing, or brushing teeth follows a trigeminal distribution.
-        'MRI brain with contrast' has a defined role in this disease rather than serving
-        as routine screening.
+        'MRI brain with contrast' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Trigeminal neuralgia, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Trigeminal neuralgia, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric shock-like unilateral facial pain triggered by
         light touch, chewing, or brushing teeth follows a trigeminal distribution.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3130,9 +3115,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Orthostatic headache that improves when supine after CSF
         loss is typical of spontaneous intracranial hypotension. The linked presentation
-        'Thunderclap headache' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Intracranial hypotension, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        'Thunderclap headache' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Intracranial hypotension, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3153,9 +3139,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Orthostatic headache that improves when supine after CSF
         loss is typical of spontaneous intracranial hypotension. The linked presentation
-        'Progressive headache' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Intracranial hypotension, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        'Progressive headache' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Intracranial hypotension, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3176,9 +3163,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Orthostatic headache that improves when supine after CSF
         loss is typical of spontaneous intracranial hypotension. The linked presentation
-        'Vision loss' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Intracranial hypotension, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        'Vision loss' is linked because its timing and associated examination findings
+        match this illness script.
+      key_negative_clues: For Intracranial hypotension, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3201,11 +3189,12 @@
         is typical of spontaneous intracranial hypotension. Here, 'Papilledema' is
         interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Intracranial hypotension
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-DD91BB30DD71
@@ -3223,11 +3212,12 @@
         is typical of spontaneous intracranial hypotension. Here, 'Xanthochromia'
         is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Intracranial hypotension
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-F641D525B8F9
@@ -3245,11 +3235,12 @@
         is typical of spontaneous intracranial hypotension. Here, 'Elevated opening
         pressure' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Intracranial
-        hypotension from the named mimics when interpreted with onset and examination.'
+        hypotension when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-87246D80BDA9
@@ -3267,11 +3258,12 @@
         is typical of spontaneous intracranial hypotension. Here, 'Meningismus' is
         interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Intracranial hypotension
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Worst headache of life
     relationship:
@@ -3329,16 +3321,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension. 'Noncontrast head CT'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Intracranial hypotension, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Intracranial hypotension, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3356,18 +3350,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension. 'CT angiography head and
-        neck' has a defined role in this disease rather than serving as routine screening.
+        neck' is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Intracranial hypotension, 'CT angiography head and neck'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3385,19 +3379,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension. 'Lumbar puncture with
-        CSF analysis' has a defined role in this disease rather than serving as routine
-        screening.
+        CSF analysis' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Intracranial hypotension, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3415,16 +3408,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension. 'MRI brain with contrast'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Intracranial hypotension, 'MRI brain with contrast' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Orthostatic headache that improves when supine after CSF loss
         is typical of spontaneous intracranial hypotension.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -3900,10 +3895,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: A positional headache after neuraxial puncture reflects
         persistent CSF leakage and may require epidural blood patch when conservative
-        measures fail. The linked presentation 'Headache' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For Post-dural-puncture headache, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        measures fail. The linked presentation 'Headache' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Post-dural-puncture headache, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3924,10 +3919,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: A positional headache after neuraxial puncture reflects
         persistent CSF leakage and may require epidural blood patch when conservative
-        measures fail. The linked presentation 'Progressive headache' is clinically
-        meaningful only in that stated pattern.
-      key_negative_clues: For Post-dural-puncture headache, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        measures fail. The linked presentation 'Progressive headache' is linked because
+        its timing and associated examination findings match this illness script.
+      key_negative_clues: For Post-dural-puncture headache, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3948,10 +3943,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: A positional headache after neuraxial puncture reflects
         persistent CSF leakage and may require epidural blood patch when conservative
-        measures fail. The linked presentation 'Vision loss' is clinically meaningful
-        only in that stated pattern.
-      key_negative_clues: For Post-dural-puncture headache, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        measures fail. The linked presentation 'Vision loss' is linked because its
+        timing and associated examination findings match this illness script.
+      key_negative_clues: For Post-dural-puncture headache, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -3974,11 +3969,12 @@
         CSF leakage and may require epidural blood patch when conservative measures
         fail. Here, 'Papilledema' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Post-dural-puncture
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-0B889D8B0D83
@@ -3996,11 +3992,12 @@
         CSF leakage and may require epidural blood patch when conservative measures
         fail. Here, 'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Post-dural-puncture
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-EEA3FB0D098F
@@ -4019,11 +4016,12 @@
         fail. Here, 'Elevated opening pressure' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Post-dural-puncture
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-F5CCAEC71755
@@ -4041,11 +4039,12 @@
         CSF leakage and may require epidural blood patch when conservative measures
         fail. Here, 'Meningismus' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Post-dural-puncture
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Worst headache of life
     relationship:
@@ -4103,18 +4102,19 @@
       medical_review_status: needs_medical_review
       clinical_context: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
-        fail. 'Noncontrast head CT' has a defined role in this disease rather than
-        serving as routine screening.
+        fail. 'Noncontrast head CT' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Post-dural-puncture headache, 'Noncontrast head CT' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
         fail.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4132,20 +4132,19 @@
       medical_review_status: needs_medical_review
       clinical_context: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
-        fail. 'CT angiography head and neck' has a defined role in this disease rather
-        than serving as routine screening.
+        fail. 'CT angiography head and neck' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Post-dural-puncture headache, 'CT angiography head and
-        neck' is assessed for the characteristic result described in the illness script
-        above.
+        neck' is expected to provide the disease-specific result stated in its interpretation.
       interpretation: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
         fail.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4163,20 +4162,20 @@
       medical_review_status: needs_medical_review
       clinical_context: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
-        fail. 'Lumbar puncture with CSF analysis' has a defined role in this disease
-        rather than serving as routine screening.
+        fail. 'Lumbar puncture with CSF analysis' is ordered only for the concrete
+        diagnostic question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Post-dural-puncture headache, 'Lumbar puncture with CSF
-        analysis' is assessed for the characteristic result described in the illness
-        script above.
+        analysis' is expected to provide the disease-specific result stated in its
+        interpretation.
       interpretation: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
         fail.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4194,19 +4193,19 @@
       medical_review_status: needs_medical_review
       clinical_context: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
-        fail. 'MRI brain with contrast' has a defined role in this disease rather
-        than serving as routine screening.
+        fail. 'MRI brain with contrast' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Post-dural-puncture headache, 'MRI brain with contrast'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: A positional headache after neuraxial puncture reflects persistent
         CSF leakage and may require epidural blood patch when conservative measures
         fail.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4508,9 +4507,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Frequent use of acute analgesic or migraine medication can
         perpetuate chronic daily headache and requires withdrawal planning. The linked
-        presentation 'Headache' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Medication-overuse headache, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        presentation 'Headache' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Medication-overuse headache, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -4531,10 +4531,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Frequent use of acute analgesic or migraine medication can
         perpetuate chronic daily headache and requires withdrawal planning. The linked
-        presentation 'Progressive headache' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Medication-overuse headache, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        presentation 'Progressive headache' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Medication-overuse headache, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -4555,9 +4555,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Frequent use of acute analgesic or migraine medication can
         perpetuate chronic daily headache and requires withdrawal planning. The linked
-        presentation 'Vision loss' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Medication-overuse headache, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        presentation 'Vision loss' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Medication-overuse headache, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -4580,11 +4581,12 @@
         perpetuate chronic daily headache and requires withdrawal planning. Here,
         'Papilledema' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Medication-overuse
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-F07BF5B72EAC
@@ -4602,11 +4604,12 @@
         perpetuate chronic daily headache and requires withdrawal planning. Here,
         'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Medication-overuse
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-61B98F29776A
@@ -4624,11 +4627,12 @@
         perpetuate chronic daily headache and requires withdrawal planning. Here,
         'Elevated opening pressure' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Medication-overuse
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-DCE163779EFA
@@ -4646,11 +4650,12 @@
         perpetuate chronic daily headache and requires withdrawal planning. Here,
         'Meningismus' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Medication-overuse
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Worst headache of life
     relationship:
@@ -4708,17 +4713,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Frequent use of acute analgesic or migraine medication can
         perpetuate chronic daily headache and requires withdrawal planning. 'Noncontrast
-        head CT' has a defined role in this disease rather than serving as routine
-        screening.
+        head CT' is ordered only for the concrete diagnostic question stated in the
+        clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Medication-overuse headache, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Medication-overuse headache, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Frequent use of acute analgesic or migraine medication can perpetuate
         chronic daily headache and requires withdrawal planning.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4736,19 +4742,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Frequent use of acute analgesic or migraine medication can
         perpetuate chronic daily headache and requires withdrawal planning. 'CT angiography
-        head and neck' has a defined role in this disease rather than serving as routine
-        screening.
+        head and neck' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Medication-overuse headache, 'CT angiography head and neck'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Frequent use of acute analgesic or migraine medication can perpetuate
         chronic daily headache and requires withdrawal planning.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4766,19 +4771,19 @@
       medical_review_status: needs_medical_review
       clinical_context: Frequent use of acute analgesic or migraine medication can
         perpetuate chronic daily headache and requires withdrawal planning. 'Lumbar
-        puncture with CSF analysis' has a defined role in this disease rather than
-        serving as routine screening.
+        puncture with CSF analysis' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Medication-overuse headache, 'Lumbar puncture with CSF
-        analysis' is assessed for the characteristic result described in the illness
-        script above.
+        analysis' is expected to provide the disease-specific result stated in its
+        interpretation.
       interpretation: Frequent use of acute analgesic or migraine medication can perpetuate
         chronic daily headache and requires withdrawal planning.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -4796,18 +4801,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Frequent use of acute analgesic or migraine medication can
         perpetuate chronic daily headache and requires withdrawal planning. 'MRI brain
-        with contrast' has a defined role in this disease rather than serving as routine
-        screening.
+        with contrast' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Medication-overuse headache, 'MRI brain with contrast'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Frequent use of acute analgesic or migraine medication can perpetuate
         chronic daily headache and requires withdrawal planning.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5071,9 +5076,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache. The linked
-        presentation 'Headache' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Tension-type headache, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        presentation 'Headache' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Tension-type headache, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5094,10 +5100,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache. The linked
-        presentation 'Progressive headache' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Tension-type headache, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        presentation 'Progressive headache' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Tension-type headache, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5118,9 +5124,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache. The linked
-        presentation 'Vision loss' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Tension-type headache, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        presentation 'Vision loss' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Tension-type headache, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5143,11 +5150,12 @@
         nausea or focal neurologic findings supports tension-type headache. Here,
         'Papilledema' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Tension-type headache
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-5317F0F2A584
@@ -5165,11 +5173,12 @@
         nausea or focal neurologic findings supports tension-type headache. Here,
         'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Tension-type headache
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-D73EE1B76B05
@@ -5187,11 +5196,12 @@
         nausea or focal neurologic findings supports tension-type headache. Here,
         'Elevated opening pressure' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Tension-type
-        headache from the named mimics when interpreted with onset and examination.'
+        headache when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-38F2C7232649
@@ -5209,11 +5219,12 @@
         nausea or focal neurologic findings supports tension-type headache. Here,
         'Meningismus' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Tension-type headache
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Bilateral pressing headache
     relationship:
@@ -5240,17 +5251,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache. 'Noncontrast
-        head CT' has a defined role in this disease rather than serving as routine
-        screening.
+        head CT' is ordered only for the concrete diagnostic question stated in the
+        clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Tension-type headache, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Tension-type headache, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5268,18 +5280,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache. 'CT angiography
-        head and neck' has a defined role in this disease rather than serving as routine
-        screening.
+        head and neck' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Tension-type headache, 'CT angiography head and neck' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5297,19 +5309,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache. 'Lumbar
-        puncture with CSF analysis' has a defined role in this disease rather than
-        serving as routine screening.
+        puncture with CSF analysis' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Tension-type headache, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5327,17 +5338,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache. 'MRI brain
-        with contrast' has a defined role in this disease rather than serving as routine
-        screening.
+        with contrast' is ordered only for the concrete diagnostic question stated
+        in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Tension-type headache, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Tension-type headache, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Bilateral pressing or tightening headache without prominent
         nausea or focal neurologic findings supports tension-type headache.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5600,9 +5612,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine. The linked presentation 'Headache'
-        is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Vestibular migraine, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        is linked because its timing and associated examination findings match this
+        illness script.
+      key_negative_clues: For Vestibular migraine, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5623,9 +5636,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine. The linked presentation 'Progressive
-        headache' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Vestibular migraine, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        headache' is linked because its timing and associated examination findings
+        match this illness script.
+      key_negative_clues: For Vestibular migraine, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5646,9 +5660,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine. The linked presentation 'Vision
-        loss' is clinically meaningful only in that stated pattern.
-      key_negative_clues: For Vestibular migraine, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        loss' is linked because its timing and associated examination findings match
+        this illness script.
+      key_negative_clues: For Vestibular migraine, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -5671,11 +5686,12 @@
         vestibular deficit supports vestibular migraine. Here, 'Papilledema' is interpreted
         as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Vestibular migraine
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-64107239240F
@@ -5693,11 +5709,12 @@
         vestibular deficit supports vestibular migraine. Here, 'Xanthochromia' is
         interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Vestibular migraine
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-EBF7366BD500
@@ -5715,11 +5732,12 @@
         vestibular deficit supports vestibular migraine. Here, 'Elevated opening pressure'
         is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Vestibular
-        migraine from the named mimics when interpreted with onset and examination.'
+        migraine when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-8D511E351E5A
@@ -5737,11 +5755,12 @@
         vestibular deficit supports vestibular migraine. Here, 'Meningismus' is interpreted
         as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Vestibular migraine
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Episodic vertigo with migrainous features
     relationship:
@@ -5767,17 +5786,18 @@
       source_review_status: draft_ai_generated
       medical_review_status: needs_medical_review
       clinical_context: Episodic vertigo with migrainous features and no fixed focal
-        vestibular deficit supports vestibular migraine. 'Noncontrast head CT' has
-        a defined role in this disease rather than serving as routine screening.
+        vestibular deficit supports vestibular migraine. 'Noncontrast head CT' is
+        ordered only for the concrete diagnostic question stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Vestibular migraine, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Vestibular migraine, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5795,17 +5815,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine. 'CT angiography head and
-        neck' has a defined role in this disease rather than serving as routine screening.
+        neck' is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Vestibular migraine, 'CT angiography head and neck' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5823,19 +5844,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine. 'Lumbar puncture with CSF
-        analysis' has a defined role in this disease rather than serving as routine
-        screening.
+        analysis' is ordered only for the concrete diagnostic question stated in the
+        clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Vestibular migraine, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -5853,16 +5873,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine. 'MRI brain with contrast'
-        has a defined role in this disease rather than serving as routine screening.
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Vestibular migraine, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Vestibular migraine, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Episodic vertigo with migrainous features and no fixed focal
         vestibular deficit supports vestibular migraine.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6125,10 +6147,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-        The linked presentation 'Headache' is clinically meaningful only in that stated
-        pattern.
-      key_negative_clues: For Chronic migraine, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        The linked presentation 'Headache' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Chronic migraine, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -6149,10 +6171,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-        The linked presentation 'Progressive headache' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Chronic migraine, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        The linked presentation 'Progressive headache' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Chronic migraine, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -6173,10 +6195,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-        The linked presentation 'Vision loss' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Chronic migraine, absence of the defining pattern above
-        redirects evaluation to its documented alternatives.
+        The linked presentation 'Vision loss' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Chronic migraine, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -6198,12 +6220,13 @@
       clinical_meaning: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
         Here, 'Papilledema' is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Papilledema'' helps distinguish Chronic migraine from
-        the named mimics when interpreted with onset and examination.'
+      distinguishing_value: '''Papilledema'' helps distinguish Chronic migraine when
+        evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-310BF59DA374
@@ -6221,11 +6244,12 @@
         features on a subset requires attention to medication overuse and prevention.
         Here, 'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Chronic migraine
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-52AB15CB57FB
@@ -6244,11 +6268,12 @@
         Here, 'Elevated opening pressure' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Chronic
-        migraine from the named mimics when interpreted with onset and examination.'
+        migraine when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-9D3C4DE269C3
@@ -6265,12 +6290,13 @@
       clinical_meaning: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
         Here, 'Meningismus' is interpreted as an explicit disease-level finding.
-      distinguishing_value: '''Meningismus'' helps distinguish Chronic migraine from
-        the named mimics when interpreted with onset and examination.'
+      distinguishing_value: '''Meningismus'' helps distinguish Chronic migraine when
+        evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Headache on fifteen or more days monthly
     relationship:
@@ -6297,17 +6323,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-        'Noncontrast head CT' has a defined role in this disease rather than serving
-        as routine screening.
+        'Noncontrast head CT' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Chronic migraine, 'Noncontrast head CT' is assessed for
-        the characteristic result described in the illness script above.
+      expected_result: For Chronic migraine, 'Noncontrast head CT' is expected to
+        provide the disease-specific result stated in its interpretation.
       interpretation: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6325,18 +6352,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-        'CT angiography head and neck' has a defined role in this disease rather than
-        serving as routine screening.
+        'CT angiography head and neck' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Chronic migraine, 'CT angiography head and neck' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Chronic migraine, 'CT angiography head and neck' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6354,18 +6381,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-        'Lumbar puncture with CSF analysis' has a defined role in this disease rather
-        than serving as routine screening.
+        'Lumbar puncture with CSF analysis' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Chronic migraine, 'Lumbar puncture with CSF analysis' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6383,17 +6410,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-        'MRI brain with contrast' has a defined role in this disease rather than serving
-        as routine screening.
+        'MRI brain with contrast' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Chronic migraine, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Chronic migraine, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Headache on at least fifteen days each month with migrainous
         features on a subset requires attention to medication overuse and prevention.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6657,10 +6685,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia. The
-        linked presentation 'Thunderclap headache' is clinically meaningful only in
-        that stated pattern.
-      key_negative_clues: For Occipital neuralgia, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        linked presentation 'Thunderclap headache' is linked because its timing and
+        associated examination findings match this illness script.
+      key_negative_clues: For Occipital neuralgia, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -6681,10 +6709,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia. The
-        linked presentation 'Progressive headache' is clinically meaningful only in
-        that stated pattern.
-      key_negative_clues: For Occipital neuralgia, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        linked presentation 'Progressive headache' is linked because its timing and
+        associated examination findings match this illness script.
+      key_negative_clues: For Occipital neuralgia, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -6705,10 +6733,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia. The
-        linked presentation 'Vision loss' is clinically meaningful only in that stated
-        pattern.
-      key_negative_clues: For Occipital neuralgia, absence of the defining pattern
-        above redirects evaluation to its documented alternatives.
+        linked presentation 'Vision loss' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Occipital neuralgia, absence of the expected syndrome
+        features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -6731,11 +6759,12 @@
         with local tenderness or trigger points supports occipital neuralgia. Here,
         'Papilledema' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Occipital neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-C0F12DA556D7
@@ -6753,11 +6782,12 @@
         with local tenderness or trigger points supports occipital neuralgia. Here,
         'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Occipital neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-3F47199EAD80
@@ -6775,11 +6805,12 @@
         with local tenderness or trigger points supports occipital neuralgia. Here,
         'Elevated opening pressure' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Occipital
-        neuralgia from the named mimics when interpreted with onset and examination.'
+        neuralgia when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-C2B01089B6C2
@@ -6797,11 +6828,12 @@
         with local tenderness or trigger points supports occipital neuralgia. Here,
         'Meningismus' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Occipital neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Occipital nerve trigger-point pain
     relationship:
@@ -6828,17 +6860,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia. 'Noncontrast
-        head CT' has a defined role in this disease rather than serving as routine
-        screening.
+        head CT' is ordered only for the concrete diagnostic question stated in the
+        clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Occipital neuralgia, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Occipital neuralgia, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6856,18 +6889,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia. 'CT
-        angiography head and neck' has a defined role in this disease rather than
-        serving as routine screening.
+        angiography head and neck' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Occipital neuralgia, 'CT angiography head and neck' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6885,19 +6918,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia. 'Lumbar
-        puncture with CSF analysis' has a defined role in this disease rather than
-        serving as routine screening.
+        puncture with CSF analysis' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Occipital neuralgia, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -6915,17 +6947,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia. 'MRI
-        brain with contrast' has a defined role in this disease rather than serving
-        as routine screening.
+        brain with contrast' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Occipital neuralgia, 'MRI brain with contrast' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Occipital neuralgia, 'MRI brain with contrast' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Paroxysmal stabbing pain in the occipital nerve distribution
         with local tenderness or trigger points supports occipital neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -7401,10 +7434,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-        The linked presentation 'Thunderclap headache' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Glossopharyngeal neuralgia, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        The linked presentation 'Thunderclap headache' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Glossopharyngeal neuralgia, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -7425,10 +7458,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-        The linked presentation 'Progressive headache' is clinically meaningful only
-        in that stated pattern.
-      key_negative_clues: For Glossopharyngeal neuralgia, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        The linked presentation 'Progressive headache' is linked because its timing
+        and associated examination findings match this illness script.
+      key_negative_clues: For Glossopharyngeal neuralgia, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -7449,10 +7482,10 @@
       clinical_setting: emergency for acute instability; otherwise context-specific
       key_positive_clues: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-        The linked presentation 'Vision loss' is clinically meaningful only in that
-        stated pattern.
-      key_negative_clues: For Glossopharyngeal neuralgia, absence of the defining
-        pattern above redirects evaluation to its documented alternatives.
+        The linked presentation 'Vision loss' is linked because its timing and associated
+        examination findings match this illness script.
+      key_negative_clues: For Glossopharyngeal neuralgia, absence of the expected
+        syndrome features prompts a search to its documented alternatives.
       cannot_miss: 'false'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
@@ -7475,11 +7508,12 @@
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
         Here, 'Papilledema' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Papilledema'' helps distinguish Glossopharyngeal neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-66CFB5919EDC
@@ -7497,11 +7531,12 @@
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
         Here, 'Xanthochromia' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Xanthochromia'' helps distinguish Glossopharyngeal
-        neuralgia from the named mimics when interpreted with onset and examination.'
+        neuralgia when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-DEAAB1176C2C
@@ -7520,11 +7555,12 @@
         Here, 'Elevated opening pressure' is interpreted as an explicit disease-level
         finding.
       distinguishing_value: '''Elevated opening pressure'' helps distinguish Glossopharyngeal
-        neuralgia from the named mimics when interpreted with onset and examination.'
+        neuralgia when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-6DE279FC3B9D
@@ -7542,11 +7578,12 @@
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
         Here, 'Meningismus' is interpreted as an explicit disease-level finding.
       distinguishing_value: '''Meningismus'' helps distinguish Glossopharyngeal neuralgia
-        from the named mimics when interpreted with onset and examination.'
+        when evaluated with the actual onset and examination.'
       commonly_tested: 'true'
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Swallowing-triggered throat pain
     relationship:
@@ -7573,17 +7610,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-        'Noncontrast head CT' has a defined role in this disease rather than serving
-        as routine screening.
+        'Noncontrast head CT' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '1'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
-      expected_result: For Glossopharyngeal neuralgia, 'Noncontrast head CT' is assessed
-        for the characteristic result described in the illness script above.
+      expected_result: For Glossopharyngeal neuralgia, 'Noncontrast head CT' is expected
+        to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Noncontrast head CT'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Noncontrast head CT'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -7601,19 +7639,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-        'CT angiography head and neck' has a defined role in this disease rather than
-        serving as routine screening.
+        'CT angiography head and neck' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '2'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Glossopharyngeal neuralgia, 'CT angiography head and neck'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'CT angiography head and neck'; urgent treatment is not delayed when
-        indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'CT angiography head and neck'; urgent treatment is not delayed
+        when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -7631,19 +7668,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-        'Lumbar puncture with CSF analysis' has a defined role in this disease rather
-        than serving as routine screening.
+        'Lumbar puncture with CSF analysis' is ordered only for the concrete diagnostic
+        question stated in the clinical context.
       sequence_order: '3'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Glossopharyngeal neuralgia, 'Lumbar puncture with CSF analysis'
-        is assessed for the characteristic result described in the illness script
-        above.
+        is expected to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'Lumbar puncture with CSF analysis'; urgent treatment is not delayed
-        when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Lumbar puncture with CSF analysis'; urgent treatment is not
+        delayed when indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific
@@ -7661,17 +7697,18 @@
       medical_review_status: needs_medical_review
       clinical_context: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-        'MRI brain with contrast' has a defined role in this disease rather than serving
-        as routine screening.
+        'MRI brain with contrast' is ordered only for the concrete diagnostic question
+        stated in the clinical context.
       sequence_order: '4'
       patient_stability: Stabilize before transport or invasive testing when instability
         is present.
       expected_result: For Glossopharyngeal neuralgia, 'MRI brain with contrast' is
-        assessed for the characteristic result described in the illness script above.
+        expected to provide the disease-specific result stated in its interpretation.
       interpretation: Brief electric pain in the throat, tonsillar fossa, or deep
         ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.
-      limitations: Timing, technical quality, and the disease-specific pretest probability
-        limit 'MRI brain with contrast'; urgent treatment is not delayed when indicated.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'MRI brain with contrast'; urgent treatment is not delayed when
+        indicated.
       test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
         or instability is suspected.
       age_context: condition-specific

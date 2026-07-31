@@ -31,6 +31,12 @@ TEMPLATES = (
     "timing and the specific false-negative",
     "anatomic, vascular, electrographic, or metabolic result",
     "disease-specific escalation pathway",
+    "is clinically meaningful only in that stated pattern",
+    "absence of the defining pattern above redirects evaluation",
+    "has a defined role in this disease rather than serving as routine screening",
+    "is assessed for the characteristic result described in the illness script above",
+    "timing, technical quality, and the disease-specific pretest probability limit",
+    "from the named mimics when interpreted with onset and examination",
 )
 RELATIONS = (
     "disease_presentations",

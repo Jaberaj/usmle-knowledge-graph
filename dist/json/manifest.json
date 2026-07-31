@@ -1,14 +1,14 @@
 {
   "application_contract_version": "1.1.0",
-  "build_timestamp": "2026-07-31T03:26:00+00:00",
+  "build_timestamp": "2026-07-31T03:37:11+00:00",
   "checksums": {
     "algorithms.json": "2a212ed4de935013d353a7f1365588618e1cfdd2c54536ea18cb5f0d1d2203d4",
-    "diseases.json": "314d46d6ab415f8f0b7ed9b76850133db35a918bc1ec058103dad6a50fa6b25a",
+    "diseases.json": "abef4dc21887414defbb1f45ef854cfa2be6f99703f9a71f2d37c788fd71790e",
     "entities.json": "3f87a9ce2c862aff91cc74fdd3c343b5a9af1f534ef25b64ade8d82b3c55aa94",
-    "game_content.json": "12c5f20a388820b507a5f1680a02d379c4b127b12f1ad7354d043bf2e6e363c3",
+    "game_content.json": "6152b893e04038f086da82a2c301be396602798ad8d78885ddd64aae2050dc2c",
     "medications.json": "18a4d7f24b3424c3e6c27234722af6eb058d33d704a30622feb8a8b77a9357fc",
-    "presentations.json": "edc83602c7d9de31b821716e19b6642d96b7a1bf3b7cd227005e60a6f21064f0",
-    "relationships.json": "61d896d963a16130e69bdab915b3ebc4d1be48320a4f2b391c6426f5c2e3c8a3",
+    "presentations.json": "c54302f2633affb8c5acb9d64284dcb54a5c8621aab03d4f108ceeec700ec04d",
+    "relationships.json": "a123f38e64639dae76bbcf197ef8fe5a0dacad6329b1e03cdcaa5f9d035394ff",
     "search_index.json": "ac5524f5bb5d03a71525b8caaf87dda6c2b3bda5e59ddea07c7ab3bac72491e0",
     "treatments.json": "d8e86f6fe52c301267e27c32a3eff4a66bdd416419c4ef19968640e2ada0a593"
   },
@@ -16,7 +16,7 @@
     "Initial application contract; additive changes are backward compatible."
   ],
   "disclaimer": "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional.",
-  "git_commit": "8e7e962137787cafb73732ef35c2b023d0b748ae",
+  "git_commit": "aa9b96d2045f16cabc667af7ccf5391e0654a058",
   "included_bundles": [
     "algorithms.json",
     "diseases.json",
@@ -39,7 +39,7 @@
     "disease_differentials": 1659,
     "disease_findings": 618,
     "disease_keywords": 647,
-    "disease_presentations": 1129,
+    "disease_presentations": 1127,
     "disease_treatments": 1467,
     "diseases": 709,
     "entity_references": 706,

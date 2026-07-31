@@ -11,7 +11,7 @@
 - complications: 74
 - findings: 109
 - localizations: 63
-- disease_presentations: 1129
+- disease_presentations: 1127
 - disease_treatments: 1467
 - disease_differentials: 1659
 - disease_diagnostics: 1395
