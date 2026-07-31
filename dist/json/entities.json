@@ -28843,6 +28843,36 @@
         "normalized_keyword": "postpartum thrombosis",
         "notes": "Neurology phase-2 topic-specific educational record.",
         "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Myoclonic jerks shortly after awakening are a classic juvenile myoclonic epilepsy clue.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4A-001",
+        "keyword_text": "Morning myoclonus",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "morning myoclonus",
+        "notes": "Explicit Phase-4A epilepsy clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Slow generalized spike-and-wave with drop attacks supports Lennox-Gastaut syndrome.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4A-002",
+        "keyword_text": "Slow spike-and-wave",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "slow spike-and-wave",
+        "notes": "Explicit Phase-4A epilepsy clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Prolonged recurrent fever-associated seizures beginning in infancy are a high-yield Dravet syndrome clue.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4A-003",
+        "keyword_text": "Prolonged febrile seizures in infancy",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "prolonged febrile seizures in infancy",
+        "notes": "Explicit Phase-4A epilepsy clue.",
+        "source_status": "unverified_ai_generated"
       }
     ],
     "localizations": [

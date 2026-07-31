@@ -2749,12 +2749,7 @@
       ],
       "priority": 1,
       "search_keywords": [
-        "seizure disorder",
-        "deja vu aura",
-        "automatisms",
-        "three-hertz spike-and-wave",
-        "hypsarrhythmia",
-        "todd paralysis"
+        "seizure disorder"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3486,7 +3481,9 @@
         "automatisms",
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
-        "todd paralysis"
+        "todd paralysis",
+        "three-hertz spike-and-wave",
+        "three-hertz spike-and-wave"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3546,7 +3543,9 @@
         "automatisms",
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
-        "todd paralysis"
+        "todd paralysis",
+        "hypsarrhythmia",
+        "hypsarrhythmia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3644,7 +3643,9 @@
         "automatisms",
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
-        "todd paralysis"
+        "todd paralysis",
+        "morning myoclonus",
+        "morning myoclonus"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3664,7 +3665,9 @@
         "automatisms",
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
-        "todd paralysis"
+        "todd paralysis",
+        "three-hertz spike-and-wave",
+        "three-hertz spike-and-wave"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3684,7 +3687,9 @@
         "automatisms",
         "three-hertz spike-and-wave",
         "hypsarrhythmia",
-        "todd paralysis"
+        "todd paralysis",
+        "deja vu aura",
+        "deja vu aura"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3704,7 +3709,9 @@
         "visual hallucinations",
         "magnetic gait",
         "urinary incontinence",
-        "wernicke aphasia"
+        "wernicke aphasia",
+        "slow spike-and-wave",
+        "slow spike-and-wave"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3724,7 +3731,9 @@
         "visual hallucinations",
         "magnetic gait",
         "urinary incontinence",
-        "wernicke aphasia"
+        "wernicke aphasia",
+        "hypsarrhythmia",
+        "hypsarrhythmia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3744,7 +3753,9 @@
         "visual hallucinations",
         "magnetic gait",
         "urinary incontinence",
-        "wernicke aphasia"
+        "wernicke aphasia",
+        "prolonged febrile seizures in infancy",
+        "prolonged febrile seizures in infancy"
       ],
       "source_status": "partially_source_supported"
     },

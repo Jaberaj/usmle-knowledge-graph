@@ -160,9 +160,38 @@ def test_neurology_relationship_vectors_and_algorithm_shapes_are_not_templated()
         for disease_id in neuro_ids:
             vectors[disease_id].append(counts[disease_id])
     assert max(Counter(map(tuple, vectors.values())).values()) < 50
-    algorithm_sizes = Counter(
-        sum(step["algorithm_id"] == algorithm["algorithm_id"] for step in tables["algorithm_steps"])
-        for algorithm in tables["algorithms"]
-        if algorithm["algorithm_id"].startswith("ALG-NEUR-")
+    neuro_steps = [
+        step for step in tables["algorithm_steps"] if step["algorithm_id"].startswith("ALG-NEUR-")
+    ]
+    assert not any(
+        "explicit contingency" in step["prompt_or_action"].lower() for step in neuro_steps
     )
-    assert max(algorithm_sizes.values()) == 1
+    assert not any("unsafe branch—" in step["prompt_or_action"].lower() for step in neuro_steps)
+    decisions = [step for step in neuro_steps if step["node_type"] == "decision"]
+    assert all(
+        not step["next_node_if_true"] or step["next_node_if_true"] != step["next_node_if_false"]
+        for step in decisions
+    )
+
+
+@pytest.mark.parametrize(
+    ("disease", "kind", "expected"),
+    [
+        ("Acute ischemic stroke", "finding", "Diffusion restriction"),
+        ("Subarachnoid hemorrhage", "finding", "Xanthochromia"),
+        ("Cerebral venous sinus thrombosis", "diagnostic", "CT venography or MR venography"),
+        ("Carotid artery dissection", "keyword", "Diffusion restriction"),
+        ("Childhood absence epilepsy", "finding", "Three-hertz spike-and-wave"),
+        ("Absence seizure", "finding", "Three-hertz spike-and-wave"),
+        ("Infantile spasms", "finding", "Hypsarrhythmia"),
+        ("West syndrome", "finding", "Hypsarrhythmia"),
+        ("Juvenile myoclonic epilepsy", "keyword", "Morning myoclonus"),
+        ("Temporal-lobe epilepsy", "keyword", "Deja vu aura"),
+        ("Lennox-Gastaut syndrome", "keyword", "Slow spike-and-wave"),
+        ("Dravet syndrome", "keyword", "Prolonged febrile seizures in infancy"),
+    ],
+)
+def test_phase4a_vascular_and_epilepsy_ownership(disease: str, kind: str, expected: str) -> None:
+    disease_ids, links = _neurology_links()
+    assert expected in links[kind + disease_ids[disease]]
+    assert links[kind + disease_ids[disease]][expected]

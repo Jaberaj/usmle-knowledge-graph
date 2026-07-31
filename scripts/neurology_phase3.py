@@ -13,6 +13,8 @@ import json
 from collections import Counter
 from pathlib import Path
 
+import yaml
+
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "source"
 REL = SOURCE / "relationships"
@@ -51,7 +53,10 @@ def write(path: Path, fields: list[str], rows: list[dict[str, str]]) -> None:
 def manifests() -> dict[str, dict[str, object]]:
     entries: dict[str, dict[str, object]] = {}
     for path in sorted(CURATION.glob("*.yaml")):
-        for entry in json.loads(path.read_text(encoding="utf-8")):
+        payload = yaml.safe_load(path.read_text(encoding="utf-8"))
+        if not isinstance(payload, list) or not payload:
+            raise ValueError(f"{path}: expected a nonempty YAML list")
+        for entry in payload:
             entries[str(entry["disease_id"])] = entry
     return entries
 

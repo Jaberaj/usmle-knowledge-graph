@@ -1,16 +1,16 @@
 """Materialize one explicit, reviewable Neurology manifest entry per disease.
 
-The files are JSON documents stored with a .yaml extension; JSON is valid YAML,
-keeps the manifests dependency-free, and makes every relationship selection
-visible in review rather than inherited at build time.
+The files are real YAML and make every relationship selection visible in review
+rather than inherited at build time.
 """
 
 from __future__ import annotations
 
 import csv
-import json
 from collections import defaultdict
 from pathlib import Path
+
+import yaml
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE = ROOT / "data" / "source"
@@ -247,7 +247,8 @@ def main() -> None:
         grouped[module(disease["canonical_name"])].append(entry)
     for name in MODULES:
         (OUT / f"{name}.yaml").write_text(
-            json.dumps(grouped[name], indent=2) + "\n", encoding="utf-8"
+            yaml.safe_dump(grouped[name], allow_unicode=True, sort_keys=False),
+            encoding="utf-8",
         )
 
 
