@@ -89,6 +89,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-CF5E4EA7F2BF
@@ -110,6 +111,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-1CA3E6649BB0
@@ -131,6 +133,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-F38011CD8A52
@@ -153,6 +156,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Albuminocytologic dissociation
     relationship:
@@ -768,6 +772,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-75FB0F185F66
@@ -789,6 +794,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-680DCD2F6F39
@@ -810,6 +816,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-1352EAF0AD04
@@ -831,6 +838,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:
@@ -1371,6 +1379,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-8687D385DB0F
@@ -1392,6 +1401,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-B60AC6661E00
@@ -1413,6 +1423,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-8645792471DE
@@ -1434,6 +1445,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:
@@ -1981,6 +1993,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-97D6449AD1D3
@@ -2002,6 +2015,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-D20D02379814
@@ -2023,6 +2037,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-AF8B8E18EF41
@@ -2045,6 +2060,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:
@@ -2626,6 +2642,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-23C8125DB7DD
@@ -2647,6 +2664,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-4AB3A838A49B
@@ -2668,6 +2686,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-95F2C25569BA
@@ -2690,6 +2709,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:
@@ -3264,6 +3284,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-DACC8B9A7AB4
@@ -3285,6 +3306,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-CA7632E74927
@@ -3306,6 +3328,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-A3780F003942
@@ -3327,6 +3350,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:
@@ -3894,6 +3918,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Saddle anesthesia
     relationship:
       disease_finding_id: DNF-NEUR-622A85AE2FF1
@@ -3915,6 +3940,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Spasticity
     relationship:
       disease_finding_id: DNF-NEUR-CDC806F8ABC4
@@ -3936,6 +3962,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Hyperreflexia
     relationship:
       disease_finding_id: DNF-NEUR-1C807634AAD3
@@ -3957,6 +3984,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Sensory level
     relationship:
@@ -4435,6 +4463,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-E3F4E6BDA3FE
@@ -4456,6 +4485,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-BC15DC7BCA6E
@@ -4478,6 +4508,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-A55A4FFC1B07
@@ -4500,6 +4531,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:
@@ -5090,6 +5122,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-6F92D1D239F3
@@ -5111,6 +5144,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-4799ADE83491
@@ -5132,6 +5166,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-CC3CC7C1C0B5
@@ -5153,6 +5188,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:
@@ -5722,6 +5758,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-2315AE7954C9
@@ -5743,6 +5780,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-8D0D92FC2B84
@@ -5764,6 +5802,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-2A6A64205AE1
@@ -5785,6 +5824,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:

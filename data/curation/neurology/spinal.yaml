@@ -111,6 +111,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Saddle anesthesia
     relationship:
       disease_finding_id: DNF-NEUR-5C49320E0519
@@ -132,6 +133,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Spasticity
     relationship:
       disease_finding_id: DNF-NEUR-9000357FDD3B
@@ -153,6 +155,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Hyperreflexia
     relationship:
       disease_finding_id: DNF-NEUR-73D2263030B9
@@ -174,6 +177,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cape-like sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-3EC779B4CEAE
@@ -195,6 +199,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Bowel-bladder dysfunction
     relationship:
       disease_finding_id: DNF-NEUR-EC1D95A39A8C
@@ -216,6 +221,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Sensory level
     relationship:
@@ -824,6 +830,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Saddle anesthesia
     relationship:
       disease_finding_id: DNF-NEUR-2841F7679220
@@ -845,6 +852,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Spasticity
     relationship:
       disease_finding_id: DNF-NEUR-FC606F129EC8
@@ -866,6 +874,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Hyperreflexia
     relationship:
       disease_finding_id: DNF-NEUR-D94C43AA424B
@@ -887,6 +896,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cape-like sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-09E786933EB9
@@ -908,6 +918,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Bowel-bladder dysfunction
     relationship:
       disease_finding_id: DNF-NEUR-117D5D5DE327
@@ -929,6 +940,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Sensory level
     relationship:
@@ -1508,6 +1520,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Saddle anesthesia
     relationship:
       disease_finding_id: DNF-NEUR-3CBCC780A42F
@@ -1529,6 +1542,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Spasticity
     relationship:
       disease_finding_id: DNF-NEUR-FE21AC5F8DC2
@@ -1550,6 +1564,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Hyperreflexia
     relationship:
       disease_finding_id: DNF-NEUR-8F82A63E1A66
@@ -1571,6 +1586,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Sensory level
     relationship:
@@ -2049,6 +2065,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Saddle anesthesia
     relationship:
       disease_finding_id: DNF-NEUR-DA3FF4E6D518
@@ -2070,6 +2087,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Spasticity
     relationship:
       disease_finding_id: DNF-NEUR-7E0B4DE49505
@@ -2091,6 +2109,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Hyperreflexia
     relationship:
       disease_finding_id: DNF-NEUR-99240D6E7BD7
@@ -2112,6 +2131,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Sensory level
     relationship:

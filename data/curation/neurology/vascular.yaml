@@ -110,6 +110,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Transient negative focal deficit
     relationship:
@@ -941,6 +942,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Diffusion restriction
     relationship:
       disease_finding_id: DNF-P4A-DIS-N-0058-FND-NEUR-DIFFUSIONRESTRICTION
@@ -961,6 +963,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Pronator drift
     relationship:
       disease_finding_id: DNF-P4A-DIS-N-0058-FND-NEUR-PRONATORDRIFT
@@ -980,6 +983,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -1831,6 +1835,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -2746,6 +2751,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -3649,6 +3655,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -4539,6 +4546,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -5422,6 +5430,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Papilledema
     relationship:
       disease_finding_id: DNF-P4A-DIS-NEUR-011-FND-NEUR-PAPILLEDEMA
@@ -5441,6 +5450,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Thunderclap headache
     relationship:
@@ -6432,6 +6442,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -7311,6 +7322,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Subarachnoid blood
     relationship:
       disease_finding_id: DNF-P4A-DIS-N-0060-FND-NEUR-SUBARACHNOIDBLOOD
@@ -7330,6 +7342,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-P4A-DIS-N-0060-FND-NEUR-MENINGISMUS
@@ -7348,6 +7361,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Worst headache of life
     relationship:
@@ -8122,6 +8136,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -9008,6 +9023,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -9894,6 +9910,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -10785,6 +10802,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -11674,6 +11692,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -12529,6 +12548,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -13404,6 +13424,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -14142,6 +14163,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -15047,6 +15069,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -15941,6 +15964,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -16838,6 +16862,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -17724,6 +17749,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -18588,6 +18614,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:

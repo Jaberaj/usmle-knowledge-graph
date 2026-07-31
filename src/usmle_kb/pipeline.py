@@ -406,12 +406,11 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
             "increased",
             "decreased",
             "variable",
-        } and row.get("relationship_role", "supportive") in {
+        } and row.get("relationship_role") in {
             "characteristic",
             "common",
             "supportive",
             "possible",
-            "",
         }:
             findings[row["disease_id"]].append(finding_by_id[row["finding_id"]])
     disease_records = [

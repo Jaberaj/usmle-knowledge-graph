@@ -109,6 +109,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Recurrent unprovoked seizures
     relationship:
@@ -898,6 +899,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -1768,6 +1770,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -2618,6 +2621,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -3473,6 +3477,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -4348,6 +4353,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -5234,6 +5240,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Pediatrics
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -6111,6 +6118,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -6954,6 +6962,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -7797,6 +7806,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Pediatrics
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -8661,6 +8671,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -9531,6 +9542,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Ongoing convulsions
     relationship:
@@ -10363,6 +10375,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -11185,6 +11198,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -12050,6 +12064,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -12916,6 +12931,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Pediatrics
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -13783,6 +13799,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Pediatrics
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Deja vu aura
     relationship:
@@ -14647,6 +14664,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -15522,6 +15540,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Pediatrics
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -16380,6 +16399,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:

@@ -585,7 +585,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-939B73343A2F
@@ -609,7 +609,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-B077449EA5C9
@@ -633,7 +633,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-6721AB80EF7E
@@ -657,7 +657,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Gradually spreading positive aura
     relationship:
@@ -1138,7 +1138,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-FD39E736057F
@@ -1161,7 +1161,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-28031CE058BD
@@ -1185,7 +1185,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-3AEAB384FD70
@@ -1208,7 +1208,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Reversible unilateral weakness with aura
     relationship:
@@ -1892,7 +1892,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-E0F44C3C6672
@@ -1916,7 +1916,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-C318250C6563
@@ -1940,7 +1940,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-5B62AB5ED5FE
@@ -1964,7 +1964,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Unilateral autonomic headache with restlessness
     relationship:
@@ -2443,7 +2443,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-8BF050BBEADD
@@ -2466,7 +2466,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-AF7535DF148F
@@ -2490,7 +2490,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-64A15AD8802F
@@ -2513,7 +2513,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Touch-triggered electric facial pain
     relationship:
@@ -3194,7 +3194,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-DD91BB30DD71
@@ -3217,7 +3217,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-F641D525B8F9
@@ -3240,7 +3240,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-87246D80BDA9
@@ -3263,7 +3263,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Worst headache of life
     relationship:
@@ -3974,7 +3974,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-0B889D8B0D83
@@ -3997,7 +3997,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-EEA3FB0D098F
@@ -4021,7 +4021,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-F5CCAEC71755
@@ -4044,7 +4044,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Worst headache of life
     relationship:
@@ -4586,7 +4586,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-F07BF5B72EAC
@@ -4609,7 +4609,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-61B98F29776A
@@ -4632,7 +4632,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-DCE163779EFA
@@ -4655,7 +4655,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Worst headache of life
     relationship:
@@ -5155,7 +5155,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-5317F0F2A584
@@ -5178,7 +5178,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-D73EE1B76B05
@@ -5201,7 +5201,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-38F2C7232649
@@ -5224,7 +5224,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Bilateral pressing headache
     relationship:
@@ -5691,7 +5691,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-64107239240F
@@ -5714,7 +5714,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-EBF7366BD500
@@ -5737,7 +5737,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-8D511E351E5A
@@ -5760,7 +5760,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Episodic vertigo with migrainous features
     relationship:
@@ -6226,7 +6226,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-310BF59DA374
@@ -6249,7 +6249,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-52AB15CB57FB
@@ -6273,7 +6273,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-9D3C4DE269C3
@@ -6296,7 +6296,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Headache on fifteen or more days monthly
     relationship:
@@ -6764,7 +6764,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-C0F12DA556D7
@@ -6787,7 +6787,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-3F47199EAD80
@@ -6810,7 +6810,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-C2B01089B6C2
@@ -6833,7 +6833,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Occipital nerve trigger-point pain
     relationship:
@@ -7513,7 +7513,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Xanthochromia
     relationship:
       disease_finding_id: DNF-NEUR-66CFB5919EDC
@@ -7536,7 +7536,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Elevated opening pressure
     relationship:
       disease_finding_id: DNF-NEUR-DEAAB1176C2C
@@ -7560,7 +7560,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Meningismus
     relationship:
       disease_finding_id: DNF-NEUR-6DE279FC3B9D
@@ -7583,7 +7583,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Swallowing-triggered throat pain
     relationship:

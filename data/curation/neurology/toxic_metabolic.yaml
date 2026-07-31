@@ -113,6 +113,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-6E7D7BA01881
@@ -135,6 +136,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-4D8FE176CFED
@@ -157,6 +159,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-B6F4EA49AD0B
@@ -180,6 +183,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-D2EBF79E1672
@@ -203,6 +207,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -1055,6 +1060,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-4C50489507BF
@@ -1077,6 +1083,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-BD311F1EB031
@@ -1099,6 +1106,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-A7A41002D384
@@ -1121,6 +1129,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-D3F1EF8EC4D0
@@ -1143,6 +1152,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -1994,6 +2004,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-33DFE7163289
@@ -2017,6 +2028,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-E1647517B10E
@@ -2040,6 +2052,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-6DEF6DC0A377
@@ -2063,6 +2076,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-7BBA139734EB
@@ -2086,6 +2100,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -2908,6 +2923,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-EEFEDC549EBF
@@ -2930,6 +2946,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-38947C6A89A8
@@ -2952,6 +2969,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-891C867F26D3
@@ -2974,6 +2992,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-5F03058FA6D5
@@ -2996,6 +3015,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -3847,6 +3867,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-F3AD16C3A7BA
@@ -3869,6 +3890,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-521C5320F0B7
@@ -3891,6 +3913,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-CD4DF7BDFD2E
@@ -3913,6 +3936,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-2FAE5FB02EBF
@@ -3935,6 +3959,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -4816,6 +4841,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-3A7341854097
@@ -4839,6 +4865,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-BC6A5FF44496
@@ -4862,6 +4889,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-2AD2FA8B47EB
@@ -4885,6 +4913,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-9DA573843F99
@@ -4908,6 +4937,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -5773,6 +5803,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-E8711B56BF29
@@ -5795,6 +5826,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-6D7C022F98A1
@@ -5817,6 +5849,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-376135D166BA
@@ -5839,6 +5872,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-B7ED33DEE442
@@ -5861,6 +5895,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -6708,6 +6743,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-00E7189EEFF9
@@ -6730,6 +6766,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-C1BB30345817
@@ -6752,6 +6789,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-17244FF45452
@@ -6774,6 +6812,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-380F03696706
@@ -6796,6 +6835,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -7637,6 +7677,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Diffusion restriction
     relationship:
       disease_finding_id: DNF-NEUR-E49F8889CFA0
@@ -7659,6 +7700,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Hyperdense MCA sign
     relationship:
       disease_finding_id: DNF-NEUR-FA15F7BFE935
@@ -7681,6 +7723,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Babinski sign
     relationship:
       disease_finding_id: DNF-NEUR-39687DD9E0C9
@@ -7703,6 +7746,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Visual field deficit
     relationship:
       disease_finding_id: DNF-NEUR-6A5A235B8895
@@ -7725,6 +7769,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Crossed neurologic findings
     relationship:
       disease_finding_id: DNF-NEUR-35C0F1F60B13
@@ -7747,6 +7792,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Diffusion restriction
     relationship:
@@ -8608,6 +8654,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-D8E03B82D5E6
@@ -8629,6 +8676,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-9CE68815696C
@@ -8650,6 +8698,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-073C59AD6B4C
@@ -8672,6 +8721,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -9368,6 +9418,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-482304B4D6FC
@@ -9389,6 +9440,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-96C20DFE17B3
@@ -9410,6 +9462,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-20111798BD3A
@@ -9431,6 +9484,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -10116,6 +10170,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-F7714034764B
@@ -10137,6 +10192,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-D7E4ED19BAC2
@@ -10158,6 +10214,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-6658775B5E07
@@ -10179,6 +10236,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -10858,6 +10916,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-FAA57C71F6FB
@@ -10879,6 +10938,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-EC55D5B4BF36
@@ -10900,6 +10960,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-55144246B6B9
@@ -10921,6 +10982,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -11606,6 +11668,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-A1CD3BC46BA0
@@ -11627,6 +11690,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-CB4A976AA276
@@ -11648,6 +11712,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-2375A9138C33
@@ -11669,6 +11734,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -12351,6 +12417,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-96F74077A9AC
@@ -12372,6 +12439,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-B2280329324C
@@ -12393,6 +12461,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-EF993DD4F85D
@@ -12414,6 +12483,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -13088,6 +13158,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Inability to close eye
     relationship:
       disease_finding_id: DNF-NEUR-A189D92527C9
@@ -13109,6 +13180,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Vesicular ear rash
     relationship:
       disease_finding_id: DNF-NEUR-313544FFA1E8
@@ -13130,6 +13202,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -13607,6 +13680,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-18B6E00B8C4C
@@ -13628,6 +13702,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-408FBEC091C0
@@ -13649,6 +13724,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-76D2AF2CF684
@@ -13670,6 +13746,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -14339,6 +14416,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-50F9A492CE20
@@ -14360,6 +14438,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-0A7E00AA89D4
@@ -14381,6 +14460,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-203DC6824D30
@@ -14402,6 +14482,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -15087,6 +15168,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-53AA9EAF939A
@@ -15108,6 +15190,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-6EDB6C658643
@@ -15129,6 +15212,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-F61068E8F720
@@ -15150,6 +15234,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -15820,6 +15905,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-F549BA5586F7
@@ -15841,6 +15927,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-887E35C3FFBE
@@ -15862,6 +15949,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-B36D187C8013
@@ -15884,6 +15972,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -16582,6 +16671,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-263669649D37
@@ -16603,6 +16693,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-237B71C4635D
@@ -16624,6 +16715,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-DED569613632
@@ -16645,6 +16737,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -17319,6 +17412,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-405E8DCF9599
@@ -17340,6 +17434,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-8BB087245344
@@ -17361,6 +17456,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-7DBF6B68962A
@@ -17382,6 +17478,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -18051,6 +18148,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-1FFEA7E341DC
@@ -18072,6 +18170,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-2BBB0DBCE80A
@@ -18093,6 +18192,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-794E47D22E37
@@ -18114,6 +18214,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -18796,6 +18897,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-5A2FD6AF9027
@@ -18817,6 +18919,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-C8AC33BAF4AD
@@ -18838,6 +18941,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-D5CEECA3491E
@@ -18859,6 +18963,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -19533,6 +19638,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-80EF86D51131
@@ -19554,6 +19660,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-60770C7EBC45
@@ -19575,6 +19682,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-E4FA8F84388A
@@ -19596,6 +19704,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -20273,6 +20382,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-72049478108C
@@ -20294,6 +20404,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-271319D13363
@@ -20315,6 +20426,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-3AD4EBF1D25A
@@ -20336,6 +20448,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:

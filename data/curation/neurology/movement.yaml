@@ -89,6 +89,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-B011C94752B4
@@ -110,6 +111,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-136FC5790DA2
@@ -131,6 +133,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-6CB98CD738FA
@@ -152,6 +155,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -628,6 +632,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-1387BB862EEC
@@ -649,6 +654,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-D95FEB869C98
@@ -670,6 +676,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-37798AD83692
@@ -691,6 +698,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -1169,6 +1177,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-D95F6A9B80FF
@@ -1190,6 +1199,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-1536B4FAAAD4
@@ -1211,6 +1221,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-940C2F45834B
@@ -1232,6 +1243,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -1708,6 +1720,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-87647CABDEE9
@@ -1729,6 +1742,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-DAABDCE49224
@@ -1750,6 +1764,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-3EDE6DFA5B44
@@ -1771,6 +1786,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -2248,6 +2264,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-25973EE685A4
@@ -2269,6 +2286,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-1E8B19FC2BC8
@@ -2290,6 +2308,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-59C1BFAE5B12
@@ -2311,6 +2330,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -2784,6 +2804,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-EF42C3E465F2
@@ -2805,6 +2826,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-00C5700E2CEB
@@ -2826,6 +2848,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-D5B740874A18
@@ -2847,6 +2870,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -3323,6 +3347,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-5E67436DD123
@@ -3344,6 +3369,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-EBE4EED5034C
@@ -3365,6 +3391,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-122E9F9A28E0
@@ -3386,6 +3413,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -3861,6 +3889,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-7082CC82B235
@@ -3882,6 +3911,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-FA8FABBEBC43
@@ -3903,6 +3933,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-F60339F17976
@@ -3924,6 +3955,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -4397,6 +4429,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Cogwheel rigidity
     relationship:
       disease_finding_id: DNF-NEUR-CD64955C0F0D
@@ -4418,6 +4451,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lead-pipe rigidity
     relationship:
       disease_finding_id: DNF-NEUR-63800F29D752
@@ -4439,6 +4473,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Masked facies
     relationship:
       disease_finding_id: DNF-NEUR-D95EE0F49C9A
@@ -4460,6 +4495,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Pill-rolling tremor
     relationship:
@@ -4932,6 +4968,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-4E7B6AFB3532
@@ -4953,6 +4990,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-55B2CD2979FF
@@ -4974,6 +5012,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-1D122BA3CEC0
@@ -4995,6 +5034,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -5669,6 +5709,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-43A42746EDE4
@@ -5690,6 +5731,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Albuminocytologic dissociation
     relationship:
       disease_finding_id: DNF-NEUR-5D441CC3DA68
@@ -5711,6 +5753,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Acetylcholine-receptor antibodies
     relationship:
       disease_finding_id: DNF-NEUR-14CC8A0DF9D9
@@ -5733,6 +5776,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fatigable ptosis
     relationship:

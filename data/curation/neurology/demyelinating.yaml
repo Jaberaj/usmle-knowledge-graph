@@ -97,7 +97,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-DACEBC1F3094
@@ -143,7 +143,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-570511B42EDA
@@ -167,7 +167,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Dawson fingers
     relationship:
@@ -675,7 +675,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-7478263E674F
@@ -698,7 +698,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-1504360D70AC
@@ -721,7 +721,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-08C68C51876C
@@ -745,7 +745,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Aquaporin-4 antibodies
     relationship:
@@ -1248,7 +1248,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-391ED43ACD45
@@ -1272,7 +1272,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-CFB9AE27D24C
@@ -1296,7 +1296,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-C0E627051FB3
@@ -1320,7 +1320,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -1832,7 +1832,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-7ADDED4ED1AD
@@ -1856,7 +1856,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-B9159DBB324D
@@ -1880,7 +1880,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-DE00820C4499
@@ -1904,7 +1904,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -2413,7 +2413,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-E4C1027DCB86
@@ -2436,7 +2436,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-2B3FE6EB2E9A
@@ -2459,7 +2459,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-0AE48C9BBDB2
@@ -2482,7 +2482,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -2980,7 +2980,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-C3352A2522B4
@@ -3004,7 +3004,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-94A2BF878BC4
@@ -3027,7 +3027,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-189CDA24B1FD
@@ -3052,7 +3052,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -3580,7 +3580,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-33678D999352
@@ -3603,7 +3603,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-BF0F1B5BA288
@@ -3626,7 +3626,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-6A1C4B26B207
@@ -3650,7 +3650,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Visual hallucinations
     relationship:
       disease_finding_id: DNF-NEUR-D2F30524E3B2
@@ -3674,7 +3674,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -4538,7 +4538,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Neonatal hypotonia
     relationship:
       disease_finding_id: DNF-NEUR-870B768168C4
@@ -4561,7 +4561,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Macrocephaly
     relationship:
       disease_finding_id: DNF-NEUR-3F4056C1F223
@@ -4584,7 +4584,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Hypotonia
     relationship:
       disease_finding_id: DNF-NEUR-86653527BC09
@@ -4607,7 +4607,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Developmental regression
     relationship:
@@ -5104,7 +5104,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-0A09153CB944
@@ -5128,7 +5128,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-5FD3FC320134
@@ -5151,7 +5151,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-D1482D20C99A
@@ -5175,7 +5175,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:
@@ -5692,7 +5692,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Aquaporin-4 antibodies
     relationship:
       disease_finding_id: DNF-NEUR-714DB9BF91F5
@@ -5716,7 +5716,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Dawson fingers
     relationship:
       disease_finding_id: DNF-NEUR-434EA64CB94D
@@ -5740,7 +5740,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   - entity: Internuclear ophthalmoplegia
     relationship:
       disease_finding_id: DNF-NEUR-9992BDA1A445
@@ -5764,7 +5764,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
-      relationship_role: ''
+      relationship_role: supportive
   keywords:
   - entity: Internuclear ophthalmoplegia
     relationship:

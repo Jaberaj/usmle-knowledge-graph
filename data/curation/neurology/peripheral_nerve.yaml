@@ -89,6 +89,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-9CBD814FF580
@@ -110,6 +111,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-4E1399490816
@@ -131,6 +133,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-15FDCE4019EE
@@ -152,6 +155,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -631,6 +635,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Lewy bodies
     relationship:
       disease_finding_id: DNF-NEUR-F4E60B1A6CB9
@@ -652,6 +657,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Ventriculomegaly
     relationship:
       disease_finding_id: DNF-NEUR-DBBEFC06751B
@@ -673,6 +679,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fluctuating attention
     relationship:
       disease_finding_id: DNF-NEUR-BF71357B3ED9
@@ -694,6 +701,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Fluctuating cognition
     relationship:
@@ -1357,6 +1365,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-0AA36E15B278
@@ -1378,6 +1387,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-42A24D0D6CE7
@@ -1399,6 +1409,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-DC9B3E24961F
@@ -1420,6 +1431,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -1898,6 +1910,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-2EE3F3F4FC14
@@ -1919,6 +1932,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-E555AF4837CB
@@ -1940,6 +1954,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-919A4EE15D15
@@ -1961,6 +1976,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -2441,6 +2457,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-3FC86959CD87
@@ -2462,6 +2479,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-7A616FF609B1
@@ -2483,6 +2501,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-F094DFFCED13
@@ -2504,6 +2523,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -2979,6 +2999,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-D275D6CFADD4
@@ -3000,6 +3021,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-AAC8C8A93AC2
@@ -3021,6 +3043,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-296E7B61BB4F
@@ -3042,6 +3065,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -3521,6 +3545,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Inability to close eye
     relationship:
       disease_finding_id: DNF-NEUR-B6B054A14D84
@@ -3542,6 +3567,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Vesicular ear rash
     relationship:
       disease_finding_id: DNF-NEUR-473E5A48BB52
@@ -3563,6 +3589,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -4031,6 +4058,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-2D2DCDC6AB59
@@ -4052,6 +4080,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-2F88EFF3E939
@@ -4073,6 +4102,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-911B85F0470E
@@ -4094,6 +4124,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -4572,6 +4603,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-83156714CD4C
@@ -4593,6 +4625,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-A39A2722D509
@@ -4614,6 +4647,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-C87B38345869
@@ -4635,6 +4669,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -5113,6 +5148,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-91F648675FC3
@@ -5134,6 +5170,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-F03410E8D6E4
@@ -5155,6 +5192,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-0678132C1D4A
@@ -5176,6 +5214,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
@@ -5646,6 +5685,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Length-dependent sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-E8ED5FC105DA
@@ -5667,6 +5707,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: No sensory loss
     relationship:
       disease_finding_id: DNF-NEUR-CD1D1F56697E
@@ -5688,6 +5729,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   - entity: Fasciculations
     relationship:
       disease_finding_id: DNF-NEUR-8D66BFC84728
@@ -5709,6 +5751,7 @@
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
+      relationship_role: ''
   keywords:
   - entity: Stocking-glove sensory loss
     relationship:
