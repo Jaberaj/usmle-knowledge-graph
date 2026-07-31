@@ -1,9 +1,9 @@
 {
   "application_contract_version": "1.1.0",
-  "build_timestamp": "2026-07-31T18:09:16+00:00",
+  "build_timestamp": "2026-07-31T18:23:35+00:00",
   "checksums": {
     "algorithms.json": "2a212ed4de935013d353a7f1365588618e1cfdd2c54536ea18cb5f0d1d2203d4",
-    "diseases.json": "38deaa9d4f9eb25b3e172559fd7b7fa82ea00ed04bc2a1b94a603216384fadc4",
+    "diseases.json": "ac583f84d57d191fc7e9aaedc57b81ef42ca19f9f5ee8351aeac320d14a768c9",
     "entities.json": "3f87a9ce2c862aff91cc74fdd3c343b5a9af1f534ef25b64ade8d82b3c55aa94",
     "game_content.json": "6152b893e04038f086da82a2c301be396602798ad8d78885ddd64aae2050dc2c",
     "medications.json": "18a4d7f24b3424c3e6c27234722af6eb058d33d704a30622feb8a8b77a9357fc",
@@ -16,7 +16,7 @@
     "Initial application contract; additive changes are backward compatible."
   ],
   "disclaimer": "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional.",
-  "git_commit": "fcfb56b1e55a4475510d513b44ee69b17ae3ff8f",
+  "git_commit": "308a212df4a05cda87083cd48c15157e54573f73",
   "included_bundles": [
     "algorithms.json",
     "diseases.json",

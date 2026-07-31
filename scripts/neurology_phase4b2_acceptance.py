@@ -2,6 +2,7 @@
 
 import csv
 import json
+from collections import Counter
 from pathlib import Path
 
 import yaml
@@ -56,9 +57,15 @@ def main():
         "phase4b_infection_ownership_errors": 0,
         "phase4b_conditional_diagnostic_routine_leaks": 0,
         "phase4b_substantive_template_hits": 0,
-        "phase4b_duplicate_ids": 0,
+        "phase4b_duplicate_ids": sum(
+            count > 1 for count in Counter(r["disease_finding_id"] for r in links).values()
+        ),
         "phase4b_manifest_view_mismatches": 0,
-        "phase4b_contradictory_source_statuses": 0,
+        "phase4b_contradictory_source_statuses": sum(
+            r.get("source_status") == "unverified_ai_generated"
+            and r.get("source_review_status") == "source_checked"
+            for r in links
+        ),
         "unknown_roles": sum(r.get("relationship_role") not in allowed for r in links),
         "positive_findings_exported": len(positive),
     }

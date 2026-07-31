@@ -396,22 +396,36 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
     finding_by_id = {row["finding_id"]: row for row in tables["findings"]}
     localized_finding_ids = {row["finding_id"] for row in tables["finding_localizations"]}
     source_by_disease = {row["disease_id"]: row["source_status"] for row in tables["diseases"]}
+    role_rows_by_disease: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
+    for row in tables["disease_findings"]:
+        role_rows_by_disease[row["disease_id"]].append(row)
+    migrated_finding_roles = {
+        disease_id
+        for disease_id, own_rows in role_rows_by_disease.items()
+        if own_rows and all(row.get("relationship_role") for row in own_rows)
+    }
     for row in tables["disease_keywords"]:
         keywords[row["disease_id"]].append(keyword_by_id[row["keyword_id"]])
     for row in tables["disease_findings"]:
         finding_roles[row["disease_id"]].append(row)
-        if row.get("presence") in {
-            "present",
-            "positive",
-            "increased",
-            "decreased",
-            "variable",
-        } and row.get("relationship_role") in {
-            "characteristic",
-            "common",
-            "supportive",
-            "possible",
-        }:
+        if (
+            row["disease_id"] in migrated_finding_roles
+            and row.get("presence")
+            in {
+                "present",
+                "positive",
+                "increased",
+                "decreased",
+                "variable",
+            }
+            and row.get("relationship_role")
+            in {
+                "characteristic",
+                "common",
+                "supportive",
+                "possible",
+            }
+        ):
             findings[row["disease_id"]].append(finding_by_id[row["finding_id"]])
     disease_records = [
         {
@@ -423,6 +437,9 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
             "keywords": keywords[d["disease_id"]],
             "findings": findings[d["disease_id"]],
             "finding_semantics": finding_roles[d["disease_id"]],
+            "finding_role_migration_status": "migrated"
+            if d["disease_id"] in migrated_finding_roles
+            else "pending",
             "eligibility": {
                 "eligible_for_differential_game": bool(
                     pres[d["disease_id"]] and diffs[d["disease_id"]]
@@ -433,7 +450,8 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
                     a["triggering_presentation_id"] in pres[d["disease_id"]]
                     for a in tables["algorithms"]
                 ),
-                "eligible_for_finding_game": bool(findings[d["disease_id"]]),
+                "eligible_for_finding_game": d["disease_id"] in migrated_finding_roles
+                and bool(findings[d["disease_id"]]),
                 "eligible_for_imaging_game": any(
                     finding["finding_type"] == "imaging" for finding in findings[d["disease_id"]]
                 ),
