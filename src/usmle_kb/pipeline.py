@@ -13,6 +13,8 @@ from datetime import UTC, datetime
 from pathlib import Path
 from typing import Any
 
+import yaml  # type: ignore[import-untyped]
+
 from .config import (
     DATABASE_GENERATED,
     DIST,
@@ -22,6 +24,7 @@ from .config import (
     RELATIONSHIP_TABLES,
     REPORTS,
     REQUIRED_TABLES,
+    ROOT,
     SOURCE,
     SOURCE_STATUSES,
 )
@@ -396,13 +399,14 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
     finding_by_id = {row["finding_id"]: row for row in tables["findings"]}
     localized_finding_ids = {row["finding_id"] for row in tables["finding_localizations"]}
     source_by_disease = {row["disease_id"]: row["source_status"] for row in tables["diseases"]}
-    role_rows_by_disease: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
-    for row in tables["disease_findings"]:
-        role_rows_by_disease[row["disease_id"]].append(row)
+    migration = yaml.safe_load(
+        (ROOT / "data/curation/neurology/finding_role_migration.yaml").read_text()
+    )
     migrated_finding_roles = {
-        disease_id
-        for disease_id, own_rows in role_rows_by_disease.items()
-        if own_rows and all(row.get("relationship_role") for row in own_rows)
+        entry["disease_id"]
+        for module in ("vascular", "seizures", "headache", "infection", "demyelinating")
+        if migration["modules"][module]["status"] == "migrated"
+        for entry in yaml.safe_load((ROOT / f"data/curation/neurology/{module}.yaml").read_text())
     }
     for row in tables["disease_keywords"]:
         keywords[row["disease_id"]].append(keyword_by_id[row["keyword_id"]])
