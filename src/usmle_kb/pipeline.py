@@ -383,6 +383,7 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
     diffs: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
     keywords: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
     findings: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
+    finding_roles: defaultdict[str, list[dict[str, str]]] = defaultdict(list)
     for row in tables["disease_presentations"]:
         pres[row["disease_id"]].append(row["presentation_id"])
     for row in tables["disease_treatments"]:
@@ -398,7 +399,21 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
     for row in tables["disease_keywords"]:
         keywords[row["disease_id"]].append(keyword_by_id[row["keyword_id"]])
     for row in tables["disease_findings"]:
-        findings[row["disease_id"]].append(finding_by_id[row["finding_id"]])
+        finding_roles[row["disease_id"]].append(row)
+        if row.get("presence") in {
+            "present",
+            "positive",
+            "increased",
+            "decreased",
+            "variable",
+        } and row.get("relationship_role", "supportive") in {
+            "characteristic",
+            "common",
+            "supportive",
+            "possible",
+            "",
+        }:
+            findings[row["disease_id"]].append(finding_by_id[row["finding_id"]])
     disease_records = [
         {
             **d,
@@ -408,6 +423,7 @@ def build_bundles(tables: dict[str, list[dict[str, str]]] | None = None) -> dict
             "differentials": diffs[d["disease_id"]],
             "keywords": keywords[d["disease_id"]],
             "findings": findings[d["disease_id"]],
+            "finding_semantics": finding_roles[d["disease_id"]],
             "eligibility": {
                 "eligible_for_differential_game": bool(
                     pres[d["disease_id"]] and diffs[d["disease_id"]]

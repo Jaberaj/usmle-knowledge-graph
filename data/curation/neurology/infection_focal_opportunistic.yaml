@@ -1,0 +1,1175 @@
+- disease_id: DIS-NEUR-068
+  canonical_name: Brain abscess
+  presentations:
+  - entity: Altered mental status
+    relationship:
+      disease_presentation_id: DPR-NEUR-952CE9FF9BE1
+      disease_id: DIS-NEUR-068
+      presentation_id: PRS-006
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      relationship_role: classic
+      typicality: typical
+      frequency_category: common
+      acuity: high
+      age_context: condition-specific
+      pregnancy_context: consider only when clinically relevant
+      clinical_setting: emergency for acute instability; otherwise context-specific
+      key_positive_clues: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. The linked presentation 'Altered mental
+        status' is linked because its timing and associated examination findings match
+        this illness script.
+      key_negative_clues: For Brain abscess, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
+      cannot_miss: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Headache
+    relationship:
+      disease_presentation_id: DPR-NEUR-A9A81B84391A
+      disease_id: DIS-NEUR-068
+      presentation_id: PRS-007
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      relationship_role: common
+      typicality: typical
+      frequency_category: common
+      acuity: high
+      age_context: condition-specific
+      pregnancy_context: consider only when clinically relevant
+      clinical_setting: emergency for acute instability; otherwise context-specific
+      key_positive_clues: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. The linked presentation 'Headache' is
+        linked because its timing and associated examination findings match this illness
+        script.
+      key_negative_clues: For Brain abscess, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
+      cannot_miss: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: First seizure
+    relationship:
+      disease_presentation_id: DPR-NEUR-74D93FDB2F0C
+      disease_id: DIS-NEUR-068
+      presentation_id: PRS-NEUR-063
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      relationship_role: common
+      typicality: typical
+      frequency_category: common
+      acuity: high
+      age_context: condition-specific
+      pregnancy_context: consider only when clinically relevant
+      clinical_setting: emergency for acute instability; otherwise context-specific
+      key_positive_clues: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. The linked presentation 'First seizure'
+        is linked because its timing and associated examination findings match this
+        illness script.
+      key_negative_clues: For Brain abscess, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
+      cannot_miss: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Acute focal neurologic deficit
+    relationship:
+      disease_presentation_id: DPR-NEUR-79591C64C043
+      disease_id: DIS-NEUR-068
+      presentation_id: PRS-NEUR-051
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      relationship_role: common
+      typicality: typical
+      frequency_category: common
+      acuity: high
+      age_context: condition-specific
+      pregnancy_context: consider only when clinically relevant
+      clinical_setting: emergency for acute instability; otherwise context-specific
+      key_positive_clues: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. The linked presentation 'Acute focal
+        neurologic deficit' is linked because its timing and associated examination
+        findings match this illness script.
+      key_negative_clues: For Brain abscess, absence of the expected syndrome features
+        prompts a search to its documented alternatives.
+      cannot_miss: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  findings:
+  - entity: Meningismus
+    relationship:
+      disease_finding_id: DNF-NEUR-30F58AF77A4D
+      disease_id: DIS-NEUR-068
+      finding_id: FND-NEUR-MENINGISMUS
+      presence: present
+      typicality: classic
+      sensitivity_context: Timing and phenotype determine sensitivity of meningismus
+        in Brain abscess.
+      specificity_context: Meningismus is interpreted against the disease-specific
+        mimics of Brain abscess.
+      disease_stage: condition-specific
+      age_context: condition-specific
+      clinical_meaning: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Here, 'Meningismus' is interpreted as
+        an explicit disease-level finding.
+      distinguishing_value: '''Meningismus'' helps distinguish Brain abscess when
+        evaluated with the actual onset and examination.'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+      relationship_role: ''
+  - entity: Neutrophilic CSF
+    relationship:
+      disease_finding_id: DNF-NEUR-2BF9F4B69D9A
+      disease_id: DIS-NEUR-068
+      finding_id: FND-NEUR-NEUTROPHILICCSF
+      presence: present
+      typicality: supportive
+      sensitivity_context: Timing and phenotype determine sensitivity of neutrophilic
+        csf in Brain abscess.
+      specificity_context: Neutrophilic CSF is interpreted against the disease-specific
+        mimics of Brain abscess.
+      disease_stage: condition-specific
+      age_context: condition-specific
+      clinical_meaning: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Here, 'Neutrophilic CSF' is interpreted
+        as an explicit disease-level finding.
+      distinguishing_value: '''Neutrophilic CSF'' helps distinguish Brain abscess
+        when evaluated with the actual onset and examination.'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+      relationship_role: ''
+  - entity: Lymphocytic CSF
+    relationship:
+      disease_finding_id: DNF-NEUR-1FEF2B1E8872
+      disease_id: DIS-NEUR-068
+      finding_id: FND-NEUR-LYMPHOCYTICCSF
+      presence: present
+      typicality: supportive
+      sensitivity_context: Timing and phenotype determine sensitivity of lymphocytic
+        csf in Brain abscess.
+      specificity_context: Lymphocytic CSF is interpreted against the disease-specific
+        mimics of Brain abscess.
+      disease_stage: condition-specific
+      age_context: condition-specific
+      clinical_meaning: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Here, 'Lymphocytic CSF' is interpreted
+        as an explicit disease-level finding.
+      distinguishing_value: '''Lymphocytic CSF'' helps distinguish Brain abscess when
+        evaluated with the actual onset and examination.'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+      relationship_role: ''
+  - entity: Low CSF glucose
+    relationship:
+      disease_finding_id: DNF-NEUR-B65E71F6FF2B
+      disease_id: DIS-NEUR-068
+      finding_id: FND-NEUR-LOWCSFGLUCOSE
+      presence: present
+      typicality: supportive
+      sensitivity_context: Timing and phenotype determine sensitivity of low csf glucose
+        in Brain abscess.
+      specificity_context: Low CSF glucose is interpreted against the disease-specific
+        mimics of Brain abscess.
+      disease_stage: condition-specific
+      age_context: condition-specific
+      clinical_meaning: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Here, 'Low CSF glucose' is interpreted
+        as an explicit disease-level finding.
+      distinguishing_value: '''Low CSF glucose'' helps distinguish Brain abscess when
+        evaluated with the actual onset and examination.'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+      relationship_role: ''
+  - entity: Temporal-lobe abnormalities
+    relationship:
+      disease_finding_id: DNF-NEUR-2CD556C28EEA
+      disease_id: DIS-NEUR-068
+      finding_id: FND-NEUR-TEMPORALLOBEABNORMAL
+      presence: present
+      typicality: supportive
+      sensitivity_context: Timing and phenotype determine sensitivity of temporal-lobe
+        abnormalities in Brain abscess.
+      specificity_context: Temporal-lobe abnormalities is interpreted against the
+        disease-specific mimics of Brain abscess.
+      disease_stage: condition-specific
+      age_context: condition-specific
+      clinical_meaning: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Here, 'Temporal-lobe abnormalities'
+        is interpreted as an explicit disease-level finding.
+      distinguishing_value: '''Temporal-lobe abnormalities'' helps distinguish Brain
+        abscess when evaluated with the actual onset and examination.'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+      relationship_role: ''
+  - entity: Elevated opening pressure
+    relationship:
+      disease_finding_id: DNF-NEUR-A8C93D1ADDF0
+      disease_id: DIS-NEUR-068
+      finding_id: FND-NEUR-ELEVATEDOPENINGPRESS
+      presence: present
+      typicality: supportive
+      sensitivity_context: Timing and phenotype determine sensitivity of elevated
+        opening pressure in Brain abscess.
+      specificity_context: Elevated opening pressure is interpreted against the disease-specific
+        mimics of Brain abscess.
+      disease_stage: condition-specific
+      age_context: condition-specific
+      clinical_meaning: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Here, 'Elevated opening pressure' is
+        interpreted as an explicit disease-level finding.
+      distinguishing_value: '''Elevated opening pressure'' helps distinguish Brain
+        abscess when evaluated with the actual onset and examination.'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+      relationship_role: ''
+  keywords:
+  - entity: Ring-enhancing lesion
+    relationship:
+      disease_keyword_id: DKW-NEUR-80EA0A9DF39D
+      disease_id: DIS-NEUR-068
+      keyword_id: KEY-NEUR-A2666BE46052
+      relevance: high
+      specificity: context-dependent but board-relevant
+      classic_for_disease: 'true'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      explanation: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield. 'Ring-enhancing lesion' is retained only for
+        this stated clinical association.
+      source_status: unverified_ai_generated
+  - entity: Focal neurologic deficit
+    relationship:
+      disease_keyword_id: DKW-NEUR-33CB8E682C62
+      disease_id: DIS-NEUR-068
+      keyword_id: KEY-NEUR-A951325F62E7
+      relevance: high
+      specificity: context-dependent but board-relevant
+      classic_for_disease: 'false'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      explanation: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield. 'Focal neurologic deficit' is retained only for
+        this stated clinical association.
+      source_status: unverified_ai_generated
+  - entity: Avoid routine lumbar puncture
+    relationship:
+      disease_keyword_id: DKW-NEUR-453457823098
+      disease_id: DIS-NEUR-068
+      keyword_id: KEY-NEUR-54D08A8B9AC5
+      relevance: high
+      specificity: context-dependent but board-relevant
+      classic_for_disease: 'false'
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      explanation: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield. 'Avoid routine lumbar puncture' is retained only
+        for this stated clinical association.
+      source_status: unverified_ai_generated
+  diagnostics:
+  - entity: Contrast-enhanced brain MRI
+    relationship:
+      disease_diagnostic_id: DDG-NEUR-F872EF561348
+      disease_id: DIS-NEUR-068
+      diagnostic_id: DIA-NEUR-AE085F846861
+      role: anatomic_characterization
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Contrast-enhanced brain MRI' is ordered
+        only for the concrete diagnostic question stated in the clinical context.
+      sequence_order: '1'
+      patient_stability: Stabilize before transport or invasive testing when instability
+        is present.
+      expected_result: For Brain abscess, 'Contrast-enhanced brain MRI' is expected
+        to provide the disease-specific result stated in its interpretation.
+      interpretation: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Contrast-enhanced brain MRI'; urgent treatment is not delayed
+        when indicated.
+      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
+        or instability is suspected.
+      age_context: condition-specific
+      pregnancy_context: use safety-aware alternatives when relevant
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Blood cultures
+    relationship:
+      disease_diagnostic_id: DDG-NEUR-DFF36920543E
+      disease_id: DIS-NEUR-068
+      diagnostic_id: DIA-008
+      role: microbiologic_confirmation
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Blood cultures' is ordered only for
+        the concrete diagnostic question stated in the clinical context.
+      sequence_order: '2'
+      patient_stability: Stabilize before transport or invasive testing when instability
+        is present.
+      expected_result: For Brain abscess, 'Blood cultures' is expected to provide
+        the disease-specific result stated in its interpretation.
+      interpretation: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Blood cultures'; urgent treatment is not delayed when indicated.
+      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
+        or instability is suspected.
+      age_context: condition-specific
+      pregnancy_context: use safety-aware alternatives when relevant
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Neurosurgical drainage or sampling
+    relationship:
+      disease_diagnostic_id: DDG-NEUR-FAA7F9023D37
+      disease_id: DIS-NEUR-068
+      diagnostic_id: DIA-NEUR-40106ED519DA
+      role: disease_specific_characterization
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Neurosurgical drainage or sampling'
+        is ordered only for the concrete diagnostic question stated in the clinical
+        context.
+      sequence_order: '3'
+      patient_stability: Stabilize before transport or invasive testing when instability
+        is present.
+      expected_result: For Brain abscess, 'Neurosurgical drainage or sampling' is
+        expected to provide the disease-specific result stated in its interpretation.
+      interpretation: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Neurosurgical drainage or sampling'; urgent treatment is not
+        delayed when indicated.
+      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
+        or instability is suspected.
+      age_context: condition-specific
+      pregnancy_context: use safety-aware alternatives when relevant
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Search for contiguous or hematogenous source
+    relationship:
+      disease_diagnostic_id: DDG-NEUR-0E1E20811027
+      disease_id: DIS-NEUR-068
+      diagnostic_id: DIA-NEUR-75D9C172C299
+      role: disease_specific_characterization
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Search for contiguous or hematogenous
+        source' is ordered only for the concrete diagnostic question stated in the
+        clinical context.
+      sequence_order: '4'
+      patient_stability: Stabilize before transport or invasive testing when instability
+        is present.
+      expected_result: For Brain abscess, 'Search for contiguous or hematogenous source'
+        is expected to provide the disease-specific result stated in its interpretation.
+      interpretation: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield.
+      limitations: The limitation is the specific false-negative or nonspecific result
+        described for 'Search for contiguous or hematogenous source'; urgent treatment
+        is not delayed when indicated.
+      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
+        or instability is suspected.
+      age_context: condition-specific
+      pregnancy_context: use safety-aware alternatives when relevant
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  treatments:
+  - entity: Empiric antimicrobial therapy
+    relationship:
+      disease_treatment_id: DTR-NEUR-12CB706CC463
+      disease_id: DIS-NEUR-068
+      treatment_id: TRT-NEUR-C3E9E27F3036
+      role: disease_directed_or_symptomatic
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Empiric antimicrobial therapy' is assigned
+        to acute stabilization, disease-directed treatment, prevention, or escalation
+        as appropriate.
+      sequence_order: '1'
+      first_line: 'true'
+      definitive: 'false'
+      rescue_or_escalation: 'false'
+      unstable_patient_only: 'true'
+      contraindication_notes: Apply condition-specific contraindications; do not delay
+        emergency stabilization for lower-priority testing.
+      board_exam_pearl: For Brain abscess, the timing and contraindications of 'Empiric
+        antimicrobial therapy' follow this illness script, not a generic treatment
+        sequence.
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
+        raised-intracranial-pressure risk.
+      rescue: 'false'
+      refractory: 'false'
+      contraindicated: 'false'
+      avoid: 'false'
+      age_context: condition-specific
+      pregnancy_context: condition-specific
+      renal_context: condition-specific
+      hepatic_context: condition-specific
+      prerequisite_actions: Complete urgent stabilization and syndrome-specific safety
+        checks.
+      monitoring: Monitor response, adverse effects, and disposition needs.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Neurosurgical source control
+    relationship:
+      disease_treatment_id: DTR-NEUR-7FB344A13EB5
+      disease_id: DIS-NEUR-068
+      treatment_id: TRT-NEUR-8DF5D70B03FA
+      role: consultation_or_definitive
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Neurosurgical source control' is assigned
+        to acute stabilization, disease-directed treatment, prevention, or escalation
+        as appropriate.
+      sequence_order: '2'
+      first_line: 'true'
+      definitive: 'false'
+      rescue_or_escalation: 'false'
+      unstable_patient_only: 'false'
+      contraindication_notes: Apply condition-specific contraindications; do not delay
+        emergency stabilization for lower-priority testing.
+      board_exam_pearl: For Brain abscess, the timing and contraindications of 'Neurosurgical
+        source control' follow this illness script, not a generic treatment sequence.
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
+        raised-intracranial-pressure risk.
+      rescue: 'false'
+      refractory: 'false'
+      contraindicated: 'false'
+      avoid: 'false'
+      age_context: condition-specific
+      pregnancy_context: condition-specific
+      renal_context: condition-specific
+      hepatic_context: condition-specific
+      prerequisite_actions: Complete urgent stabilization and syndrome-specific safety
+        checks.
+      monitoring: Monitor response, adverse effects, and disposition needs.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Raised-intracranial-pressure management
+    relationship:
+      disease_treatment_id: DTR-NEUR-33CF523425DB
+      disease_id: DIS-NEUR-068
+      treatment_id: TRT-NEUR-6D068BF3EB43
+      role: disease_directed_or_symptomatic
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Raised-intracranial-pressure management'
+        is assigned to acute stabilization, disease-directed treatment, prevention,
+        or escalation as appropriate.
+      sequence_order: '3'
+      first_line: 'false'
+      definitive: 'true'
+      rescue_or_escalation: 'false'
+      unstable_patient_only: 'false'
+      contraindication_notes: Apply condition-specific contraindications; do not delay
+        emergency stabilization for lower-priority testing.
+      board_exam_pearl: For Brain abscess, the timing and contraindications of 'Raised-intracranial-pressure
+        management' follow this illness script, not a generic treatment sequence.
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
+        raised-intracranial-pressure risk.
+      rescue: 'false'
+      refractory: 'false'
+      contraindicated: 'false'
+      avoid: 'false'
+      age_context: condition-specific
+      pregnancy_context: condition-specific
+      renal_context: condition-specific
+      hepatic_context: condition-specific
+      prerequisite_actions: Complete urgent stabilization and syndrome-specific safety
+        checks.
+      monitoring: Monitor response, adverse effects, and disposition needs.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Avoid routine lumbar puncture with mass lesion
+    relationship:
+      disease_treatment_id: DTR-NEUR-AE051B543CA4
+      disease_id: DIS-NEUR-068
+      treatment_id: TRT-NEUR-45668B102B9B
+      role: ineffective_or_avoid
+      clinical_context: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. 'Avoid routine lumbar puncture with
+        mass lesion' is assigned to acute stabilization, disease-directed treatment,
+        prevention, or escalation as appropriate.
+      sequence_order: '4'
+      first_line: 'false'
+      definitive: 'false'
+      rescue_or_escalation: 'false'
+      unstable_patient_only: 'false'
+      contraindication_notes: Apply condition-specific contraindications; do not delay
+        emergency stabilization for lower-priority testing.
+      board_exam_pearl: For Brain abscess, the timing and contraindications of 'Avoid
+        routine lumbar puncture with mass lesion' follow this illness script, not
+        a generic treatment sequence.
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      patient_stability: Escalate for airway, respiratory, hemodynamic, seizure, or
+        raised-intracranial-pressure risk.
+      rescue: 'false'
+      refractory: 'false'
+      contraindicated: 'true'
+      avoid: 'true'
+      age_context: condition-specific
+      pregnancy_context: condition-specific
+      renal_context: condition-specific
+      hepatic_context: condition-specific
+      prerequisite_actions: Complete urgent stabilization and syndrome-specific safety
+        checks.
+      monitoring: Monitor response, adverse effects, and disposition needs.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  complications:
+  - entity: Seizures
+    relationship:
+      disease_complication_id: DCP-NEUR-90A2F6365284
+      disease_id: DIS-NEUR-068
+      complication_id: COM-NEUR-B2DFA2B49A99
+      timing: acute, delayed, or chronic according to the linked disease course
+      frequency_category: clinically important
+      severity: high
+      cannot_miss: 'true'
+      risk_factors: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield. Risk of 'Seizures' depends on the identified
+        mechanism and severity.
+      warning_findings: New evidence of 'Seizures' requires reassessment in the specific
+        clinical context of Brain abscess.
+      prevention: Use the linked Brain abscess stabilization, monitoring, prevention,
+        and rehabilitation pathway.
+      initial_management: Recognize and immediately manage seizures while escalating
+        to the relevant specialty pathway.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Hydrocephalus
+    relationship:
+      disease_complication_id: DCP-NEUR-8F1227B5BD16
+      disease_id: DIS-NEUR-068
+      complication_id: COM-COV-013
+      timing: acute, delayed, or chronic according to the linked disease course
+      frequency_category: clinically important
+      severity: high
+      cannot_miss: 'true'
+      risk_factors: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield. Risk of 'Hydrocephalus' depends on the identified
+        mechanism and severity.
+      warning_findings: New evidence of 'Hydrocephalus' requires reassessment in the
+        specific clinical context of Brain abscess.
+      prevention: Use the linked Brain abscess stabilization, monitoring, prevention,
+        and rehabilitation pathway.
+      initial_management: Recognize and immediately manage hydrocephalus while escalating
+        to the relevant specialty pathway.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Cerebral edema
+    relationship:
+      disease_complication_id: DCP-NEUR-85AC36978F28
+      disease_id: DIS-NEUR-068
+      complication_id: COM-NEUR-CEREBRALEDEMA
+      timing: acute, delayed, or chronic according to the linked disease course
+      frequency_category: clinically important
+      severity: high
+      cannot_miss: 'true'
+      risk_factors: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield. Risk of 'Cerebral edema' depends on the identified
+        mechanism and severity.
+      warning_findings: New evidence of 'Cerebral edema' requires reassessment in
+        the specific clinical context of Brain abscess.
+      prevention: Use the linked Brain abscess stabilization, monitoring, prevention,
+        and rehabilitation pathway.
+      initial_management: Recognize and immediately manage cerebral edema while escalating
+        to the relevant specialty pathway.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - entity: Hearing loss
+    relationship:
+      disease_complication_id: DCP-NEUR-B185C8429001
+      disease_id: DIS-NEUR-068
+      complication_id: COM-COV-012
+      timing: acute, delayed, or chronic according to the linked disease course
+      frequency_category: clinically important
+      severity: high
+      cannot_miss: 'true'
+      risk_factors: A ring-enhancing lesion with central diffusion restriction and
+        systemic or contiguous infection suggests brain abscess; routine lumbar puncture
+        can be unsafe and low yield. Risk of 'Hearing loss' depends on the identified
+        mechanism and severity.
+      warning_findings: New evidence of 'Hearing loss' requires reassessment in the
+        specific clinical context of Brain abscess.
+      prevention: Use the linked Brain abscess stabilization, monitoring, prevention,
+        and rehabilitation pathway.
+      initial_management: Recognize and immediately manage hearing loss while escalating
+        to the relevant specialty pathway.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  differentials:
+  - competing_disease: Acute ischemic stroke
+    relationship:
+      differential_link_id: DFL-NEUR-91F56465B2B4
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-N-0058
+      presentation_id: PRS-NEUR-051
+      similarity_reason: Brain abscess and Acute ischemic stroke can both produce
+        the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Acute ischemic stroke is favored by
+        its own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'true'
+      relative_priority: '1'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Acute ischemic stroke,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Acute ischemic stroke.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Intracerebral hemorrhage
+    relationship:
+      differential_link_id: DFL-NEUR-402287B19478
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-N-0059
+      presentation_id: PRS-NEUR-051
+      similarity_reason: Brain abscess and Intracerebral hemorrhage can both produce
+        the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Intracerebral hemorrhage is favored
+        by its own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'true'
+      relative_priority: '2'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Intracerebral hemorrhage,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Intracerebral hemorrhage.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Focal to bilateral tonic-clonic seizure
+    relationship:
+      differential_link_id: DFL-NEUR-D6149947D407
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-037
+      presentation_id: PRS-NEUR-051
+      similarity_reason: Brain abscess and Focal to bilateral tonic-clonic seizure
+        can both produce the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Focal to bilateral tonic-clonic seizure
+        is favored by its own characteristic tempo, examination findings, and targeted
+        testing.
+      cannot_miss: 'false'
+      relative_priority: '4'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Focal to bilateral
+        tonic-clonic seizure, rather than the pattern stated for Brain abscess, favor
+        the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Focal to bilateral tonic-clonic seizure.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Hemiplegic migraine
+    relationship:
+      differential_link_id: DFL-NEUR-146129C7BCBD
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-055
+      presentation_id: PRS-NEUR-051
+      similarity_reason: Brain abscess and Hemiplegic migraine can both produce the
+        linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Hemiplegic migraine is favored by its
+        own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '5'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Hemiplegic migraine,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Hemiplegic migraine.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Brain metastases
+    relationship:
+      differential_link_id: DFL-NEUR-D069251D124C
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-136
+      presentation_id: PRS-NEUR-051
+      similarity_reason: Brain abscess and Brain metastases can both produce the linked
+        neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Brain metastases is favored by its own
+        characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '6'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Brain metastases, rather
+        than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Brain metastases.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Multiple sclerosis
+    relationship:
+      differential_link_id: DFL-NEUR-FF9FEB760F58
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-N-0065
+      presentation_id: PRS-NEUR-051
+      similarity_reason: Brain abscess and Multiple sclerosis can both produce the
+        linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Multiple sclerosis is favored by its
+        own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '7'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Multiple sclerosis,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Multiple sclerosis.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Hyponatremic encephalopathy
+    relationship:
+      differential_link_id: DFL-NEUR-3946007B7D72
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-156
+      presentation_id: PRS-NEUR-051
+      similarity_reason: Brain abscess and Hyponatremic encephalopathy can both produce
+        the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Hyponatremic encephalopathy is favored
+        by its own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '8'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Hyponatremic encephalopathy,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Hyponatremic encephalopathy.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Delirium
+    relationship:
+      differential_link_id: DFL-NEUR-645AD3E51815
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-N-0069
+      presentation_id: PRS-006
+      similarity_reason: Brain abscess and Delirium can both produce the linked neurologic
+        presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Delirium is favored by its own characteristic
+        tempo, examination findings, and targeted testing.
+      cannot_miss: 'true'
+      relative_priority: '1'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Delirium, rather than
+        the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Delirium.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Hepatic encephalopathy
+    relationship:
+      differential_link_id: DFL-NEUR-1FFCDDE85DD1
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-155
+      presentation_id: PRS-006
+      similarity_reason: Brain abscess and Hepatic encephalopathy can both produce
+        the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Hepatic encephalopathy is favored by
+        its own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'true'
+      relative_priority: '3'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Hepatic encephalopathy,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Hepatic encephalopathy.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Hyponatremic encephalopathy
+    relationship:
+      differential_link_id: DFL-NEUR-8A8CF61B1851
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-156
+      presentation_id: PRS-006
+      similarity_reason: Brain abscess and Hyponatremic encephalopathy can both produce
+        the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Hyponatremic encephalopathy is favored
+        by its own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '4'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Hyponatremic encephalopathy,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Hyponatremic encephalopathy.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Nonconvulsive status epilepticus
+    relationship:
+      differential_link_id: DFL-NEUR-4F829EC1384D
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-045
+      presentation_id: PRS-006
+      similarity_reason: Brain abscess and Nonconvulsive status epilepticus can both
+        produce the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Nonconvulsive status epilepticus is
+        favored by its own characteristic tempo, examination findings, and targeted
+        testing.
+      cannot_miss: 'false'
+      relative_priority: '5'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Nonconvulsive status
+        epilepticus, rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Nonconvulsive status epilepticus.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Acute ischemic stroke
+    relationship:
+      differential_link_id: DFL-NEUR-80D84B6C1B04
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-N-0058
+      presentation_id: PRS-006
+      similarity_reason: Brain abscess and Acute ischemic stroke can both produce
+        the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Acute ischemic stroke is favored by
+        its own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '6'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Acute ischemic stroke,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Acute ischemic stroke.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: HSV encephalitis
+    relationship:
+      differential_link_id: DFL-NEUR-3789BD5BFC9D
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-067
+      presentation_id: PRS-006
+      similarity_reason: Brain abscess and HSV encephalitis can both produce the linked
+        neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. HSV encephalitis is favored by its own
+        characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '7'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of HSV encephalitis, rather
+        than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for HSV encephalitis.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated
+  - competing_disease: Carbon monoxide poisoning
+    relationship:
+      differential_link_id: DFL-NEUR-DF9946340697
+      source_disease_id: DIS-NEUR-068
+      competing_disease_id: DIS-NEUR-157
+      presentation_id: PRS-006
+      similarity_reason: Brain abscess and Carbon monoxide poisoning can both produce
+        the linked neurologic presentation.
+      distinguishing_features: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield. Carbon monoxide poisoning is favored
+        by its own characteristic tempo, examination findings, and targeted testing.
+      cannot_miss: 'false'
+      relative_priority: '8'
+      age_context: age-specific alternatives included when relevant
+      rotation_context: Neurology; Emergency Medicine
+      exam_context: explicit Phase-4B comparison
+      source_review_status: draft_ai_generated
+      medical_review_status: needs_medical_review
+      notes: ''
+      commonness: common or plausible
+      pregnancy_context: consider pregnancy/postpartum context when relevant
+      clinical_setting: acute or outpatient according to presentation
+      findings_favoring_target: A ring-enhancing lesion with central diffusion restriction
+        and systemic or contiguous infection suggests brain abscess; routine lumbar
+        puncture can be unsafe and low yield.
+      findings_favoring_competitor: Findings characteristic of Carbon monoxide poisoning,
+        rather than the pattern stated for Brain abscess, favor the competitor.
+      key_negative_findings: Absence of the defining Brain abscess pattern warrants
+        active evaluation for Carbon monoxide poisoning.
+      next_test_to_distinguish: Choose urgent neuroimaging for focal or pressure features,
+        CSF studies when safe for suspected infection/inflammation, and targeted serology
+        or electrophysiology when indicated.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: unverified_ai_generated

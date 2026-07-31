@@ -239,10 +239,16 @@ def test_phase4b_red_flags_are_not_characteristic_migraine_findings() -> None:
         for row in tables["disease_findings"]
         if row["disease_id"] == diseases["Migraine without aura"]
         and row["finding_id"]
-        in {findings[name] for name in ("Papilledema", "Xanthochromia", "Elevated opening pressure", "Meningismus")}
+        in {
+            findings[name]
+            for name in ("Papilledema", "Xanthochromia", "Elevated opening pressure", "Meningismus")
+        }
     ]
     assert migraine_rows
-    assert all(row["presence"] != "present" and row["relationship_role"] == "red_flag" for row in migraine_rows)
+    assert all(
+        row["presence"] != "present" and row["relationship_role"] == "red_flag"
+        for row in migraine_rows
+    )
 
 
 def test_phase4b_aquaporin_four_favors_nmosd_not_multiple_sclerosis() -> None:
@@ -257,3 +263,20 @@ def test_phase4b_aquaporin_four_favors_nmosd_not_multiple_sclerosis() -> None:
     ]
     assert rows and rows[0]["presence"] != "present"
     assert rows[0]["relationship_role"] == "favors_competitor"
+
+
+def test_phase4b_bundle_excludes_migraine_red_flags_from_positive_findings() -> None:
+    result = build_bundles()
+    records = json.loads(result["diseases.json"].read_text())["records"]
+    migraine = next(row for row in records if row["canonical_name"] == "Migraine without aura")
+    positive_names = {finding["name"] for finding in migraine["findings"]}
+    assert not positive_names & {
+        "Papilledema",
+        "Xanthochromia",
+        "Elevated opening pressure",
+        "Meningismus",
+    }
+    red_flags = [
+        row for row in migraine["finding_semantics"] if row.get("relationship_role") == "red_flag"
+    ]
+    assert len(red_flags) == 4
