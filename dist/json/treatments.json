@@ -3827,6 +3827,28 @@
       "treatment_category": "neurology",
       "treatment_id": "TRT-NEUR-BFEE3FB0E2BE",
       "treatment_type": "intervention"
+    },
+    {
+      "content_tier": "disease_specific",
+      "deprecated": "false",
+      "emergency_role": "Not a substitute for evaluating fever, focal deficit, or other secondary-headache red flags.",
+      "general_description": "Autologous epidural blood seals a persistent dural CSF leak after dural puncture.",
+      "hepatic_context": "",
+      "human_review_status": "not_requested",
+      "major_contraindications": "Active infection, uncorrected coagulopathy, or refusal require reassessment.",
+      "mechanism_summary": "Restores CSF pressure by sealing the leak.",
+      "medical_review_status": "draft_ai_generated",
+      "monitoring_summary": "Reassess positional pain and new neurologic symptoms after the procedure.",
+      "name": "Epidural blood patch",
+      "notes": "Explicit Phase-4B post-dural-puncture rescue treatment.",
+      "pediatric_context": "",
+      "pregnancy_context": "",
+      "renal_context": "",
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
+      "treatment_category": "rescue",
+      "treatment_id": "TRT-NEUR-P4B-001",
+      "treatment_type": "procedure"
     }
   ],
   "schema_version": "1.1.0"

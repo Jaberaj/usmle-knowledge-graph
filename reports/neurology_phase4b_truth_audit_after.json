@@ -1,0 +1,22 @@
+{
+  "scope_manifests": [
+    "headache.yaml",
+    "infection.yaml",
+    "demyelinating.yaml"
+  ],
+  "disease_records_by_module": {
+    "headache.yaml": 13,
+    "infection.yaml": 20,
+    "demyelinating.yaml": 10
+  },
+  "template_defects": [],
+  "empty_sections": [],
+  "duplicate_ids": [],
+  "contradictory_source_statuses": [],
+  "computed_summary": {
+    "phase4b_scoped_template_hits": 0,
+    "empty_section_count": 0,
+    "duplicate_id_count": 0,
+    "contradictory_source_status_count": 0
+  }
+}

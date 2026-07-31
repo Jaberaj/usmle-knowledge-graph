@@ -1,22 +1,22 @@
 {
   "application_contract_version": "1.1.0",
-  "build_timestamp": "2026-07-31T02:42:13+00:00",
+  "build_timestamp": "2026-07-31T03:26:00+00:00",
   "checksums": {
     "algorithms.json": "2a212ed4de935013d353a7f1365588618e1cfdd2c54536ea18cb5f0d1d2203d4",
-    "diseases.json": "94e2ebc00c2646e2c157c605a1390a1348c75a9b714dc362fac99d5511cc3055",
-    "entities.json": "1fd369d96da6911c667cff7ea0b721610a6609e29d5e22a17dfc949022fa24b2",
-    "game_content.json": "60ed16d1998c4ba0b1ef38c9f91fe1bdee1353b59685db07ebf591562c96d6fe",
+    "diseases.json": "314d46d6ab415f8f0b7ed9b76850133db35a918bc1ec058103dad6a50fa6b25a",
+    "entities.json": "3f87a9ce2c862aff91cc74fdd3c343b5a9af1f534ef25b64ade8d82b3c55aa94",
+    "game_content.json": "12c5f20a388820b507a5f1680a02d379c4b127b12f1ad7354d043bf2e6e363c3",
     "medications.json": "18a4d7f24b3424c3e6c27234722af6eb058d33d704a30622feb8a8b77a9357fc",
     "presentations.json": "edc83602c7d9de31b821716e19b6642d96b7a1bf3b7cd227005e60a6f21064f0",
-    "relationships.json": "9d240ed5105ce69209b154edf4e7ebfee820e51d5e819445364da55e35b75bf4",
-    "search_index.json": "1a6a1285f54ad560bc325038bde0826a74f124177da1fb6967d1f26388232675",
-    "treatments.json": "14a92f249915c663a80431c5465c5504c18fa747def5852a74ffb3cd3d5d2d30"
+    "relationships.json": "61d896d963a16130e69bdab915b3ebc4d1be48320a4f2b391c6426f5c2e3c8a3",
+    "search_index.json": "ac5524f5bb5d03a71525b8caaf87dda6c2b3bda5e59ddea07c7ab3bac72491e0",
+    "treatments.json": "d8e86f6fe52c301267e27c32a3eff4a66bdd416419c4ef19968640e2ada0a593"
   },
   "compatibility_notes": [
     "Initial application contract; additive changes are backward compatible."
   ],
   "disclaimer": "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional.",
-  "git_commit": "5cbdf6c79de88f4a68cdd0f3f1159762aaf88d3a",
+  "git_commit": "8e7e962137787cafb73732ef35c2b023d0b748ae",
   "included_bundles": [
     "algorithms.json",
     "diseases.json",
@@ -38,20 +38,20 @@
     "disease_diagnostics": 1395,
     "disease_differentials": 1659,
     "disease_findings": 618,
-    "disease_keywords": 665,
+    "disease_keywords": 647,
     "disease_presentations": 1129,
-    "disease_treatments": 1466,
+    "disease_treatments": 1467,
     "diseases": 709,
     "entity_references": 706,
     "finding_localizations": 147,
     "findings": 109,
-    "keywords": 134,
+    "keywords": 146,
     "localizations": 63,
     "medications": 50,
     "presentation_keywords": 4,
     "presentations": 135,
     "references": 24,
-    "treatments": 174
+    "treatments": 175
   },
   "schema_version": "1.1.0"
 }

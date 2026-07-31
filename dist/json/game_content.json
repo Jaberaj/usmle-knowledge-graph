@@ -10385,45 +10385,35 @@
     {
       "disease_id": "DIS-NEUR-053",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-001"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "disease_id": "DIS-NEUR-054",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-002"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "disease_id": "DIS-NEUR-055",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-003"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "disease_id": "DIS-NEUR-056",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-004"
       ],
       "source_status": "partially_source_supported"
     },
     {
       "disease_id": "DIS-NEUR-057",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-005"
       ],
       "source_status": "partially_source_supported"
     },
@@ -10532,7 +10522,8 @@
         "KEY-NEUR-FF60F689D912",
         "KEY-NEUR-1BFEC434DE3A",
         "KEY-NEUR-05DFF2635063",
-        "KEY-NEUR-A2666BE46052"
+        "KEY-NEUR-A2666BE46052",
+        "KEY-NEUR-P4B-011"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -11223,7 +11214,8 @@
       "keyword_ids": [
         "KEY-NEUR-DAD5F8163EAA",
         "KEY-NEUR-DAWSONFINGERS",
-        "KEY-NEUR-015C6A14AF4D"
+        "KEY-NEUR-015C6A14AF4D",
+        "KEY-NEUR-P4B-012"
       ],
       "source_status": "partially_source_supported"
     },
@@ -11284,9 +11276,7 @@
     {
       "disease_id": "DIS-NEUR-CHRONICMIGRAINE",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-008"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -11337,9 +11327,7 @@
     {
       "disease_id": "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-010"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -11400,9 +11388,7 @@
     {
       "disease_id": "DIS-NEUR-OCCIPITALNEURALGIA",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-009"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -11454,18 +11440,14 @@
     {
       "disease_id": "DIS-NEUR-TENSIONTYPEHEADACHE",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-006"
       ],
       "source_status": "unverified_ai_generated"
     },
     {
       "disease_id": "DIS-NEUR-VESTIBULARMIGRAINE",
       "keyword_ids": [
-        "KEY-NEUR-E2CFD4F8B6D1",
-        "KEY-NEUR-BBD9B4F8A0D0",
-        "KEY-NEUR-C70FA2F98F83"
+        "KEY-NEUR-P4B-007"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -17485,7 +17467,8 @@
         "TRT-NEUR-555CD2FAA63C",
         "TRT-NEUR-581BD2235311",
         "TRT-NEUR-9E3E33D317A1",
-        "TRT-NEUR-B4F2CC2851EC"
+        "TRT-NEUR-B4F2CC2851EC",
+        "TRT-NEUR-P4B-001"
       ],
       "disease_id": "DIS-NEUR-061",
       "source_status": "partially_source_supported"

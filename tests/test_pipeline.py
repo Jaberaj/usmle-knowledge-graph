@@ -195,3 +195,36 @@ def test_phase4a_vascular_and_epilepsy_ownership(disease: str, kind: str, expect
     disease_ids, links = _neurology_links()
     assert expected in links[kind + disease_ids[disease]]
     assert links[kind + disease_ids[disease]][expected]
+
+
+@pytest.mark.parametrize(
+    ("disease", "kind", "expected"),
+    [
+        ("Migraine with aura", "keyword", "Gradually spreading positive aura"),
+        ("Cluster headache", "keyword", "Unilateral autonomic headache with restlessness"),
+        ("Trigeminal neuralgia", "keyword", "Touch-triggered electric facial pain"),
+        ("Post-dural-puncture headache", "treatment", "Epidural blood patch"),
+        ("Acute bacterial meningitis", "finding", "Neutrophilic CSF"),
+        ("HSV encephalitis", "finding", "Temporal-lobe abnormalities"),
+        ("Brain abscess", "treatment", "Avoid routine lumbar puncture with mass lesion"),
+        (
+            "Progressive multifocal leukoencephalopathy",
+            "keyword",
+            "JC virus in advanced immunocompromise",
+        ),
+        ("Multiple sclerosis", "finding", "Dawson fingers"),
+        ("Neuromyelitis optica spectrum disorder", "finding", "Aquaporin-4 antibodies"),
+        ("Guillain-Barre syndrome", "finding", "Albuminocytologic dissociation"),
+        (
+            "Osmotic demyelination syndrome",
+            "keyword",
+            "Rapid correction of chronic hyponatremia",
+        ),
+    ],
+)
+def test_phase4b_headache_infection_and_inflammation_ownership(
+    disease: str, kind: str, expected: str
+) -> None:
+    disease_ids, links = _neurology_links()
+    assert expected in links[kind + disease_ids[disease]]
+    assert links[kind + disease_ids[disease]][expected]

@@ -29444,6 +29444,126 @@
         "normalized_keyword": "recurrent unprovoked seizures",
         "notes": "Explicit Phase-4A epilepsy clue.",
         "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Recurrent attacks of pulsatile disabling headache with nausea and photo- or phonophobia occur without a preceding focal aura.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-001",
+        "keyword_text": "Photophobia with nausea",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "photophobia with nausea",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Gradually spreading positive visual, sensory, or language symptoms that evolve over minutes and may precede headache support migraine aura rather than abrupt negative TIA symptoms.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-002",
+        "keyword_text": "Gradually spreading positive aura",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "gradually spreading positive aura",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Reversible unilateral motor weakness evolving with migraine aura requires exclusion of acute stroke at a first or atypical presentation.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-003",
+        "keyword_text": "Reversible unilateral weakness with aura",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "reversible unilateral weakness with aura",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Short attacks of severe unilateral orbital or temporal pain with ipsilateral lacrimation, nasal congestion, and restlessness define a trigeminal autonomic cephalalgia.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-004",
+        "keyword_text": "Unilateral autonomic headache with restlessness",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "unilateral autonomic headache with restlessness",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Brief electric shock-like unilateral facial pain triggered by light touch, chewing, or brushing teeth follows a trigeminal distribution.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-005",
+        "keyword_text": "Touch-triggered electric facial pain",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "touch-triggered electric facial pain",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Bilateral pressing or tightening headache without prominent nausea or focal neurologic findings supports tension-type headache.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-006",
+        "keyword_text": "Bilateral pressing headache",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "bilateral pressing headache",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Episodic vertigo with migrainous features and no fixed focal vestibular deficit supports vestibular migraine.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-007",
+        "keyword_text": "Episodic vertigo with migrainous features",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "episodic vertigo with migrainous features",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Headache on at least fifteen days each month with migrainous features on a subset requires attention to medication overuse and prevention.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-008",
+        "keyword_text": "Headache on fifteen or more days monthly",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "headache on fifteen or more days monthly",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Paroxysmal stabbing pain in the occipital nerve distribution with local tenderness or trigger points supports occipital neuralgia.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-009",
+        "keyword_text": "Occipital nerve trigger-point pain",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "occipital nerve trigger-point pain",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Brief electric pain in the throat, tonsillar fossa, or deep ear triggered by swallowing or coughing supports glossopharyngeal neuralgia.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-010",
+        "keyword_text": "Swallowing-triggered throat pain",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "swallowing-triggered throat pain",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Progressive focal deficits in severe cellular immunosuppression with nonenhancing white-matter lesions and JC-virus evidence support PML.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-011",
+        "keyword_text": "JC virus in advanced immunocompromise",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "jc virus in advanced immunocompromise",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
+      },
+      {
+        "clinical_meaning": "Delayed dysarthria, dysphagia, quadriparesis, or altered consciousness after overly rapid correction of chronic hyponatremia suggests osmotic demyelination.",
+        "deprecated": "false",
+        "keyword_id": "KEY-NEUR-P4B-012",
+        "keyword_text": "Rapid correction of chronic hyponatremia",
+        "keyword_type": "classic_clue",
+        "normalized_keyword": "rapid correction of chronic hyponatremia",
+        "notes": "Explicit Phase-4B headache clue.",
+        "source_status": "unverified_ai_generated"
       }
     ],
     "localizations": [
@@ -37432,6 +37552,28 @@
         "treatment_category": "neurology",
         "treatment_id": "TRT-NEUR-BFEE3FB0E2BE",
         "treatment_type": "intervention"
+      },
+      {
+        "content_tier": "disease_specific",
+        "deprecated": "false",
+        "emergency_role": "Not a substitute for evaluating fever, focal deficit, or other secondary-headache red flags.",
+        "general_description": "Autologous epidural blood seals a persistent dural CSF leak after dural puncture.",
+        "hepatic_context": "",
+        "human_review_status": "not_requested",
+        "major_contraindications": "Active infection, uncorrected coagulopathy, or refusal require reassessment.",
+        "mechanism_summary": "Restores CSF pressure by sealing the leak.",
+        "medical_review_status": "draft_ai_generated",
+        "monitoring_summary": "Reassess positional pain and new neurologic symptoms after the procedure.",
+        "name": "Epidural blood patch",
+        "notes": "Explicit Phase-4B post-dural-puncture rescue treatment.",
+        "pediatric_context": "",
+        "pregnancy_context": "",
+        "renal_context": "",
+        "source_review_status": "draft_ai_generated",
+        "source_status": "unverified_ai_generated",
+        "treatment_category": "rescue",
+        "treatment_id": "TRT-NEUR-P4B-001",
+        "treatment_type": "procedure"
       }
     ]
   },

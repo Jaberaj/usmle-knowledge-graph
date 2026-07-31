@@ -29,20 +29,20 @@
     "disease_diagnostics": 1395,
     "disease_differentials": 1659,
     "disease_findings": 618,
-    "disease_keywords": 665,
+    "disease_keywords": 647,
     "disease_presentations": 1129,
-    "disease_treatments": 1466,
+    "disease_treatments": 1467,
     "diseases": 709,
     "entity_references": 706,
     "finding_localizations": 147,
     "findings": 109,
-    "keywords": 134,
+    "keywords": 146,
     "localizations": 63,
     "medications": 50,
     "presentation_keywords": 4,
     "presentations": 135,
     "references": 24,
-    "treatments": 174
+    "treatments": 175
   },
   "validation_errors": []
 }

@@ -3760,9 +3760,7 @@
       "priority": 2,
       "search_keywords": [
         "migraine without aura",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "photophobia with nausea"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3778,9 +3776,7 @@
       "priority": 2,
       "search_keywords": [
         "migraine with aura",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "gradually spreading positive aura"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3796,9 +3792,7 @@
       "priority": 2,
       "search_keywords": [
         "hemiplegic migraine",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "reversible unilateral weakness with aura"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3814,9 +3808,7 @@
       "priority": 2,
       "search_keywords": [
         "cluster headache",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "unilateral autonomic headache with restlessness"
       ],
       "source_status": "partially_source_supported"
     },
@@ -3832,9 +3824,7 @@
       "priority": 2,
       "search_keywords": [
         "trigeminal neuralgia",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "touch-triggered electric facial pain"
       ],
       "source_status": "partially_source_supported"
     },
@@ -4062,7 +4052,8 @@
         "low csf glucose",
         "temporal-lobe hemorrhagic necrosis",
         "opening pressure",
-        "ring-enhancing lesion"
+        "ring-enhancing lesion",
+        "jc virus in advanced immunocompromise"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -5500,7 +5491,8 @@
         "osmotic demyelination syndrome",
         "internuclear ophthalmoplegia",
         "dawson fingers",
-        "oligoclonal bands"
+        "oligoclonal bands",
+        "rapid correction of chronic hyponatremia"
       ],
       "source_status": "partially_source_supported"
     },
@@ -10899,9 +10891,7 @@
       "priority": 2,
       "search_keywords": [
         "tension-type headache",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "bilateral pressing headache"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10917,9 +10907,7 @@
       "priority": 2,
       "search_keywords": [
         "vestibular migraine",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "episodic vertigo with migrainous features"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10935,9 +10923,7 @@
       "priority": 2,
       "search_keywords": [
         "chronic migraine",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "headache on fifteen or more days monthly"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10953,9 +10939,7 @@
       "priority": 2,
       "search_keywords": [
         "occipital neuralgia",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "occipital nerve trigger-point pain"
       ],
       "source_status": "unverified_ai_generated"
     },
@@ -10971,9 +10955,7 @@
       "priority": 2,
       "search_keywords": [
         "glossopharyngeal neuralgia",
-        "worst headache of life",
-        "thunderclap headache",
-        "sentinel headache"
+        "swallowing-triggered throat pain"
       ],
       "source_status": "unverified_ai_generated"
     },

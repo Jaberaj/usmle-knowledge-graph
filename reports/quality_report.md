@@ -2,22 +2,22 @@
 
 - diseases: 709
 - presentations: 135
-- treatments: 174
+- treatments: 175
 - medications: 50
 - diagnostics: 100
 - algorithms: 127
 - references: 24
-- keywords: 134
+- keywords: 146
 - complications: 74
 - findings: 109
 - localizations: 63
 - disease_presentations: 1129
-- disease_treatments: 1466
+- disease_treatments: 1467
 - disease_differentials: 1659
 - disease_diagnostics: 1395
 - algorithm_steps: 1207
 - entity_references: 706
-- disease_keywords: 665
+- disease_keywords: 647
 - presentation_keywords: 4
 - disease_complications: 499
 - disease_findings: 618
