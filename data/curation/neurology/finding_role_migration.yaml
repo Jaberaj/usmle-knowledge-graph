@@ -1,9 +1,9 @@
 modules:
   vascular: {status: migrated, audited_commit: 8e7e962}
   seizures: {status: migrated, audited_commit: 8e7e962}
-  headache: {status: migrated, audited_commit: 21abd96}
-  infection: {status: migrated, audited_commit: 21abd96}
-  demyelinating: {status: migrated, audited_commit: 21abd96}
+  headache: {status: migrated, finding_role_status: migrated, finding_role_audited_commit: 21abd96, semantic_acceptance_status: pending, semantic_acceptance_commit: ''}
+  infection: {status: migrated, finding_role_status: migrated, finding_role_audited_commit: 21abd96, semantic_acceptance_status: pending, semantic_acceptance_commit: ''}
+  demyelinating: {status: migrated, finding_role_status: migrated, finding_role_audited_commit: 21abd96, semantic_acceptance_status: pending, semantic_acceptance_commit: ''}
   movement: {status: pending}
   cognition: {status: pending}
   neuromuscular: {status: pending}
