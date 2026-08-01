@@ -16,20 +16,27 @@ def main():
     groups = defaultdict(list)
     for e in errors:
         groups[
-            (e.get("relationship_type", ""), e.get("field", ""), e.get("normalized_value", ""))
+            (e.get("template_rule_id", ""), e.get("relationship_type", ""), e.get("field", ""))
         ].append(e)
     inventory = {
         "total_template_hits": len(errors),
+        "unique_template_rule_ids": len({e.get("template_rule_id", "") for e in errors}),
         "unique_template_skeletons": len(groups),
+        "hits_by_module": dict(Counter(e.get("source_file", "") for e in errors)),
         "hits_by_relationship_type": dict(Counter(e.get("relationship_type", "") for e in errors)),
         "hits_by_field": dict(Counter(e.get("field", "") for e in errors)),
         "hits_by_disease": dict(Counter(e.get("disease_id", "unknown") for e in errors)),
+        "hits_by_template_rule_id": dict(Counter(e.get("template_rule_id", "") for e in errors)),
         "top_template_clusters": [
             {
-                "normalized_skeleton": k[2],
+                "template_rule_id": k[0],
+                "normalized_skeleton": v[0].get("normalized_skeleton", ""),
                 "count": len(v),
-                "relationship_type": k[0],
-                "field": k[1],
+                "relationship_types": [k[1]],
+                "fields": [k[2]],
+                "source_files": sorted({e.get("source_file", "") for e in v}),
+                "affected_disease_ids": sorted({e.get("disease_id", "") for e in v}),
+                "affected_disease_names": sorted({e.get("disease_name", "") for e in v}),
                 "representative_examples": v[:3],
                 "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction.",
             }

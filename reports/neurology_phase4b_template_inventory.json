@@ -1,6 +1,12 @@
 {
   "total_template_hits": 1026,
-  "unique_template_skeletons": 930,
+  "unique_template_rule_ids": 6,
+  "unique_template_skeletons": 6,
+  "hits_by_module": {
+    "data/curation/neurology/infection.yaml": 529,
+    "data/curation/neurology/headache.yaml": 272,
+    "data/curation/neurology/demyelinating.yaml": 225
+  },
   "hits_by_relationship_type": {
     "disease_presentations": 276,
     "disease_findings": 574,
@@ -59,12 +65,718 @@
     "DIS-NEUR-ACUTEFLACCIDMYELITIS": 22,
     "DIS-NEUR-053": 8
   },
+  "hits_by_template_rule_id": {
+    "presentation_linked_timing_exam": 138,
+    "presentation_generic_negative_alternatives": 138,
+    "finding_timing_phenotype_sensitivity": 193,
+    "finding_disease_specific_mimics": 193,
+    "finding_actual_onset_exam_distinction": 188,
+    "diagnostic_result_stated_in_interpretation": 176
+  },
   "top_template_clusters": [
     {
-      "normalized_skeleton": "for meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
+      "template_rule_id": "finding_timing_phenotype_sensitivity",
+      "normalized_skeleton": "timing and phenotype determine sensitivity",
+      "count": 193,
+      "relationship_types": [
+        "disease_findings"
+      ],
+      "fields": [
+        "sensitivity_context"
+      ],
+      "source_files": [
+        "data/curation/neurology/demyelinating.yaml",
+        "data/curation/neurology/headache.yaml",
+        "data/curation/neurology/infection.yaml"
+      ],
+      "affected_disease_ids": [
+        "DIS-N-0063",
+        "DIS-N-0064",
+        "DIS-N-0065",
+        "DIS-NEUR-024",
+        "DIS-NEUR-053",
+        "DIS-NEUR-054",
+        "DIS-NEUR-055",
+        "DIS-NEUR-056",
+        "DIS-NEUR-057",
+        "DIS-NEUR-059",
+        "DIS-NEUR-061",
+        "DIS-NEUR-062",
+        "DIS-NEUR-063",
+        "DIS-NEUR-064",
+        "DIS-NEUR-065",
+        "DIS-NEUR-067",
+        "DIS-NEUR-068",
+        "DIS-NEUR-070",
+        "DIS-NEUR-071",
+        "DIS-NEUR-074",
+        "DIS-NEUR-075",
+        "DIS-NEUR-076",
+        "DIS-NEUR-077",
+        "DIS-NEUR-078",
+        "DIS-NEUR-080",
+        "DIS-NEUR-081",
+        "DIS-NEUR-082",
+        "DIS-NEUR-101",
+        "DIS-NEUR-128",
+        "DIS-NEUR-131",
+        "DIS-NEUR-152",
+        "DIS-NEUR-155",
+        "DIS-NEUR-156",
+        "DIS-NEUR-158",
+        "DIS-NEUR-ACUTEFLACCIDMYELITIS",
+        "DIS-NEUR-CHRONICMIGRAINE",
+        "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
+        "DIS-NEUR-MEDICATIONOVERUSEHEA",
+        "DIS-NEUR-NEUROBORRELIOSIS",
+        "DIS-NEUR-OCCIPITALNEURALGIA",
+        "DIS-NEUR-RABIESENCEPHALITIS",
+        "DIS-NEUR-TENSIONTYPEHEADACHE",
+        "DIS-NEUR-VESTIBULARMIGRAINE"
+      ],
+      "affected_disease_names": [
+        "Acute bacterial meningitis",
+        "Acute disseminated encephalomyelitis",
+        "Acute flaccid myelitis",
+        "Amyotrophic lateral sclerosis",
+        "Anti-NMDA receptor encephalitis",
+        "Autoimmune encephalitis",
+        "Brain abscess",
+        "Chronic inflammatory demyelinating polyneuropathy",
+        "Chronic migraine",
+        "Cluster headache",
+        "Cryptococcal meningitis",
+        "Encephalitis",
+        "Glossopharyngeal neuralgia",
+        "HSV encephalitis",
+        "Hemiplegic migraine",
+        "Hepatic encephalopathy",
+        "Hyponatremic encephalopathy",
+        "Intracranial hypotension",
+        "MOG antibody-associated disease",
+        "Medication-overuse headache",
+        "Meningioma",
+        "Meningitis",
+        "Migraine with aura",
+        "Migraine without aura",
+        "Multiple sclerosis",
+        "Neuroborreliosis",
+        "Neuromyelitis optica spectrum disorder",
+        "Neurosyphilis",
+        "Occipital neuralgia",
+        "Optic neuritis",
+        "Osmotic demyelination syndrome",
+        "Post-dural-puncture headache",
+        "Posterior reversible encephalopathy syndrome",
+        "Progressive multifocal leukoencephalopathy",
+        "Rabies encephalitis",
+        "Tension-type headache",
+        "Transverse myelitis",
+        "Trigeminal neuralgia",
+        "Tuberculous meningitis",
+        "Tuberous sclerosis",
+        "Vestibular migraine",
+        "Viral meningitis",
+        "Wernicke encephalopathy"
+      ],
+      "representative_examples": [
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-39C3976A8839",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "sensitivity_context",
+          "exact_text": "Timing and phenotype determine sensitivity of meningismus in Meningitis.",
+          "normalized_value": "timing and phenotype determine sensitivity of meningismus in meningitis",
+          "normalized_skeleton": "timing and phenotype determine sensitivity",
+          "template_rule_id": "finding_timing_phenotype_sensitivity",
+          "matched_text": "timing and phenotype determine sensitivity"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-1D11CD076CCA",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "sensitivity_context",
+          "exact_text": "Timing and phenotype determine sensitivity of neutrophilic csf in Meningitis.",
+          "normalized_value": "timing and phenotype determine sensitivity of neutrophilic csf in meningitis",
+          "normalized_skeleton": "timing and phenotype determine sensitivity",
+          "template_rule_id": "finding_timing_phenotype_sensitivity",
+          "matched_text": "timing and phenotype determine sensitivity"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-DAD96D7E9881",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "sensitivity_context",
+          "exact_text": "Timing and phenotype determine sensitivity of lymphocytic csf in Meningitis.",
+          "normalized_value": "timing and phenotype determine sensitivity of lymphocytic csf in meningitis",
+          "normalized_skeleton": "timing and phenotype determine sensitivity",
+          "template_rule_id": "finding_timing_phenotype_sensitivity",
+          "matched_text": "timing and phenotype determine sensitivity"
+        }
+      ],
+      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
+    },
+    {
+      "template_rule_id": "finding_disease_specific_mimics",
+      "normalized_skeleton": "is interpreted against the disease-specific mimics",
+      "count": 193,
+      "relationship_types": [
+        "disease_findings"
+      ],
+      "fields": [
+        "specificity_context"
+      ],
+      "source_files": [
+        "data/curation/neurology/demyelinating.yaml",
+        "data/curation/neurology/headache.yaml",
+        "data/curation/neurology/infection.yaml"
+      ],
+      "affected_disease_ids": [
+        "DIS-N-0063",
+        "DIS-N-0064",
+        "DIS-N-0065",
+        "DIS-NEUR-024",
+        "DIS-NEUR-053",
+        "DIS-NEUR-054",
+        "DIS-NEUR-055",
+        "DIS-NEUR-056",
+        "DIS-NEUR-057",
+        "DIS-NEUR-059",
+        "DIS-NEUR-061",
+        "DIS-NEUR-062",
+        "DIS-NEUR-063",
+        "DIS-NEUR-064",
+        "DIS-NEUR-065",
+        "DIS-NEUR-067",
+        "DIS-NEUR-068",
+        "DIS-NEUR-070",
+        "DIS-NEUR-071",
+        "DIS-NEUR-074",
+        "DIS-NEUR-075",
+        "DIS-NEUR-076",
+        "DIS-NEUR-077",
+        "DIS-NEUR-078",
+        "DIS-NEUR-080",
+        "DIS-NEUR-081",
+        "DIS-NEUR-082",
+        "DIS-NEUR-101",
+        "DIS-NEUR-128",
+        "DIS-NEUR-131",
+        "DIS-NEUR-152",
+        "DIS-NEUR-155",
+        "DIS-NEUR-156",
+        "DIS-NEUR-158",
+        "DIS-NEUR-ACUTEFLACCIDMYELITIS",
+        "DIS-NEUR-CHRONICMIGRAINE",
+        "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
+        "DIS-NEUR-MEDICATIONOVERUSEHEA",
+        "DIS-NEUR-NEUROBORRELIOSIS",
+        "DIS-NEUR-OCCIPITALNEURALGIA",
+        "DIS-NEUR-RABIESENCEPHALITIS",
+        "DIS-NEUR-TENSIONTYPEHEADACHE",
+        "DIS-NEUR-VESTIBULARMIGRAINE"
+      ],
+      "affected_disease_names": [
+        "Acute bacterial meningitis",
+        "Acute disseminated encephalomyelitis",
+        "Acute flaccid myelitis",
+        "Amyotrophic lateral sclerosis",
+        "Anti-NMDA receptor encephalitis",
+        "Autoimmune encephalitis",
+        "Brain abscess",
+        "Chronic inflammatory demyelinating polyneuropathy",
+        "Chronic migraine",
+        "Cluster headache",
+        "Cryptococcal meningitis",
+        "Encephalitis",
+        "Glossopharyngeal neuralgia",
+        "HSV encephalitis",
+        "Hemiplegic migraine",
+        "Hepatic encephalopathy",
+        "Hyponatremic encephalopathy",
+        "Intracranial hypotension",
+        "MOG antibody-associated disease",
+        "Medication-overuse headache",
+        "Meningioma",
+        "Meningitis",
+        "Migraine with aura",
+        "Migraine without aura",
+        "Multiple sclerosis",
+        "Neuroborreliosis",
+        "Neuromyelitis optica spectrum disorder",
+        "Neurosyphilis",
+        "Occipital neuralgia",
+        "Optic neuritis",
+        "Osmotic demyelination syndrome",
+        "Post-dural-puncture headache",
+        "Posterior reversible encephalopathy syndrome",
+        "Progressive multifocal leukoencephalopathy",
+        "Rabies encephalitis",
+        "Tension-type headache",
+        "Transverse myelitis",
+        "Trigeminal neuralgia",
+        "Tuberculous meningitis",
+        "Tuberous sclerosis",
+        "Vestibular migraine",
+        "Viral meningitis",
+        "Wernicke encephalopathy"
+      ],
+      "representative_examples": [
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-39C3976A8839",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "specificity_context",
+          "exact_text": "Meningismus is interpreted against the disease-specific mimics of Meningitis.",
+          "normalized_value": "meningismus is interpreted against the disease-specific mimics of meningitis",
+          "normalized_skeleton": "is interpreted against the disease-specific mimics",
+          "template_rule_id": "finding_disease_specific_mimics",
+          "matched_text": "is interpreted against the disease-specific mimics"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-1D11CD076CCA",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "specificity_context",
+          "exact_text": "Neutrophilic CSF is interpreted against the disease-specific mimics of Meningitis.",
+          "normalized_value": "neutrophilic csf is interpreted against the disease-specific mimics of meningitis",
+          "normalized_skeleton": "is interpreted against the disease-specific mimics",
+          "template_rule_id": "finding_disease_specific_mimics",
+          "matched_text": "is interpreted against the disease-specific mimics"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-DAD96D7E9881",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "specificity_context",
+          "exact_text": "Lymphocytic CSF is interpreted against the disease-specific mimics of Meningitis.",
+          "normalized_value": "lymphocytic csf is interpreted against the disease-specific mimics of meningitis",
+          "normalized_skeleton": "is interpreted against the disease-specific mimics",
+          "template_rule_id": "finding_disease_specific_mimics",
+          "matched_text": "is interpreted against the disease-specific mimics"
+        }
+      ],
+      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
+    },
+    {
+      "template_rule_id": "finding_actual_onset_exam_distinction",
+      "normalized_skeleton": "helps distinguish",
+      "count": 188,
+      "relationship_types": [
+        "disease_findings"
+      ],
+      "fields": [
+        "distinguishing_value"
+      ],
+      "source_files": [
+        "data/curation/neurology/demyelinating.yaml",
+        "data/curation/neurology/headache.yaml",
+        "data/curation/neurology/infection.yaml"
+      ],
+      "affected_disease_ids": [
+        "DIS-N-0063",
+        "DIS-N-0064",
+        "DIS-N-0065",
+        "DIS-NEUR-024",
+        "DIS-NEUR-054",
+        "DIS-NEUR-055",
+        "DIS-NEUR-056",
+        "DIS-NEUR-057",
+        "DIS-NEUR-059",
+        "DIS-NEUR-061",
+        "DIS-NEUR-062",
+        "DIS-NEUR-063",
+        "DIS-NEUR-064",
+        "DIS-NEUR-065",
+        "DIS-NEUR-067",
+        "DIS-NEUR-068",
+        "DIS-NEUR-070",
+        "DIS-NEUR-071",
+        "DIS-NEUR-074",
+        "DIS-NEUR-075",
+        "DIS-NEUR-076",
+        "DIS-NEUR-077",
+        "DIS-NEUR-078",
+        "DIS-NEUR-080",
+        "DIS-NEUR-081",
+        "DIS-NEUR-082",
+        "DIS-NEUR-101",
+        "DIS-NEUR-128",
+        "DIS-NEUR-131",
+        "DIS-NEUR-152",
+        "DIS-NEUR-155",
+        "DIS-NEUR-156",
+        "DIS-NEUR-158",
+        "DIS-NEUR-ACUTEFLACCIDMYELITIS",
+        "DIS-NEUR-CHRONICMIGRAINE",
+        "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
+        "DIS-NEUR-MEDICATIONOVERUSEHEA",
+        "DIS-NEUR-NEUROBORRELIOSIS",
+        "DIS-NEUR-OCCIPITALNEURALGIA",
+        "DIS-NEUR-RABIESENCEPHALITIS",
+        "DIS-NEUR-TENSIONTYPEHEADACHE",
+        "DIS-NEUR-VESTIBULARMIGRAINE"
+      ],
+      "affected_disease_names": [
+        "Acute bacterial meningitis",
+        "Acute disseminated encephalomyelitis",
+        "Acute flaccid myelitis",
+        "Amyotrophic lateral sclerosis",
+        "Anti-NMDA receptor encephalitis",
+        "Autoimmune encephalitis",
+        "Brain abscess",
+        "Chronic inflammatory demyelinating polyneuropathy",
+        "Chronic migraine",
+        "Cluster headache",
+        "Cryptococcal meningitis",
+        "Encephalitis",
+        "Glossopharyngeal neuralgia",
+        "HSV encephalitis",
+        "Hemiplegic migraine",
+        "Hepatic encephalopathy",
+        "Hyponatremic encephalopathy",
+        "Intracranial hypotension",
+        "MOG antibody-associated disease",
+        "Medication-overuse headache",
+        "Meningioma",
+        "Meningitis",
+        "Migraine with aura",
+        "Multiple sclerosis",
+        "Neuroborreliosis",
+        "Neuromyelitis optica spectrum disorder",
+        "Neurosyphilis",
+        "Occipital neuralgia",
+        "Optic neuritis",
+        "Osmotic demyelination syndrome",
+        "Post-dural-puncture headache",
+        "Posterior reversible encephalopathy syndrome",
+        "Progressive multifocal leukoencephalopathy",
+        "Rabies encephalitis",
+        "Tension-type headache",
+        "Transverse myelitis",
+        "Trigeminal neuralgia",
+        "Tuberculous meningitis",
+        "Tuberous sclerosis",
+        "Vestibular migraine",
+        "Viral meningitis",
+        "Wernicke encephalopathy"
+      ],
+      "representative_examples": [
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-39C3976A8839",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "distinguishing_value",
+          "exact_text": "'Meningismus' helps distinguish Meningitis when evaluated with the actual onset and examination.",
+          "normalized_value": "meningismus helps distinguish meningitis when evaluated with the actual onset and examination",
+          "normalized_skeleton": "helps distinguish",
+          "template_rule_id": "finding_actual_onset_exam_distinction",
+          "matched_text": "helps distinguish"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-1D11CD076CCA",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "distinguishing_value",
+          "exact_text": "'Neutrophilic CSF' helps distinguish Meningitis when evaluated with the actual onset and examination.",
+          "normalized_value": "neutrophilic csf helps distinguish meningitis when evaluated with the actual onset and examination",
+          "normalized_skeleton": "helps distinguish",
+          "template_rule_id": "finding_actual_onset_exam_distinction",
+          "matched_text": "helps distinguish"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_findings",
+          "relationship_id": "DNF-NEUR-DAD96D7E9881",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "distinguishing_value",
+          "exact_text": "'Lymphocytic CSF' helps distinguish Meningitis when evaluated with the actual onset and examination.",
+          "normalized_value": "lymphocytic csf helps distinguish meningitis when evaluated with the actual onset and examination",
+          "normalized_skeleton": "helps distinguish",
+          "template_rule_id": "finding_actual_onset_exam_distinction",
+          "matched_text": "helps distinguish"
+        }
+      ],
+      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
+    },
+    {
+      "template_rule_id": "diagnostic_result_stated_in_interpretation",
+      "normalized_skeleton": "is expected to provide the disease-specific result stated",
+      "count": 176,
+      "relationship_types": [
+        "disease_diagnostics"
+      ],
+      "fields": [
+        "expected_result"
+      ],
+      "source_files": [
+        "data/curation/neurology/demyelinating.yaml",
+        "data/curation/neurology/headache.yaml",
+        "data/curation/neurology/infection.yaml"
+      ],
+      "affected_disease_ids": [
+        "DIS-N-0063",
+        "DIS-N-0064",
+        "DIS-N-0065",
+        "DIS-NEUR-024",
+        "DIS-NEUR-054",
+        "DIS-NEUR-055",
+        "DIS-NEUR-056",
+        "DIS-NEUR-057",
+        "DIS-NEUR-059",
+        "DIS-NEUR-061",
+        "DIS-NEUR-062",
+        "DIS-NEUR-063",
+        "DIS-NEUR-064",
+        "DIS-NEUR-065",
+        "DIS-NEUR-067",
+        "DIS-NEUR-068",
+        "DIS-NEUR-070",
+        "DIS-NEUR-071",
+        "DIS-NEUR-074",
+        "DIS-NEUR-075",
+        "DIS-NEUR-076",
+        "DIS-NEUR-077",
+        "DIS-NEUR-078",
+        "DIS-NEUR-080",
+        "DIS-NEUR-081",
+        "DIS-NEUR-082",
+        "DIS-NEUR-101",
+        "DIS-NEUR-128",
+        "DIS-NEUR-131",
+        "DIS-NEUR-152",
+        "DIS-NEUR-155",
+        "DIS-NEUR-156",
+        "DIS-NEUR-158",
+        "DIS-NEUR-ACUTEFLACCIDMYELITIS",
+        "DIS-NEUR-CHRONICMIGRAINE",
+        "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
+        "DIS-NEUR-MEDICATIONOVERUSEHEA",
+        "DIS-NEUR-NEUROBORRELIOSIS",
+        "DIS-NEUR-OCCIPITALNEURALGIA",
+        "DIS-NEUR-RABIESENCEPHALITIS",
+        "DIS-NEUR-TENSIONTYPEHEADACHE",
+        "DIS-NEUR-VESTIBULARMIGRAINE"
+      ],
+      "affected_disease_names": [
+        "Acute bacterial meningitis",
+        "Acute disseminated encephalomyelitis",
+        "Acute flaccid myelitis",
+        "Amyotrophic lateral sclerosis",
+        "Anti-NMDA receptor encephalitis",
+        "Autoimmune encephalitis",
+        "Brain abscess",
+        "Chronic inflammatory demyelinating polyneuropathy",
+        "Chronic migraine",
+        "Cluster headache",
+        "Cryptococcal meningitis",
+        "Encephalitis",
+        "Glossopharyngeal neuralgia",
+        "HSV encephalitis",
+        "Hemiplegic migraine",
+        "Hepatic encephalopathy",
+        "Hyponatremic encephalopathy",
+        "Intracranial hypotension",
+        "MOG antibody-associated disease",
+        "Medication-overuse headache",
+        "Meningioma",
+        "Meningitis",
+        "Migraine with aura",
+        "Multiple sclerosis",
+        "Neuroborreliosis",
+        "Neuromyelitis optica spectrum disorder",
+        "Neurosyphilis",
+        "Occipital neuralgia",
+        "Optic neuritis",
+        "Osmotic demyelination syndrome",
+        "Post-dural-puncture headache",
+        "Posterior reversible encephalopathy syndrome",
+        "Progressive multifocal leukoencephalopathy",
+        "Rabies encephalitis",
+        "Tension-type headache",
+        "Transverse myelitis",
+        "Trigeminal neuralgia",
+        "Tuberculous meningitis",
+        "Tuberous sclerosis",
+        "Vestibular migraine",
+        "Viral meningitis",
+        "Wernicke encephalopathy"
+      ],
+      "representative_examples": [
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_diagnostics",
+          "relationship_id": "DDG-NEUR-3389828215C1",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "expected_result",
+          "exact_text": "For Meningitis, 'Blood cultures' is expected to provide the disease-specific result stated in its interpretation.",
+          "normalized_value": "for meningitis blood cultures is expected to provide the disease-specific result stated in its interpretation",
+          "normalized_skeleton": "is expected to provide the disease-specific result stated",
+          "template_rule_id": "diagnostic_result_stated_in_interpretation",
+          "matched_text": "is expected to provide the disease-specific result stated"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_diagnostics",
+          "relationship_id": "DDG-NEUR-B9D7F9D26249",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "expected_result",
+          "exact_text": "For Meningitis, 'Lumbar puncture with CSF analysis' is expected to provide the disease-specific result stated in its interpretation.",
+          "normalized_value": "for meningitis lumbar puncture with csf analysis is expected to provide the disease-specific result stated in its interpretation",
+          "normalized_skeleton": "is expected to provide the disease-specific result stated",
+          "template_rule_id": "diagnostic_result_stated_in_interpretation",
+          "matched_text": "is expected to provide the disease-specific result stated"
+        },
+        {
+          "reason": "substantive template",
+          "relationship_type": "disease_diagnostics",
+          "relationship_id": "DDG-NEUR-08C8DEBFD7D6",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "expected_result",
+          "exact_text": "For Meningitis, 'Brain imaging before LP only for mass-effect risk' is expected to provide the disease-specific result stated in its interpretation.",
+          "normalized_value": "for meningitis brain imaging before lp only for mass-effect risk is expected to provide the disease-specific result stated in its interpretation",
+          "normalized_skeleton": "is expected to provide the disease-specific result stated",
+          "template_rule_id": "diagnostic_result_stated_in_interpretation",
+          "matched_text": "is expected to provide the disease-specific result stated"
+        }
+      ],
+      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
+    },
+    {
+      "template_rule_id": "presentation_linked_timing_exam",
+      "normalized_skeleton": "is linked because its timing and associated examination",
+      "count": 138,
+      "relationship_types": [
+        "disease_presentations"
+      ],
+      "fields": [
+        "key_positive_clues"
+      ],
+      "source_files": [
+        "data/curation/neurology/demyelinating.yaml",
+        "data/curation/neurology/headache.yaml",
+        "data/curation/neurology/infection.yaml"
+      ],
+      "affected_disease_ids": [
+        "DIS-N-0063",
+        "DIS-N-0064",
+        "DIS-N-0065",
+        "DIS-NEUR-024",
+        "DIS-NEUR-054",
+        "DIS-NEUR-055",
+        "DIS-NEUR-056",
+        "DIS-NEUR-057",
+        "DIS-NEUR-059",
+        "DIS-NEUR-061",
+        "DIS-NEUR-062",
+        "DIS-NEUR-063",
+        "DIS-NEUR-064",
+        "DIS-NEUR-065",
+        "DIS-NEUR-067",
+        "DIS-NEUR-068",
+        "DIS-NEUR-070",
+        "DIS-NEUR-071",
+        "DIS-NEUR-074",
+        "DIS-NEUR-075",
+        "DIS-NEUR-076",
+        "DIS-NEUR-077",
+        "DIS-NEUR-078",
+        "DIS-NEUR-080",
+        "DIS-NEUR-081",
+        "DIS-NEUR-082",
+        "DIS-NEUR-101",
+        "DIS-NEUR-128",
+        "DIS-NEUR-131",
+        "DIS-NEUR-152",
+        "DIS-NEUR-155",
+        "DIS-NEUR-156",
+        "DIS-NEUR-158",
+        "DIS-NEUR-ACUTEFLACCIDMYELITIS",
+        "DIS-NEUR-CHRONICMIGRAINE",
+        "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
+        "DIS-NEUR-MEDICATIONOVERUSEHEA",
+        "DIS-NEUR-NEUROBORRELIOSIS",
+        "DIS-NEUR-OCCIPITALNEURALGIA",
+        "DIS-NEUR-RABIESENCEPHALITIS",
+        "DIS-NEUR-TENSIONTYPEHEADACHE",
+        "DIS-NEUR-VESTIBULARMIGRAINE"
+      ],
+      "affected_disease_names": [
+        "Acute bacterial meningitis",
+        "Acute disseminated encephalomyelitis",
+        "Acute flaccid myelitis",
+        "Amyotrophic lateral sclerosis",
+        "Anti-NMDA receptor encephalitis",
+        "Autoimmune encephalitis",
+        "Brain abscess",
+        "Chronic inflammatory demyelinating polyneuropathy",
+        "Chronic migraine",
+        "Cluster headache",
+        "Cryptococcal meningitis",
+        "Encephalitis",
+        "Glossopharyngeal neuralgia",
+        "HSV encephalitis",
+        "Hemiplegic migraine",
+        "Hepatic encephalopathy",
+        "Hyponatremic encephalopathy",
+        "Intracranial hypotension",
+        "MOG antibody-associated disease",
+        "Medication-overuse headache",
+        "Meningioma",
+        "Meningitis",
+        "Migraine with aura",
+        "Multiple sclerosis",
+        "Neuroborreliosis",
+        "Neuromyelitis optica spectrum disorder",
+        "Neurosyphilis",
+        "Occipital neuralgia",
+        "Optic neuritis",
+        "Osmotic demyelination syndrome",
+        "Post-dural-puncture headache",
+        "Posterior reversible encephalopathy syndrome",
+        "Progressive multifocal leukoencephalopathy",
+        "Rabies encephalitis",
+        "Tension-type headache",
+        "Transverse myelitis",
+        "Trigeminal neuralgia",
+        "Tuberculous meningitis",
+        "Tuberous sclerosis",
+        "Vestibular migraine",
+        "Viral meningitis",
+        "Wernicke encephalopathy"
+      ],
       "representative_examples": [
         {
           "reason": "substantive template",
@@ -72,1914 +784,190 @@
           "relationship_id": "DPR-NEUR-0CCB058764AA",
           "disease_id": "DIS-N-0063",
           "disease_name": "Meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-B12CD2E79323",
-          "disease_id": "DIS-N-0063",
-          "disease_name": "Meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-5CB8C96511C3",
-          "disease_id": "DIS-N-0063",
-          "disease_name": "Meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for posterior reversible encephalopathy syndrome absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-05AC30EDF517",
-          "disease_id": "DIS-NEUR-024",
-          "disease_name": "Posterior reversible encephalopathy syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Posterior reversible encephalopathy syndrome, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for posterior reversible encephalopathy syndrome absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-F32A0DB3FDBD",
-          "disease_id": "DIS-NEUR-024",
-          "disease_name": "Posterior reversible encephalopathy syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Posterior reversible encephalopathy syndrome, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for posterior reversible encephalopathy syndrome absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A64F8712FC61",
-          "disease_id": "DIS-NEUR-024",
-          "disease_name": "Posterior reversible encephalopathy syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Posterior reversible encephalopathy syndrome, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for posterior reversible encephalopathy syndrome absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for acute bacterial meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-0E4179AABE44",
-          "disease_id": "DIS-NEUR-062",
-          "disease_name": "Acute bacterial meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute bacterial meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute bacterial meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-94ABC219F219",
-          "disease_id": "DIS-NEUR-062",
-          "disease_name": "Acute bacterial meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute bacterial meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute bacterial meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-7DAD3999AA49",
-          "disease_id": "DIS-NEUR-062",
-          "disease_name": "Acute bacterial meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute bacterial meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute bacterial meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for viral meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A5C2682A1BFD",
-          "disease_id": "DIS-NEUR-063",
-          "disease_name": "Viral meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Viral meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for viral meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-9C14B4297EB6",
-          "disease_id": "DIS-NEUR-063",
-          "disease_name": "Viral meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Viral meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for viral meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-FC4F5240C38D",
-          "disease_id": "DIS-NEUR-063",
-          "disease_name": "Viral meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Viral meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for viral meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for tuberculous meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-1CF904D7E2AA",
-          "disease_id": "DIS-NEUR-064",
-          "disease_name": "Tuberculous meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tuberculous meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tuberculous meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-2C7A972CBFF0",
-          "disease_id": "DIS-NEUR-064",
-          "disease_name": "Tuberculous meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tuberculous meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tuberculous meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-CFCE0B104A49",
-          "disease_id": "DIS-NEUR-064",
-          "disease_name": "Tuberculous meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tuberculous meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tuberculous meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for cryptococcal meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-095AD243DE59",
-          "disease_id": "DIS-NEUR-065",
-          "disease_name": "Cryptococcal meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Cryptococcal meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for cryptococcal meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-219BE1EFE834",
-          "disease_id": "DIS-NEUR-065",
-          "disease_name": "Cryptococcal meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Cryptococcal meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for cryptococcal meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-C51E44597CC2",
-          "disease_id": "DIS-NEUR-065",
-          "disease_name": "Cryptococcal meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Cryptococcal meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for cryptococcal meningitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for encephalitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-E1418C539F9A",
-          "disease_id": "DIS-N-0064",
-          "disease_name": "Encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-08F62D31F7C2",
-          "disease_id": "DIS-N-0064",
-          "disease_name": "Encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-07DE12047ADF",
-          "disease_id": "DIS-N-0064",
-          "disease_name": "Encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for hsv encephalitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-2C53E97EEC86",
-          "disease_id": "DIS-NEUR-067",
-          "disease_name": "HSV encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For HSV encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hsv encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-600D3437ACFE",
-          "disease_id": "DIS-NEUR-067",
-          "disease_name": "HSV encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For HSV encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hsv encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-1EF997F55B36",
-          "disease_id": "DIS-NEUR-067",
-          "disease_name": "HSV encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For HSV encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hsv encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for brain abscess absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-952CE9FF9BE1",
-          "disease_id": "DIS-NEUR-068",
-          "disease_name": "Brain abscess",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Brain abscess, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for brain abscess absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A9A81B84391A",
-          "disease_id": "DIS-NEUR-068",
-          "disease_name": "Brain abscess",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Brain abscess, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for brain abscess absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-74D93FDB2F0C",
-          "disease_id": "DIS-NEUR-068",
-          "disease_name": "Brain abscess",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Brain abscess, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for brain abscess absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for neurosyphilis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-334D1B21EFD3",
-          "disease_id": "DIS-NEUR-070",
-          "disease_name": "Neurosyphilis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neurosyphilis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neurosyphilis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-23034D6EA7F3",
-          "disease_id": "DIS-NEUR-070",
-          "disease_name": "Neurosyphilis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neurosyphilis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neurosyphilis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-409E1CBDF854",
-          "disease_id": "DIS-NEUR-070",
-          "disease_name": "Neurosyphilis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neurosyphilis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neurosyphilis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for progressive multifocal leukoencephalopathy absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-694A73288581",
-          "disease_id": "DIS-NEUR-071",
-          "disease_name": "Progressive multifocal leukoencephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Progressive multifocal leukoencephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for progressive multifocal leukoencephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-16313D9646C5",
-          "disease_id": "DIS-NEUR-071",
-          "disease_name": "Progressive multifocal leukoencephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Progressive multifocal leukoencephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for progressive multifocal leukoencephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-802F056CE283",
-          "disease_id": "DIS-NEUR-071",
-          "disease_name": "Progressive multifocal leukoencephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Progressive multifocal leukoencephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for progressive multifocal leukoencephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for amyotrophic lateral sclerosis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 4,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-D8836BD15CAC",
-          "disease_id": "DIS-NEUR-128",
-          "disease_name": "Amyotrophic lateral sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Amyotrophic lateral sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for amyotrophic lateral sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-9A181CDE8549",
-          "disease_id": "DIS-NEUR-128",
-          "disease_name": "Amyotrophic lateral sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Amyotrophic lateral sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for amyotrophic lateral sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-27BEA86742B0",
-          "disease_id": "DIS-NEUR-128",
-          "disease_name": "Amyotrophic lateral sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Amyotrophic lateral sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for amyotrophic lateral sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for migraine with aura absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-35D8FC479C63",
-          "disease_id": "DIS-NEUR-054",
-          "disease_name": "Migraine with aura",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Migraine with aura, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for migraine with aura absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-76B1DD7590A6",
-          "disease_id": "DIS-NEUR-054",
-          "disease_name": "Migraine with aura",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Migraine with aura, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for migraine with aura absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-9E4BE81B617C",
-          "disease_id": "DIS-NEUR-054",
-          "disease_name": "Migraine with aura",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Migraine with aura, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for migraine with aura absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for hemiplegic migraine absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-56677ACC8D8A",
-          "disease_id": "DIS-NEUR-055",
-          "disease_name": "Hemiplegic migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hemiplegic migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hemiplegic migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-D3B1E2F5CE16",
-          "disease_id": "DIS-NEUR-055",
-          "disease_name": "Hemiplegic migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hemiplegic migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hemiplegic migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-C9B4CD688B34",
-          "disease_id": "DIS-NEUR-055",
-          "disease_name": "Hemiplegic migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hemiplegic migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hemiplegic migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for cluster headache absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-9359D0CA31FB",
-          "disease_id": "DIS-NEUR-056",
-          "disease_name": "Cluster headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Cluster headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for cluster headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-618246A4D9BA",
-          "disease_id": "DIS-NEUR-056",
-          "disease_name": "Cluster headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Cluster headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for cluster headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-E116845FB89F",
-          "disease_id": "DIS-NEUR-056",
-          "disease_name": "Cluster headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Cluster headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for cluster headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for trigeminal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-3D9D23E3A2D9",
-          "disease_id": "DIS-NEUR-057",
-          "disease_name": "Trigeminal neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Trigeminal neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for trigeminal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-04EB677311A0",
-          "disease_id": "DIS-NEUR-057",
-          "disease_name": "Trigeminal neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Trigeminal neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for trigeminal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-4D8C8E458544",
-          "disease_id": "DIS-NEUR-057",
-          "disease_name": "Trigeminal neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Trigeminal neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for trigeminal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for intracranial hypotension absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-87A6E9BA05CB",
-          "disease_id": "DIS-NEUR-059",
-          "disease_name": "Intracranial hypotension",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Intracranial hypotension, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for intracranial hypotension absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-98750F04D875",
-          "disease_id": "DIS-NEUR-059",
-          "disease_name": "Intracranial hypotension",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Intracranial hypotension, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for intracranial hypotension absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-16AE335E02BC",
-          "disease_id": "DIS-NEUR-059",
-          "disease_name": "Intracranial hypotension",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Intracranial hypotension, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for intracranial hypotension absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for post-dural-puncture headache absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-F1536865CE35",
-          "disease_id": "DIS-NEUR-061",
-          "disease_name": "Post-dural-puncture headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Post-dural-puncture headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for post-dural-puncture headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-F60B8BACDB64",
-          "disease_id": "DIS-NEUR-061",
-          "disease_name": "Post-dural-puncture headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Post-dural-puncture headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for post-dural-puncture headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-C403A04385F0",
-          "disease_id": "DIS-NEUR-061",
-          "disease_name": "Post-dural-puncture headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Post-dural-puncture headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for post-dural-puncture headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for multiple sclerosis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-0F236B26F5E9",
-          "disease_id": "DIS-N-0065",
-          "disease_name": "Multiple sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Multiple sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for multiple sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-EE14CE64B1AB",
-          "disease_id": "DIS-N-0065",
-          "disease_name": "Multiple sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Multiple sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for multiple sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-C9AB684CF58A",
-          "disease_id": "DIS-N-0065",
-          "disease_name": "Multiple sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Multiple sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for multiple sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for neuromyelitis optica spectrum disorder absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-6D44907B0688",
-          "disease_id": "DIS-NEUR-074",
-          "disease_name": "Neuromyelitis optica spectrum disorder",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neuromyelitis optica spectrum disorder, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neuromyelitis optica spectrum disorder absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A23A28F9091B",
-          "disease_id": "DIS-NEUR-074",
-          "disease_name": "Neuromyelitis optica spectrum disorder",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neuromyelitis optica spectrum disorder, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neuromyelitis optica spectrum disorder absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-06D29EC4E173",
-          "disease_id": "DIS-NEUR-074",
-          "disease_name": "Neuromyelitis optica spectrum disorder",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neuromyelitis optica spectrum disorder, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neuromyelitis optica spectrum disorder absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for mog antibody-associated disease absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-24D439580BAC",
-          "disease_id": "DIS-NEUR-075",
-          "disease_name": "MOG antibody-associated disease",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For MOG antibody-associated disease, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for mog antibody-associated disease absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-CB6E7AD1AC2B",
-          "disease_id": "DIS-NEUR-075",
-          "disease_name": "MOG antibody-associated disease",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For MOG antibody-associated disease, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for mog antibody-associated disease absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-6BE2F0C6128D",
-          "disease_id": "DIS-NEUR-075",
-          "disease_name": "MOG antibody-associated disease",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For MOG antibody-associated disease, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for mog antibody-associated disease absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for acute disseminated encephalomyelitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-40BB9C35CB48",
-          "disease_id": "DIS-NEUR-076",
-          "disease_name": "Acute disseminated encephalomyelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute disseminated encephalomyelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute disseminated encephalomyelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A6905B40AED3",
-          "disease_id": "DIS-NEUR-076",
-          "disease_name": "Acute disseminated encephalomyelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute disseminated encephalomyelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute disseminated encephalomyelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-BCD612EE8CDC",
-          "disease_id": "DIS-NEUR-076",
-          "disease_name": "Acute disseminated encephalomyelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute disseminated encephalomyelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute disseminated encephalomyelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for transverse myelitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-B1E890667B8E",
-          "disease_id": "DIS-NEUR-077",
-          "disease_name": "Transverse myelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Transverse myelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for transverse myelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-4614876C168F",
-          "disease_id": "DIS-NEUR-077",
-          "disease_name": "Transverse myelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Transverse myelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for transverse myelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-299FFD205A2F",
-          "disease_id": "DIS-NEUR-077",
-          "disease_name": "Transverse myelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Transverse myelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for transverse myelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for optic neuritis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-61611F4FE696",
-          "disease_id": "DIS-NEUR-078",
-          "disease_name": "Optic neuritis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Optic neuritis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for optic neuritis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-66D3F9A10FD1",
-          "disease_id": "DIS-NEUR-078",
-          "disease_name": "Optic neuritis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Optic neuritis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for optic neuritis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-F1195FC7B3F0",
-          "disease_id": "DIS-NEUR-078",
-          "disease_name": "Optic neuritis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Optic neuritis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for optic neuritis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for chronic inflammatory demyelinating polyneuropathy absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-F1F39F88E4AB",
-          "disease_id": "DIS-NEUR-080",
-          "disease_name": "Chronic inflammatory demyelinating polyneuropathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Chronic inflammatory demyelinating polyneuropathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for chronic inflammatory demyelinating polyneuropathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-E348F5C49EE3",
-          "disease_id": "DIS-NEUR-080",
-          "disease_name": "Chronic inflammatory demyelinating polyneuropathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Chronic inflammatory demyelinating polyneuropathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for chronic inflammatory demyelinating polyneuropathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-C0001CE777FF",
-          "disease_id": "DIS-NEUR-080",
-          "disease_name": "Chronic inflammatory demyelinating polyneuropathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Chronic inflammatory demyelinating polyneuropathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for chronic inflammatory demyelinating polyneuropathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for autoimmune encephalitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-76D54F466B49",
-          "disease_id": "DIS-NEUR-081",
-          "disease_name": "Autoimmune encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Autoimmune encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for autoimmune encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A5089B30C170",
-          "disease_id": "DIS-NEUR-081",
-          "disease_name": "Autoimmune encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Autoimmune encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for autoimmune encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-66751FB84199",
-          "disease_id": "DIS-NEUR-081",
-          "disease_name": "Autoimmune encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Autoimmune encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for autoimmune encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for anti-nmda receptor encephalitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-33F08BC567E5",
-          "disease_id": "DIS-NEUR-082",
-          "disease_name": "Anti-NMDA receptor encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Anti-NMDA receptor encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for anti-nmda receptor encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A2B2D2AC1E9A",
-          "disease_id": "DIS-NEUR-082",
-          "disease_name": "Anti-NMDA receptor encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Anti-NMDA receptor encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for anti-nmda receptor encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-BECEEABE27EB",
-          "disease_id": "DIS-NEUR-082",
-          "disease_name": "Anti-NMDA receptor encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Anti-NMDA receptor encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for anti-nmda receptor encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for wernicke encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-65A8DF34415E",
-          "disease_id": "DIS-NEUR-101",
-          "disease_name": "Wernicke encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Wernicke encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for wernicke encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-AF2B52BD8F95",
-          "disease_id": "DIS-NEUR-101",
-          "disease_name": "Wernicke encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Wernicke encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for wernicke encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-66F80DDD02DC",
-          "disease_id": "DIS-NEUR-101",
-          "disease_name": "Wernicke encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Wernicke encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for wernicke encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for meningioma absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-045EEF4322B4",
-          "disease_id": "DIS-NEUR-131",
-          "disease_name": "Meningioma",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Meningioma, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for meningioma absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-040B431E5875",
-          "disease_id": "DIS-NEUR-131",
-          "disease_name": "Meningioma",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Meningioma, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for meningioma absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-080CCB97160A",
-          "disease_id": "DIS-NEUR-131",
-          "disease_name": "Meningioma",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Meningioma, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for meningioma absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for tuberous sclerosis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-7F4050906A82",
-          "disease_id": "DIS-NEUR-152",
-          "disease_name": "Tuberous sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tuberous sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tuberous sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-870B768168C4",
-          "disease_id": "DIS-NEUR-152",
-          "disease_name": "Tuberous sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tuberous sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tuberous sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-C4698B745B67",
-          "disease_id": "DIS-NEUR-152",
-          "disease_name": "Tuberous sclerosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tuberous sclerosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tuberous sclerosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for hepatic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-BDCE32D47374",
-          "disease_id": "DIS-NEUR-155",
-          "disease_name": "Hepatic encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hepatic encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hepatic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-572B59689ACF",
-          "disease_id": "DIS-NEUR-155",
-          "disease_name": "Hepatic encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hepatic encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hepatic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-937F13DE5782",
-          "disease_id": "DIS-NEUR-155",
-          "disease_name": "Hepatic encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hepatic encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hepatic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for hyponatremic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-734C9357AA3A",
-          "disease_id": "DIS-NEUR-156",
-          "disease_name": "Hyponatremic encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hyponatremic encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hyponatremic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-3300C834AA16",
-          "disease_id": "DIS-NEUR-156",
-          "disease_name": "Hyponatremic encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hyponatremic encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hyponatremic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-802C894670F7",
-          "disease_id": "DIS-NEUR-156",
-          "disease_name": "Hyponatremic encephalopathy",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Hyponatremic encephalopathy, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for hyponatremic encephalopathy absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for osmotic demyelination syndrome absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-049ADE277222",
-          "disease_id": "DIS-NEUR-158",
-          "disease_name": "Osmotic demyelination syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Osmotic demyelination syndrome, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for osmotic demyelination syndrome absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A6EA0C49FBAA",
-          "disease_id": "DIS-NEUR-158",
-          "disease_name": "Osmotic demyelination syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Osmotic demyelination syndrome, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for osmotic demyelination syndrome absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-8BAEC332845F",
-          "disease_id": "DIS-NEUR-158",
-          "disease_name": "Osmotic demyelination syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Osmotic demyelination syndrome, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for osmotic demyelination syndrome absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for medication-overuse headache absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-67BD2A065244",
-          "disease_id": "DIS-NEUR-MEDICATIONOVERUSEHEA",
-          "disease_name": "Medication-overuse headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Medication-overuse headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for medication-overuse headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-D2D1E7907C7C",
-          "disease_id": "DIS-NEUR-MEDICATIONOVERUSEHEA",
-          "disease_name": "Medication-overuse headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Medication-overuse headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for medication-overuse headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-B4CC205D63FE",
-          "disease_id": "DIS-NEUR-MEDICATIONOVERUSEHEA",
-          "disease_name": "Medication-overuse headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Medication-overuse headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for medication-overuse headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for tension-type headache absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-8C8FBBA4F530",
-          "disease_id": "DIS-NEUR-TENSIONTYPEHEADACHE",
-          "disease_name": "Tension-type headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tension-type headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tension-type headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-4126D372B4F7",
-          "disease_id": "DIS-NEUR-TENSIONTYPEHEADACHE",
-          "disease_name": "Tension-type headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tension-type headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tension-type headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-9446C5351385",
-          "disease_id": "DIS-NEUR-TENSIONTYPEHEADACHE",
-          "disease_name": "Tension-type headache",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Tension-type headache, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for tension-type headache absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for vestibular migraine absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-B14E88610F5A",
-          "disease_id": "DIS-NEUR-VESTIBULARMIGRAINE",
-          "disease_name": "Vestibular migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Vestibular migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for vestibular migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-0AEF25BB8501",
-          "disease_id": "DIS-NEUR-VESTIBULARMIGRAINE",
-          "disease_name": "Vestibular migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Vestibular migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for vestibular migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-55038C3F1823",
-          "disease_id": "DIS-NEUR-VESTIBULARMIGRAINE",
-          "disease_name": "Vestibular migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Vestibular migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for vestibular migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for chronic migraine absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-EE292F03442E",
-          "disease_id": "DIS-NEUR-CHRONICMIGRAINE",
-          "disease_name": "Chronic migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Chronic migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for chronic migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-E59EF7D7CD5D",
-          "disease_id": "DIS-NEUR-CHRONICMIGRAINE",
-          "disease_name": "Chronic migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Chronic migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for chronic migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-5CF109C6A16E",
-          "disease_id": "DIS-NEUR-CHRONICMIGRAINE",
-          "disease_name": "Chronic migraine",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Chronic migraine, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for chronic migraine absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for occipital neuralgia absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-1DAB84C2C013",
-          "disease_id": "DIS-NEUR-OCCIPITALNEURALGIA",
-          "disease_name": "Occipital neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Occipital neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for occipital neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-E242CAAF5CDA",
-          "disease_id": "DIS-NEUR-OCCIPITALNEURALGIA",
-          "disease_name": "Occipital neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Occipital neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for occipital neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-9B1C542677A9",
-          "disease_id": "DIS-NEUR-OCCIPITALNEURALGIA",
-          "disease_name": "Occipital neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Occipital neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for occipital neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for glossopharyngeal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-E83E4E4066BD",
-          "disease_id": "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
-          "disease_name": "Glossopharyngeal neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Glossopharyngeal neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for glossopharyngeal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-117C424CE37E",
-          "disease_id": "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
-          "disease_name": "Glossopharyngeal neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Glossopharyngeal neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for glossopharyngeal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-7DACD5D023FD",
-          "disease_id": "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
-          "disease_name": "Glossopharyngeal neuralgia",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Glossopharyngeal neuralgia, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for glossopharyngeal neuralgia absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for neuroborreliosis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-5999D37AD7E9",
-          "disease_id": "DIS-NEUR-NEUROBORRELIOSIS",
-          "disease_name": "Neuroborreliosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neuroborreliosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neuroborreliosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-0D9C460E4436",
-          "disease_id": "DIS-NEUR-NEUROBORRELIOSIS",
-          "disease_name": "Neuroborreliosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neuroborreliosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neuroborreliosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-FDAD161CEFDE",
-          "disease_id": "DIS-NEUR-NEUROBORRELIOSIS",
-          "disease_name": "Neuroborreliosis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Neuroborreliosis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for neuroborreliosis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for rabies encephalitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-9DD11E604BAA",
-          "disease_id": "DIS-NEUR-RABIESENCEPHALITIS",
-          "disease_name": "Rabies encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Rabies encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for rabies encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-EB09217663CE",
-          "disease_id": "DIS-NEUR-RABIESENCEPHALITIS",
-          "disease_name": "Rabies encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Rabies encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for rabies encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-E1B487F596D9",
-          "disease_id": "DIS-NEUR-RABIESENCEPHALITIS",
-          "disease_name": "Rabies encephalitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Rabies encephalitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for rabies encephalitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "for acute flaccid myelitis absence of the expected syndrome features prompts a search to its documented alternatives",
-      "count": 3,
-      "relationship_type": "disease_presentations",
-      "field": "key_negative_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-905F1A18C95E",
-          "disease_id": "DIS-NEUR-ACUTEFLACCIDMYELITIS",
-          "disease_name": "Acute flaccid myelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute flaccid myelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute flaccid myelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-8504366CB413",
-          "disease_id": "DIS-NEUR-ACUTEFLACCIDMYELITIS",
-          "disease_name": "Acute flaccid myelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute flaccid myelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute flaccid myelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        },
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-258679DBD187",
-          "disease_id": "DIS-NEUR-ACUTEFLACCIDMYELITIS",
-          "disease_name": "Acute flaccid myelitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_negative_clues",
-          "exact_text": "For Acute flaccid myelitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
-          "normalized_value": "for acute flaccid myelitis absence of the expected syndrome features prompts a search to its documented alternatives"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation altered mental status is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-0CCB058764AA",
-          "disease_id": "DIS-N-0063",
-          "disease_name": "Meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
+          "source_file": "data/curation/neurology/infection.yaml",
           "field": "key_positive_clues",
           "exact_text": "Headache, fever, neck stiffness, and photophobia raise concern for meningeal inflammation; altered consciousness or focal deficit changes testing sequence. The linked presentation 'Altered mental status' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation altered mental status is linked because its timing and associated examination findings match this illness script"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation headache is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
-      "representative_examples": [
+          "normalized_value": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation altered mental status is linked because its timing and associated examination findings match this illness script",
+          "normalized_skeleton": "is linked because its timing and associated examination",
+          "template_rule_id": "presentation_linked_timing_exam",
+          "matched_text": "is linked because its timing and associated examination"
+        },
         {
           "reason": "substantive template",
           "relationship_type": "disease_presentations",
           "relationship_id": "DPR-NEUR-B12CD2E79323",
           "disease_id": "DIS-N-0063",
           "disease_name": "Meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
+          "source_file": "data/curation/neurology/infection.yaml",
           "field": "key_positive_clues",
           "exact_text": "Headache, fever, neck stiffness, and photophobia raise concern for meningeal inflammation; altered consciousness or focal deficit changes testing sequence. The linked presentation 'Headache' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation headache is linked because its timing and associated examination findings match this illness script"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation first seizure is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
-      "representative_examples": [
+          "normalized_value": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation headache is linked because its timing and associated examination findings match this illness script",
+          "normalized_skeleton": "is linked because its timing and associated examination",
+          "template_rule_id": "presentation_linked_timing_exam",
+          "matched_text": "is linked because its timing and associated examination"
+        },
         {
           "reason": "substantive template",
           "relationship_type": "disease_presentations",
           "relationship_id": "DPR-NEUR-5CB8C96511C3",
           "disease_id": "DIS-N-0063",
           "disease_name": "Meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
+          "source_file": "data/curation/neurology/infection.yaml",
           "field": "key_positive_clues",
           "exact_text": "Headache, fever, neck stiffness, and photophobia raise concern for meningeal inflammation; altered consciousness or focal deficit changes testing sequence. The linked presentation 'First seizure' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation first seizure is linked because its timing and associated examination findings match this illness script"
+          "normalized_value": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation first seizure is linked because its timing and associated examination findings match this illness script",
+          "normalized_skeleton": "is linked because its timing and associated examination",
+          "template_rule_id": "presentation_linked_timing_exam",
+          "matched_text": "is linked because its timing and associated examination"
         }
       ],
       "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
     },
     {
-      "normalized_skeleton": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation acute focal neurologic deficit is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
+      "template_rule_id": "presentation_generic_negative_alternatives",
+      "normalized_skeleton": "absence of the expected syndrome features prompts",
+      "count": 138,
+      "relationship_types": [
+        "disease_presentations"
+      ],
+      "fields": [
+        "key_negative_clues"
+      ],
+      "source_files": [
+        "data/curation/neurology/demyelinating.yaml",
+        "data/curation/neurology/headache.yaml",
+        "data/curation/neurology/infection.yaml"
+      ],
+      "affected_disease_ids": [
+        "DIS-N-0063",
+        "DIS-N-0064",
+        "DIS-N-0065",
+        "DIS-NEUR-024",
+        "DIS-NEUR-054",
+        "DIS-NEUR-055",
+        "DIS-NEUR-056",
+        "DIS-NEUR-057",
+        "DIS-NEUR-059",
+        "DIS-NEUR-061",
+        "DIS-NEUR-062",
+        "DIS-NEUR-063",
+        "DIS-NEUR-064",
+        "DIS-NEUR-065",
+        "DIS-NEUR-067",
+        "DIS-NEUR-068",
+        "DIS-NEUR-070",
+        "DIS-NEUR-071",
+        "DIS-NEUR-074",
+        "DIS-NEUR-075",
+        "DIS-NEUR-076",
+        "DIS-NEUR-077",
+        "DIS-NEUR-078",
+        "DIS-NEUR-080",
+        "DIS-NEUR-081",
+        "DIS-NEUR-082",
+        "DIS-NEUR-101",
+        "DIS-NEUR-128",
+        "DIS-NEUR-131",
+        "DIS-NEUR-152",
+        "DIS-NEUR-155",
+        "DIS-NEUR-156",
+        "DIS-NEUR-158",
+        "DIS-NEUR-ACUTEFLACCIDMYELITIS",
+        "DIS-NEUR-CHRONICMIGRAINE",
+        "DIS-NEUR-GLOSSOPHARYNGEALNEUR",
+        "DIS-NEUR-MEDICATIONOVERUSEHEA",
+        "DIS-NEUR-NEUROBORRELIOSIS",
+        "DIS-NEUR-OCCIPITALNEURALGIA",
+        "DIS-NEUR-RABIESENCEPHALITIS",
+        "DIS-NEUR-TENSIONTYPEHEADACHE",
+        "DIS-NEUR-VESTIBULARMIGRAINE"
+      ],
+      "affected_disease_names": [
+        "Acute bacterial meningitis",
+        "Acute disseminated encephalomyelitis",
+        "Acute flaccid myelitis",
+        "Amyotrophic lateral sclerosis",
+        "Anti-NMDA receptor encephalitis",
+        "Autoimmune encephalitis",
+        "Brain abscess",
+        "Chronic inflammatory demyelinating polyneuropathy",
+        "Chronic migraine",
+        "Cluster headache",
+        "Cryptococcal meningitis",
+        "Encephalitis",
+        "Glossopharyngeal neuralgia",
+        "HSV encephalitis",
+        "Hemiplegic migraine",
+        "Hepatic encephalopathy",
+        "Hyponatremic encephalopathy",
+        "Intracranial hypotension",
+        "MOG antibody-associated disease",
+        "Medication-overuse headache",
+        "Meningioma",
+        "Meningitis",
+        "Migraine with aura",
+        "Multiple sclerosis",
+        "Neuroborreliosis",
+        "Neuromyelitis optica spectrum disorder",
+        "Neurosyphilis",
+        "Occipital neuralgia",
+        "Optic neuritis",
+        "Osmotic demyelination syndrome",
+        "Post-dural-puncture headache",
+        "Posterior reversible encephalopathy syndrome",
+        "Progressive multifocal leukoencephalopathy",
+        "Rabies encephalitis",
+        "Tension-type headache",
+        "Transverse myelitis",
+        "Trigeminal neuralgia",
+        "Tuberculous meningitis",
+        "Tuberous sclerosis",
+        "Vestibular migraine",
+        "Viral meningitis",
+        "Wernicke encephalopathy"
+      ],
       "representative_examples": [
         {
           "reason": "substantive template",
           "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-3F9A88D3105E",
+          "relationship_id": "DPR-NEUR-0CCB058764AA",
           "disease_id": "DIS-N-0063",
           "disease_name": "Meningitis",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_positive_clues",
-          "exact_text": "Headache, fever, neck stiffness, and photophobia raise concern for meningeal inflammation; altered consciousness or focal deficit changes testing sequence. The linked presentation 'Acute focal neurologic deficit' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "headache fever neck stiffness and photophobia raise concern for meningeal inflammation altered consciousness or focal deficit changes testing sequence the linked presentation acute focal neurologic deficit is linked because its timing and associated examination findings match this illness script"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation altered mental status is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
-      "representative_examples": [
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "key_negative_clues",
+          "exact_text": "For Meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
+          "normalized_value": "for meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
+          "normalized_skeleton": "absence of the expected syndrome features prompts",
+          "template_rule_id": "presentation_generic_negative_alternatives",
+          "matched_text": "absence of the expected syndrome features prompts"
+        },
         {
           "reason": "substantive template",
           "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-05AC30EDF517",
-          "disease_id": "DIS-NEUR-024",
-          "disease_name": "Posterior reversible encephalopathy syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_positive_clues",
-          "exact_text": "Acute hypertension, eclampsia, renal disease, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The linked presentation 'Altered mental status' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation altered mental status is linked because its timing and associated examination findings match this illness script"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation headache is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
-      "representative_examples": [
+          "relationship_id": "DPR-NEUR-B12CD2E79323",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "key_negative_clues",
+          "exact_text": "For Meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
+          "normalized_value": "for meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
+          "normalized_skeleton": "absence of the expected syndrome features prompts",
+          "template_rule_id": "presentation_generic_negative_alternatives",
+          "matched_text": "absence of the expected syndrome features prompts"
+        },
         {
           "reason": "substantive template",
           "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-F32A0DB3FDBD",
-          "disease_id": "DIS-NEUR-024",
-          "disease_name": "Posterior reversible encephalopathy syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_positive_clues",
-          "exact_text": "Acute hypertension, eclampsia, renal disease, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The linked presentation 'Headache' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation headache is linked because its timing and associated examination findings match this illness script"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation first seizure is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-A64F8712FC61",
-          "disease_id": "DIS-NEUR-024",
-          "disease_name": "Posterior reversible encephalopathy syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_positive_clues",
-          "exact_text": "Acute hypertension, eclampsia, renal disease, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The linked presentation 'First seizure' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation first seizure is linked because its timing and associated examination findings match this illness script"
-        }
-      ],
-      "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."
-    },
-    {
-      "normalized_skeleton": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation acute focal neurologic deficit is linked because its timing and associated examination findings match this illness script",
-      "count": 1,
-      "relationship_type": "disease_presentations",
-      "field": "key_positive_clues",
-      "representative_examples": [
-        {
-          "reason": "substantive template",
-          "relationship_type": "disease_presentations",
-          "relationship_id": "DPR-NEUR-108A43911FD3",
-          "disease_id": "DIS-NEUR-024",
-          "disease_name": "Posterior reversible encephalopathy syndrome",
-          "source_file": "data/curation/neurology/scoped-manifest.yaml",
-          "field": "key_positive_clues",
-          "exact_text": "Acute hypertension, eclampsia, renal disease, or immunosuppression with seizures and posterior vasogenic edema supports PRES. The linked presentation 'Acute focal neurologic deficit' is linked because its timing and associated examination findings match this illness script.",
-          "normalized_value": "acute hypertension eclampsia renal disease or immunosuppression with seizures and posterior vasogenic edema supports pres the linked presentation acute focal neurologic deficit is linked because its timing and associated examination findings match this illness script"
+          "relationship_id": "DPR-NEUR-5CB8C96511C3",
+          "disease_id": "DIS-N-0063",
+          "disease_name": "Meningitis",
+          "source_file": "data/curation/neurology/infection.yaml",
+          "field": "key_negative_clues",
+          "exact_text": "For Meningitis, absence of the expected syndrome features prompts a search to its documented alternatives.",
+          "normalized_value": "for meningitis absence of the expected syndrome features prompts a search to its documented alternatives",
+          "normalized_skeleton": "absence of the expected syndrome features prompts",
+          "template_rule_id": "presentation_generic_negative_alternatives",
+          "matched_text": "absence of the expected syndrome features prompts"
         }
       ],
       "recommended_remediation_strategy": "Replace with relationship-specific clinical meaning, indication, result, limitation, or differential distinction."

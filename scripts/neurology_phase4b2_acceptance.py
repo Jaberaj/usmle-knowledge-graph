@@ -33,6 +33,11 @@ def issue(reason, **data):
 
 def main():
     canonical = {e["disease_id"]: e for f in FILES for e in yaml.safe_load((C / f).read_text())}
+    source_by_disease = {
+        entry["disease_id"]: str((C / filename).relative_to(ROOT))
+        for filename in FILES
+        for entry in yaml.safe_load((C / filename).read_text())
+    }
     infection = {e["disease_id"]: e for e in yaml.safe_load((C / "infection.yaml").read_text())}
     mapping = yaml.safe_load((C / "infection_view_mapping.yaml").read_text())
     view_errors = []
@@ -98,14 +103,14 @@ def main():
     statuses = []
     templates = []
     diagnostic = []
-    skeletons = (
-        "timing and phenotype determine sensitivity",
-        "is interpreted against the disease-specific mimics",
-        "helps distinguish",
-        "absence of the expected syndrome features prompts",
-        "is linked because its timing and associated examination",
-        "is expected to provide the disease-specific result stated",
-    )
+    rules = {
+        "finding_timing_phenotype_sensitivity": "timing and phenotype determine sensitivity",
+        "finding_disease_specific_mimics": "is interpreted against the disease-specific mimics",
+        "finding_actual_onset_exam_distinction": "helps distinguish",
+        "presentation_generic_negative_alternatives": "absence of the expected syndrome features prompts",
+        "presentation_linked_timing_exam": "is linked because its timing and associated examination",
+        "diagnostic_result_stated_in_interpretation": "is expected to provide the disease-specific result stated",
+    }
     for table in tables:
         data = rows(R / f"{table}.csv")
         field = "source_disease_id" if table == "disease_differentials" else "disease_id"
@@ -138,7 +143,8 @@ def main():
                     )
                 )
             for f, v in r.items():
-                if v and any(s in norm(v) for s in skeletons):
+                matched = next((rule for rule, phrase in rules.items() if phrase in norm(v)), None)
+                if v and matched:
                     templates.append(
                         issue(
                             "substantive template",
@@ -148,10 +154,13 @@ def main():
                             disease_name=canonical.get(r.get(field, ""), {}).get(
                                 "canonical_name", ""
                             ),
-                            source_file="data/curation/neurology/scoped-manifest.yaml",
+                            source_file=source_by_disease[r.get(field, "")],
                             field=f,
                             exact_text=v,
                             normalized_value=norm(v),
+                            normalized_skeleton=rules[matched],
+                            template_rule_id=matched,
+                            matched_text=rules[matched],
                         )
                     )
             if (
