@@ -3,7 +3,7 @@
     "phase4b_blank_relationship_roles": 0,
     "phase4b_positive_clue_polarity_leaks": 0,
     "phase4b_conflicting_export_buckets": 0,
-    "phase4b_infection_ownership_errors": 0,
+    "phase4b_infection_ownership_errors": 1,
     "phase4b_conditional_diagnostic_routine_leaks": 12,
     "phase4b_substantive_template_hits": 1026,
     "phase4b_duplicate_ids": 0,
@@ -15,7 +15,20 @@
   },
   "details": {
     "manifest_view_errors": [],
-    "infection_ownership_errors": [],
+    "infection_ownership_errors": [
+      {
+        "assertion_id": "hsv_empiric_acyclovir",
+        "disease_id": "DIS-NEUR-067",
+        "disease_name": "HSV encephalitis",
+        "expected_relationship": {
+          "entity": "Acyclovir for suspected HSV encephalitis"
+        },
+        "actual_relationships": [],
+        "relationship_ids": [],
+        "source_file": "data/curation/neurology/infection.yaml",
+        "reason": "required positive ownership is missing"
+      }
+    ],
     "diagnostic_leak_errors": [
       {
         "reason": "routine migraine secondary-cause test",

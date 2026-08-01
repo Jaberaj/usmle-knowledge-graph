@@ -31,6 +31,154 @@ def issue(reason, **data):
     return {"reason": reason, **data}
 
 
+def compute_infection_ownership_errors(
+    disease_findings,
+    disease_diagnostics,
+    disease_treatments,
+    findings_by_id,
+    diagnostics_by_id,
+    treatments_by_id,
+    diseases_by_id,
+):
+    """Evaluate named, polarity-aware infection ownership assertions."""
+    errors = []
+    positive = {"present", "positive", "increased", "decreased", "variable"}
+    roles = {"characteristic", "common", "supportive", "possible"}
+    by_name = {row["canonical_name"]: did for did, row in diseases_by_id.items()}
+
+    def fail(assertion, disease, expected, actual, reason):
+        errors.append(
+            {
+                "assertion_id": assertion,
+                "disease_id": disease,
+                "disease_name": diseases_by_id.get(disease, {}).get(
+                    "canonical_name", "out of scope"
+                ),
+                "expected_relationship": expected,
+                "actual_relationships": actual,
+                "relationship_ids": [
+                    r.get("disease_finding_id")
+                    or r.get("disease_diagnostic_id")
+                    or r.get("disease_treatment_id")
+                    for r in actual
+                ],
+                "source_file": "data/curation/neurology/infection.yaml",
+                "reason": reason,
+            }
+        )
+
+    def links(disease, items, catalog, name):
+        return [
+            r
+            for r in items
+            if r.get("disease_id") == disease
+            and catalog.get(
+                r.get("finding_id") or r.get("diagnostic_id") or r.get("treatment_id"), {}
+            ).get("name")
+            == name
+        ]
+
+    def require(dname, name, items, catalog, kind, assertion):
+        did = by_name.get(dname)
+        if not did:
+            return
+        actual = links(did, items, catalog, name)
+        if not actual or (
+            kind == "finding"
+            and not any(
+                r.get("presence") in positive and r.get("relationship_role") in roles
+                for r in actual
+            )
+        ):
+            fail(assertion, did, {"entity": name}, actual, "required positive ownership is missing")
+
+    brain = by_name.get("Brain abscess")
+    if brain:
+        for name in (
+            "Neutrophilic CSF",
+            "Lymphocytic CSF",
+            "Low CSF glucose",
+            "Meningismus",
+            "Temporal-lobe abnormalities",
+            "Elevated opening pressure",
+        ):
+            actual = links(brain, disease_findings, findings_by_id, name)
+            if any(
+                r.get("presence") in positive and r.get("relationship_role") in roles
+                for r in actual
+            ):
+                fail(
+                    "brain_abscess_no_positive_" + name.lower().replace(" ", "_"),
+                    brain,
+                    {"entity": name, "must_not_be_positive": True},
+                    actual,
+                    "routine competing finding is positive",
+                )
+        actual = links(
+            brain,
+            disease_treatments,
+            treatments_by_id,
+            "Avoid routine lumbar puncture with mass lesion",
+        )
+        if not actual:
+            fail(
+                "brain_abscess_no_routine_lumbar_puncture",
+                brain,
+                {"treatment": "Avoid routine lumbar puncture with mass lesion"},
+                actual,
+                "avoidance relationship missing",
+            )
+    require(
+        "Acute bacterial meningitis",
+        "Neutrophilic CSF",
+        disease_findings,
+        findings_by_id,
+        "finding",
+        "bacterial_meningitis_neutrophilic_csf",
+    )
+    require(
+        "Acute bacterial meningitis",
+        "Low CSF glucose",
+        disease_findings,
+        findings_by_id,
+        "finding",
+        "bacterial_meningitis_low_glucose",
+    )
+    require(
+        "Viral meningitis",
+        "Lymphocytic CSF",
+        disease_findings,
+        findings_by_id,
+        "finding",
+        "viral_meningitis_lymphocytic_csf",
+    )
+    require(
+        "HSV encephalitis",
+        "Temporal-lobe abnormalities",
+        disease_findings,
+        findings_by_id,
+        "finding",
+        "hsv_temporal_lobe_abnormality",
+    )
+    require(
+        "HSV encephalitis",
+        "Acyclovir for suspected HSV encephalitis",
+        disease_treatments,
+        treatments_by_id,
+        "treatment",
+        "hsv_empiric_acyclovir",
+    )
+    require(
+        "Cryptococcal meningitis",
+        "Elevated opening pressure",
+        disease_findings,
+        findings_by_id,
+        "finding",
+        "cryptococcal_opening_pressure",
+    )
+    return errors
+
+
 def main():
     canonical = {e["disease_id"]: e for f in FILES for e in yaml.safe_load((C / f).read_text())}
     source_by_disease = {
@@ -183,6 +331,24 @@ def main():
                 )
     finding = rows(R / "disease_findings.csv")
     links = [r for r in finding if r["disease_id"] in scoped]
+    all_diseases = rows(ROOT / "data/source/diseases.csv")
+    diseases_by_id = {row["disease_id"]: row for row in all_diseases}
+    findings_by_id = {row["finding_id"]: row for row in rows(ROOT / "data/source/findings.csv")}
+    diagnostics_by_id = {
+        row["diagnostic_id"]: row for row in rows(ROOT / "data/source/diagnostics.csv")
+    }
+    treatments_by_id = {
+        row["treatment_id"]: row for row in rows(ROOT / "data/source/treatments.csv")
+    }
+    infection_ownership_errors = compute_infection_ownership_errors(
+        finding,
+        rows(R / "disease_diagnostics.csv"),
+        rows(R / "disease_treatments.csv"),
+        findings_by_id,
+        diagnostics_by_id,
+        treatments_by_id,
+        diseases_by_id,
+    )
     allowed = {
         "characteristic",
         "common",
@@ -243,7 +409,7 @@ def main():
                 )
     details = {
         "manifest_view_errors": view_errors,
-        "infection_ownership_errors": [],
+        "infection_ownership_errors": infection_ownership_errors,
         "diagnostic_leak_errors": diagnostic,
         "substantive_template_errors": templates,
         "duplicate_errors": duplicate,
@@ -259,7 +425,7 @@ def main():
         "phase4b_blank_relationship_roles": len(blank),
         "phase4b_positive_clue_polarity_leaks": len(polarity_leaks),
         "phase4b_conflicting_export_buckets": len(conflicting_buckets),
-        "phase4b_infection_ownership_errors": len(details["infection_ownership_errors"]),
+        "phase4b_infection_ownership_errors": len(infection_ownership_errors),
         "phase4b_conditional_diagnostic_routine_leaks": len(diagnostic),
         "phase4b_substantive_template_hits": len(templates),
         "phase4b_duplicate_ids": len(duplicate),
