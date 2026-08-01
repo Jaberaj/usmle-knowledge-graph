@@ -17,8 +17,8 @@
   "diseases_without_presentations": [],
   "diseases_without_treatments": [],
   "review_status_distribution": {
-    "draft_ai_generated": 83,
-    "needs_medical_review": 627
+    "draft_ai_generated": 82,
+    "needs_medical_review": 628
   },
   "row_counts": {
     "algorithm_steps": 1207,

@@ -4,7 +4,7 @@
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
       "presentation_id": "PRS-008",
-      "source_status": "unverified_ai_generated",
+      "source_status": "partially_source_supported",
       "target_disease_id": "DIS-NEUR-163"
     },
     {
@@ -11242,7 +11242,7 @@
     {
       "disease_id": "DIS-NEUR-163",
       "keyword_ids": [],
-      "source_status": "unverified_ai_generated"
+      "source_status": "partially_source_supported"
     },
     {
       "disease_id": "DIS-NEUR-ACUTEFLACCIDMYELITIS",
@@ -12931,7 +12931,7 @@
         "TRT-NEUR-703266E6D90D"
       ],
       "disease_id": "DIS-NEUR-163",
-      "source_status": "unverified_ai_generated"
+      "source_status": "partially_source_supported"
     },
     {
       "correct_treatment_ids": [
