@@ -144,6 +144,11 @@ def main():
                             "substantive template",
                             relationship_type=table,
                             relationship_id=r[key],
+                            disease_id=r.get(field, ""),
+                            disease_name=canonical.get(r.get(field, ""), {}).get(
+                                "canonical_name", ""
+                            ),
+                            source_file="data/curation/neurology/scoped-manifest.yaml",
                             field=f,
                             exact_text=v,
                             normalized_value=norm(v),
