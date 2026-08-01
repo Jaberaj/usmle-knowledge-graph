@@ -1,6 +1,6 @@
 {
   "application_contract_version": "1.1.0",
-  "build_timestamp": "2026-07-31T21:10:44+00:00",
+  "build_timestamp": "2026-08-01T17:15:52+00:00",
   "checksums": {
     "algorithms.json": "2a212ed4de935013d353a7f1365588618e1cfdd2c54536ea18cb5f0d1d2203d4",
     "diseases.json": "9a3373b87a54ef325520606c97b6ab1eb6c134006b2b114605b1337ce4d11daf",
@@ -16,7 +16,7 @@
     "Initial application contract; additive changes are backward compatible."
   ],
   "disclaimer": "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional.",
-  "git_commit": "61cfd626dcd3de05307f9ba2701d31b43865c931",
+  "git_commit": "736f86cee9b6de904dbe7974937e66e68f5a3a87",
   "included_bundles": [
     "algorithms.json",
     "diseases.json",
