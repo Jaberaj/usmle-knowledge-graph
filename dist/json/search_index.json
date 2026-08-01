@@ -2,6 +2,21 @@
   "records": [
     {
       "aliases": [],
+      "canonical_name": "Cerebral toxoplasmosis",
+      "content_tier": "core",
+      "entity_id": "DIS-NEUR-163",
+      "entity_type": "disease",
+      "organ_systems": [
+        "Neurology"
+      ],
+      "priority": 1,
+      "search_keywords": [
+        "cerebral toxoplasmosis"
+      ],
+      "source_status": "unverified_ai_generated"
+    },
+    {
+      "aliases": [],
       "canonical_name": "Pulmonary embolism",
       "content_tier": "index",
       "entity_id": "DIS-C-0015",

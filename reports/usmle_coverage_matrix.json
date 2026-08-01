@@ -184,7 +184,7 @@
     "DIS-REN-NEPHROTICSYNDROME": 1
   },
   "content_tier_distribution": {
-    "core": 451,
+    "core": 452,
     "expanded": 176,
     "index": 82
   },
@@ -710,6 +710,7 @@
     "DIS-NEUR-160": 4,
     "DIS-NEUR-161": 4,
     "DIS-NEUR-162": 4,
+    "DIS-NEUR-163": 1,
     "DIS-NEUR-ACUTEFLACCIDMYELITIS": 4,
     "DIS-NEUR-CENTRALCORDSYNDROME": 4,
     "DIS-NEUR-CHIARIMALFORMATION": 4,
@@ -1419,6 +1420,7 @@
     "DIS-NEUR-160": 1,
     "DIS-NEUR-161": 1,
     "DIS-NEUR-162": 7,
+    "DIS-NEUR-163": 1,
     "DIS-NEUR-ACUTEFLACCIDMYELITIS": 1,
     "DIS-NEUR-CENTRALCORDSYNDROME": 1,
     "DIS-NEUR-CHIARIMALFORMATION": 1,
@@ -1615,7 +1617,7 @@
     "Hematology Oncology": 10,
     "Infectious Disease": 10,
     "Musculoskeletal and Rheumatology": 230,
-    "Neurology": 176,
+    "Neurology": 177,
     "Obstetrics Gynecology": 8,
     "Pediatrics": 7,
     "Psychiatry": 8,
@@ -2339,6 +2341,7 @@
     "DIS-NEUR-160": 3,
     "DIS-NEUR-161": 3,
     "DIS-NEUR-162": 3,
+    "DIS-NEUR-163": 1,
     "DIS-NEUR-ACUTEFLACCIDMYELITIS": 3,
     "DIS-NEUR-CENTRALCORDSYNDROME": 3,
     "DIS-NEUR-CHIARIMALFORMATION": 3,
@@ -2530,7 +2533,7 @@
   },
   "source_status_distribution": {
     "partially_source_supported": 597,
-    "unverified_ai_generated": 112
+    "unverified_ai_generated": 113
   },
   "treatments_per_disease": {
     "DIS-C-0001": 1,
@@ -3054,6 +3057,7 @@
     "DIS-NEUR-160": 4,
     "DIS-NEUR-161": 4,
     "DIS-NEUR-162": 4,
+    "DIS-NEUR-163": 1,
     "DIS-NEUR-ACUTEFLACCIDMYELITIS": 4,
     "DIS-NEUR-CENTRALCORDSYNDROME": 4,
     "DIS-NEUR-CHIARIMALFORMATION": 4,

@@ -3,6 +3,13 @@
     {
       "cannot_miss_disease_ids": [],
       "competing_disease_ids": [],
+      "presentation_id": "PRS-008",
+      "source_status": "unverified_ai_generated",
+      "target_disease_id": "DIS-NEUR-163"
+    },
+    {
+      "cannot_miss_disease_ids": [],
+      "competing_disease_ids": [],
       "presentation_id": "PRS-015",
       "source_status": "unverified_ai_generated",
       "target_disease_id": "DIS-C-0015"
@@ -11233,6 +11240,11 @@
       "source_status": "partially_source_supported"
     },
     {
+      "disease_id": "DIS-NEUR-163",
+      "keyword_ids": [],
+      "source_status": "unverified_ai_generated"
+    },
+    {
       "disease_id": "DIS-NEUR-ACUTEFLACCIDMYELITIS",
       "keyword_ids": [
         "KEY-NEUR-DAD5F8163EAA",
@@ -12914,6 +12926,13 @@
     }
   ],
   "treatment_selection": [
+    {
+      "correct_treatment_ids": [
+        "TRT-NEUR-703266E6D90D"
+      ],
+      "disease_id": "DIS-NEUR-163",
+      "source_status": "unverified_ai_generated"
+    },
     {
       "correct_treatment_ids": [
         "TRT-015",

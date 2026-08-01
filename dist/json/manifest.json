@@ -1,22 +1,22 @@
 {
   "application_contract_version": "1.1.0",
-  "build_timestamp": "2026-08-01T17:15:52+00:00",
+  "build_timestamp": "2026-08-01T22:17:29+00:00",
   "checksums": {
     "algorithms.json": "2a212ed4de935013d353a7f1365588618e1cfdd2c54536ea18cb5f0d1d2203d4",
-    "diseases.json": "9a3373b87a54ef325520606c97b6ab1eb6c134006b2b114605b1337ce4d11daf",
-    "entities.json": "3f87a9ce2c862aff91cc74fdd3c343b5a9af1f534ef25b64ade8d82b3c55aa94",
-    "game_content.json": "6152b893e04038f086da82a2c301be396602798ad8d78885ddd64aae2050dc2c",
+    "diseases.json": "6b501a1d9f321220d43fb7240738722ce5a3277607c897ce51434f63a7909f7d",
+    "entities.json": "536bc18d24b3e7f195522094ebe3c5084e7beaeb652585b8f742860d7d6ae789",
+    "game_content.json": "ab72ad5ef0af6d0cc303a735c8b9e26c28e22b607a54756c60f6d79f1299cafa",
     "medications.json": "18a4d7f24b3424c3e6c27234722af6eb058d33d704a30622feb8a8b77a9357fc",
-    "presentations.json": "c54302f2633affb8c5acb9d64284dcb54a5c8621aab03d4f108ceeec700ec04d",
-    "relationships.json": "985e761a0c18112588a3701f79dff67d63c6c24d7c2a844a10b6a38c047b94ff",
-    "search_index.json": "ac5524f5bb5d03a71525b8caaf87dda6c2b3bda5e59ddea07c7ab3bac72491e0",
-    "treatments.json": "d8e86f6fe52c301267e27c32a3eff4a66bdd416419c4ef19968640e2ada0a593"
+    "presentations.json": "b51520fc0b05490e79016d2a708392495020f58a863d3486ee8211c8d9bc9c7f",
+    "relationships.json": "4059f7db9108ce6464d2380fca58cd655dfbebe713895076ecf1efc1aec6d18e",
+    "search_index.json": "d4cd39a8c6374196b07c37b994013161f07513169fa933ce93558a7a7b233c43",
+    "treatments.json": "cdf57772ac8af00189b99aaf2c57d51cf306cc2395054be6bcf0e82852db9278"
   },
   "compatibility_notes": [
     "Initial application contract; additive changes are backward compatible."
   ],
   "disclaimer": "Educational content only; not clinical decision support. Source status is topic-specific and human review is optional.",
-  "git_commit": "736f86cee9b6de904dbe7974937e66e68f5a3a87",
+  "git_commit": "14ea8132683d2e7fef42310e51f17177d1232540",
   "included_bundles": [
     "algorithms.json",
     "diseases.json",
@@ -35,23 +35,23 @@
     "complications": 74,
     "diagnostics": 100,
     "disease_complications": 499,
-    "disease_diagnostics": 1395,
-    "disease_differentials": 1659,
-    "disease_findings": 618,
+    "disease_diagnostics": 1396,
+    "disease_differentials": 1660,
+    "disease_findings": 619,
     "disease_keywords": 647,
-    "disease_presentations": 1127,
-    "disease_treatments": 1467,
-    "diseases": 709,
-    "entity_references": 706,
+    "disease_presentations": 1128,
+    "disease_treatments": 1468,
+    "diseases": 710,
+    "entity_references": 714,
     "finding_localizations": 147,
-    "findings": 109,
+    "findings": 110,
     "keywords": 146,
     "localizations": 63,
     "medications": 50,
     "presentation_keywords": 4,
     "presentations": 135,
-    "references": 24,
-    "treatments": 175
+    "references": 26,
+    "treatments": 176
   },
   "schema_version": "1.1.0"
 }

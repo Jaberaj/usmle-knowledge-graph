@@ -6,7 +6,7 @@
 - Hematology Oncology: 10
 - Infectious Disease: 10
 - Musculoskeletal and Rheumatology: 230
-- Neurology: 176
+- Neurology: 177
 - Obstetrics Gynecology: 8
 - Pediatrics: 7
 - Psychiatry: 8

@@ -31,6 +31,137 @@ def issue(reason, **data):
     return {"reason": reason, **data}
 
 
+def compute_infection_view_errors(infection, mapping, view_entries):
+    """Check canonical infection entries against explicit generated views."""
+    errors = []
+    for did, entry in infection.items():
+        view = mapping.get(did, {}).get("view")
+        if view not in VIEWS:
+            errors.append(issue("missing or invalid mapping", disease_id=did))
+            continue
+        locations = [
+            v for v, records in view_entries.items() if any(r["disease_id"] == did for r in records)
+        ]
+        if locations != [view]:
+            errors.append(
+                issue(
+                    "duplicate or unassigned view membership",
+                    disease_id=did,
+                    actual_views=locations,
+                )
+            )
+        else:
+            found = next(r for r in view_entries[view] if r["disease_id"] == did)
+            if norm(json.dumps(found, sort_keys=True)) != norm(json.dumps(entry, sort_keys=True)):
+                errors.append(issue("view content differs from canonical", disease_id=did))
+    errors.extend(
+        issue("mapping references noncanonical disease", disease_id=did)
+        for did in mapping
+        if did not in infection
+    )
+    return errors
+
+
+def compute_toxoplasmosis_ownership_errors(
+    findings, diagnostics, treatments, differentials, diseases
+):
+    """Evaluate stable cerebral-toxoplasmosis ownership assertions."""
+    did = "DIS-NEUR-163"
+    errors = []
+
+    def check(assertion_id, rows, identifier, expected, valid, reason):
+        actual = [row for row in rows if row.get(identifier) == expected[identifier]]
+        if len(actual) != 1 or not valid(actual[0]):
+            errors.append(
+                {
+                    "assertion_id": assertion_id,
+                    "disease_id": did,
+                    "disease_name": diseases.get(did, {}).get(
+                        "canonical_name", "Cerebral toxoplasmosis"
+                    ),
+                    "expected_relationship": expected,
+                    "actual_relationships": actual,
+                    "relationship_ids": [row.get(identifier, "") for row in actual],
+                    "source_file": "data/curation/neurology/infection.yaml",
+                    "reason": reason,
+                }
+            )
+        return actual
+
+    check(
+        "toxoplasmosis_ring_enhancing_lesion_supportive",
+        findings,
+        "disease_finding_id",
+        {
+            "disease_finding_id": "DNF-NEUR-A69D9062E6B0",
+            "presence": "present",
+            "relationship_role": "supportive",
+        },
+        lambda r: (
+            r.get("disease_id") == did
+            and r.get("presence") == "present"
+            and r.get("relationship_role") == "supportive"
+        ),
+        "required supportive ring-enhancing-lesion relationship is missing or invalid",
+    )
+    check(
+        "toxoplasmosis_mri_brain_with_contrast_initial",
+        diagnostics,
+        "disease_diagnostic_id",
+        {"disease_diagnostic_id": "DDG-NEUR-BFAFD44E6B7E", "role": "initial"},
+        lambda r: r.get("disease_id") == did and r.get("role") == "initial",
+        "required initial MRI relationship is missing or invalid",
+    )
+    check(
+        "toxoplasmosis_pathogen_directed_therapy",
+        treatments,
+        "disease_treatment_id",
+        {"disease_treatment_id": "DTR-NEUR-290D23F11101", "role": "disease_directed"},
+        lambda r: r.get("disease_id") == did and r.get("role") == "disease_directed",
+        "required disease-directed treatment relationship is missing or invalid",
+    )
+    differential = check(
+        "toxoplasmosis_primary_cns_lymphoma_differential",
+        differentials,
+        "differential_link_id",
+        {
+            "differential_link_id": "DFL-NEUR-6B1173D8B724",
+            "competitor": "DIS-NEUR-135",
+            "cannot_miss": "true",
+            "relative_priority": "1",
+        },
+        lambda r: (
+            r.get("source_disease_id") == did
+            and r.get("competing_disease_id") == "DIS-NEUR-135"
+            and r.get("cannot_miss") == "true"
+            and r.get("relative_priority") == "1"
+        ),
+        "required primary-CNS-lymphoma differential is missing or invalid",
+    )
+    if len(differential) != 1 or any(
+        not norm(differential[0].get(f, ""))
+        for f in (
+            "findings_favoring_target",
+            "findings_favoring_competitor",
+            "key_negative_findings",
+            "next_test_to_distinguish",
+        )
+    ):
+        errors.append(
+            {
+                "assertion_id": "toxoplasmosis_lymphoma_bidirectional_distinction",
+                "disease_id": did,
+                "disease_name": "Cerebral toxoplasmosis",
+                "expected_relationship": {"differential_link_id": "DFL-NEUR-6B1173D8B724"},
+                "actual_relationships": differential,
+                "relationship_ids": [r.get("differential_link_id", "") for r in differential],
+                "source_file": "data/curation/neurology/infection.yaml",
+                "reason": "one-way differential lacks clinically meaningful target-and-competitor distinction",
+            }
+        )
+    return errors
+
+
 def compute_infection_ownership_errors(
     disease_findings,
     disease_diagnostics,
@@ -348,6 +479,15 @@ def main():
         diagnostics_by_id,
         treatments_by_id,
         diseases_by_id,
+    )
+    infection_ownership_errors.extend(
+        compute_toxoplasmosis_ownership_errors(
+            finding,
+            rows(R / "disease_diagnostics.csv"),
+            rows(R / "disease_treatments.csv"),
+            rows(R / "disease_differentials.csv"),
+            diseases_by_id,
+        )
     )
     allowed = {
         "characteristic",

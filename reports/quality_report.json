@@ -6,7 +6,7 @@
     "Hematology Oncology": 10,
     "Infectious Disease": 10,
     "Musculoskeletal and Rheumatology": 230,
-    "Neurology": 176,
+    "Neurology": 177,
     "Obstetrics Gynecology": 8,
     "Pediatrics": 7,
     "Psychiatry": 8,
@@ -17,7 +17,7 @@
   "diseases_without_presentations": [],
   "diseases_without_treatments": [],
   "review_status_distribution": {
-    "draft_ai_generated": 82,
+    "draft_ai_generated": 83,
     "needs_medical_review": 627
   },
   "row_counts": {
@@ -26,23 +26,23 @@
     "complications": 74,
     "diagnostics": 100,
     "disease_complications": 499,
-    "disease_diagnostics": 1395,
-    "disease_differentials": 1659,
-    "disease_findings": 618,
+    "disease_diagnostics": 1396,
+    "disease_differentials": 1660,
+    "disease_findings": 619,
     "disease_keywords": 647,
-    "disease_presentations": 1127,
-    "disease_treatments": 1467,
-    "diseases": 709,
-    "entity_references": 706,
+    "disease_presentations": 1128,
+    "disease_treatments": 1468,
+    "diseases": 710,
+    "entity_references": 714,
     "finding_localizations": 147,
-    "findings": 109,
+    "findings": 110,
     "keywords": 146,
     "localizations": 63,
     "medications": 50,
     "presentation_keywords": 4,
     "presentations": 135,
-    "references": 24,
-    "treatments": 175
+    "references": 26,
+    "treatments": 176
   },
   "validation_errors": []
 }

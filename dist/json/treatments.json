@@ -1,6 +1,28 @@
 {
   "records": [
     {
+      "content_tier": "disease_specific",
+      "deprecated": "false",
+      "emergency_role": "urgent",
+      "general_description": "Anti-Toxoplasma therapy selected for cerebral toxoplasmosis in an appropriate host.",
+      "hepatic_context": "Review hepatic function and drug interactions when selecting therapy.",
+      "human_review_status": "not_requested",
+      "major_contraindications": "Allergy cytopenia organ dysfunction and interacting medicines require regimen-specific review.",
+      "mechanism_summary": "Targets Toxoplasma gondii with regimen selection guided by the clinical setting.",
+      "medical_review_status": "draft_ai_generated",
+      "monitoring_summary": "Monitor clinical response blood counts and organ function according to the selected regimen.",
+      "name": "Pathogen-directed therapy for cerebral toxoplasmosis",
+      "notes": "WIP Phase 4B cerebral toxoplasmosis canonical treatment; relationships follow in WIP 2.",
+      "pediatric_context": "Pediatric regimen selection requires weight and age-specific expertise.",
+      "pregnancy_context": "Pregnancy requires specialist regimen selection.",
+      "renal_context": "Adjust or select therapy for renal impairment when required.",
+      "source_review_status": "draft_ai_generated",
+      "source_status": "unverified_ai_generated",
+      "treatment_category": "neurology",
+      "treatment_id": "TRT-NEUR-703266E6D90D",
+      "treatment_type": "intervention"
+    },
+    {
       "content_tier": "index",
       "deprecated": "false",
       "emergency_role": "variable",
