@@ -1,3 +1,163 @@
+- disease_id: DIS-NEUR-163
+  canonical_name: Cerebral toxoplasmosis
+  presentations:
+  - entity: Focal neurologic deficit
+    relationship:
+      disease_presentation_id: DPR-NEUR-BF769AEA8DE9
+      disease_id: DIS-NEUR-163
+      presentation_id: PRS-008
+      source_review_status: source_checked
+      medical_review_status: needs_medical_review
+      relationship_role: common
+      typicality: typical
+      frequency_category: common
+      acuity: high
+      age_context: condition-specific
+      pregnancy_context: consider only when clinically relevant
+      clinical_setting: urgent evaluation when an immunocompromised patient has focal
+        neurologic symptoms or possible intracranial mass effect
+      key_positive_clues: Subacute focal neurologic deficit in an appropriately immunocompromised
+        host supports cerebral toxoplasmosis. Headache seizure altered mental status
+        or fever can accompany it but are not required.
+      key_negative_clues: No single symptom confirms cerebral toxoplasmosis; absent
+        associated symptoms do not exclude it.
+      cannot_miss: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Infectious Disease; Emergency Medicine
+      source_status: partially_source_supported
+  findings:
+  - entity: Ring-enhancing lesion
+    relationship:
+      disease_finding_id: DNF-NEUR-A69D9062E6B0
+      disease_id: DIS-NEUR-163
+      finding_id: FND-NEUR-A2666BE46052
+      presence: present
+      typicality: common
+      sensitivity_context: In a severely immunocompromised host cerebral toxoplasmosis
+        often produces multiple enhancing intracranial lesions; a solitary lesion
+        does not exclude it.
+      specificity_context: Ring enhancement is nonspecific and can also occur with
+        primary CNS lymphoma brain abscess tuberculosis fungal infection and other
+        intracranial lesions.
+      disease_stage: condition-specific
+      age_context: condition-specific
+      clinical_meaning: Ring-enhancing lesions with surrounding edema and possible
+        mass effect support cerebral toxoplasmosis only when integrated with host
+        context and the full lesion pattern.
+      distinguishing_value: Basal-ganglia distribution and multiple lesions can increase
+        suspicion but neither establishes the diagnosis.
+      commonly_tested: 'true'
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Infectious Disease; Emergency Medicine
+      source_status: partially_source_supported
+      relationship_role: supportive
+  diagnostics:
+  - entity: MRI brain with contrast
+    relationship:
+      disease_diagnostic_id: DDG-NEUR-BFAFD44E6B7E
+      disease_id: DIS-NEUR-163
+      diagnostic_id: DIA-NEUR-A685E95FF812
+      role: initial
+      source_review_status: source_checked
+      medical_review_status: needs_medical_review
+      clinical_context: MRI brain with contrast is used for suspected cerebral toxoplasmosis
+        in an immunocompromised patient with focal neurologic symptoms or intracranial-lesion
+        concern.
+      sequence_order: '1'
+      patient_stability: Stabilize airway seizures declining consciousness and raised-intracranial-pressure
+        concern before transport or testing.
+      expected_result: One or more contrast-enhancing often ring-enhancing lesions
+        with edema or mass effect may be seen.
+      interpretation: Interpret MRI with immune status serology and other evidence;
+        MRI can clarify lesions when CT is negative or equivocal.
+      limitations: Imaging is not independently diagnostic and may not reliably distinguish
+        primary CNS lymphoma. Atypical imaging or failure to improve warrants reconsideration
+        and further evaluation.
+      test_to_avoid: Do not use MRI as a screening test in an asymptomatic patient.
+      age_context: condition-specific
+      pregnancy_context: use safety-aware alternatives when relevant
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Infectious Disease; Emergency Medicine
+      source_status: partially_source_supported
+  treatments:
+  - entity: Pathogen-directed therapy for cerebral toxoplasmosis
+    relationship:
+      disease_treatment_id: DTR-NEUR-290D23F11101
+      disease_id: DIS-NEUR-163
+      treatment_id: TRT-NEUR-703266E6D90D
+      role: disease_directed
+      clinical_context: Pathogen-directed anti-Toxoplasma therapy is indicated for
+        suspected or confirmed cerebral toxoplasmosis in the appropriate clinical
+        setting and should not await biopsy or organism confirmation when clinical
+        suspicion is sufficient.
+      sequence_order: '1'
+      first_line: 'true'
+      definitive: 'false'
+      rescue_or_escalation: 'false'
+      unstable_patient_only: 'false'
+      contraindication_notes: Regimen selection requires review of allergy cytopenia
+        risk organ function pregnancy and medication availability.
+      board_exam_pearl: Clinical response supports reassessment but does not by itself
+        prove the diagnosis.
+      source_review_status: source_checked
+      medical_review_status: needs_medical_review
+      notes: Assess clinical and radiologic response; lack of expected improvement
+        should prompt reconsideration of competing diagnoses and possible further
+        evaluation.
+      patient_stability: Stabilize seizures declining consciousness and mass-effect
+        concern while initiating disease-directed management.
+      rescue: 'false'
+      refractory: 'false'
+      contraindicated: 'false'
+      avoid: 'false'
+      age_context: condition-specific
+      pregnancy_context: specialist regimen selection is required
+      renal_context: adjust regimen for renal function
+      hepatic_context: review hepatic function and drug interactions
+      prerequisite_actions: Obtain urgent neuroimaging and assess safety before invasive
+        diagnostic procedures when mass effect is possible.
+      monitoring: Monitor symptoms neurologic examination blood counts organ function
+        and radiologic response; maintenance and immune-status management are individualized.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Infectious Disease; Emergency Medicine
+      source_status: partially_source_supported
+  differentials:
+  - competing_disease: Primary CNS lymphoma
+    relationship:
+      differential_link_id: DFL-NEUR-6B1173D8B724
+      source_disease_id: DIS-NEUR-163
+      competing_disease_id: DIS-NEUR-135
+      presentation_id: PRS-008
+      similarity_reason: Both cerebral toxoplasmosis and primary CNS lymphoma can
+        cause enhancing intracranial lesions in severely immunocompromised patients.
+      distinguishing_features: Toxoplasmosis more often has multiple lesions while
+        lymphoma is more often solitary but neither pattern is definitive. Lesion
+        distribution serology CSF studies when safe associated findings and clinical
+        response alter probability.
+      cannot_miss: 'true'
+      relative_priority: '1'
+      age_context: condition-specific
+      rotation_context: Neurology; Infectious Disease; Emergency Medicine
+      exam_context: disease-specific intracranial-lesion differential
+      source_review_status: source_checked
+      medical_review_status: needs_medical_review
+      notes: Imaging alone may not reliably distinguish these diseases.
+      commonness: common or plausible
+      pregnancy_context: consider only when clinically relevant
+      clinical_setting: urgent evaluation when focal deficit seizure or mass effect
+        is present
+      findings_favoring_target: Multiple lesions in an appropriate host can favor
+        toxoplasmosis but do not confirm it.
+      findings_favoring_competitor: Atypical toxoplasmosis features or a pattern more
+        consistent with lymphoma increase concern for the competitor.
+      key_negative_findings: Failure to improve with appropriate anti-Toxoplasma therapy
+        should increase concern for an alternative diagnosis.
+      next_test_to_distinguish: Reassess imaging and microbiologic evidence; obtain
+        specialist evaluation and consider tissue diagnosis when findings remain atypical
+        or the response is inadequate.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Infectious Disease; Emergency Medicine
+      source_status: partially_source_supported
 - disease_id: DIS-NEUR-068
   canonical_name: Brain abscess
   presentations:

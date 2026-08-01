@@ -13,6 +13,7 @@ DIS-NEUR-RABIESENCEPHALITIS: {view: encephalitis}
 DIS-NEUR-068: {view: focal_opportunistic}
 DIS-NEUR-070: {view: focal_opportunistic}
 DIS-NEUR-NEUROBORRELIOSIS: {view: focal_opportunistic}
+DIS-NEUR-163: {view: focal_opportunistic}
 DIS-NEUR-024: {view: other}
 DIS-NEUR-101: {view: other}
 DIS-NEUR-131: {view: other}
