@@ -325,3 +325,33 @@ def test_built_bundle_exports_toxoplasmosis_relationships_once() -> None:
     )
     assert any(r["finding_id"] == "FND-NEUR-A2666BE46052" for r in row["findings"])
     assert any(r["competing_disease_id"] == "DIS-NEUR-135" for r in row["differentials"])
+
+
+def test_final_provenance_statuses_are_source_supported() -> None:
+    tables = _tables()
+    disease = next(r for r in tables["diseases"] if r["disease_id"] == TOXO)
+    finding = next(r for r in tables["findings"] if r["finding_id"] == "FND-NEUR-A2666BE46052")
+    treatment = next(r for r in tables["treatments"] if r["treatment_id"] == "TRT-NEUR-703266E6D90D")
+    for row in (disease, treatment):
+        assert row["source_review_status"] == "source_checked"
+        assert row["medical_review_status"] == "needs_medical_review"
+        assert row["source_status"] == "partially_source_supported"
+        assert row["human_review_status"] == "not_requested"
+    assert finding["source_status"] == "partially_source_supported"
+    assert finding["human_review_status"] == "not_requested"
+
+
+def test_final_toxoplasmosis_slice_and_built_record_have_no_wip_markers() -> None:
+    tables = _tables()
+    source_rows = [
+        next(r for r in tables["diseases"] if r["disease_id"] == TOXO),
+        next(r for r in tables["findings"] if r["finding_id"] == "FND-NEUR-A2666BE46052"),
+        next(r for r in tables["treatments"] if r["treatment_id"] == "TRT-NEUR-703266E6D90D"),
+        *[r for r in tables["references"] if r["reference_id"] in {"REF-NEUR-COV-005", "REF-NEUR-COV-006"}],
+        *[r for r in tables["entity_references"] if r["entity_reference_id"].startswith("ER-NEUR-TOXO-")],
+    ]
+    assert all("wip" not in json.dumps(row).lower() for row in source_rows)
+    infection, _, _ = _views()
+    assert "wip" not in json.dumps(infection[TOXO]).lower()
+    record = next(r for r in json.loads(build_bundles(_tables())["diseases.json"].read_text())["records"] if r["disease_id"] == TOXO)
+    assert "wip" not in json.dumps(record).lower()
