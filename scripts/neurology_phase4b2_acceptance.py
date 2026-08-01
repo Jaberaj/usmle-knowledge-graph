@@ -205,6 +205,42 @@ def main():
         for r in links
         if r.get("relationship_role") not in allowed
     ]
+    relationship_by_pair = {}
+    for row in links:
+        relationship_by_pair.setdefault((row["disease_id"], row["finding_id"]), []).append(row)
+    polarity_leaks = []
+    conflicting_buckets = []
+    bundle = json.loads((ROOT / "dist/json/diseases.json").read_text())["records"]
+    positive_roles = {"characteristic", "common", "supportive", "possible"}
+    positive_presence = {"present", "positive", "increased", "decreased", "variable"}
+    for disease in bundle:
+        if disease["disease_id"] not in scoped:
+            continue
+        for finding_entity in disease.get("positive_findings", disease.get("findings", [])):
+            candidates = relationship_by_pair.get(
+                (disease["disease_id"], finding_entity["finding_id"]), []
+            )
+            if not candidates or any(
+                r.get("presence") not in positive_presence
+                or r.get("relationship_role") not in positive_roles
+                for r in candidates
+            ):
+                polarity_leaks.append(
+                    issue(
+                        "invalid exported positive finding",
+                        disease_id=disease["disease_id"],
+                        finding_id=finding_entity["finding_id"],
+                        bundle_path="dist/json/diseases.json",
+                    )
+                )
+            if len({(r.get("presence"), r.get("relationship_role")) for r in candidates}) > 1:
+                conflicting_buckets.append(
+                    issue(
+                        "conflicting canonical finding semantics",
+                        disease_id=disease["disease_id"],
+                        finding_id=finding_entity["finding_id"],
+                    )
+                )
     details = {
         "manifest_view_errors": view_errors,
         "infection_ownership_errors": [],
@@ -214,23 +250,25 @@ def main():
         "source_status_errors": statuses,
         "blank_role_errors": blank,
         "unknown_role_errors": unknown,
-        "polarity_leaks": [],
-        "conflicting_export_buckets": [],
+        "polarity_leaks": polarity_leaks,
+        "conflicting_export_buckets": conflicting_buckets,
         "provenance_errors": [],
         "unmigrated_eligibility_errors": [],
     }
     summary = {
         "phase4b_blank_relationship_roles": len(blank),
-        "phase4b_positive_clue_polarity_leaks": 0,
-        "phase4b_conflicting_export_buckets": 0,
-        "phase4b_infection_ownership_errors": 0,
+        "phase4b_positive_clue_polarity_leaks": len(polarity_leaks),
+        "phase4b_conflicting_export_buckets": len(conflicting_buckets),
+        "phase4b_infection_ownership_errors": len(details["infection_ownership_errors"]),
         "phase4b_conditional_diagnostic_routine_leaks": len(diagnostic),
         "phase4b_substantive_template_hits": len(templates),
         "phase4b_duplicate_ids": len(duplicate),
         "phase4b_manifest_view_mismatches": len(view_errors),
         "phase4b_contradictory_source_statuses": len(statuses),
-        "unmigrated_modules_incorrectly_game_eligible": 0,
-        "release_provenance_errors": 0,
+        "unmigrated_modules_incorrectly_game_eligible": len(
+            details["unmigrated_eligibility_errors"]
+        ),
+        "release_provenance_errors": len(details["provenance_errors"]),
         "unknown_roles": len(unknown),
     }
     result = {"summary": summary, "details": details}
