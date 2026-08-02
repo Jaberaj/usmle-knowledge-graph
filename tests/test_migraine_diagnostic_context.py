@@ -79,3 +79,18 @@ def test_valid_conditional_secondary_cause_relationship_is_not_a_leak() -> None:
     rows = [{"disease_diagnostic_id": "DDG-TEST", "disease_id": "DIS-NEUR-054", "diagnostic_id": "DIA-NEUR-A685E95FF812", "role": "secondary_cause_evaluation", "clinical_context": "MRI is not routine; obtain only for a first or atypical presentation with a persistent focal neurologic deficit to evaluate a secondary structural or vascular cause."}]
     diseases = {"DIS-NEUR-054": {"canonical_name": "Migraine with aura"}}
     assert ACCEPTANCE.compute_migraine_diagnostic_leaks(rows, diseases) == []
+
+
+@pytest.mark.parametrize(
+    "context",
+    (
+        "Routine MRI for migraine.",
+        "MRI is not routine for migraine.",
+        "MRI for a persistent focal neurologic deficit.",
+        "MRI is used to evaluate a secondary cause.",
+    ),
+)
+def test_secondary_cause_evaluation_needs_both_conditions(context: str) -> None:
+    rows = [{"disease_diagnostic_id": "DDG-TEST", "disease_id": "DIS-NEUR-054", "diagnostic_id": "DIA-NEUR-A685E95FF812", "role": "secondary_cause_evaluation", "clinical_context": context}]
+    diseases = {"DIS-NEUR-054": {"canonical_name": "Migraine with aura"}}
+    assert ACCEPTANCE.compute_migraine_diagnostic_leaks(rows, diseases)
