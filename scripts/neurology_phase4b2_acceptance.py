@@ -31,6 +31,26 @@ def issue(reason, **data):
     return {"reason": reason, **data}
 
 
+def compute_migraine_diagnostic_leaks(diagnostics, canonical):
+    """Return the existing routine-migraine diagnostic-context failures."""
+    return [
+        issue(
+            "routine migraine secondary-cause test",
+            relationship_id=row["disease_diagnostic_id"],
+            disease_id=row["disease_id"],
+            exact_text=row.get("clinical_context", ""),
+        )
+        for row in diagnostics
+        if row.get("disease_id") in canonical
+        and "migraine" in canonical[row["disease_id"]]["canonical_name"].lower()
+        and row.get("role") != "secondary_cause_evaluation"
+        and any(
+            term in row.get("clinical_context", "").lower()
+            for term in ("ct angiography", "lumbar puncture", "mri")
+        )
+    ]
+
+
 def compute_infection_view_errors(infection, mapping, view_entries):
     """Check canonical infection entries against explicit generated views."""
     errors = []
@@ -514,24 +534,9 @@ def main():
                             matched_text=rules[matched],
                         )
                     )
-            if (
-                table == "disease_diagnostics"
-                and r.get("disease_id") in scoped
-                and "migraine" in canonical[r["disease_id"]]["canonical_name"].lower()
-                and r.get("role") != "secondary_cause_evaluation"
-                and any(
-                    x in r.get("clinical_context", "").lower()
-                    for x in ("ct angiography", "lumbar puncture", "mri")
-                )
-            ):
-                diagnostic.append(
-                    issue(
-                        "routine migraine secondary-cause test",
-                        relationship_id=r[key],
-                        disease_id=r["disease_id"],
-                        exact_text=r.get("clinical_context", ""),
-                    )
-                )
+    diagnostic = compute_migraine_diagnostic_leaks(
+        rows(R / "disease_diagnostics.csv"), canonical
+    )
     finding = rows(R / "disease_findings.csv")
     links = [r for r in finding if r["disease_id"] in scoped]
     all_diseases = rows(ROOT / "data/source/diseases.csv")
