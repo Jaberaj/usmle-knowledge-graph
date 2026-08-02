@@ -1523,29 +1523,27 @@
       disease_id: DIS-NEUR-067
       diagnostic_id: DIA-NEUR-FC9D9ABE1F22
       role: csf_confirmation
-      source_review_status: draft_ai_generated
+      source_review_status: source_checked
       medical_review_status: needs_medical_review
-      clinical_context: Fever, behavioral change, focal seizures, and temporal-lobe
-        MRI abnormality support HSV encephalitis; acyclovir begins before PCR confirmation.
-        'Lumbar puncture with CSF HSV PCR' is ordered only for the concrete diagnostic
-        question stated in the clinical context.
+      clinical_context: Use CSF HSV PCR for a suspected encephalitis syndrome compatible
+        with HSV after immediate stabilization and lumbar-puncture safety assessment.
       sequence_order: '1'
-      patient_stability: Stabilize before transport or invasive testing when instability
-        is present.
-      expected_result: For HSV encephalitis, 'Lumbar puncture with CSF HSV PCR' is
-        expected to provide the disease-specific result stated in its interpretation.
-      interpretation: Fever, behavioral change, focal seizures, and temporal-lobe
-        MRI abnormality support HSV encephalitis; acyclovir begins before PCR confirmation.
-      limitations: The limitation is the specific false-negative or nonspecific result
-        described for 'Lumbar puncture with CSF HSV PCR'; urgent treatment is not
-        delayed when indicated.
-      test_to_avoid: Avoid unsafe invasive testing when mass effect, coagulopathy,
-        or instability is suspected.
+      patient_stability: Stabilize airway seizures hemodynamics and intracranial-pressure
+        concern before transport or lumbar puncture.
+      expected_result: CSF HSV PCR can support HSV encephalitis diagnosis when interpreted
+        with timing specimen quality imaging CSF findings and clinical probability.
+      interpretation: An initially negative result may require repeat testing when
+        suspicion remains high; continue empiric acyclovir while appropriate diagnostic
+        uncertainty remains.
+      limitations: CSF HSV PCR is disease-directed testing not routine screening and
+        does not replace assessment for alternative causes.
+      test_to_avoid: Avoid lumbar puncture when mass effect coagulopathy or instability
+        makes it unsafe.
       age_context: condition-specific
       pregnancy_context: use safety-aware alternatives when relevant
       step_levels: Step 1; Step 2 CK; Step 3
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
-      source_status: unverified_ai_generated
+      source_status: partially_source_supported
   - entity: Brain MRI with temporal-lobe assessment
     relationship:
       disease_diagnostic_id: DDG-NEUR-A43C4010ADC1
@@ -1605,6 +1603,44 @@
       subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
       source_status: unverified_ai_generated
   treatments:
+  - entity: Acyclovir for suspected HSV encephalitis
+    relationship:
+      disease_treatment_id: DTR-NEUR-3B31EC941CD0
+      disease_id: DIS-NEUR-067
+      treatment_id: TRT-NEUR-CB1D18701F10
+      role: disease_directed
+      clinical_context: Begin empiric acyclovir for sufficiently suspected HSV encephalitis
+        while PCR and other diagnostic studies are pending.
+      sequence_order: '1'
+      first_line: 'true'
+      definitive: 'false'
+      rescue_or_escalation: 'false'
+      unstable_patient_only: 'false'
+      contraindication_notes: Renal function hydration nephrotoxins and patient-specific
+        contraindications require review.
+      board_exam_pearl: A negative initial PCR does not automatically require immediate
+        treatment discontinuation when clinical suspicion remains high.
+      source_review_status: source_checked
+      medical_review_status: needs_medical_review
+      notes: Definitive dosing and duration are patient-specific and outside this
+        educational relationship.
+      patient_stability: Stabilize airway seizures hemodynamics and intracranial-pressure
+        concern first when necessary.
+      rescue: 'false'
+      refractory: 'false'
+      contraindicated: 'false'
+      avoid: 'false'
+      age_context: condition-specific
+      pregnancy_context: condition-specific
+      renal_context: adjust for renal function
+      hepatic_context: review hepatic function and drug interactions
+      prerequisite_actions: Start treatment without waiting for PCR confirmation when
+        suspicion is sufficient.
+      monitoring: Monitor renal function hydration infusion-related safety neurologic
+        toxicity clinical response and diagnostic reassessment.
+      step_levels: Step 1; Step 2 CK; Step 3
+      subject_exams: Neurology; Internal Medicine; Pediatrics; Emergency Medicine
+      source_status: partially_source_supported
   - entity: Immediate intravenous acyclovir
     relationship:
       disease_treatment_id: DTR-NEUR-31DA32814B96

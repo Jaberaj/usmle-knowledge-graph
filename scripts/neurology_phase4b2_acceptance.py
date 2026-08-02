@@ -162,6 +162,86 @@ def compute_toxoplasmosis_ownership_errors(
     return errors
 
 
+def compute_hsv_ownership_errors(diagnostics, treatments, diseases):
+    """Evaluate the HSV PCR and empiric-acyclovir assertions by stable IDs."""
+    disease_id = "DIS-NEUR-067"
+    checks = (
+        (
+            "hsv_csf_pcr",
+            diagnostics,
+            "disease_diagnostic_id",
+            "DDG-NEUR-2BCA185E49F3",
+            "DIA-NEUR-FC9D9ABE1F22",
+            "diagnostic_id",
+            {
+                "disease_id": disease_id,
+                "role": "csf_confirmation",
+                "source_review_status": "source_checked",
+                "medical_review_status": "needs_medical_review",
+                "source_status": "partially_source_supported",
+            },
+            (
+                "suspected encephalitis",
+                "lumbar-puncture safety",
+                "timing specimen quality",
+                "not routine screening",
+                "negative result may require repeat testing",
+                "continue empiric acyclovir",
+            ),
+            "required CSF HSV PCR relationship is missing or has incomplete diagnostic semantics",
+        ),
+        (
+            "hsv_empiric_acyclovir",
+            treatments,
+            "disease_treatment_id",
+            "DTR-NEUR-3B31EC941CD0",
+            "TRT-NEUR-CB1D18701F10",
+            "treatment_id",
+            {
+                "disease_id": disease_id,
+                "role": "disease_directed",
+                "first_line": "true",
+                "source_review_status": "source_checked",
+                "medical_review_status": "needs_medical_review",
+                "source_status": "partially_source_supported",
+            },
+            (
+                "while pcr and other diagnostic studies are pending",
+                "without waiting for pcr confirmation",
+                "negative initial pcr does not automatically require immediate treatment discontinuation",
+                "monitor renal function hydration",
+            ),
+            "required empiric acyclovir relationship is missing or has incomplete treatment semantics",
+        ),
+    )
+    errors = []
+    for assertion_id, records, relationship_field, relationship_id, target_id, target_field, fields, phrases, reason in checks:
+        actual = [record for record in records if record.get(relationship_field) == relationship_id]
+        text = " ".join(actual[0].values()) if len(actual) == 1 else ""
+        valid = (
+            len(actual) == 1
+            and actual[0].get(target_field) == target_id
+            and all(actual[0].get(field) == value for field, value in fields.items())
+            and all(phrase in norm(text) for phrase in phrases)
+        )
+        if not valid:
+            errors.append(
+                {
+                    "assertion_id": assertion_id,
+                    "disease_id": disease_id,
+                    "disease_name": diseases.get(disease_id, {}).get("canonical_name", "HSV encephalitis"),
+                    "expected_relationship_id": relationship_id,
+                    "expected_target_id": target_id,
+                    "actual_matching_rows": actual,
+                    "relationship_ids": [record.get(relationship_field, "") for record in actual],
+                    "source_file": "data/source/relationships/"
+                    + ("disease_diagnostics.csv" if target_field == "diagnostic_id" else "disease_treatments.csv"),
+                    "reason": reason,
+                }
+            )
+    return errors
+
+
 def compute_infection_ownership_errors(
     disease_findings,
     disease_diagnostics,
@@ -290,14 +370,6 @@ def compute_infection_ownership_errors(
         findings_by_id,
         "finding",
         "hsv_temporal_lobe_abnormality",
-    )
-    require(
-        "HSV encephalitis",
-        "Acyclovir for suspected HSV encephalitis",
-        disease_treatments,
-        treatments_by_id,
-        "treatment",
-        "hsv_empiric_acyclovir",
     )
     require(
         "Cryptococcal meningitis",
@@ -479,6 +551,13 @@ def main():
         diagnostics_by_id,
         treatments_by_id,
         diseases_by_id,
+    )
+    infection_ownership_errors.extend(
+        compute_hsv_ownership_errors(
+            rows(R / "disease_diagnostics.csv"),
+            rows(R / "disease_treatments.csv"),
+            diseases_by_id,
+        )
     )
     infection_ownership_errors.extend(
         compute_toxoplasmosis_ownership_errors(
