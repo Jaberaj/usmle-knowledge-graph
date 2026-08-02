@@ -72,7 +72,10 @@ def test_production_leak_detector_rejects_seeded_routine_testing(disease_id, dia
     rows = copy.deepcopy(_source())
     rows.append({"disease_diagnostic_id": "DDG-TEST", "disease_id": disease_id, "diagnostic_id": diagnostic_id, "role": "secondary_cause_evaluation" if label == "MRI" else "initial", "clinical_context": f"Routine {label} for migraine."})
     diseases = {d: {"canonical_name": next(e["canonical_name"] for e in _curation().values() if e["disease_id"] == d)} for d in AFFECTED}
-    # The last case proves generic relabeling alone remains visible only when its role is not exempted.
-    if label == "MRI":
-        rows[-1]["role"] = "initial"
     assert ACCEPTANCE.compute_migraine_diagnostic_leaks(rows, diseases)
+
+
+def test_valid_conditional_secondary_cause_relationship_is_not_a_leak() -> None:
+    rows = [{"disease_diagnostic_id": "DDG-TEST", "disease_id": "DIS-NEUR-054", "diagnostic_id": "DIA-NEUR-A685E95FF812", "role": "secondary_cause_evaluation", "clinical_context": "MRI is not routine; obtain only for a first or atypical presentation with a persistent focal neurologic deficit to evaluate a secondary structural or vascular cause."}]
+    diseases = {"DIS-NEUR-054": {"canonical_name": "Migraine with aura"}}
+    assert ACCEPTANCE.compute_migraine_diagnostic_leaks(rows, diseases) == []

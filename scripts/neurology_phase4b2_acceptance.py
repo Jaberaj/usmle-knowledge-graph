@@ -33,6 +33,24 @@ def issue(reason, **data):
 
 def compute_migraine_diagnostic_leaks(diagnostics, canonical):
     """Return the existing routine-migraine diagnostic-context failures."""
+    conditional_terms = (
+        "not routine",
+        "only for",
+        "first",
+        "atypical",
+        "thunderclap",
+        "focal neurologic deficit",
+        "abnormal neurologic examination",
+        "progressive",
+        "fever",
+        "infection",
+        "papilledema",
+        "pressure concern",
+        "hemorrhage",
+        "stroke",
+        "mass",
+        "secondary",
+    )
     return [
         issue(
             "routine migraine secondary-cause test",
@@ -43,10 +61,16 @@ def compute_migraine_diagnostic_leaks(diagnostics, canonical):
         for row in diagnostics
         if row.get("disease_id") in canonical
         and "migraine" in canonical[row["disease_id"]]["canonical_name"].lower()
-        and row.get("role") != "secondary_cause_evaluation"
         and any(
             term in row.get("clinical_context", "").lower()
             for term in ("ct angiography", "lumbar puncture", "mri")
+        )
+        and (
+            row.get("role") != "secondary_cause_evaluation"
+            or not all(
+                any(term in row.get("clinical_context", "").lower() for term in conditional_terms)
+                for term in (("not routine", "only for"), conditional_terms)
+            )
         )
     ]
 
