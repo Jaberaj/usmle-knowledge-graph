@@ -1,16 +1,16 @@
 {
-  "total_template_hits": 1026,
+  "total_template_hits": 1025,
   "unique_template_rule_ids": 6,
   "unique_template_skeletons": 6,
   "hits_by_module": {
-    "data/curation/neurology/infection.yaml": 529,
+    "data/curation/neurology/infection.yaml": 528,
     "data/curation/neurology/headache.yaml": 272,
     "data/curation/neurology/demyelinating.yaml": 225
   },
   "hits_by_relationship_type": {
     "disease_presentations": 276,
     "disease_findings": 574,
-    "disease_diagnostics": 176
+    "disease_diagnostics": 175
   },
   "hits_by_field": {
     "key_positive_clues": 138,
@@ -18,7 +18,7 @@
     "sensitivity_context": 193,
     "specificity_context": 193,
     "distinguishing_value": 188,
-    "expected_result": 176
+    "expected_result": 175
   },
   "hits_by_disease": {
     "DIS-N-0063": 31,
@@ -34,7 +34,7 @@
     "DIS-NEUR-064": 31,
     "DIS-NEUR-065": 31,
     "DIS-N-0064": 31,
-    "DIS-NEUR-067": 23,
+    "DIS-NEUR-067": 22,
     "DIS-NEUR-068": 30,
     "DIS-NEUR-070": 31,
     "DIS-NEUR-071": 31,
@@ -71,7 +71,7 @@
     "finding_timing_phenotype_sensitivity": 193,
     "finding_disease_specific_mimics": 193,
     "finding_actual_onset_exam_distinction": 188,
-    "diagnostic_result_stated_in_interpretation": 176
+    "diagnostic_result_stated_in_interpretation": 175
   },
   "top_template_clusters": [
     {
@@ -528,7 +528,7 @@
     {
       "template_rule_id": "diagnostic_result_stated_in_interpretation",
       "normalized_skeleton": "is expected to provide the disease-specific result stated",
-      "count": 176,
+      "count": 175,
       "relationship_types": [
         "disease_diagnostics"
       ],

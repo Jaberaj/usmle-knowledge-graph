@@ -12928,6 +12928,16 @@
   "treatment_selection": [
     {
       "correct_treatment_ids": [
+        "TRT-NEUR-33352EF701C8",
+        "TRT-NEUR-C6FB0AF54749",
+        "TRT-NEUR-CB1D18701F10",
+        "TRT-NEUR-CD908976B276"
+      ],
+      "disease_id": "DIS-NEUR-067",
+      "source_status": "partially_source_supported"
+    },
+    {
+      "correct_treatment_ids": [
         "TRT-NEUR-703266E6D90D"
       ],
       "disease_id": "DIS-NEUR-163",
@@ -17530,15 +17540,6 @@
         "TRT-NEUR-EC0AAF9902FA"
       ],
       "disease_id": "DIS-N-0064",
-      "source_status": "partially_source_supported"
-    },
-    {
-      "correct_treatment_ids": [
-        "TRT-NEUR-33352EF701C8",
-        "TRT-NEUR-C6FB0AF54749",
-        "TRT-NEUR-CD908976B276"
-      ],
-      "disease_id": "DIS-NEUR-067",
       "source_status": "partially_source_supported"
     },
     {

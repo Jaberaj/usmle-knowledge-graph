@@ -31,9 +31,9 @@
     "disease_findings": 619,
     "disease_keywords": 647,
     "disease_presentations": 1128,
-    "disease_treatments": 1468,
+    "disease_treatments": 1469,
     "diseases": 710,
-    "entity_references": 714,
+    "entity_references": 719,
     "finding_localizations": 147,
     "findings": 110,
     "keywords": 146,
@@ -41,7 +41,7 @@
     "medications": 50,
     "presentation_keywords": 4,
     "presentations": 135,
-    "references": 26,
+    "references": 29,
     "treatments": 176
   },
   "validation_errors": []

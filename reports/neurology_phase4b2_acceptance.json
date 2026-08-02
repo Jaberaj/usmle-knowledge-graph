@@ -3,9 +3,9 @@
     "phase4b_blank_relationship_roles": 0,
     "phase4b_positive_clue_polarity_leaks": 0,
     "phase4b_conflicting_export_buckets": 0,
-    "phase4b_infection_ownership_errors": 1,
+    "phase4b_infection_ownership_errors": 0,
     "phase4b_conditional_diagnostic_routine_leaks": 12,
-    "phase4b_substantive_template_hits": 1026,
+    "phase4b_substantive_template_hits": 1025,
     "phase4b_duplicate_ids": 0,
     "phase4b_manifest_view_mismatches": 0,
     "phase4b_contradictory_source_statuses": 0,
@@ -15,20 +15,7 @@
   },
   "details": {
     "manifest_view_errors": [],
-    "infection_ownership_errors": [
-      {
-        "assertion_id": "hsv_empiric_acyclovir",
-        "disease_id": "DIS-NEUR-067",
-        "disease_name": "HSV encephalitis",
-        "expected_relationship": {
-          "entity": "Acyclovir for suspected HSV encephalitis"
-        },
-        "actual_relationships": [],
-        "relationship_ids": [],
-        "source_file": "data/curation/neurology/infection.yaml",
-        "reason": "required positive ownership is missing"
-      }
-    ],
+    "infection_ownership_errors": [],
     "diagnostic_leak_errors": [
       {
         "reason": "routine migraine secondary-cause test",
@@ -12812,20 +12799,6 @@
         "field": "expected_result",
         "exact_text": "For Encephalitis, 'Contrast-enhanced brain MRI' is expected to provide the disease-specific result stated in its interpretation.",
         "normalized_value": "for encephalitis contrast-enhanced brain mri is expected to provide the disease-specific result stated in its interpretation",
-        "normalized_skeleton": "is expected to provide the disease-specific result stated",
-        "template_rule_id": "diagnostic_result_stated_in_interpretation",
-        "matched_text": "is expected to provide the disease-specific result stated"
-      },
-      {
-        "reason": "substantive template",
-        "relationship_type": "disease_diagnostics",
-        "relationship_id": "DDG-NEUR-2BCA185E49F3",
-        "disease_id": "DIS-NEUR-067",
-        "disease_name": "HSV encephalitis",
-        "source_file": "data/curation/neurology/infection.yaml",
-        "field": "expected_result",
-        "exact_text": "For HSV encephalitis, 'Lumbar puncture with CSF HSV PCR' is expected to provide the disease-specific result stated in its interpretation.",
-        "normalized_value": "for hsv encephalitis lumbar puncture with csf hsv pcr is expected to provide the disease-specific result stated in its interpretation",
         "normalized_skeleton": "is expected to provide the disease-specific result stated",
         "template_rule_id": "diagnostic_result_stated_in_interpretation",
         "matched_text": "is expected to provide the disease-specific result stated"
